@@ -85,3 +85,9 @@ Dan may want to revisit. Per-subject working notes (corpus findings, counts, tem
 2. Whether to add a licensed extract booklet for English Language anthology texts.
 3. Whether to add Maths Foundation tier.
 4. Whether Writing Q3 in Spanish should offer the a/b choice.
+5. Whether science full papers should group questions into the real ~10–12 long multi-part questions. Today a
+   full Chemistry/Biology/Physics paper has the right marks, timing, topic spread and difficulty ramp, but is made of
+   more, shorter numbered questions (e.g. Chemistry 1C: 46 questions for 110 marks; a real paper has about 11).
+   Grouping by topic under "This question is about …" is possible in the test builder if wanted.
+6. Verification was done without a browser at Dan's request (see `docs/verification/README.md`). Pressing ▶ on one
+   Spanish listening question on the live site would confirm speech playback on his device.
