@@ -1,0 +1,11 @@
+{
+ "recordings": 1495,
+ "questions": 1287,
+ "passed": 1495,
+ "fails": [],
+ "sample": {
+  "id": "spanish.l-short.a1.0001",
+  "lang": "es-ES",
+  "transcript": "Narrador: Pregunta 1. Sara dice:\nSara: Mi clase de baile es el sábado.\nNarrador: Pregunta 2. Sara dice:\nSara: Mi estación favorita es la primavera.\nNarrador: Pregunta 3. Más tarde, Sara dice:\nSara: Mi cumpleaños es el tres de mayo.\nNarrador: Pregunta 4. A continuación, Sara dice:\nSara: El concierto del colegio es el uno de noviembre.\nNarrador: Pregunta 5. A continuación, Sara dice:\nSara: El autobús sale a las diez y cuarto.\nNarrador: Pregunta 6. Entonces Sara dice:\nSara: La película empieza a las tres y media.\nNarrador: Pregunta 7. Sara dice:\nSara: Nos vamos de vacaciones en marzo.\nNarrador: Pregunta 8. Finalmente, Sara pregunta:\nSara: ¿Quedamos el miércoles para ir al parque?"
+ }
+}

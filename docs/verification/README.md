@@ -65,6 +65,13 @@ Each subject folder holds the four PDFs and PNG previews of their first pages (`
 
 ## Limits of a browser-free check
 
-- **Spanish listening playback** uses the browser's speech synthesis (Web Speech API) on the live site. Without a browser it cannot be machine-verified that audio plays; what was verified is that every listening question carries its transcript (the audio counts above) and the site has the play control. Dan should press ▶ once on the live site to confirm.
-- The PDFs here are laid out by PyMuPDF from the site's own components, not by the site's jsPDF/html2canvas export, so fonts and exact line breaks differ slightly from a PDF downloaded from the site; content, order, numbering and pagination rules are the same.
+- **Spanish listening** (`spanish/listening-check.json`, `scripts/verify/offline/listening.jsx`): the site's own
+  `<Speaker>` component was mounted in jsdom (a DOM emulator in Node, not a browser) for **every one of the 1,495
+  listening recordings (1,287 questions)** in the live bank. For each: the ▶ button is enabled, clicking it sends the whole
+  transcript to the Web Speech API **twice** with a pause between (as in the real exam), every utterance is `es-ES` with a
+  Spanish voice, the spoken text equals the transcript, the button becomes ■ Stop and resets when playback ends, and
+  "Show transcript" shows it. **1,495 / 1,495 passed.** Then one transcript was spoken by macOS's own Spanish (Spain) voice,
+  the same system voices Safari and Chrome use for speech synthesis on a Mac: `spanish/listening-sample.m4a`
+  (35.6 s of audio). What a browser-free check cannot do is hear the browser play it; that last step needs a browser.
+- The PDFs here are laid out by PyMuPDF from the site's own components, not by the site's jsPDF/html2canvas export (that export draws the page with the browser's layout engine, so it cannot run without a browser), so fonts and exact line breaks differ slightly from a PDF downloaded from the site; content, order, numbering and pagination rules are the same.
 - Known difference from real papers: science full papers draw from a bank of mostly short questions, so e.g. Chemistry 1C has ~46 numbered questions where a real paper has ~11 longer multi-part ones (decision for Dan in the final notes).

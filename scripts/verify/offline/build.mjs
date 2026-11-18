@@ -4,7 +4,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 const here = path.dirname(fileURLToPath(import.meta.url))
 await build({
-  entryPoints: [path.join(here, 'entry.jsx')], bundle: true, platform: 'node', format: 'esm', outfile: path.join(here, '.out/entry.mjs'),
+  entryPoints: [path.join(here, 'entry.jsx'), path.join(here, 'listening.jsx')], bundle: true, platform: 'node', format: 'esm', outdir: path.join(here, '.out'), outExtension: { '.js': '.mjs' },
   jsx: 'automatic', plugins: [{ name: 'katex-shim', setup(b) {
     b.onResolve({ filter: /^katex$/ }, () => ({ path: path.join(here, 'katex-shim.mjs') }))
     b.onResolve({ filter: /\.css$/ }, a => ({ path: a.path, namespace: 'empty' }))
@@ -12,5 +12,5 @@ await build({
   } }], loader: { '.css': 'empty' },
   nodePaths: [path.join(here, '../../../site/node_modules'), path.join(here, '../node_modules')],
   banner: { js: "import { createRequire } from 'module'; const require = createRequire(import.meta.url);" },
-  logLevel: 'warning', external: ['mathjax-full'], define: { 'import.meta.env.BASE_URL': '"./"' },
+  logLevel: 'warning', external: ['mathjax-full', 'jsdom'], define: { 'import.meta.env.BASE_URL': '"./"' },
 })
