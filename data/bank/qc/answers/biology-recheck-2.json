@@ -1,0 +1,41 @@
+{
+ "batch": "biology-recheck-2",
+ "answers": {
+  "biology.feeding-data-read.0004": {
+   "a": "Cannot read: graph has only axis labels, no plotted data given.",
+   "b": "(N5 - N1)/4 aphids per week; values not available from diagram.",
+   "c": "Ladybirds are predators that eat aphids, so aphid numbers fall as predation increases; ladybird population grows with food supply; fewer aphids reproduce."
+  },
+  "biology.feeding-data-read.0003": {
+   "a": "Cannot read: graph data not given.",
+   "b": "(N3 - N0)/3 aphids per week; values not available.",
+   "c": "Ladybirds eat aphids so aphid number decreases; more ladybirds/predation over time; fewer aphids left to reproduce."
+  },
+  "biology.environment-prac-reliab.0002": {
+   "a": "Repeating lets you identify anomalous results and calculate a mean, making results more reliable/representative.",
+   "b": "e.g. light intensity / soil moisture / trampling / soil pH; control by doing all quadrats at same time of day / same weather / measure and keep similar, or use the same quadrat size and same person estimating cover."
+  },
+  "biology.environment-prac-reliab.0003": {
+   "a": "Repeats allow anomalies to be identified and a mean calculated, so results more reliable and representative of the area.",
+   "b": "e.g. height on shore / time exposed to air / quadrat size / time of day relative to tide; control by sampling at same height on shore (same tidal level) and same time, same quadrat size."
+  }
+ },
+ "verdicts": {
+  "biology.feeding-data-read.0004": {
+   "result": "pass",
+   "problem": "Graph data not shown in batch text so readings unverifiable; arithmetic and explanation points are correct and readings fit the axis range."
+  },
+  "biology.feeding-data-read.0003": {
+   "result": "pass",
+   "problem": "Graph data not shown in batch text so readings unverifiable; arithmetic and explanation points are correct and readings fit the axis range."
+  },
+  "biology.environment-prac-reliab.0002": {
+   "result": "fail",
+   "problem": "Mark scheme example variables (time of day, weather) do not plausibly affect percentage cover of a plant, and 'sample all transects' doesn't fit a single-tape method; obvious valid answers (soil moisture, soil pH, trampling, grazing) are not listed.",
+   "fix": "Named variable e.g. soil moisture / soil pH / trampling / grazing / aspect of hedge (1); control or monitor e.g. use a transect on the same side of the hedge, away from paths, on ground of similar slope/drainage, measure pH/moisture and choose similar sites (1)."
+  },
+  "biology.environment-prac-reliab.0003": {
+   "result": "pass"
+  }
+ }
+}

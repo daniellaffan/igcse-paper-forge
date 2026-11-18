@@ -61,34 +61,6 @@ c#¿Te gustaría tener una familia grande en el futuro? ¿Por qué (no)?#En el f
 d#Describe a una persona importante en tu vida.#¿Quién es la persona más importante para ti? ¿Cómo es?#Description of a person: appearance, character, why important.
 f#¿Cómo vas a celebrar tu próximo cumpleaños con tus amigos?#¿Qué harás con tus amigos en las vacaciones?#Future activities.
 """,
-    rp=[dict(ctx=["Llegas a {city} para hacer un intercambio. Conoces a la madre / al padre de tu familia de intercambio.#La madre / El padre",
-                  "Estás en {city}. Conoces a un chico / una chica en un club para jóvenes.#El chico / La chica"],
-             slots=["""
-¡Hola! ¿Cómo te llamas?#Gives name, e.g. *Me llamo Dan.*
-¡Bienvenido/Bienvenida! ¿De dónde eres?#States a nationality or place of origin, e.g. *Soy inglés.*
-""", """
-¿Cuántas personas hay en tu familia?#Number and/or members, e.g. *Somos cuatro.*
-¿Tienes hermanos?#Yes/no with detail, e.g. *Sí, tengo una hermana.*
-""", """
-¿Cómo eres de carácter?#Personality adjective(s), e.g. *Soy simpático y hablador.*
-¿Tienes mascotas? [PAUSA] ¿Cómo se llama(n)?#Yes/no + name, e.g. *Sí, un perro; se llama Max.*
-""", """
-¿Qué hiciste el sábado pasado con tus amigos?#Past activity, e.g. *Fuimos al cine.*
-¿Cómo fue el viaje a {city}?#Past opinion/detail, e.g. *Fue largo pero bien.*
-""", """
-¿Qué vas a hacer mañana?#Future activity, e.g. *Voy a visitar el centro.*
-¿Qué te gustaría hacer con nosotros este fin de semana?#Conditional, e.g. *Me gustaría ir a la playa.*
-"""])],
-    form=dict(titles=["Ficha de intercambio escolar", "Inscripción en el club de jóvenes"],
-              ctx=["Vas a participar en un intercambio con un instituto de otro país.", "Quieres hacerte socio/socia de un club para jóvenes."],
-              gaps="""
-Número de hermanos:#Any number, e.g. dos, ninguno.#Names of people.#1
-Descripción física:#Any appropriate adjective or phrase, e.g. alto, pelo corto.#Personality only.#1
-Carácter:#Any personality adjective, e.g. simpático.#Physical description.#1
-Mascota:#Any animal, e.g. un gato; or ninguna.#Non-animals.#1
-Dos personas de tu familia:#Any two family members, e.g. madre, abuelo.#Names alone; the same person twice.#2
-Lo que te gusta hacer con tus amigos:#Any activity, e.g. ir al cine.#Places alone.#1
-"""),
 )
 
 C["B2"] = dict(
@@ -96,7 +68,7 @@ C["B2"] = dict(
     scene=["Estás en casa de {fr} en {city}. {fr} te enseña la casa.",
            "Vas a pasar una semana en el piso de la familia de {fr} en {city}."],
     ex="""
-{fr} dice:#Mi habitación favorita es {v}.#¿Cuál es la habitación favorita de {fr}?#habitacion
+{fr} dice:#Mi lugar favorito de la casa es {v}.#¿Cuál es el lugar favorito de la casa de {fr}?#habitacion
 {fr} dice:#Mi padre está en {v}.#¿Dónde está el padre de {fr}?#habitacion
 {fr} dice:#En casa siempre tengo que {v}.#¿Qué tiene que hacer {fr} en casa?#tarea
 {fr} dice:#Lo que más odio es {v}.#¿Qué tarea odia {fr}?#tarea
@@ -162,34 +134,6 @@ c#¿Cómo sería tu casa ideal?#Si pudieras cambiar algo de tu casa, ¿qué camb
 d#Describe un día normal en tu casa.#¿Cómo es tu rutina diaria en casa?#Daily routine with reflexive verbs.
 f#¿Dónde vas a vivir en el futuro?#¿En qué tipo de casa vivirás de mayor?#Future: type and location of home.
 """,
-    rp=[dict(ctx=["Estás de intercambio en {city}. Acabas de llegar a la casa de tu familia de intercambio. Hablas con la madre / el padre.#La madre / El padre",
-                  "Estás en {city}. Quieres alquilar una habitación en un piso para el verano. Hablas con el dueño / la dueña.#El dueño / La dueña"],
-             slots=["""
-¡Bienvenido/Bienvenida! ¿Qué te parece la casa?#Opinion, e.g. *Es muy bonita.*
-Hola, ¿qué tipo de habitación buscas?#Type of room, e.g. *Una habitación individual.*
-""", """
-¿A qué hora te levantas normalmente?#A time, e.g. *A las siete.*
-¿Cuánto tiempo vas a quedarte?#Length of stay, e.g. *Dos semanas.*
-""", """
-¿Qué te gusta desayunar?#Breakfast item(s), e.g. *Cereales y zumo.*
-¿Cómo es tu casa en tu país? [PAUSA] ¿Y tu habitación?#Description of home + room, e.g. *Vivo en una casa; mi habitación es pequeña.*
-""", """
-¿Cómo ayudaste en casa la semana pasada?#Chore in the past, e.g. *Lavé los platos.*
-¿Dónde viviste el verano pasado?#Past tense place, e.g. *Viví con mis tíos.*
-""", """
-¿Qué vas a hacer esta tarde?#Future plan, e.g. *Voy a deshacer la maleta.*
-¿Qué te gustaría hacer en casa este fin de semana?#Conditional, e.g. *Me gustaría cocinar con vosotros.*
-"""])],
-    form=dict(titles=["Ficha para la familia de acogida", "Encuesta: la vida en casa"],
-              ctx=["Vas a vivir con una familia en otro país y tienes que describir tu casa.", "Participas en una encuesta sobre la vida en casa de los jóvenes."],
-              gaps="""
-Tipo de casa:#Any type of home, e.g. piso, casa.#Rooms alone.#1
-Habitación favorita:#Any room, e.g. el salón.#Furniture.#1
-Mueble de tu dormitorio:#Any piece of furniture, e.g. cama.#Rooms.#1
-Tarea que haces en casa:#Any household chore, e.g. lavar los platos.#Leisure activities.#1
-Dos aparatos que hay en tu cocina:#Any two kitchen appliances or items, e.g. nevera, horno.#Furniture from other rooms only; the same item twice.#2
-Hora a la que te levantas:#Any time, e.g. a las siete.#Days.#1
-"""),
     ads=("Casas, muebles y servicios para el hogar", """
 Busco un piso pequeño para alquilar cerca de la universidad; soy estudiante y no tengo mucho dinero.#‘Pisos Campus’: estudios baratos a cinco minutos de la universidad. Precios especiales para estudiantes.#‘Villas del Sol’: casas de lujo con piscina en la costa, para comprar.
 Me mudo a un piso nuevo y necesito muebles baratos para el salón.#‘Mueble Fácil’: sofás, mesas y estanterías a precios bajos. Te lo llevamos a casa.#‘Antigüedades Rey’: muebles antiguos de gran valor para coleccionistas.
@@ -217,16 +161,6 @@ C["B3"] = dict(
 {fr} pregunta:#¿Tienen esta chaqueta en {v}?#¿En qué color quiere la chaqueta {fr}?#color
 {fr} dice:#Mi gato es completamente {v}.#¿De qué color es el gato de {fr}?#color
 """,
-    form=dict(titles=["Concurso de diseño: tu habitación ideal", "Encuesta: los colores y tú"],
-              ctx=["Participas en un concurso para diseñar una habitación.", "Una revista hace una encuesta sobre los colores favoritos de los jóvenes."],
-              gaps="""
-Color favorito:#Any colour, e.g. azul.#Non-colours.#1
-Color que no te gusta:#Any colour, e.g. marrón.#Non-colours.#1
-Color de las paredes de tu habitación:#Any colour, e.g. blanco.#Furniture.#1
-Color de tus ojos:#Any plausible eye colour, e.g. marrones, azules, verdes.#Non-colours.#1
-Color de tu ropa favorita:#Any colour, e.g. negro.#Items of clothing alone.#1
-Dos colores para tu habitación ideal:#Any two colours, e.g. verde, amarillo.#The same colour twice; non-colours.#2
-"""),
 )
 
 C["B4"] = dict(
@@ -245,15 +179,15 @@ C["B4"] = dict(
 {fr} dice:#Mi abuela me ha regalado {v}.#¿Qué le ha regalado su abuela a {fr}?#ropa
 """,
     signs=("En unos grandes almacenes", """
-Probadores#Antes de comprar los pantalones, quiero ver si me quedan bien.
+Probadores#Antes de comprar los pantalones, quiero ver si me quedan bien.#pantalones
 Rebajas: hasta el 50 %#Hoy la ropa está mucho más barata que de costumbre.
 Moda infantil: tercera planta#Busco ropa para mi hermano pequeño de cuatro años.
-Zapatería#Necesito unas botas nuevas.
+Zapatería#Necesito unas botas nuevas.#shoes
 Caja: pague aquí#Ya he elegido la falda; ahora tengo que pagarla.
 No se admiten devoluciones de ropa interior#No puedes cambiar los calcetines después de comprarlos.
 Complementos: bolsos, cinturones y gafas de sol#Quiero un regalo para mi madre que no sea ropa.
-Servicio de arreglos#Los pantalones son demasiado largos y hay que cortarlos.
-Ropa deportiva#Me hacen falta unas zapatillas para correr.
+Servicio de arreglos#Los pantalones son demasiado largos y hay que cortarlos.#pantalones
+Ropa deportiva#Me hacen falta unas zapatillas para correr.#shoes
 Salida#Ya hemos terminado las compras y nos vamos a casa.
 """),
     ann=dict(title="Las rebajas en el centro comercial", desc="un anuncio en un centro comercial", sp="Locutora",
@@ -281,10 +215,10 @@ Para la boda de mi prima llevé un traje azul oscuro y unos zapatos nuevos que m
 Creo que la gente gasta demasiado dinero en ropa que solo se pone una o dos veces.#¿Gastamos demasiado en ropa?#¿Qué critica {N}?#Que la gente gasta demasiado (dinero) en ropa / compra ropa que casi no usa#Refuse gasta dinero tc#Que se compra ropa que casi no se usa.;Que la ropa es fea.;Que las tiendas cierran pronto.;Que no hay rebajas.#Critica el consumo excesivo de ropa.#Cree que hay que comprar más ropa.#3
 Mi hermana trabaja en una tienda de ropa los sábados y le hacen descuento.#¿Alguien de tu familia trabaja en una tienda?#¿Qué ventaja tiene la hermana de {N} por trabajar en la tienda?#(Le hacen) descuento#Refuse los sábados#Le hacen descuento.;Gana mucho dinero.;Trabaja poco.;Tiene ropa gratis.#Su hermana paga menos por la ropa.#Su hermana trabaja en un banco.#2
 Cuando era pequeñ<o|a>, mi madre elegía mi ropa y yo lo odiaba.#¿Quién elegía tu ropa cuando eras pequeñ<o|a>?#¿Qué pensaba {N} cuando su madre elegía su ropa?#Lo odiaba / no le gustaba#Refuse mi madre elegía#Lo odiaba.;Le encantaba.;No le importaba.;Le daba risa.#De niñ<o|a> no podía elegir su ropa.#Siempre ha elegido su propia ropa.#2
-Me gusta ir de compras con mis amigos, pero sol<o|a> compro más rápido.#¿Te gusta ir de compras?#¿Qué ventaja tiene para {N} ir de compras sol<o|a>?#Compra más rápido#Refuse con mis amigos#Compra más rápido.;Gasta menos.;Encuentra más cosas.;Se divierte más.#Tarda menos cuando compra sin compañía.#Odia ir de compras con sus amigos.#3
+Me gusta ir de compras con mis amigos, pero cuando voy sol<o|a> compro más rápido.#¿Te gusta ir de compras?#¿Qué ventaja tiene para {N} ir de compras sol<o|a>?#Compra más rápido#Refuse con mis amigos#Compra más rápido.;Gasta menos.;Encuentra más cosas.;Se divierte más.#Tarda menos cuando compra sin compañía.#Odia ir de compras con sus amigos.#3
 Para el viaje a Noruega tengo que comprar un abrigo muy caliente y unos guantes.#¿Qué ropa necesitas para tu viaje?#¿Qué tiene que comprar {N} para el viaje? (Menciona una cosa.)#(Un) abrigo / (unos) guantes#Refuse Noruega#Un abrigo y unos guantes.;Un bañador.;Unas sandalias.;Una gorra.#Necesita ropa de invierno para el viaje.#Va a un país muy caluroso.#2
 El año que viene quiero aprender a coser para hacer mi propia ropa.#¿Qué te gustaría aprender?#¿Para qué quiere aprender a coser {N}?#Para hacer su propia ropa#Refuse el año que viene#Para hacer su propia ropa.;Para trabajar en una tienda.;Para ayudar a su abuela.;Para ahorrar.#Quiere diseñar y fabricar su ropa.#Ya sabe coser muy bien.#2
-Si fuera rico, no compraría ropa cara; preferiría viajar.#¿Qué harías si fueras rico?#¿Qué preferiría hacer {N} con mucho dinero?#Viajar#Refuse comprar ropa cara#Viajar.;Comprar ropa cara.;Comprar un coche.;Ahorrar.#No gastaría el dinero en ropa.#Gastaría todo en ropa de marca.#3
+Si fuera ric<o|a>, no compraría ropa cara; preferiría viajar.#¿Qué harías si fueras ric<o|a>?#¿Qué preferiría hacer {N} con mucho dinero?#Viajar#Refuse comprar ropa cara#Viajar.;Comprar ropa cara.;Comprar un coche.;Ahorrar.#No gastaría el dinero en ropa.#Gastaría todo en ropa de marca.#3
 Llevo el pelo largo y siempre uso pendientes; es mi estilo.#¿Cómo describirías tu estilo?#¿Qué complemento lleva siempre {N}?#Pendientes#Refuse el pelo largo#pendientes;un collar;una gorra;un reloj#Siempre lleva pendientes.#Nunca lleva complementos.#1
 """,
     tq="""
@@ -300,34 +234,6 @@ c#Si tuvieras mucho dinero, ¿qué ropa comprarías?#¿Cómo sería tu ropa idea
 d#Describe la ropa que está de moda entre los jóvenes de tu país.#¿Cómo se visten los jóvenes en tu país?#Description of fashion.
 f#¿Cómo vas a vestirte en tu próxima celebración familiar?#¿Qué ropa llevarás de vacaciones?#Future.
 """,
-    rp=[dict(ctx=["Estás de vacaciones en {city}. Quieres comprar una camiseta. Hablas con el dependiente / la dependienta de una tienda de ropa.#El dependiente / La dependienta",
-                  "Estás en {city}. Has comprado unos pantalones y quieres cambiarlos. Hablas con el dependiente / la dependienta.#El dependiente / La dependienta"],
-             slots=["""
-Buenos días, ¿qué busca?#Item of clothing, e.g. *Una camiseta.*
-Hola, ¿qué problema tiene?#States problem, e.g. *Son demasiado pequeños.*
-""", """
-¿Qué talla usa?#A size, e.g. *La talla M.*
-¿De qué color los quiere ahora?#A colour, e.g. *Negros.*
-""", """
-¿Para quién es? [PAUSA] ¿Por qué?#Recipient + reason, e.g. *Para mi hermano, es su cumpleaños.*
-¿Cuánto quiere gastar?#Amount, e.g. *Unos veinte euros.*
-""", """
-¿Qué ropa compró la última vez?#Past purchase, e.g. *Compré unas zapatillas.*
-¿Cuándo compró los pantalones?#Past time, e.g. *Los compré ayer.*
-""", """
-¿Qué va a hacer esta tarde?#Future activity, e.g. *Voy a ir a la playa.*
-¿Qué va a llevar en la fiesta de esta noche?#Future, e.g. *Voy a llevar un vestido azul.*
-"""])],
-    form=dict(titles=["Concurso: diseña el uniforme del instituto", "Encuesta sobre la moda"],
-              ctx=["Tu instituto organiza un concurso para elegir un nuevo uniforme.", "Una tienda de ropa hace una encuesta a los jóvenes."],
-              gaps="""
-Prenda que llevas en invierno:#Any item of winter clothing, e.g. abrigo.#Colours alone.#1
-Color preferido para la ropa:#Any colour, e.g. negro.#Clothes.#1
-Tienda donde compras ropa:#Any appropriate shop or place, e.g. en el centro comercial, por internet.#Clothes.#1
-Ropa que llevas para hacer deporte:#Any sports clothing, e.g. chándal, zapatillas.#Sports.#1
-Dos prendas para el uniforme:#Any two items of clothing, e.g. camisa, falda.#The same item twice.#2
-Complemento favorito:#Any accessory, e.g. reloj, gorra.#Colours.#1
-"""),
     ads=("Tiendas de ropa y complementos", """
 Busco ropa elegante para una boda, pero no quiero gastar mucho y solo la voy a llevar una vez.#‘Viste y Devuelve’: alquiler de trajes y vestidos de fiesta. Precios desde 30 euros.#‘Alta Costura Lola’: vestidos de novia exclusivos hechos a mano.
 Me encanta correr y necesito zapatillas especiales para correr por la montaña.#‘Corre Libre’: calzado técnico para correr en montaña. Prueba las zapatillas en nuestra pista.#‘Zapatería Clásica’: zapatos de piel para oficina y ceremonias.
@@ -396,7 +302,7 @@ Este sábado voy a ir a un concierto de mi grupo favorito con mi prima.#¿Qué v
 Para mí, lo mejor del tiempo libre es poder desconectar de los estudios.#¿Para qué sirve el tiempo libre?#Según {N}, ¿qué es lo mejor del tiempo libre?#(Poder) desconectar de los estudios#Refuse los estudios tc#Desconectar de los estudios.;Ganar dinero.;Dormir.;Ver a la familia.#El tiempo libre le ayuda a olvidarse del colegio.#En su tiempo libre estudia más.#3
 Cuando hace mal tiempo, juego a juegos de mesa con mi familia.#¿Qué haces cuando llueve?#¿Qué hace {N} cuando hace mal tiempo?#Juega a juegos de mesa (con su familia)#Refuse juego#Juega a juegos de mesa.;Ve películas.;Duerme.;Va al gimnasio.#Los días de lluvia juega con su familia.#Cuando llueve sale a correr.#2
 El año que viene quiero apuntarme a un club de ajedrez del barrio.#¿Qué actividad nueva te gustaría hacer?#¿A qué quiere apuntarse {N} el año que viene?#(A un club de) ajedrez#Refuse el año que viene#a un club de ajedrez;a un equipo de fútbol;a clases de baile;a un coro#Quiere entrar en un club de ajedrez.#Ya es miembro de un club de ajedrez.#2
-Mis padres me dan diez euros a la semana y los gasto casi todos en salir con mis amigos.#¿Cuánto dinero gastas en tu tiempo libre?#¿En qué gasta {N} su dinero?#(En) salir con sus amigos#Refuse diez euros#en salir con sus amigos;en ropa;en videojuegos;en libros#Usa su paga para salir.#Ahorra todo su dinero.#2
+Mis padres me dan diez euros a la semana y los gasto casi todos en salir con mis amigos.#¿Cuánto dinero gastas en tu tiempo libre?#¿En qué gasta {N} su dinero?#(En) salir con sus amigos#Refuse diez euros#en salir con sus amigos;en ropa;en videojuegos;en libros#Usa su paga para salir.#Ahorra todo su dinero.#2#spain
 """,
     tq="""
 p#¿Qué haces en tu tiempo libre?#¿Qué te gusta hacer cuando no tienes clase?#Activities in the present, e.g. *Juego al fútbol y leo.*
@@ -411,34 +317,6 @@ c#¿Qué deporte o actividad nueva te gustaría probar? ¿Por qué?#Si tuvieras 
 d#Describe tu fin de semana ideal.#¿Cómo sería un sábado perfecto para ti?#Description with conditional/present.
 f#¿Qué vas a hacer durante las próximas vacaciones?#¿Adónde vas a ir en verano?#Future activities.
 """,
-    rp=[dict(ctx=["Estás de vacaciones en {city}. Quieres apuntarte a una actividad en el polideportivo. Hablas con el recepcionista / la recepcionista.#El recepcionista / La recepcionista",
-                  "Estás de intercambio en {city}. Tu amigo/amiga te invita a salir el sábado. Habláis por teléfono.#El amigo / La amiga"],
-             slots=["""
-Hola, ¿qué actividad te interesa?#Names an activity, e.g. *La natación.*
-¡Hola! ¿Quieres salir el sábado? ¿Adónde quieres ir?#Accepts + place, e.g. *Sí, al cine.*
-""", """
-¿Cuántas veces por semana quieres venir?#Frequency, e.g. *Dos veces.*
-¿A qué hora quedamos?#A time, e.g. *A las seis.*
-""", """
-¿Prefieres clases por la mañana o por la tarde? [PAUSA] ¿Por qué?#Choice + reason, e.g. *Por la tarde porque me levanto tarde.*
-¿Qué tipo de película te gusta? [PAUSA] ¿Por qué?#Film type + reason, e.g. *De acción, son emocionantes.*
-""", """
-¿Qué deporte hiciste el año pasado?#Past sport, e.g. *Jugué al tenis.*
-¿Qué hiciste el fin de semana pasado?#Past activity, e.g. *Fui a la playa.*
-""", """
-¿Qué vas a hacer después de la clase?#Future, e.g. *Voy a comer con mi familia.*
-¿Qué te gustaría hacer después de la película?#Conditional, e.g. *Me gustaría cenar pizza.*
-"""])],
-    form=dict(titles=["Inscripción en el polideportivo", "Ficha del club juvenil"],
-              ctx=["Quieres hacerte socio/socia del polideportivo de tu barrio.", "Te apuntas a un club de actividades para jóvenes."],
-              gaps="""
-Deporte que practicas:#Any sport, e.g. baloncesto.#Places.#1
-Instrumento que tocas:#Any instrument, e.g. guitarra; or ninguno.#Types of music.#1
-Tipo de película favorita:#Any film type, e.g. de acción.#Titles alone are acceptable if they communicate; refuse non-films.#1
-Día libre de la semana:#Any day, e.g. domingo.#Times.#1
-Dos pasatiempos:#Any two hobbies, e.g. leer, pintar.#The same hobby twice.#2
-Lugar donde quedas con tus amigos:#Any place, e.g. el parque.#People.#1
-"""),
     ads=("Actividades de tiempo libre", """
 Me encanta cantar y busco un grupo para cantar con otras personas una vez por semana.#‘Coro Voces del Barrio’: ensayos todos los miércoles. No hace falta experiencia.#‘Academia Solista’: clases individuales de canto para profesionales.
 Quiero aprender a bailar salsa, pero no tengo pareja.#‘Salsa para todos’: clases en grupo; te buscamos pareja de baile.#‘Ballet Clásico Infantil’: clases para niñas y niños de 4 a 10 años.

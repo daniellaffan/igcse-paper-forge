@@ -224,7 +224,7 @@ DATA = {
         ds("4.8", "The population of aphids on a crop was counted each week after ladybirds were released.", "time after release", "weeks",
            "number of aphids", "", [0, 1, 2, 3, 4, 5, 6], [800, 620, 420, 260, 160, 120, 110], "fall_level",
            "Explain the change in aphid population.",
-           ["ladybirds eat aphids / predators", "aphid deaths exceed births", "fewer aphids so harder for ladybirds to find food", "population levels off"], dp=0),
+           ["ladybirds eat aphids / predators", "aphid deaths exceed births", "fewer aphids so harder for ladybirds to find food", "ladybird numbers fall, so fewer aphids are eaten / predator and prey numbers balance"], dp=0),
     ],
     "ecology.human-impact": [
         ds("4.14", "The mean concentration of carbon dioxide in the atmosphere was measured at a research station.", "year", "",
@@ -265,9 +265,21 @@ def _lab(name, unit):
     return f"{name[:1].upper()}{name[1:]}" + (f" in {unit}" if unit else "")
 
 
+def _sing(u):
+    return {"weeks": "week", "days": "day", "minutes": "minute", "years": "year", "hours": "hour", "seconds": "second"}.get(u, u)
+
+
+def _yu(yname):
+    """Name the real quantity when the y variable has no unit (used in rate units)."""
+    for pre in ("mean number of ", "number of "):
+        if yname.startswith(pre):
+            return yname[len(pre):]
+    return {"pH": "pH units", "relative risk of coronary heart disease": "relative risk"}.get(yname, yname)
+
+
 def _xs(d, x):
     if d.xunit:
-        return f"{nf(x)} {d.xunit}"
+        return f"{nf(x)} {_sing(d.xunit) if x == 1 else d.xunit}"
     if d.xname == "year":
         return nf(x)
     return f"{'trial' if d.xname == 'trial number' else d.xname} {nf(x)}"
@@ -398,9 +410,9 @@ def make(sub, d, di, k):
             parts = [text_part("a", f"Use the table to give the {d.yname} at {_xs(d, xs[a])}.", 1, 1, figures=[tbl])]
             rows = [row_("a", f"{_ys(d, ys[a])} (1)", 1, None, "AO3")]
         if d.xunit and d.xname not in ("year",):
-            per = d.xunit if not d.xunit.startswith("°") else "°C"
-            yu = d.yunit if d.yunit else "units"
-            parts.append(calc_part("b", f"Calculate the mean rate of change of {d.yname} between {_xs(d, xs[i])} and {_xs(d, xs[j])}.", 2,
+            per = _sing(d.xunit) if not d.xunit.startswith("°") else "°C"
+            yu = d.yunit or _yu(d.yname)
+            parts.append(calc_part("b", f"Calculate the mean rate of change of {'the ' if d.yname.startswith(('number', 'mean number')) else ''}{d.yname} between {_xs(d, xs[i])} and {_xs(d, xs[j])}.", 2,
                                    f"rate = ", 4, suffix=f"{yu} per {per}"))
             rows += [row_("b", f"({nf(ys[j])} − {nf(ys[i])}) ÷ ({nf(xs[j])} − {nf(xs[i])}) (1)", 1, None, "AO2"),
                      row_("b", f"{sfig(rate, 3)} {yu} per {per} (1)", 1, "Allow ecf from incorrect readings; ignore sign", "AO2")]

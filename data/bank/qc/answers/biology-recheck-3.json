@@ -1,0 +1,30 @@
+{
+ "batch": "biology-recheck-3",
+ "answers": {
+  "biology.environment-prac-reliab.0002": {
+   "a": "Repeat (more transects/quadrats) to identify anomalous results and calculate a mean, making results more reliable/representative.",
+   "b": "Same quadrat size / same time of day or season; or light/soil moisture cannot be controlled in a field, so measure (light meter / moisture meter) and record it."
+  },
+  "biology.environment-prac-reliab.0001": {
+   "a": "Repeat (more transects/quadrats) to identify anomalous results and calculate a mean, making results more reliable/representative.",
+   "b": "Quadrat size - use same size quadrat in both areas; number of quadrats - same number in each area; sample on same day/season. (Light intensity / trampling could be measured, not controlled.)"
+  },
+  "biology.environment-prac-reliab.0003": {
+   "a": "Repeat (more transects/quadrats) to identify anomalous results and calculate a mean, making results more reliable/representative.",
+   "b": "Height on the shore / time exposed by tide - sample at same height (same distance from low water) and same time in tidal cycle; same quadrat size."
+  }
+ },
+ "verdicts": {
+  "biology.environment-prac-reliab.0002": {
+   "result": "fail",
+   "problem": "(b) MS example says running the transect on one side of the hedge makes shade the same at each distance; shade from the hedge changes with distance (it is part of the independent variable), so this is not a valid control.",
+   "fix": "Replace with e.g. \"sample all quadrats on the same day / same quadrat size / run the transect across one soil type away from paths and grazing\"; do not credit light or shade as a controlled variable."
+  },
+  "biology.environment-prac-reliab.0001": {
+   "result": "pass"
+  },
+  "biology.environment-prac-reliab.0003": {
+   "result": "pass"
+  }
+ }
+}

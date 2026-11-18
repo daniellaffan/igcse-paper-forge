@@ -1,0 +1,29 @@
+{
+ "batch": "economics-recheck-8",
+ "answers": {
+  "economics.protection-data.0001": {
+   "a": "(56000-90000)/90000x100 = -37.78%",
+   "b": "Domestic producers gain market share/output -> jobs protected; protects against dumping (below cost); possible improvement in balance of trade (fewer imports); infant/strategic food security.",
+   "c": "For: protects jobs, counters dumping, food security, current account. Against: higher rice prices for consumers (staple), less choice, inefficiency, retaliation, no gov revenue unlike tariff. Judgement depends on dumping scale, elasticity, duration."
+  },
+  "economics.protection-data.0017": {
+   "a": "285 x 1.26 = L\u00a3359.10",
+   "b": "Price of imports rises; quantity of imports falls; domestic producers increase supply/output, higher price; consumers pay more, quantity demanded falls; gov revenue. Diagram with world price + tariff.",
+   "c": "Protects jobs in domestic panel production; but costs rise for firms using panels (installers) -> job losses there; retaliation hits exporters; inefficiency; depends on elasticity, size of domestic industry. Judgement."
+  },
+  "economics.protection-assess-1.0001": {
+   "all": "Benefits: domestic tyre producers gain sales, jobs, protects against dumping, improves trade balance. Costs: higher prices for consumers and firms using tyres, less choice, retaliation, inefficiency. Judgement on whether dumping justifies it/short-term."
+  }
+ },
+ "verdicts": {
+  "economics.protection-data.0001": {
+   "result": "pass"
+  },
+  "economics.protection-data.0017": {
+   "result": "pass"
+  },
+  "economics.protection-assess-1.0001": {
+   "result": "pass"
+  }
+ }
+}

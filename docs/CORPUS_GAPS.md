@@ -4,7 +4,7 @@ The private corpus (`corpus/`, never committed) holds the past papers, mark sche
 and specifications that were **freely downloadable without logging in**. This page lists what is in it
 and what could not be downloaded. Regenerate with `.venv/bin/python scripts/corpus_report.py`.
 
-Total files downloaded: **1651**.
+Total files downloaded: **1652**.
 
 ## What was downloaded
 
@@ -15,7 +15,7 @@ Total files downloaded: **1651**.
 | physics | 149 | 15 (June-2019 … no-series) | Question paper: 48, Mark scheme: 48, Examiner report: 46, Mark Scheme: 2, Exemplar material: 2, Assessment guidance: 1, Sample assessment material: 1, Specification: 1 |
 | chemistry | 146 | 15 (June-2019 … no-series) | Question paper: 48, Examiner report: 46, Mark scheme: 46, Mark Scheme: 2, Exemplar material: 2, Sample assessment material: 1, Specification: 1 |
 | biology | 148 | 15 (June-2019 … no-series) | Question paper: 48, Mark scheme: 48, Examiner report: 46, Mark Scheme: 2, Exemplar material: 1, Sample assessment material: 1, Specification: 1, Assessment guidance: 1 |
-| economics | 117 | 12 (June-2019 … June-2025) | Question paper: 39, Examiner report: 38, Mark scheme: 38, Mark Scheme: 2 |
+| economics | 118 | 13 (June-2019 … spec) | Question paper: 39, Examiner report: 38, Mark scheme: 38, Mark Scheme: 2, Specification: 1 |
 | history | 130 | 11 (June-2019 … no-series) | Question paper: 40, Mark scheme: 38, Examiner report: 36, Specimen paper and mark scheme: 6, Exemplar material: 6, Mark Scheme: 2, Specification: 1, Sample assessment material: 1 |
 | english-language | 190 | 16 (June-2018 … no-series) | Examiner report: 72, Question paper: 51, Mark scheme: 49, Exemplar material: 7, Specimen paper and mark scheme: 5, Mark Scheme: 2, Anthology: 2, Specification: 1, Sample assessment material: 1 |
 | english-literature | 187 | 16 (June-2018 … no-series) | Examiner report: 64, Mark scheme: 56, Question paper: 52, Specimen paper and mark scheme: 6, Exemplar material: 5, Mark Scheme: 2, Sample assessment material: 1, Specification: 1 |

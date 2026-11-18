@@ -452,6 +452,20 @@ FIELD_ORG = {0: "identify the daisies correctly / count only the same species",
              2: "use the same identification key to identify each species"}
 
 
+# habitat-specific variables for field work, phrased as how to keep them the same (environment context index)
+FIELD_CTRL = {
+    # IV = area (sports field vs lawn): trampling and mowing differ between the areas, so they are not listed as controls
+    0: ("named variable, e.g. soil moisture / soil pH / shade from trees or buildings / time of year",
+        "keep it the same, e.g. choose areas with similar soil moisture and pH / sample open areas away from trees and buildings in both places / sample both areas on the same day"),
+    # IV = distance from the hedge: light / shade co-varies with distance, so it is not listed as a control
+    1: ("named variable, e.g. soil moisture / soil pH / soil mineral content / trampling / grazing",
+        "keep it the same, e.g. run the transect across ground of one soil type / away from paths and gateways / where no animals graze / sample all quadrats on the same day"),
+    # IV = area of the shore; mobile animals move with the tide, time of day and weather
+    2: ("named variable, e.g. height on the shore / time after low tide / time of day / weather / aspect / season",
+        "keep it the same, e.g. sample both areas at the same height on the shore, at the same time after low tide, on the same day in similar weather, on rocks facing the same direction"),
+}
+
+
 def who_of(c):
     t = c.intro.lower()
     return "the grower" if t.startswith("a grower") else "the students" if t.startswith("students") else "the student"
@@ -529,11 +543,10 @@ def gen_sub(sub):
         else:
             p.append(text_part("b", f"Suggest one variable, other than the {c.iv}, that could affect the {c.dv}. Explain how it could be controlled.", 2, 3))
             if field:
-                bp = ["named abiotic variable, e.g. light intensity / soil moisture / soil pH / trampling",
-                      "measure it at each quadrat with a light meter / moisture meter / pH kit, or sample on the same day in similar conditions"]
+                bp = list(FIELD_CTRL[ci])
             else:
                 bp = [f"named variable, e.g. {conts[0]}", f"a suitable method of controlling the named variable, e.g. keep the {conts[0]} the same each time / measure and record it"]
-            r.append(points_row("b", 2, bp, "Suggest", None, "AO3"))
+            r.append(points_row("b", 2, bp, "Suggest", "Accept any valid equivalent variable that affects the measurement, with a matching way of keeping it the same" if field else None, "AO3"))
         out.append(dict(parts=p, rows=r, refs=refs, cw="Explain", diff="4-6", intro=c.intro, template=f"{nm}-prac-reliab"))
         # 5. explain steps
         for si, (step, why_pts) in enumerate(c.reasons):

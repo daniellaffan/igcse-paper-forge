@@ -1,0 +1,61 @@
+{
+ "batch": "spanish-recheck-4",
+ "answers": {
+  "spanish.r-short.a2.0011": {
+   "a": "En Chile",
+   "b": "Porque siempre está fría",
+   "c": "Los domingos",
+   "d": "Porque quiere proteger a los animales",
+   "e": "Beber más agua",
+   "f": "El pescado",
+   "g": "Se le quemó un poco",
+   "h": "Dos",
+   "i": "Las espinacas",
+   "j": "A hacer tortilla de patatas",
+   "k": "Comida japonesa / platos de otros países",
+   "l": "Que no es muy sana"
+  },
+  "spanish.r-short.a2.0010": {
+   "a": "En Uruguay",
+   "b": "Porque siempre está fría",
+   "c": "Los domingos",
+   "d": "Porque quiere proteger a los animales",
+   "e": "Beber más agua",
+   "f": "El pescado",
+   "g": "Se le quemó un poco",
+   "h": "Porque allí la fruta es más fresca que en el supermercado",
+   "i": "A hacer tortilla de patatas",
+   "j": "Comida japonesa / platos de otros países",
+   "k": "Que no es muy sana",
+   "l": "En casa de sus tíos"
+  },
+  "spanish.r-long.a2.0002": {
+   "a": "De Ecuador",
+   "b": "Porque quiere proteger a los animales",
+   "c": "Se le quemó un poco",
+   "d": "Dos",
+   "e": "Las espinacas",
+   "f": "Porque allí la fruta es más fresca",
+   "g": "Tiene demasiada grasa y sal",
+   "h": "Comida japonesa",
+   "i": "Que no es muy sana",
+   "j": "En casa de sus tíos",
+   "k": "Fruta"
+  }
+ },
+ "verdicts": {
+  "spanish.r-short.a2.0011": {
+   "result": "pass"
+  },
+  "spanish.r-short.a2.0010": {
+   "result": "fail",
+   "problem": "Text contradicts itself: Natalia has been vegetarian for a year and never eats fish, yet yesterday tried ceviche (a raw-fish dish).",
+   "fix": "Replace the ceviche sentence with a vegetarian dish (e.g. 'probé un plato peruano vegetariano que se llama papa a la huancaína') or remove the vegetarian sentence; answer to 'dónde cenó' unchanged."
+  },
+  "spanish.r-long.a2.0002": {
+   "result": "fail",
+   "problem": "Text contradicts itself: Camila has been vegetarian for a year, yet yesterday tried ceviche (a raw-fish dish).",
+   "fix": "Replace the ceviche sentence with a vegetarian dish (e.g. 'probé un plato peruano vegetariano que se llama papa a la huancaína') or remove the vegetarian sentence; answer to 'dónde cenó' unchanged."
+  }
+ }
+}

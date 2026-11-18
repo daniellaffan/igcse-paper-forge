@@ -1,0 +1,231 @@
+{
+ "batch": "economics-recheck-6",
+ "answers": {
+  "economics.bop-analyse-1.0001": {
+   "all": "High demand for imports (electronics, cars) raises import spending on current account; possibly high incomes/strong currency; falling manufactured exports reduce export revenue (loss of competitiveness, higher costs, strong exchange rate) -> trade in goods deficit widens; persistent 7 yrs suggests structural cause."
+  },
+  "economics.competition-analyse-2.0003": {
+   "all": "Monopoly can set high prices (price maker) reducing consumer surplus; little choice, no alternative supplier; poor service/quality as no incentive to improve; less innovation; supernormal profits at consumers' expense."
+  },
+  "economics.competition-assess-2.0001": {
+   "all": "For: lower prices, better service, choice, efficiency/innovation. Against: natural monopoly / economies of scale lost, high infrastructure costs, duplication, firms may cherry-pick; regulation alternative. Judgement depends on regulation and barriers."
+  },
+  "economics.competition-assess-3.0004": {
+   "all": "Negative: lower sales/profit for local shops, closures (15%), job losses; positive: forces efficiency, innovation, niche/personal service, move online. Depends on shops' ability to differentiate."
+  },
+  "economics.competition-evaluate-2.0003": {
+   "all": "Benefits: lower fares, better service, efficiency, innovation. Costs: natural monopoly, lost economies of scale, infrastructure duplication, unprofitable routes cut, safety. Alternative: regulate/price cap. Judgement depends."
+  },
+  "economics.competition-evaluate-3.0001": {
+   "all": "Lower prices reduce revenue/profit of local shops, 23% closed, unemployment; but efficiency, innovation, differentiation, online channels; consumers benefit. Depends on firm type, size, adaptability."
+  },
+  "economics.competition-explain.0002": {
+   "all": "Non-price competition e.g. advertising/branding or better network/coverage/features -> attracts customers from rivals -> increases market share; oligopoly avoid price wars."
+  },
+  "economics.competition-mcq-class.0007": {
+   "all": "D - There are many buyers and sellers"
+  },
+  "economics.competition-state-id.0009": {
+   "all": "a competitive market"
+  },
+  "economics.costs-analyse-1.0005": {
+   "all": "Fuel 18% rise and wage rises increase variable/total costs; with small profit, may become loss; may raise prices, reducing demand; or cut costs/staff; lower profit for investment."
+  },
+  "economics.costs-analyse-3.0003": {
+   "all": "Profit = TR - TC; TC rose faster than 15% TR rise e.g. rising raw material/wages, fixed costs; perhaps price cuts to raise sales increased volume but lower margin; so profit fell."
+  },
+  "economics.costs-assess-1.0003": {
+   "all": "For: maintain profit margins, cover 31% fuel rise, rivals face same costs. Against: depends on PED; elastic demand -> revenue falls, lose customers to rivals; alternatives cut costs, efficiency, fuel-efficient vehicles. Judgement on PED/competition."
+  },
+  "economics.costs-assess-3.0001": {
+   "all": "Raise prices (depends on PED), cut costs (cheaper suppliers, efficiency, technology), increase sales via marketing, economies of scale; evaluate trade-offs (quality, demand). Judgement."
+  },
+  "economics.costs-calc.0006": {
+   "all": "TR = 4830 x 5.43 = 26,226.90; profit = 26,226.90 - 23,193 = \u20ac3,033.90 profit"
+  },
+  "economics.costs-data.0005": {
+   "a": "5500 x 1.19 = \u00a36,545",
+   "b": "Higher fuel and wage costs raise TC; small profit may become loss; may need to raise prices, losing customers; cut costs/investment.",
+   "c": "For raise: protect margins, rivals face same costs, inelastic demand. Against: elastic demand/competition lose customers; alternatives: efficiency, fuel hedging. Judgement depends on PED."
+  },
+  "economics.costs-evaluate-1.0003": {
+   "all": "As costs-assess-1: price rise maintains margin if demand inelastic; risk losing customers if elastic/competitive; alternatives cost cutting, fuel-efficient vehicles; judgement depends on PED, competitors, duration of fuel rise."
+  },
+  "economics.costs-evaluate-2.0005": {
+   "all": "For: double output, economies of scale, lower average costs, meet demand. Against: higher fixed costs/risk, needs demand for doubled output, finance cost, break-even rises. Judgement depends on demand."
+  },
+  "economics.costs-evaluate-3.0003": {
+   "all": "Raise price (PED), reduce costs, increase sales, economies of scale, differentiate; evaluate each; judgement."
+  },
+  "economics.demand-calc.0008": {
+   "all": "%dQd = PED x %dP = -1.5 x 6 = -9%"
+  },
+  "economics.demand-diagram.0006": {
+   "all": "Bread cheaper -> more bread demanded -> demand for butter (complement) rises: D shifts right to D1; new higher price P1 and higher quantity Q1."
+  },
+  "economics.demand-mcq-def.0001": {
+   "all": "D"
+  },
+  "economics.economic-problem-mcq-def.0007": {
+   "all": "C"
+  },
+  "economics.environment-explain.0003": {
+   "all": "Tax raises cost of production for polluting firms -> incentive to cut emissions/switch to cleaner tech or reduce output -> less carbon, internalises external cost."
+  },
+  "economics.exchange-data.0013": {
+   "a": "(1.74-1.79)/1.79 x 100 = -2.79% (depreciation)",
+   "b": "Uncertainty over revenue from exports and cost of imports; hard to price contracts/plan; profit margins vary; deters investment; hedging costs.",
+   "c": "For intervention: stability, confidence, investment, trade. Against: uses reserves, interest rate changes affect inflation/growth, may fail against market forces; firms can hedge. Judgement."
+  },
+  "economics.exchange-explain.0003": {
+   "all": "Depreciation makes imports dearer in euros -> raw material costs rise -> higher costs of production, lower profit margins or higher prices."
+  },
+  "economics.externalities-analyse-1.0001": {
+   "all": "Reduces negative externalities: cleaner beaches/rivers, less harm to wildlife, tourism benefits, lower clean-up costs; but enforcement costs and illegal use reduce benefit."
+  },
+  "economics.externalities-assess-1.0003": {
+   "all": "Works: cleaner beaches, simple, clear. Limitations: enforcement costly, illegal use continues, no revenue, substitutes may pollute; alternatives taxes/charges. Judgement."
+  },
+  "economics.externalities-data.0015": {
+   "a": "(88-68)% = 20%; 0.20 x 251,000 = 50,200 children",
+   "b": "Third parties benefit: herd immunity, fewer infections, lower healthcare costs, fewer working days lost; social benefit > private benefit, underconsumed without subsidy.",
+   "c": "For: corrects underconsumption, positive externalities, long term savings. Against: opportunity cost, tax funding, may have risen anyway, diminishing returns at high rate. Judgement."
+  },
+  "economics.externalities-evaluate-1.0001": {
+   "all": "As assess: effective cleaner environment; but enforcement costly, evasion, no revenue, inflexible; compare tax/levy/education. Judgement."
+  },
+  "economics.externalities-mcq-def.0001": {
+   "all": "A"
+  },
+  "economics.fiscal-data.0003": {
+   "a": "6.7% x 1300 = R$87.1bn",
+   "b": "Spending cuts reduce public services quality; higher sales tax raises prices, reduces real income/disposable income, lower consumption; regressive effect on poor.",
+   "c": "For reduce: debt 75% interest costs, confidence, future burden. Against: contractionary, unemployment, lower growth, may worsen deficit. Judgement depends on economic cycle."
+  },
+  "economics.globalisation-analyse-3.0006": {
+   "all": "Low wages/exploitation, poor conditions; profits repatriated; dependency on MNCs who may relocate (footloose); environmental damage; little skill transfer."
+  },
+  "economics.globalisation-assess-3.0002": {
+   "all": "Benefits: employment 4m, women's incomes, exports, FDI, skills. Costs: low wages, conditions, repatriated profits, footloose. Judgement."
+  },
+  "economics.globalisation-evaluate-3.0002": {
+   "all": "As assess, fuller evaluation; judgement depends on wages relative to alternatives, regulation."
+  },
+  "economics.globalisation-explain.0001": {
+   "all": "Creates 5,000 jobs -> lower unemployment -> incomes and spending rise, multiplier/tax revenue."
+  },
+  "economics.globalisation-state-class.0002": {
+   "all": "Profits repatriated to home country (or exploitation of workers / environmental damage)."
+  }
+ },
+ "verdicts": {
+  "economics.bop-analyse-1.0001": {
+   "result": "pass"
+  },
+  "economics.competition-analyse-2.0003": {
+   "result": "pass"
+  },
+  "economics.competition-assess-2.0001": {
+   "result": "pass"
+  },
+  "economics.competition-assess-3.0004": {
+   "result": "pass"
+  },
+  "economics.competition-evaluate-2.0003": {
+   "result": "pass"
+  },
+  "economics.competition-evaluate-3.0001": {
+   "result": "pass"
+  },
+  "economics.competition-explain.0002": {
+   "result": "pass"
+  },
+  "economics.competition-mcq-class.0007": {
+   "result": "pass"
+  },
+  "economics.competition-state-id.0009": {
+   "result": "pass"
+  },
+  "economics.costs-analyse-1.0005": {
+   "result": "pass"
+  },
+  "economics.costs-analyse-3.0003": {
+   "result": "pass"
+  },
+  "economics.costs-assess-1.0003": {
+   "result": "pass"
+  },
+  "economics.costs-assess-3.0001": {
+   "result": "pass"
+  },
+  "economics.costs-calc.0006": {
+   "result": "pass"
+  },
+  "economics.costs-data.0005": {
+   "result": "pass"
+  },
+  "economics.costs-evaluate-1.0003": {
+   "result": "pass"
+  },
+  "economics.costs-evaluate-2.0005": {
+   "result": "pass"
+  },
+  "economics.costs-evaluate-3.0003": {
+   "result": "pass"
+  },
+  "economics.demand-calc.0008": {
+   "result": "pass"
+  },
+  "economics.demand-diagram.0006": {
+   "result": "pass"
+  },
+  "economics.demand-mcq-def.0001": {
+   "result": "pass"
+  },
+  "economics.economic-problem-mcq-def.0007": {
+   "result": "pass"
+  },
+  "economics.environment-explain.0003": {
+   "result": "pass"
+  },
+  "economics.exchange-data.0013": {
+   "result": "pass"
+  },
+  "economics.exchange-explain.0003": {
+   "result": "pass"
+  },
+  "economics.externalities-analyse-1.0001": {
+   "result": "pass"
+  },
+  "economics.externalities-assess-1.0003": {
+   "result": "pass"
+  },
+  "economics.externalities-data.0015": {
+   "result": "pass"
+  },
+  "economics.externalities-evaluate-1.0001": {
+   "result": "pass"
+  },
+  "economics.externalities-mcq-def.0001": {
+   "result": "pass"
+  },
+  "economics.fiscal-data.0003": {
+   "result": "pass"
+  },
+  "economics.globalisation-analyse-3.0006": {
+   "result": "pass"
+  },
+  "economics.globalisation-assess-3.0002": {
+   "result": "pass"
+  },
+  "economics.globalisation-evaluate-3.0002": {
+   "result": "pass"
+  },
+  "economics.globalisation-explain.0001": {
+   "result": "pass"
+  },
+  "economics.globalisation-state-class.0002": {
+   "result": "pass"
+  }
+ }
+}

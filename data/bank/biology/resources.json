@@ -18182,7 +18182,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per hours"
+    "answer_suffix": "pH units per hour"
    },
    {
     "label": "c",
@@ -18209,7 +18209,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.533 units per hours (1)",
+     "answer": "-0.533 pH units per hour (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -18259,7 +18259,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the percentage decrease in pH between 1 hours and 5 hours.\n\nGive your answer to the nearest whole number.",
+    "text": "Calculate the percentage decrease in pH between 1 hour and 5 hours.\n\nGive your answer to the nearest whole number.",
     "marks": 2,
     "space": "working",
     "lines": 4,
@@ -18372,7 +18372,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Use the graph to give the pH at 1 hours.",
+    "text": "Use the graph to give the pH at 1 hour.",
     "marks": 1,
     "lines": 1,
     "figures": [
@@ -18385,12 +18385,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of pH between 1 hours and 5 hours.",
+    "text": "Calculate the mean rate of change of pH between 1 hour and 5 hours.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per hours"
+    "answer_suffix": "pH units per hour"
    },
    {
     "label": "c",
@@ -18417,7 +18417,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.425 units per hours (1)",
+     "answer": "-0.425 pH units per hour (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -18485,7 +18485,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per hours"
+    "answer_suffix": "pH units per hour"
    },
    {
     "label": "c",
@@ -18512,7 +18512,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.533 units per hours (1)",
+     "answer": "-0.533 pH units per hour (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -18575,12 +18575,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of pH between 1 hours and 5 hours.",
+    "text": "Calculate the mean rate of change of pH between 1 hour and 5 hours.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per hours"
+    "answer_suffix": "pH units per hour"
    },
    {
     "label": "c",
@@ -18607,7 +18607,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.425 units per hours (1)",
+     "answer": "-0.425 pH units per hour (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"

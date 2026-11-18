@@ -1,0 +1,310 @@
+{
+ "batch": "spanish-recheck-2",
+ "answers": {
+  "spanish.r-pictures.e1.0012": {
+   "a": "D",
+   "b": "F",
+   "c": "B",
+   "d": "C",
+   "e": "A"
+  },
+  "spanish.r-short.a1.0008": {
+   "a": "Perú",
+   "b": "por la tarde no tiene clases",
+   "c": "el veinte de febrero",
+   "d": "media hora",
+   "e": "ve películas con su hermano",
+   "f": "se aburría (un poco)",
+   "g": "solo llega cinco minutos tarde de vez en cuando",
+   "h": "estudiar dos horas",
+   "i": "hace buen tiempo / los días son más largos",
+   "j": "quince minutos",
+   "k": "en casa de sus abuelos",
+   "l": "perdió el tren de las ocho"
+  },
+  "spanish.r-short.b4.0010": {
+   "a": "Colombia",
+   "b": "no pierde tiempo eligiendo ropa por la mañana",
+   "c": "ropa cómoda (vaqueros, sudadera, zapatillas)",
+   "d": "es demasiado cara",
+   "e": "en tiendas de segunda mano",
+   "f": "le quedaba pequeña",
+   "g": "su abuela",
+   "h": "le hacen descuento",
+   "i": "compra más rápido",
+   "j": "un abrigo muy caliente / unos guantes",
+   "k": "para hacer su propia ropa",
+   "l": "pendientes"
+  },
+  "spanish.r-short.c1.0012": {
+   "a": "Costa Rica",
+   "b": "en el centro",
+   "c": "sus montañas / el queso",
+   "d": "dos",
+   "e": "inglés",
+   "f": "muy abierta y acogedora",
+   "g": "lo diferentes que son las casas",
+   "h": "es tranquila / está al lado del mar",
+   "i": "sus padres trabajaban allí como médicos",
+   "j": "te ayuda a entender mejor a otras personas",
+   "k": "en tren y en autobús",
+   "l": "hace mucho frío"
+  },
+  "spanish.r-short.e1.0001": {
+   "a": "Inglaterra",
+   "b": "el español",
+   "c": "la pronunciación (la erre)",
+   "d": "ve series en versión original con subtítulos",
+   "e": "a las cuatro",
+   "f": "en el bolsillo de su chaqueta",
+   "g": "aprendes mucho",
+   "h": "no es suficiente; hay que hablar más idiomas",
+   "i": "en Berlín",
+   "j": "traductor",
+   "k": "por su cultura",
+   "l": "el avión tuvo un retraso de seis horas"
+  },
+  "spanish.r-short.e2.0012": {
+   "a": "Uruguay",
+   "b": "los Reyes Magos",
+   "c": "le encanta disfrazarse",
+   "d": "no come durante el día",
+   "e": "en agosto",
+   "f": "hay demasiado ruido",
+   "g": "forman parte de nuestra identidad",
+   "h": "son crueles (deberían prohibirse)",
+   "i": "en casa",
+   "j": "con su padre",
+   "k": "en una casa de campo",
+   "l": "doce uvas"
+  },
+  "spanish.r-signs.a1.0005": {
+   "a": "A",
+   "b": "H",
+   "c": "G",
+   "d": "E",
+   "e": "C"
+  },
+  "spanish.r-signs.d2.0001": {
+   "a": "H",
+   "b": "D",
+   "c": "F",
+   "d": "C",
+   "e": "A"
+  },
+  "spanish.r-text-mcq.b4.0004": {
+   "a": "azul",
+   "b": "ropa cómoda",
+   "c": "Porque es demasiado cara",
+   "d": "en tiendas de segunda mano",
+   "e": "Le hacen descuento",
+   "f": "Compra más rápido",
+   "g": "pendientes"
+  },
+  "spanish.r-text-mcq.c1.0009": {
+   "a": "Por sus montañas y su queso",
+   "b": "Abierta y acogedora",
+   "c": "Porque es tranquila y está junto al mar",
+   "d": "Asia",
+   "e": "Porque sus padres trabajaban allí",
+   "f": "Hace las clases más interesantes",
+   "g": "Es fácil viajar a todas partes"
+  },
+  "spanish.s-conversation.a3.0012": {
+   "all": "Plan: answer each question with detail, opinions and justification; use past (última vez enfermo, últimas vacaciones), future (proteger el planeta) and conditional (trabajar en un hospital)."
+  },
+  "spanish.s-roleplay.a2.0001": {
+   "1": "Quiero manzanas y naranjas.",
+   "2": "Dos kilos, por favor.",
+   "3": "Para cinco personas.",
+   "4": "Sí, probé la paella; estaba riquísima.",
+   "5": "Voy a preparar una macedonia de frutas."
+  },
+  "spanish.s-roleplay.b4.0011": {
+   "1": "Uso la talla mediana.",
+   "2": "La quiero azul.",
+   "3": "Es para mi hermano | porque es su cumpleaños.",
+   "4": "Compré unos vaqueros.",
+   "5": "Voy a visitar el museo Guggenheim."
+  },
+  "spanish.s-roleplay.b5.0008": {
+   "1": "Me interesa la natación.",
+   "2": "Dos veces por semana.",
+   "3": "Por la mañana | porque hace menos calor.",
+   "4": "Jugué al baloncesto.",
+   "5": "Voy a ir a la playa."
+  },
+  "spanish.s-roleplay.c2.0004": {
+   "1": "Porque me encanta la naturaleza.",
+   "2": "Puedo venir el sábado.",
+   "3": "Reciclo y apago las luces.",
+   "4": "Limpié la playa con mi clase.",
+   "5": "Me gustaría plantar árboles."
+  },
+  "spanish.s-roleplay.c3.0001": {
+   "1": "Para hacer los deberes.",
+   "2": "Una hora.",
+   "3": "El ordenador | porque la pantalla es más grande.",
+   "4": "Vi vídeos y hablé con amigos.",
+   "5": "Voy a volver a casa."
+  },
+  "spanish.s-roleplay.e1.0008": {
+   "1": "Porque quiero trabajar en Sudamérica.",
+   "2": "Hace tres años.",
+   "3": "La pronunciación | porque la erre es difícil.",
+   "4": "Sí, he visitado México.",
+   "5": "Me gustaría ser traductor."
+  },
+  "spanish.s-roleplay.e2.0004": {
+   "1": "Busco un libro.",
+   "2": "Cumple dieciséis años.",
+   "3": "Le gusta leer | Le voy a comprar una novela.",
+   "4": "Le regalé una camiseta.",
+   "5": "Vamos a cenar en un restaurante."
+  },
+  "spanish.w-extended.a2.0002": {
+   "all": "Plan: answer all bullets with developed opinions and reasons; use present, preterite/imperfect, future and conditional; 130-140 words."
+  },
+  "spanish.w-extended.a3.0009": {
+   "all": "Plan: answer all bullets with developed opinions and reasons; use present, preterite/imperfect, future and conditional; 130-140 words."
+  },
+  "spanish.w-extended.b5.0012": {
+   "all": "Plan: answer all bullets with developed opinions and reasons; use present, preterite/imperfect, future and conditional; 130-140 words. Note bullets 4 and 5 both require the future."
+  },
+  "spanish.w-extended.c1.0013": {
+   "all": "Plan: answer all bullets with developed opinions and reasons; use present, preterite/imperfect, future and conditional; 130-140 words. Note bullets 4 and 5 overlap (where you will live)."
+  },
+  "spanish.w-extended.d1.0007": {
+   "all": "Plan: answer all bullets with developed opinions and reasons; use present, preterite/imperfect, future and conditional; 130-140 words."
+  },
+  "spanish.w-extended.d2.0005": {
+   "all": "Plan: answer all bullets with developed opinions and reasons; use present, preterite/imperfect, future and conditional; 130-140 words."
+  },
+  "spanish.w-form.a3.0005": {
+   "all": "fútbol; los cacahuetes; ocho horas; la espalda; ninguno / paracetamol"
+  },
+  "spanish.w-form.a4.0004": {
+   "all": "azul; un libro y unas llaves; el lunes; en el asiento / debajo del asiento"
+  },
+  "spanish.w-form.b4.0007": {
+   "all": "verde; zapatillas negras; una camisa y unos pantalones; una gorra"
+  },
+  "spanish.w-form.b5.0003": {
+   "all": "el tenis; el jueves; la natación y el yoga; el club de baloncesto del barrio"
+  },
+  "spanish.w-form.c1.0006": {
+   "all": "España; española; el norte; español; Asia"
+  },
+  "spanish.w-form.e1.0006": {
+   "all": "francés; inglés y español; Italia; con una familia; cuatro"
+  },
+  "spanish.w-short.a3.0001": {
+   "all": "Plan: cover 4 bullets in 80-90 words: present for fitness and sleep, opinion with reason on sleep, preterite for last week."
+  }
+ },
+ "verdicts": {
+  "spanish.r-pictures.e1.0012": {
+   "result": "pass"
+  },
+  "spanish.r-short.a1.0008": {
+   "result": "fail",
+   "problem": "Part (a) asks '¿En qué país…?' but the mark scheme accepts the city (Lima), which does not answer the question.",
+   "fix": "(a) (En) Perú — 1 [Refuse Lima tc]"
+  },
+  "spanish.r-short.b4.0010": {
+   "result": "fail",
+   "problem": "Part (a) asks '¿En qué país…?' but the mark scheme accepts the city (Cali), which does not answer the question.",
+   "fix": "(a) (En) Colombia — 1 [Refuse Cali tc]"
+  },
+  "spanish.r-short.c1.0012": {
+   "result": "fail",
+   "problem": "Part (a) asks '¿En qué país…?' but the mark scheme accepts the city (San José), which does not answer the question.",
+   "fix": "(a) (En) Costa Rica — 1 [Refuse San José tc]"
+  },
+  "spanish.r-short.e1.0001": {
+   "result": "fail",
+   "problem": "Part (a) asks '¿En qué país…?' but the mark scheme accepts the city (Londres), which does not answer the question.",
+   "fix": "(a) (En) Inglaterra — 1 [Refuse Londres tc]"
+  },
+  "spanish.r-short.e2.0012": {
+   "result": "fail",
+   "problem": "Part (a) asks '¿En qué país…?' but the mark scheme accepts the city (Montevideo), which does not answer the question.",
+   "fix": "(a) (En) Uruguay — 1 [Refuse Montevideo tc]"
+  },
+  "spanish.r-signs.a1.0005": {
+   "result": "pass"
+  },
+  "spanish.r-signs.d2.0001": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.b4.0004": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.c1.0009": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.a3.0012": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.a2.0001": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.b4.0011": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.b5.0008": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.c2.0004": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.c3.0001": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.e1.0008": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.e2.0004": {
+   "result": "pass"
+  },
+  "spanish.w-extended.a2.0002": {
+   "result": "pass"
+  },
+  "spanish.w-extended.a3.0009": {
+   "result": "pass"
+  },
+  "spanish.w-extended.b5.0012": {
+   "result": "pass"
+  },
+  "spanish.w-extended.c1.0013": {
+   "result": "pass"
+  },
+  "spanish.w-extended.d1.0007": {
+   "result": "pass"
+  },
+  "spanish.w-extended.d2.0005": {
+   "result": "pass"
+  },
+  "spanish.w-form.a3.0005": {
+   "result": "pass"
+  },
+  "spanish.w-form.a4.0004": {
+   "result": "pass"
+  },
+  "spanish.w-form.b4.0007": {
+   "result": "pass"
+  },
+  "spanish.w-form.b5.0003": {
+   "result": "pass"
+  },
+  "spanish.w-form.c1.0006": {
+   "result": "pass"
+  },
+  "spanish.w-form.e1.0006": {
+   "result": "pass"
+  },
+  "spanish.w-short.a3.0001": {
+   "result": "pass"
+  }
+ }
+}

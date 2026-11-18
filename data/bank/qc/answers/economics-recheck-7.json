@@ -1,0 +1,239 @@
+{
+ "batch": "economics-recheck-7",
+ "answers": {
+  "economics.government-analyse-1.0007": {
+   "all": "Private owner seeks profit: may cut costs/jobs, reduce pay or worsen conditions, cutting union power; but rising passenger numbers and private investment may expand airport, creating jobs, training, productivity-related pay; loss of job security vs state."
+  },
+  "economics.growth-calc.0016": {
+   "all": "(353-358)/358 x100 = -1.40%"
+  },
+  "economics.growth-data.0009": {
+   "a": "(4750-4762)/4762 x100 = -0.25%",
+   "b": "Falling consumer spending lowers demand/revenue/profit; firms cut output, lay off workers, cut investment; high energy costs raise costs; some close; inferior/discount firms may gain.",
+   "c": "Recession reduces AD so demand-pull inflation falls; spare capacity, unemployment restrains wages. But high energy prices cause cost-push inflation (stagflation); depends on duration/severity, exchange rate, gov policy. Judgement: inflation likely eases but energy costs may keep it high short run."
+  },
+  "economics.growth-diagram.0016": {
+   "all": "PPC shifts inward (left/down) parallel-ish to a new curve PPC1 inside original, both axes intercepts reduced; labelled PPC1."
+  },
+  "economics.growth-explain.0002": {
+   "all": "Fast growth means AD rising faster than productive capacity; spare capacity used up, shortages of labour/resources bid up wages and costs; firms raise prices - demand-pull inflation."
+  },
+  "economics.growth-mcq-def.0005": {
+   "all": "D - negative growth for two consecutive quarters"
+  },
+  "economics.inflation-analyse-1.0003": {
+   "all": "Cost-push: rising energy and food prices raise firms' costs, passed on as higher prices; wage-price spiral as workers demand higher wages, raising costs further; possibly demand-pull from higher incomes/spending."
+  },
+  "economics.inflation-data.0017": {
+   "a": "(123.3-125.3)/125.3 x100 = -1.60%",
+   "b": "Delayed purchases cut consumer spending, lowers demand/output, firms cut jobs, profits fall; real debt burden rises; deflationary spiral; exports more competitive.",
+   "c": "Harmful: delayed spending, falling output, unemployment, real debt up. Not harmful: fall is small (1.6%), may be supply-side/benign (lower costs, tech), real incomes rise, exports competitive. Judgement depends on cause and persistence."
+  },
+  "economics.intervention-pol-analyse-1.0008": {
+   "all": "Fines raise cost of polluting above the limit, giving incentive to cut waste/invest in cleaner tech; internalise external cost. Permits cap total pollution (21% reduction), price on pollution, firms that cut cheaply sell permits - efficient reduction; cap tightened over time."
+  },
+  "economics.intervention-pol-analyse-2.0004": {
+   "all": "Ban reduces demand for older high-emission vehicles (price falls, some scrapped/sold elsewhere); grant lowers effective price of EVs, demand for EVs shifts right, higher sales/price; supply of EVs may increase; shift in market composition."
+  },
+  "economics.intervention-pol-assess-1.0006": {
+   "all": "Permits: guaranteed cap 30%, market-based efficiency, revenue, incentive to innovate; but permit price volatile, hard to set allocation, monitoring. Fines: simple, but need enforcement, may be too low, no incentive below limit. Judgement depends on enforcement and fine level."
+  },
+  "economics.intervention-pol-assess-2.0001": {
+   "all": "Regulation (ban) directly removes high-emission vehicles - certain effect, quick; but costly enforcement, hurts poorer drivers, may push traffic elsewhere. Alternatives: grant V$1,000 (small subsidy), congestion charge/tax, public transport. Judgement: combination best."
+  },
+  "economics.intervention-pol-evaluate-1.0007": {
+   "all": "As assess: permits guarantee 35% cut, efficient, innovation, revenue; drawbacks: allocation, price volatility, monitoring, few firms on one river - thin market. Fines: simple, cheaper to run; but fine level, enforcement, only punish after damage. Conclusion with conditions."
+  },
+  "economics.intervention-pol-evaluate-2.0007": {
+   "all": "Ban: direct, certain reduction in city-centre emissions; but enforcement cost, unfair on low income, displacement. Grant S£3,000 lowers EV cost but costly to gov, may subsidise those who would buy anyway. Alternatives: taxes, congestion charge, public transport. Judgement: regulation effective short-term, combination best."
+  },
+  "economics.labour-analyse-1.0006": {
+   "all": "Employed low-paid workers gain higher income/living standards, motivation; but higher labour costs may cause small retail/hospitality firms to cut staff/hours, unemployment esp. young/unskilled; possible automation; depends on elasticity of demand for labour."
+  },
+  "economics.labour-data.0018": {
+   "a": "13.10 x 39 = CHF510.90; x2 = CHF1,021.80 per week",
+   "b": "Engineers: scarce skilled labour (low supply, long training), high demand/high MRP; shop assistants: plentiful supply of low-skilled labour, many applicants, so lower wage.",
+   "c": "May fall: training/education increases supply of engineers, migration, minimum wage raises low pay. May not: tech raises demand for engineers, automation lowers demand for shop workers, training barriers. Judgement: unlikely to fall much."
+  },
+  "economics.objectives-state-class.0002": {
+   "all": "To benefit from economies of scale / increase profit / market share"
+  },
+  "economics.ped-data.0017": {
+   "a": "%ΔQ = 22000/67000 = 32.84%; %ΔP = -0.40/3.70 = -10.81%; PED = -3.04",
+   "b": "Premium has many substitutes: price elastic (PED -3.04), so price cut raises total revenue; basic habit product price inelastic, so raise price to increase revenue.",
+   "c": "Cut premium price: elastic, revenue rises (as shown); but costs/profit, competitor reaction. Basic: inelastic, cut reduces revenue; better raise price. Conclusion: do not cut both - only premium."
+  },
+  "economics.pes-analyse-1.0007": {
+   "all": "Textiles: spare capacity, can raise output quickly, so PES elastic. Cotton: harvested once a year, long growing time, cannot raise output quickly in short run, so inelastic; perishable/storage issues."
+  },
+  "economics.pes-assess-1.0006": {
+   "all": "Textiles react faster due to spare capacity, stocks; cotton constrained by annual harvest; but textiles need cotton input - shortage limits; cotton stockpiles allow some response; in long run cotton can expand planting. Judgement: mostly true, especially short run."
+  },
+  "economics.pes-diagram.0017": {
+   "all": "Draw shallow (elastic) supply curve; mark P1 and P2 on price axis; read off Q1 and Q2 showing proportionally larger rise in quantity supplied (movement along curve)."
+  },
+  "economics.pes-explain.0002": {
+   "all": "Spare capacity (30% unused) means it can increase output quickly when price rises without large extra cost; so quantity supplied responds more than proportionately - PES > 1."
+  },
+  "economics.price-data.0006": {
+   "a": "(7350-6000)/6000 x100 = 22.50%",
+   "b": "Poor harvests shift supply left; growing demand shifts demand right; both raise price; quantity effect uncertain; consumers may switch to substitutes.",
+   "c": "Stay high: demand growth persistent, inelastic supply (olive trees slow to grow), climate change. Fall: harvests recover, supply shifts right, high prices encourage new planting, substitutes. Judgement depends on weather."
+  },
+  "economics.price-diagram.0003": {
+   "all": "Demand shifts right D1; new equilibrium price P1 higher, quantity Q1 higher, labelled."
+  },
+  "economics.production-analyse-2.0008": {
+   "all": "Value added by processing coffee - higher export revenue, improved current account; jobs and higher incomes; skills, FDI; less reliance on raw commodity price volatility; growth and multiplier."
+  },
+  "economics.production-define2.0006": {
+   "all": "The decline in the importance of the secondary/manufacturing sector in an economy, measured by its share of output or employment."
+  },
+  "economics.productivity-define2.0003": {
+   "all": "Splitting production into separate tasks, with each worker specialising in one task."
+  },
+  "economics.protection-data.0006": {
+   "a": "(66000-93000)/93000 x100 = -29.03%",
+   "b": "Domestic producers face less competition from cheap/dumped imports, raise output, jobs, profits; protect against dumping; improve current account.",
+   "c": "Benefits: jobs, anti-dumping, industry. Costs: higher prices for consumers/firms using tyres, less choice, inefficiency, retaliation. Judgement depends on extent of dumping, duration."
+  },
+  "economics.protection-state.0003": {
+   "all": "Higher prices / less choice"
+  },
+  "economics.scale-state.0003": {
+   "all": "Purchasing (bulk-buying) economies"
+  },
+  "economics.supply-analyse-1.0007": {
+   "all": "Drought reduces yields - supply shifts left; fertiliser price rise raises costs - supply shifts left; irrigation subsidy lowers costs/raises future yields - supply shifts right; net likely fall this year."
+  },
+  "economics.supply-analyse-2.0002": {
+   "all": "Automation lowers unit costs/raises productivity - supply shifts right; 8% wage rise raises costs - supply left; tax on electronics raises costs - supply left; net effect depends on relative size."
+  },
+  "economics.supply-diagram.0015": {
+   "all": "Supply shifts right to S1; new lower price P1 and higher quantity Q1 labelled."
+  },
+  "economics.supply-explain.0013": {
+   "all": "Disease reduces cocoa yield/output; supply falls, shifting supply curve left; at each price less supplied, raising price."
+  },
+  "economics.trade-state-class.0003": {
+   "all": "Domestic industries may close leading to unemployment"
+  },
+  "economics.unemployment-data.0011": {
+   "a": "9.0% x 25,800,000 = 2,322,000",
+   "b": "Lower incomes and spending, multiplier reduces AD and growth; lower tax revenue, higher benefit spending - budget deficit; poverty, skills loss; hits construction and retail.",
+   "c": "For: raises AD via multiplier, infrastructure helps construction; counters cyclical unemployment. Against: budget deficit/debt, time lags, crowding out, may not fix structural unemployment. Judgement: yes for cyclical recession if finance available."
+  }
+ },
+ "verdicts": {
+  "economics.government-analyse-1.0007": {
+   "result": "pass"
+  },
+  "economics.growth-calc.0016": {
+   "result": "pass"
+  },
+  "economics.growth-data.0009": {
+   "result": "pass"
+  },
+  "economics.growth-diagram.0016": {
+   "result": "pass"
+  },
+  "economics.growth-explain.0002": {
+   "result": "pass"
+  },
+  "economics.growth-mcq-def.0005": {
+   "result": "pass"
+  },
+  "economics.inflation-analyse-1.0003": {
+   "result": "pass"
+  },
+  "economics.inflation-data.0017": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-analyse-1.0008": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-analyse-2.0004": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-assess-1.0006": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-assess-2.0001": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-evaluate-1.0007": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-evaluate-2.0007": {
+   "result": "pass"
+  },
+  "economics.labour-analyse-1.0006": {
+   "result": "pass"
+  },
+  "economics.labour-data.0018": {
+   "result": "pass"
+  },
+  "economics.objectives-state-class.0002": {
+   "result": "pass"
+  },
+  "economics.ped-data.0017": {
+   "result": "pass"
+  },
+  "economics.pes-analyse-1.0007": {
+   "result": "pass"
+  },
+  "economics.pes-assess-1.0006": {
+   "result": "pass"
+  },
+  "economics.pes-diagram.0017": {
+   "result": "pass"
+  },
+  "economics.pes-explain.0002": {
+   "result": "pass"
+  },
+  "economics.price-data.0006": {
+   "result": "pass"
+  },
+  "economics.price-diagram.0003": {
+   "result": "pass"
+  },
+  "economics.production-analyse-2.0008": {
+   "result": "pass"
+  },
+  "economics.production-define2.0006": {
+   "result": "pass"
+  },
+  "economics.productivity-define2.0003": {
+   "result": "pass"
+  },
+  "economics.protection-data.0006": {
+   "result": "fail",
+   "problem": "Part (a) wording glitch: \"93,000 tyres of tyres a year\" (and \"tyres imports\" in (c)); maths and MS otherwise correct (-29.03%).",
+   "fix": "\"Before the quota, Rendova imported 93,000 tyres a year.\" and \"the quota on tyre imports\"."
+  },
+  "economics.protection-state.0003": {
+   "result": "pass"
+  },
+  "economics.scale-state.0003": {
+   "result": "pass"
+  },
+  "economics.supply-analyse-1.0007": {
+   "result": "pass"
+  },
+  "economics.supply-analyse-2.0002": {
+   "result": "pass"
+  },
+  "economics.supply-diagram.0015": {
+   "result": "pass"
+  },
+  "economics.supply-explain.0013": {
+   "result": "pass"
+  },
+  "economics.trade-state-class.0003": {
+   "result": "pass"
+  },
+  "economics.unemployment-data.0011": {
+   "result": "pass"
+  }
+ }
+}

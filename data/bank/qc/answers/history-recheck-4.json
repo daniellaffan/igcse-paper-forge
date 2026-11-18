@@ -1,0 +1,31 @@
+{
+ "batch": "history-recheck-4",
+ "answers": {
+  "history.russia-support.0006": {
+   "all": "Partial support. Both mention Lena shooting and strikes/agitation, so unrest. But A says pay better than most and gov insurance (1912) - contrasts B's hunger, long hours, low wages, Duma does nothing. Provenance: owner biased to blame agitators; leaflet propaganda. Judgement: supports unrest, challenges on wages/conditions."
+  },
+  "history.russia-support.0060": {
+   "all": "Largely supports. Both: private traders/Nepmen back, seen as return of capitalism (A bourgeoisie back; B comrades complain); price issues (A high bread prices; B high manufactured prices). Difference: B stresses recovery (grain near pre-war, small industry flourishing); A says kulaks rich, wages low; B's price scissors hurts peasants not kulaks enriched. Provenance: angry idealist vs official report."
+  },
+  "history.russia-support.0026": {
+   "all": "Partial. Both: freedoms granted, Constituent Assembly coming, war continued vs Germany. A adds weakness: dual power, Soviet orders obeyed first, govern with Soviet's permission; offensive forced by allies - contradicts B's confident picture. Provenance: private diary candid vs public speech propaganda."
+  },
+  "history.russia-support.0058": {
+   "all": "Some support. Both: NEP allowed private trade/capitalist elements (A step back, peasants incentive; B bourgeoisie back) and some comrades see betrayal (A notes many call it betrayal; B asks is this communism). Differ: A says not capitalism, breathing space, state keeps large industry; B sees kulaks rich, workers poor. Provenance: Lenin justifying policy vs disillusioned member."
+  }
+ },
+ "verdicts": {
+  "history.russia-support.0006": {
+   "result": "pass"
+  },
+  "history.russia-support.0060": {
+   "result": "pass"
+  },
+  "history.russia-support.0026": {
+   "result": "pass"
+  },
+  "history.russia-support.0058": {
+   "result": "pass"
+  }
+ }
+}

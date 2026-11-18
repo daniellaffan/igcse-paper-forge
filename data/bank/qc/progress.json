@@ -3870,6 +3870,245 @@
     "biology.plant-responses-prac-step.0001",
     "biology.respiration-prac-plan.0003"
    ],
+   "status": "answered"
+  },
+  "history-recheck-2": {
+   "subject": "history",
+   "ids": [
+    "history.russia-investigation.0006",
+    "history.russia-investigation.0038",
+    "history.russia-investigation.0012",
+    "history.russia-support.0044",
+    "history.russia-support.0011",
+    "history.russia-support.0026"
+   ],
+   "status": "answered"
+  },
+  "biology-recheck-2": {
+   "subject": "biology",
+   "ids": [
+    "biology.feeding-data-read.0004",
+    "biology.feeding-data-read.0003",
+    "biology.environment-prac-reliab.0002",
+    "biology.environment-prac-reliab.0003"
+   ],
+   "status": "answered"
+  },
+  "spanish-recheck-1": {
+   "subject": "spanish",
+   "ids": [
+    "spanish.l-announce.c3.0002",
+    "spanish.l-announce.c4.0004",
+    "spanish.l-interview-3.b4.0003",
+    "spanish.l-interview-3.c1.0013",
+    "spanish.l-interview-3.e2.0005",
+    "spanish.l-interview-4.c3.0002",
+    "spanish.l-short.a2.0012",
+    "spanish.l-short.c2.0003",
+    "spanish.l-short.c4.0005",
+    "spanish.r-long.a3.0002",
+    "spanish.r-long.a4.0006",
+    "spanish.r-long.b4.0013",
+    "spanish.r-long.c1.0012",
+    "spanish.r-long.c2.0008",
+    "spanish.r-long.e1.0010",
+    "spanish.r-pictures.b2.0007",
+    "spanish.r-pictures.c1.0008",
+    "spanish.r-pictures.c2.0010",
+    "spanish.r-pictures.c3.0008",
+    "spanish.r-pictures.d1.0007"
+   ],
+   "status": "answered"
+  },
+  "spanish-recheck-2": {
+   "subject": "spanish",
+   "ids": [
+    "spanish.r-pictures.e1.0012",
+    "spanish.r-short.a1.0008",
+    "spanish.r-short.b4.0010",
+    "spanish.r-short.c1.0012",
+    "spanish.r-short.e1.0001",
+    "spanish.r-short.e2.0012",
+    "spanish.r-signs.a1.0005",
+    "spanish.r-signs.d2.0001",
+    "spanish.r-text-mcq.b4.0004",
+    "spanish.r-text-mcq.c1.0009",
+    "spanish.s-conversation.a3.0012",
+    "spanish.s-roleplay.a2.0001",
+    "spanish.s-roleplay.b4.0011",
+    "spanish.s-roleplay.b5.0008",
+    "spanish.s-roleplay.c2.0004",
+    "spanish.s-roleplay.c3.0001",
+    "spanish.s-roleplay.e1.0008",
+    "spanish.s-roleplay.e2.0004",
+    "spanish.w-extended.a2.0002",
+    "spanish.w-extended.a3.0009",
+    "spanish.w-extended.b5.0012",
+    "spanish.w-extended.c1.0013",
+    "spanish.w-extended.d1.0007",
+    "spanish.w-extended.d2.0005",
+    "spanish.w-form.a3.0005",
+    "spanish.w-form.a4.0004",
+    "spanish.w-form.b4.0007",
+    "spanish.w-form.b5.0003",
+    "spanish.w-form.c1.0006",
+    "spanish.w-form.e1.0006",
+    "spanish.w-short.a3.0001"
+   ],
+   "status": "answered"
+  },
+  "economics-recheck-6": {
+   "subject": "economics",
+   "ids": [
+    "economics.bop-analyse-1.0001",
+    "economics.competition-analyse-2.0003",
+    "economics.competition-assess-2.0001",
+    "economics.competition-assess-3.0004",
+    "economics.competition-evaluate-2.0003",
+    "economics.competition-evaluate-3.0001",
+    "economics.competition-explain.0002",
+    "economics.competition-mcq-class.0007",
+    "economics.competition-state-id.0009",
+    "economics.costs-analyse-1.0005",
+    "economics.costs-analyse-3.0003",
+    "economics.costs-assess-1.0003",
+    "economics.costs-assess-3.0001",
+    "economics.costs-calc.0006",
+    "economics.costs-data.0005",
+    "economics.costs-evaluate-1.0003",
+    "economics.costs-evaluate-2.0005",
+    "economics.costs-evaluate-3.0003",
+    "economics.demand-calc.0008",
+    "economics.demand-diagram.0006",
+    "economics.demand-mcq-def.0001",
+    "economics.economic-problem-mcq-def.0007",
+    "economics.environment-explain.0003",
+    "economics.exchange-data.0013",
+    "economics.exchange-explain.0003",
+    "economics.externalities-analyse-1.0001",
+    "economics.externalities-assess-1.0003",
+    "economics.externalities-data.0015",
+    "economics.externalities-evaluate-1.0001",
+    "economics.externalities-mcq-def.0001",
+    "economics.fiscal-data.0003",
+    "economics.globalisation-analyse-3.0006",
+    "economics.globalisation-assess-3.0002",
+    "economics.globalisation-evaluate-3.0002",
+    "economics.globalisation-explain.0001",
+    "economics.globalisation-state-class.0002"
+   ],
+   "status": "answered"
+  },
+  "economics-recheck-7": {
+   "subject": "economics",
+   "ids": [
+    "economics.government-analyse-1.0007",
+    "economics.growth-calc.0016",
+    "economics.growth-data.0009",
+    "economics.growth-diagram.0016",
+    "economics.growth-explain.0002",
+    "economics.growth-mcq-def.0005",
+    "economics.inflation-analyse-1.0003",
+    "economics.inflation-data.0017",
+    "economics.intervention-pol-analyse-1.0008",
+    "economics.intervention-pol-analyse-2.0004",
+    "economics.intervention-pol-assess-1.0006",
+    "economics.intervention-pol-assess-2.0001",
+    "economics.intervention-pol-evaluate-1.0007",
+    "economics.intervention-pol-evaluate-2.0007",
+    "economics.labour-analyse-1.0006",
+    "economics.labour-data.0018",
+    "economics.objectives-state-class.0002",
+    "economics.ped-data.0017",
+    "economics.pes-analyse-1.0007",
+    "economics.pes-assess-1.0006",
+    "economics.pes-diagram.0017",
+    "economics.pes-explain.0002",
+    "economics.price-data.0006",
+    "economics.price-diagram.0003",
+    "economics.production-analyse-2.0008",
+    "economics.production-define2.0006",
+    "economics.productivity-define2.0003",
+    "economics.protection-data.0006",
+    "economics.protection-state.0003",
+    "economics.scale-state.0003",
+    "economics.supply-analyse-1.0007",
+    "economics.supply-analyse-2.0002",
+    "economics.supply-diagram.0015",
+    "economics.supply-explain.0013",
+    "economics.trade-state-class.0003",
+    "economics.unemployment-data.0011"
+   ],
+   "status": "answered"
+  },
+  "history-recheck-3": {
+   "subject": "history",
+   "ids": [
+    "history.russia-support.0040",
+    "history.russia-support.0017",
+    "history.russia-support.0048"
+   ],
+   "status": "answered"
+  },
+  "biology-recheck-3": {
+   "subject": "biology",
+   "ids": [
+    "biology.environment-prac-reliab.0002",
+    "biology.environment-prac-reliab.0001",
+    "biology.environment-prac-reliab.0003"
+   ],
+   "status": "answered"
+  },
+  "spanish-recheck-3": {
+   "subject": "spanish",
+   "ids": [
+    "spanish.l-short.a2.0004",
+    "spanish.r-pictures.b2.0006",
+    "spanish.r-short.a1.0007",
+    "spanish.r-short.a2.0003",
+    "spanish.r-short.a3.0004",
+    "spanish.r-short.a4.0012",
+    "spanish.r-short.b1.0001",
+    "spanish.r-short.b2.0002",
+    "spanish.r-short.b4.0003",
+    "spanish.r-short.b5.0004",
+    "spanish.r-short.c1.0013",
+    "spanish.r-short.c2.0009",
+    "spanish.r-short.c3.0004",
+    "spanish.r-short.c4.0007",
+    "spanish.r-short.d1.0011",
+    "spanish.r-short.d2.0001",
+    "spanish.r-short.e1.0008",
+    "spanish.r-short.e2.0008"
+   ],
+   "status": "answered"
+  },
+  "history-recheck-4": {
+   "subject": "history",
+   "ids": [
+    "history.russia-support.0006",
+    "history.russia-support.0060",
+    "history.russia-support.0026",
+    "history.russia-support.0058"
+   ],
+   "status": "pending"
+  },
+  "economics-recheck-8": {
+   "subject": "economics",
+   "ids": [
+    "economics.protection-data.0001",
+    "economics.protection-data.0017",
+    "economics.protection-assess-1.0001"
+   ],
+   "status": "pending"
+  },
+  "spanish-recheck-4": {
+   "subject": "spanish",
+   "ids": [
+    "spanish.r-short.a2.0011",
+    "spanish.r-short.a2.0010",
+    "spanish.r-long.a2.0002"
+   ],
    "status": "pending"
   }
  },

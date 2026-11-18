@@ -29,10 +29,18 @@ from common import Bank, row, levels  # noqa: E402
 import spanish_lex as LX  # noqa: E402
 import spanish_spec as SP  # noqa: E402
 import spanish_ca, spanish_cb, spanish_cc, spanish_cd, spanish_ce  # noqa: E402
+import spanish_scen as SC  # noqa: E402
 
 CONTENT = {}
 for _m in (spanish_ca, spanish_cb, spanish_cc, spanish_cd, spanish_ce):
     CONTENT.update(_m.C)
+# role plays and forms are scenario records (one context + its own questions/fields)
+for _r, _c in CONTENT.items():
+    assert "rp" not in _c and "form" not in _c, f"{_r}: role plays/forms live in spanish_scen.py"
+    if _r in SC.RP:
+        _c["rp"] = SC.RP[_r]
+    if _r in SC.FORMS:
+        _c["form"] = SC.FORMS[_r]
 
 PER_CELL = 13
 LET = "ABCDEFGHIJ"
@@ -152,7 +160,9 @@ FACT_KEYS = ["s", "iq", "q", "a", "rej", "opts", "t", "f", "lvl"]
 
 def facts_of(c):
     """Fact lines have 9 fields plus an optional 10th, cond: space-separated profile tags the
-    narrator's place must have ("temperate") or must not have ("!capital").  A statement that
+    narrator's place must have ("temperate") or must not have ("!capital"); "+trait" says the fact
+    gives the narrator a trait ("+veg") and "-trait" that it cannot go with that trait ("-veg"),
+    so pick_facts never puts contradicting facts in one narrator's text.  A statement that
     starts with ^ continues the previous fact (it refers back to it) and is only used with it."""
     out = []
     for i, l in enumerate(lines(c["facts"])):
@@ -171,6 +181,8 @@ def facts_of(c):
 def fits(f, p):
     tags = p.get("tags", set())
     for t in f["cond"]:
+        if t[0] in "+-":
+            continue  # narrator traits, checked between facts in pick_facts
         if (t[1:] in tags) if t.startswith("!") else (t not in tags):
             return False
     return True
@@ -195,11 +207,17 @@ def pick_facts(F, n, rnd):
             units.append([f])
     for _ in range(200):
         rnd.shuffle(units)
-        got, k = [], 0
+        got, k, has, bans = [], 0, set(), set()
         for u in units:
+            uh = {c[1:] for f in u for c in f.get("cond", []) if c[0] == "+"}
+            ub = {c[1:] for f in u for c in f.get("cond", []) if c[0] == "-"}
+            if uh & bans or ub & has:
+                continue  # contradicts what the narrator already says (vegetarian + ate ceviche)
             if k + len(u) <= n:
                 got.append(u)
                 k += len(u)
+                has |= uh
+                bans |= ub
             if k == n:
                 break
         if k == n:
@@ -271,21 +289,136 @@ def paragraphs(sents, rnd, sizes=(2, 3)):
 
 SEQ = ["Luego, ", "Después, ", "Más tarde, ", "Entonces ", "A continuación, ", ""]
 
+# ------------------------------------------------------------------ option ambiguity
+
+STOP = set("""el la los las un una unos unas mi mis tu su a al de del en con y o muy hace hay esta está es son
+para por que se me te le lo nos the of and uno dos tres cuatro cinco seis siete ocho nueve diez once doce
+quince veinte treinta cincuenta cien doscientos quinientos medio media y_ con_""".split())
+
+
+def _deacc(w):
+    return w.translate(str.maketrans("áéíóúüÁÉÍÓÚÜ", "aeiouuAEIOUU"))
+
+
+def _stem(w):
+    if len(w) > 4 and w.endswith("es"):
+        return w[:-2]
+    if len(w) > 3 and w.endswith("s"):
+        return w[:-1]
+    return w
+
+
+def words(t):
+    return {_stem(_deacc(w)) for w in re.findall(r"[a-záéíóúñü]+", (t or "").lower()) if w not in STOP}
+
+
+_CONCEPT = {_stem(_deacc(k)): v for k, v in LX.CONCEPT.items()}
+_SYN = {_stem(_deacc(k)): words(v) for k, v in LX.SYNONYMS.items()}
+_GENERIC = {}
+for _cat, _vals in LX.CATS.items():
+    _cnt = {}
+    for _es, _en in _vals:
+        for _w in words(_es):
+            _cnt[_w] = _cnt.get(_w, 0) + 1
+    _GENERIC[_cat] = {w for w, n in _cnt.items() if n >= 3}
+
+
+def concepts(val, cat):
+    """Key concepts of one option value: its distinctive words, their synonyms and the country
+    concept (francesa / Francia / el francés all share 'francesa')."""
+    ws = words(val) - _GENERIC.get(cat, set())
+    out = set(ws)
+    for w in ws:
+        out |= _SYN.get(w, set())
+        if w in _CONCEPT:
+            out.add("@" + _CONCEPT[w])
+    return out
+
+
+def ambiguous(sentences, opts, keys):
+    """opts: [(value, cat)]; keys[k] = index of the option keyed for sentences[k].
+    True if two options share a key concept, or a sentence mentions the concept of an option
+    other than its keyed one (so more than one option could fit it)."""
+    cs = [concepts(v, cat) for v, cat in opts]
+    for i in range(len(cs)):
+        for j in range(i + 1, len(cs)):
+            if cs[i] & cs[j]:
+                return True
+    for k, sent in enumerate(sentences):
+        sw = words(sent)
+        sw |= {"@" + _CONCEPT[w] for w in sw if w in _CONCEPT}
+        for j, c in enumerate(cs):
+            if j != keys[k] and c & sw:
+                return True
+    return False
+
+
+def plural(v):
+    w = v.split()
+    if w[0] in ("los", "las", "unos", "unas"):
+        return True
+    if w[0] in ("el", "la", "un", "una", "mi"):
+        return False
+    return w[-1].endswith("s") and len(w) == 1
+
+
+DETS = {"el", "la", "los", "las", "un", "una", "unos", "unas", "mi", "mis", "tu", "tus", "su", "sus", "este", "esta", "estos", "estas"}
+LIKE_V = re.compile(r"\b((?:me|te|le|nos|les) (?:gust|encant|interes|molest|chifl)\w*(?: nada| mucho| más| bastante)?) \{v\}")
+
+
+def with_article(utt, v):
+    """Gustar-type verbs take a definite article before a bare plural noun: 'no me gustan nada los pimientos'."""
+    w = v.split()[0].lower()
+    if w in DETS or re.search(r"(ar|er|ir)$", w) or not plural(v):
+        return utt
+    return LIKE_V.sub(lambda m: m.group(1) + (" las " if w.endswith("as") else " los ") + "{v}", utt)
+
+
+def val_env(base, v):
+    e = Env(base)
+    e["vars"] = {}
+    e["v"] = v[0]
+    e["n"] = "n" if plural(v[0]) else ""
+    return e
+
+
+def needs_spain(c):
+    return any(l.split("#")[-1].strip() == "precio" for l in lines(c.get("ex", "")))
+
+
 # ------------------------------------------------------------------ Listening
 
 def b_l_short(c, rnd):
-    fr = person(rnd)
     exs = lines(c["ex"])
-    chosen = rnd.sample(exs, 8) if len(exs) >= 8 else (exs + rnd.sample(exs, 8 - len(exs)))
+    fr = person(rnd, need=(lambda t: "spain" in t) if needs_spain(c) else None)
+    base = Env(fr=fr["N"], city=fr["city"], g=fr["g"], vars={})
+    for _ in range(100):
+        chosen = rnd.sample(exs, 8) if len(exs) >= 8 else (exs + rnd.sample(exs, 8 - len(exs)))
+        used, items, bad = set(), [], False
+        for e in chosen:
+            lead, utt, qq, cat = [x.strip() for x in e.split("#")]
+            vals = [v for v in LX.CATS[cat] if not (concepts(v[0], cat) & used)]
+            rnd.shuffle(vals)
+            if len(vals) < 4:
+                bad = True
+                break
+            good = vals[0]
+            dis = [v for v in vals[1:] if v[1] != good[1]][:3]
+            utt = with_article(utt, good[0])
+            env = val_env(base, good)
+            sent = render(utt, env, rnd)
+            if ambiguous([sent], [(o[0], cat) for o in [good] + dis], [0]):
+                bad = True
+                break
+            used |= concepts(good[0], cat)
+            items.append((lead, utt, qq, cat, good, dis, env))
+        if not bad:
+            break
+    else:
+        raise ValueError("l-short: no unambiguous set")
     scene = render(rnd.choice(c["scene"]), Env(fr=fr["N"], city=fr["city"], g=fr["g"], vars={}), rnd)
     parts, rows, tr = [], [], []
-    for k, e in enumerate(chosen):
-        lead, utt, qq, cat = [x.strip() for x in e.split("#")]
-        vals = list(LX.CATS[cat])
-        rnd.shuffle(vals)
-        good = vals[0]
-        dis = [v for v in vals[1:] if v[1] != good[1]][:3]
-        env = Env(fr=fr["N"], g=fr["g"], city=fr["city"], vars={}, v=good[0])
+    for k, (lead, utt, qq, cat, good, dis, env) in enumerate(items):
         pre = "" if k == 0 else ("Finalmente, " if k == 7 else rnd.choice(SEQ))
         ld = render(lead, env, rnd)
         ld = pre + (ld if pre == "" or ld[:1].isupper() and ld.split()[0] == fr["N"] else ld[:1].lower() + ld[1:]) if pre else ld
@@ -315,11 +448,12 @@ def audio(tr, voices=None):
 
 def b_l_announce(c, rnd):
     a = c["ann"]
-    fl = lines(a["facts"])
-    chosen = pick_ordered(fl, 6, rnd)
+    # a line starting with ^ refers back to the line before it and is only used together with it
+    fl = [{"i": i, "dep": l.startswith("^"), "l": l.lstrip("^").strip()} for i, l in enumerate(lines(a["facts"]))]
+    chosen = [f["l"] for f in pick_facts(fl, 6, rnd)]
     env = Env(vars={}, g=rnd.choice("mf"))
-    p = person(rnd)
-    env.update(city=p["city"], country=p["country"])
+    # announcements never name a real place, so nothing in them can be a false fact about it
+    env.update(city="nuestra ciudad", country="nuestro país")
     sp = a["sp"]
     tr = [f"{sp}: {render(a['open'], env, rnd)}"]
     parts, rows = [], []
@@ -486,17 +620,24 @@ def b_l_multi(c, rnd):
 
 def b_r_pictures(c, rnd):
     exs = lines(c["ex"])
-    chosen = rnd.sample(exs, 5)
-    seen, items = set(), []
-    fr = person(rnd)
-    for e in chosen:
-        lead, utt, qq, cat = [x.strip() for x in e.split("#")]
-        vals = [v for v in LX.CATS[cat] if v[1] not in seen]
-        v = rnd.choice(vals)
-        seen.add(v[1])
-        items.append((cap(render(utt, Env(fr=fr["N"], g=fr["g"], vars={}, v=v[0]), rnd)), v, cat))
-    cat_x = rnd.choice([i[2] for i in items])
-    extra = rnd.choice([v for v in LX.CATS[cat_x] if v[1] not in seen])
+    fr = person(rnd, need=(lambda t: "spain" in t) if needs_spain(c) else None)
+    base = Env(fr=fr["N"], g=fr["g"], city=fr["city"], vars={})
+    for _ in range(200):
+        chosen = rnd.sample(exs, 5)
+        seen, items = set(), []
+        for e in chosen:
+            lead, utt, qq, cat = [x.strip() for x in e.split("#")]
+            vals = [v for v in LX.CATS[cat] if v[1] not in seen]
+            v = rnd.choice(vals)
+            seen.add(v[1])
+            items.append((cap(render(with_article(utt, v[0]), val_env(base, v), rnd)), v, cat))
+        cat_x = rnd.choice([i[2] for i in items])
+        extra = rnd.choice([v for v in LX.CATS[cat_x] if v[1] not in seen])
+        opts = [(i[1][0], i[2]) for i in items] + [(extra[0], cat_x)]
+        if not ambiguous([i[0] for i in items], opts, list(range(5))):
+            break
+    else:
+        raise ValueError("r-pictures: no unambiguous set")
     pics = [i[1] for i in items] + [extra]
     order = list(range(6))
     rnd.shuffle(order)
@@ -513,8 +654,16 @@ def b_r_pictures(c, rnd):
 
 def b_r_signs(c, rnd):
     setting, block = c["signs"]
+    # "sign#sentence#group": signs sharing a group could each fit the other's sentence,
+    # so at most one sign per group is ever shown.
     sl = [tuple(x.strip() for x in l.split("#")) for l in lines(block)]
-    shown = rnd.sample(sl, 8)
+    for _ in range(200):
+        shown = rnd.sample(sl, 8)
+        groups = [x[2] for x in shown if len(x) > 2 and x[2]]
+        if len(groups) == len(set(groups)):
+            break
+    else:
+        raise ValueError("r-signs: cannot pick signs from distinct groups")
     asked = rnd.sample(range(8), 5)
     table = [[LET[j], f"**{shown[j][0]}**"] for j in range(8)]
     parts, rows = [], []
@@ -569,8 +718,25 @@ def clean_note(rej, ans):
     return rej
 
 
+SPECIFIC = re.compile(r"^(.*?),? (?:sobre todo|especialmente|en especial|en particular) ", re.I)
+
+
+def general_specific(x):
+    """Text gives 'general category, sobre todo specific' and the question does not ask for the specific
+    ('sobre todo'): either level answers it, so a refuse note on the general category is wrong."""
+    m = SPECIFIC.match(x["s"])
+    if not m or re.search(r"sobre todo|especial|en particular", x["q"], re.I) or not x["rej"]:
+        return x["a"], clean_note(x["rej"], x["a"])
+    r = re.match(r"Refuse (.+?)(?: tc.*| on its own.*)?$", x["rej"])
+    if r and _plain(m.group(1)).endswith(_plain(r.group(1))):
+        g = r.group(1)
+        return f"{x['a']} / {g}", f"Accept the general category ({g}) or the specific item"
+    return x["a"], clean_note(x["rej"], x["a"])
+
+
 def answer_row(lab, x):
-    return row(lab, x["a"], 1, clean_note(x["rej"], x["a"]))
+    a, note = general_specific(x)
+    return row(lab, a, 1, note)
 
 
 def b_r_short(c, rnd):
@@ -583,7 +749,7 @@ def b_r_short(c, rnd):
     body = paragraphs([x["s"] for x in xs], rnd, (3, 4))
     text = hello + " " + "\n\n".join(body)
     parts = [{"label": "a", "text": f"¿En qué país vive {p['N']}?", "marks": 1, "lines": 1}]
-    rows = [row("a", f"(En) {p['country']}", 1, f"Accept (en) {p['city']}" if p['city'] != p['country'] else None)]
+    rows = [row("a", f"(En) {p['country']}", 1, f"Refuse {p['city']} (a city, not the country)" if p['city'] != p['country'] else None)]
     for k, x in enumerate(xs):
         lab = labels(12)[k + 1]
         parts.append({"label": lab, "text": x["q"], "marks": 1, "lines": 1})
@@ -673,21 +839,28 @@ RP_GRID = ("Role play: up to 2 marks per task. 2 = the information is communicat
            "The teacher may repeat a task once but must not rephrase it.")
 
 
+TU = re.compile(r"\b(te|tu|tus|tú|ti|contigo|quieres|tienes|prefieres|puedes|vas|estás|eres|necesitas|buscas|usas|"
+                r"sois|hiciste|fuiste|compraste|comiste|viniste|llegaste|visitaste|estudiaste|has|"
+                r"\w+aste|\w+iste)\b", re.I)
+
+
 def b_s_roleplay(c, rnd):
-    rp = rnd.choice(c["rp"])
-    ctx, role = [x.strip() for x in rnd.choice(rp["ctx"]).split("#")]
+    sc = rnd.choice(c["rp"])
     p = person(rnd)
     env = Env(city=p["city"], country=p["country"], vars={}, g=p["g"])
-    ctx = render(ctx, env, rnd)
-    role = role.replace("El ", "el ").replace("La ", "la ") if role[:3] in ("El ", "La ") else role
+    ctx = render(sc["ctx"], env, rnd)
     parts, rows = [], []
-    for k, slot in enumerate(rp["slots"]):
+    for k, slot in enumerate(sc["slots"]):
         q, exp = [x.strip() for x in rnd.choice(lines(slot)).split("#")]
+        q = both(render(q, env, rnd))
+        if sc["formal"] and TU.search(q.replace("[PAUSA]", "")):
+            raise ValueError(f"role play with a formal examiner uses tú: {q}")
         lab = str(k + 1)
-        parts.append({"label": lab, "text": render(q, env, rnd).replace(" [PAUSA] ", " ‖ "), "marks": 2, "space": "none"})
+        parts.append({"label": lab, "text": q.replace(" [PAUSA] ", " ‖ "), "marks": 2, "space": "none"})
         rows.append(row(lab, render(exp, env, rnd), 2,
                         "1 mark if the information is only partly communicated or is ambiguous (e.g. wrong time frame, verb form that changes the meaning)."))
-    card = (f"**Juego de rol**\n\n{ctx}\n\nTu papel: eres tú.\nEl papel del examinador: {role}.\n\n"
+    card = (f"**Juego de rol**\n\n{ctx}\n\nTu papel: eres tú.\nEl papel del examinador: {sc['role']}"
+            + (" (habla de usted)" if sc["formal"] else "") + ".\n\n"
             "Escucha al examinador, que habla primero, y contesta cada pregunta.\n\n"
             "*Teacher/examiner script: read the context aloud, then ask each question below exactly as printed. "
             "At ‖ wait for the answer to the first half of a two-part question.*")
@@ -769,19 +942,24 @@ def b_s_conversation(c, rnd, ref):
 
 # ------------------------------------------------------------------ Writing
 
+def gap_note(n):
+    """Form gap note: plain refuse list gets a 'Refuse:' label; notes that grant acceptance stay as written."""
+    return n if ("accept" in n.lower() or n.lower().startswith("refuse")) else "Refuse: " + n
+
+
 def b_w_form(c, rnd):
-    fm = c["form"]
+    fm = rnd.choice(c["form"])   # one scenario: title, context and its own fields
     p = person(rnd)
     gaps = [tuple(x.strip() for x in l.split("#")) for l in lines(fm["gaps"])]
     doubles = [g for g in gaps if g[3] == "2"]
     singles = [g for g in gaps if g[3] == "1"]
-    if doubles and rnd.random() < 0.7:
+    if doubles and (rnd.random() < 0.7 or len(singles) < 5):
         chosen = [rnd.choice(doubles)] + rnd.sample(singles, 3)
     else:
         chosen = rnd.sample(singles, 5)
     order = [g for g in gaps if g in chosen]
-    title = render(rnd.choice(fm["titles"]), p, rnd)
-    ctx = render(rnd.choice(fm["ctx"]), p, rnd)
+    title = render(fm["title"], p, rnd)
+    ctx = render(fm["ctx"], p, rnd)
     rows_t = [["Nombre:", f"{p['N']} {p['sur']}"]]
     extra_given = [("Edad:", f"{rnd.randint(15, 17)} años"), ("Nacionalidad:", p["nat"]), ("Ciudad:", p["city"])]
     rows_t.append(list(rnd.choice(extra_given)))
@@ -790,11 +968,11 @@ def b_w_form(c, rnd):
         lab = g[0]
         if g[3] == "2":
             rows_t.append([lab + " *(Menciona dos cosas.)*", "…………………… y ……………………"])
-            rows.append(row("", f"Gaps {gapn} & {gapn + 1}: {g[1]}", 2, ("Refuse: " + g[2] + " Two different items needed; 1 mark each.") if g[2] else "Two different items needed; 1 mark each."))
+            rows.append(row("", f"Gaps {gapn} & {gapn + 1}: {g[1]}", 2, (gap_note(g[2]) + " Two different items needed; 1 mark each.") if g[2] else "Two different items needed; 1 mark each."))
             gapn += 2
         else:
             rows_t.append([lab, "……………………………………"])
-            rows.append(row("", f"Gap {gapn}: {g[1]}", 1, ("Refuse: " + g[2]) if g[2] else None))
+            rows.append(row("", f"Gap {gapn}: {g[1]}", 1, gap_note(g[2]) if g[2] else None))
             gapn += 1
     rows_t.append(["E-mail:", f"{p['N'].lower().replace('á','a').replace('é','e').replace('í','i').replace('ó','o').replace('ú','u')}{rnd.randint(10, 99)}@correo.es"])
     intro = f"Te llamas {p['N']} {p['sur']}. {ctx}\n\nRellena el formulario **en español**."

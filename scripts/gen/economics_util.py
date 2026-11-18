@@ -1,7 +1,8 @@
 """Shared helpers for the economics generator: context pools and a tiny template filler.
 
 Template syntax used in the knowledge-base modules:
-  {name} {name2} {city} {country} {ccy} {firm} {nation} {ncy}  context values
+  {name} {name2} {city} {country} {ccy} {firm} {nation} {ncy} {ncity}  context values
+  ({ncity} is a fictional city in {nation}; never pair a real {city} with a fictional {nation})
   {=var:a|b|c}   choose one option, print it and remember it as {var}
   {#var:lo-hi}   random integer in [lo, hi], printed and remembered as {var}
   {a|b|c}        anonymous choice
@@ -27,6 +28,12 @@ NATIONS = [("Tavrinia", "T\\$"), ("Belmora", "B£"), ("Corvana", "C€"), ("Eska
            ("Marrenia", "M\\$"), ("Ostrelia", "O£"), ("Halvoria", "H€"), ("Rendova", "R\\$"), ("Kaleda", "K£"),
            ("Novaris", "N€"), ("Istrova", "I\\$"), ("Gallendra", "G£")]
 
+# one fictional city per fictional country, used whenever a context names {nation} and a city ({ncity})
+NATION_CITY = {"Tavrinia": "Port Tavrin", "Belmora": "Belhaven", "Corvana": "Corvane", "Eskaria": "Eskarion", "Lumera": "Lumeris",
+               "Pradesia": "Pradon", "Quorvia": "Quorbridge", "Sundara": "Sundapur", "Valdoria": "Valdenburg", "Zentara": "Zentaro",
+               "Marrenia": "Marrenford", "Ostrelia": "Ostrel", "Halvoria": "Halvik", "Rendova": "Rendport", "Kaleda": "Kaledon",
+               "Novaris": "Novagrad", "Istrova": "Istrovik", "Gallendra": "Gallen"}
+
 FIRM_A = ["Kora", "Velto", "Brightway", "Sunvale", "Orbis", "Tamarind", "Northgate", "Lumo", "Riverstone",
           "Cobalt", "Juniper", "Amberline", "Pinecrest", "Saffron", "Halcyon", "Meridian", "Zephyr", "Baobab",
           "Coral Bay", "Ironbark", "Silverleaf", "Kestrel", "Marlin", "Redwood"]
@@ -38,7 +45,7 @@ def new_ctx(r):
     nation, ncy = r.choice(NATIONS)
     n1, n2 = r.sample(NAMES, 2)
     return {"name": n1, "name2": n2, "city": city, "country": country, "ccy": ccy,
-            "firm": f"{r.choice(FIRM_A)} {r.choice(FIRM_B)}", "nation": nation, "ncy": ncy,
+            "firm": f"{r.choice(FIRM_A)} {r.choice(FIRM_B)}", "nation": nation, "ncy": ncy, "ncity": NATION_CITY[nation],
             "year": str(r.randint(2019, 2026))}
 
 

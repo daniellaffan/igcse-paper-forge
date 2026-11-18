@@ -1,0 +1,304 @@
+{
+ "batch": "spanish-recheck-3",
+ "answers": {
+  "spanish.l-short.a2.0004": {
+   "a": "D chocolate cake",
+   "b": "D milk",
+   "c": "A onions",
+   "d": "A lemonade",
+   "e": "B afternoon snack",
+   "f": "D grilled fish",
+   "g": "A peaches",
+   "h": "B mushrooms"
+  },
+  "spanish.r-pictures.b2.0006": {
+   "a": "B",
+   "b": "F",
+   "c": "A",
+   "d": "C",
+   "e": "E"
+  },
+  "spanish.r-short.a1.0007": {
+   "a": "México",
+   "b": "a las siete menos cuarto / 6:45",
+   "c": "clase de piano",
+   "d": "por la tarde no tiene clases",
+   "e": "el doce de octubre",
+   "f": "media hora",
+   "g": "ve películas con su hermano",
+   "h": "aburrido / se aburría un poco",
+   "i": "quince minutos",
+   "j": "en casa de sus abuelos",
+   "k": "un horario flexible",
+   "l": "perdió el tren (de las ocho)"
+  },
+  "spanish.r-short.a2.0003": {
+   "a": "Colombia",
+   "b": "un café con leche y una tostada",
+   "c": "siempre está fría",
+   "d": "los domingos",
+   "e": "quiere proteger a los animales",
+   "f": "beber más agua",
+   "g": "se le quemó un poco",
+   "h": "dos",
+   "i": "tiene demasiada grasa y sal",
+   "j": "comida japonesa / de otros países",
+   "k": "que no es muy sana",
+   "l": "en casa de sus tíos"
+  },
+  "spanish.r-short.a3.0004": {
+   "a": "Colombia",
+   "b": "se queda despierto mirando el móvil",
+   "c": "sale a caminar con su perro",
+   "d": "fiebre / dolor de garganta",
+   "e": "dos días",
+   "f": "relajarse / dormir mejor",
+   "g": "tenía asma",
+   "h": "es una buena idea",
+   "i": "es tan importante como la salud física",
+   "j": "toma mucha fruta con vitamina C",
+   "k": "por la mañana",
+   "l": "iría al gimnasio todos los días"
+  },
+  "spanish.r-short.a4.0012": {
+   "a": "Perú",
+   "b": "vive lejos (a unos diez km)",
+   "c": "en hora punta está lleno de gente",
+   "d": "leer / mirar el paisaje",
+   "e": "hay un carril bici nuevo",
+   "f": "de los atascos",
+   "g": "para proteger el medio ambiente",
+   "h": "sacarse el carné de conducir",
+   "i": "un señor muy amable",
+   "j": "se marea un poco",
+   "k": "para no necesitar coche",
+   "l": "hubo huelga de metro"
+  },
+  "spanish.r-short.b1.0001": {
+   "a": "Argentina",
+   "b": "seis años",
+   "c": "siempre le ayuda con los deberes",
+   "d": "entra en su habitación sin permiso / coge sus cosas",
+   "e": "en la guardería",
+   "f": "siempre dice la verdad",
+   "g": "duerme",
+   "h": "escuchar (y no criticar)",
+   "i": "todos los veranos",
+   "j": "antes de las diez",
+   "k": "una familia grande (tres o cuatro hijos)",
+   "l": "para poder ayudarlos"
+  },
+  "spanish.r-short.b2.0002": {
+   "a": "Costa Rica",
+   "b": "en la cuarta planta",
+   "c": "su hermano se acuesta muy tarde",
+   "d": "cenan",
+   "e": "pósteres",
+   "f": "en la cocina",
+   "g": "el jardín de la otra casa",
+   "h": "el ruido de los coches por la noche",
+   "i": "para que tenga más luz",
+   "j": "cerca del mar",
+   "k": "riegan sus plantas",
+   "l": "un gato"
+  },
+  "spanish.r-short.b4.0003": {
+   "a": "Perú",
+   "b": "azul",
+   "c": "no pierde tiempo eligiendo ropa por la mañana",
+   "d": "ropa cómoda (vaqueros, sudadera, zapatillas)",
+   "e": "es demasiado cara",
+   "f": "en tiendas de segunda mano",
+   "g": "los zapatos nuevos le hacían daño",
+   "h": "que la gente gasta demasiado dinero en ropa que se pone una o dos veces",
+   "i": "lo odiaba",
+   "j": "compra más rápido",
+   "k": "viajar",
+   "l": "pendientes"
+  },
+  "spanish.r-short.b5.0004": {
+   "a": "Guatemala",
+   "b": "tiene muchos deberes",
+   "c": "antes de dormir",
+   "d": "puede verlas cuando quiere",
+   "e": "el profesor era muy exigente",
+   "f": "las entradas son caras",
+   "g": "surf",
+   "h": "pasan demasiado tiempo con videojuegos y poco al aire libre",
+   "i": "su madre",
+   "j": "con su prima",
+   "k": "desconectar de los estudios",
+   "l": "un club de ajedrez"
+  },
+  "spanish.r-short.c1.0013": {
+   "a": "España",
+   "b": "dos",
+   "c": "muy abierta y acogedora",
+   "d": "para buscar trabajo",
+   "e": "lo diferentes que son las casas",
+   "f": "es tranquila / está al lado del mar",
+   "g": "Asia",
+   "h": "sus padres trabajaban allí como médicos",
+   "i": "hace las clases más interesantes",
+   "j": "seco (casi nunca llueve en verano)",
+   "k": "en tren y en autobús",
+   "l": "está bien comunicada; es fácil viajar a todas partes"
+  },
+  "spanish.r-short.c2.0009": {
+   "a": "Colombia",
+   "b": "lo reciclan (en contenedores diferentes)",
+   "c": "para no contaminar",
+   "d": "cinco minutos",
+   "e": "por el tráfico",
+   "f": "limpia el río (como voluntaria)",
+   "g": "cada persona",
+   "h": "está en peligro de extinción",
+   "i": "paneles solares",
+   "j": "senderismo por las montañas",
+   "k": "en un centro de recuperación de tortugas",
+   "l": "prohibiría los coches en el centro"
+  },
+  "spanish.r-short.c3.0004": {
+   "a": "Colombia",
+   "b": "para hablar con sus amigos",
+   "c": "durante la cena",
+   "d": "hacer los deberes / buscar información",
+   "e": "puede hablar con su prima en Canadá",
+   "f": "es demasiado",
+   "g": "hacer videollamadas",
+   "h": "la pantalla le cansa los ojos",
+   "i": "veinte palabras en japonés",
+   "j": "videojuegos",
+   "k": "no necesitarán conductor",
+   "l": "una receta nueva"
+  },
+  "spanish.r-short.c4.0007": {
+   "a": "Ecuador",
+   "b": "a las afueras, cerca de un parque grande",
+   "c": "peatonales",
+   "d": "los pisos son muy caros",
+   "e": "una biblioteca nueva",
+   "f": "está todo en el mismo sitio",
+   "g": "la policía",
+   "h": "tiendas / autobuses",
+   "i": "más zonas verdes / menos coches",
+   "j": "hay poca luz en las calles",
+   "k": "una estación de metro",
+   "l": "compara los precios en internet"
+  },
+  "spanish.r-short.d1.0011": {
+   "a": "España",
+   "b": "más de mil",
+   "c": "a las tres",
+   "d": "le interesan mucho los animales",
+   "e": "va a clases particulares (de matemáticas)",
+   "f": "con películas",
+   "g": "uniforme",
+   "h": "no pueden salir del instituto en el recreo",
+   "i": "no estudió bastante",
+   "j": "Medicina",
+   "k": "mandan demasiados",
+   "l": "un bocadillo de casa"
+  },
+  "spanish.r-short.d2.0001": {
+   "a": "Argentina",
+   "b": "en el hospital de la ciudad",
+   "c": "trabaja desde casa",
+   "d": "en la panadería de su barrio",
+   "e": "sus compañeros son simpáticos",
+   "f": "un trabajo más activo",
+   "g": "le encantan los animales / quiere ayudarlos",
+   "h": "cinco años",
+   "i": "en su país no encontraba trabajo",
+   "j": "muchas personas trabajarán desde casa",
+   "k": "monitora en un campamento para niños",
+   "l": "cuatro días a la semana"
+  },
+  "spanish.r-short.e1.0008": {
+   "a": "Nueva Zelanda",
+   "b": "el español",
+   "c": "puede hablar con gente de otros países",
+   "d": "ve series en versión original con subtítulos",
+   "e": "la gente hablaba muy rápido",
+   "f": "en el bolsillo de su chaqueta",
+   "g": "aprendes mucho",
+   "h": "su madre es portuguesa",
+   "i": "hay que hablar más idiomas / no es suficiente",
+   "j": "traductor",
+   "k": "por su cultura",
+   "l": "el avión tuvo un retraso de seis horas"
+  },
+  "spanish.r-short.e2.0008": {
+   "a": "México",
+   "b": "el veinticuatro de diciembre",
+   "c": "los Reyes Magos",
+   "d": "le encanta disfrazarse",
+   "e": "no come durante el día",
+   "f": "probó muchos platos nuevos",
+   "g": "en agosto",
+   "h": "las cuatro de la mañana",
+   "i": "hay demasiado ruido",
+   "j": "forman parte de nuestra identidad",
+   "k": "en una casa de campo",
+   "l": "los toros"
+  }
+ },
+ "verdicts": {
+  "spanish.l-short.a2.0004": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.b2.0006": {
+   "result": "pass"
+  },
+  "spanish.r-short.a1.0007": {
+   "result": "pass"
+  },
+  "spanish.r-short.a2.0003": {
+   "result": "fail",
+   "problem": "(j) refuses 'comida/platos de otros países' as tc, but the text says she wants to learn to cook dishes from other countries ('sobre todo' japonesa), so that is a full answer to '¿Qué tipo de comida?'.",
+   "fix": "(j) Accept (comida/platos) de otros países / japonesa / de Japón."
+  },
+  "spanish.r-short.a3.0004": {
+   "result": "pass"
+  },
+  "spanish.r-short.a4.0012": {
+   "result": "pass"
+  },
+  "spanish.r-short.b1.0001": {
+   "result": "pass"
+  },
+  "spanish.r-short.b2.0002": {
+   "result": "pass"
+  },
+  "spanish.r-short.b4.0003": {
+   "result": "pass"
+  },
+  "spanish.r-short.b5.0004": {
+   "result": "pass"
+  },
+  "spanish.r-short.c1.0013": {
+   "result": "pass"
+  },
+  "spanish.r-short.c2.0009": {
+   "result": "pass"
+  },
+  "spanish.r-short.c3.0004": {
+   "result": "pass"
+  },
+  "spanish.r-short.c4.0007": {
+   "result": "pass"
+  },
+  "spanish.r-short.d1.0011": {
+   "result": "pass"
+  },
+  "spanish.r-short.d2.0001": {
+   "result": "pass"
+  },
+  "spanish.r-short.e1.0008": {
+   "result": "pass"
+  },
+  "spanish.r-short.e2.0008": {
+   "result": "pass"
+  }
+ }
+}

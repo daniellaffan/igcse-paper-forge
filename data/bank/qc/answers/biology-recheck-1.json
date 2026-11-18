@@ -1,26 +1,169 @@
-{"batch": "biology-recheck-1", "answers": {
-"biology.blood-ext.0014": {"all": "Vaccine contains dead/inactive/weakened polio virus (antigens); antigens recognised by lymphocytes; lymphocytes divide and produce specific antibodies; memory cells formed; on later infection memory cells respond faster, more antibodies produced, more quickly; virus destroyed before symptoms; immunity."},
-"biology.bubbles.0005": {"all": "89 anomalous; mean of 35 and 40 = 37.5 bubbles in 3 min; 37.5/3 = 12.5 bubbles per minute"},
-"biology.crops-data-pct.0003": {"a": "(7.9-3.6)/3.6 x100 = 119%", "b": "Fertiliser provides nitrate ions; absorbed by roots (active transport); used to make amino acids/proteins for growth; more growth/more photosynthesis so higher yield"},
-"biology.crops-prac-method.0002": {"all": "Use several masses of fertiliser (e.g. 0, 5, 10, 15 g) in same volume/mass of compost; same variety/age of plants, same pot size, light, temperature, water; several plants per mass; grow for fixed time; harvest and weigh tomatoes per plant; calculate mean."},
-"biology.crops-prac-risk.0002": {"a": "Fertiliser is an irritant/harmful if ingested or on skin; wear gloves and wash hands", "b": "Use a balance with greater resolution/top-pan balance; dry tomatoes; weigh all tomatoes from each plant and repeat for several plants"},
-"biology.cycles-ext.0004": {"all": "Burning: combustion of wood releases CO2 directly; Fewer trees so less photosynthesis, less CO2 removed; remaining wood/roots decomposed by microorganisms which respire releasing CO2; carbon no longer stored in trees; net increase in atmospheric CO2; contributes to greenhouse effect/global warming."},
-"biology.environment-prac-plan.0002": {"all": "Lay tape measure from hedge into field (transect); place quadrat at regular intervals e.g. every 1 m; count number of plants or % cover in each quadrat; repeat with several transects; control/keep same quadrat size, same time; measure abiotic factors such as light intensity; plot abundance vs distance."},
-"biology.environment-prac-reliab.0003": {"a": "To identify anomalous results and calculate a mean, making the results more reliable/repeatable", "b": "e.g. height on shore / time of tide / exposure to waves; sample at same height on shore/same time relative to low tide (or same quadrat size)"},
-"biology.environment-prac-risk.0002": {"a": "Tripping over tape measure / uneven ground / allergens or stinging plants; take care, wear suitable footwear, wear gloves", "b": "Use quadrat divided into grid of small squares (e.g. 100) and count squares covered; same person estimating"},
-"biology.excretion-ext.0010": {"all": "Blood enters glomerulus under high pressure; ultrafiltration of small molecules (water, glucose, urea, salts) into Bowman's capsule; proteins/cells stay in blood; in proximal convoluted tubule all glucose selectively reabsorbed (active transport); loop of Henle; water reabsorbed in collecting duct under control of ADH; remaining urea, excess water and salts form urine to ureter/bladder."},
-"biology.feeding-data-read.0004": {"a": "Read from graph (graph not visible in text; values cannot be determined)", "b": "(value at 5 weeks - value at 1 week)/4 aphids per week", "c": "Ladybirds are predators that eat aphids; so aphid numbers fall; fewer aphids then limit ladybird food (or aphids reproduce initially before predation)"},
-"biology.homeostasis-ext.0004": {"all": "Homeostasis keeps internal conditions constant for enzymes/cells to function; temperature kept ~37 C, optimum for enzymes, too high denatures, too low slows reactions; controlled by hypothalamus, sweating, vasodilation/constriction, shivering; water content: prevents cells losing/gaining water by osmosis (crenation/bursting); kidney/ADH regulates."},
-"biology.human-nutrition-data-graph.0001": {"a": "As time increases starch concentration decreases; rapid at first then slows; levels off at/near zero (values unreadable from text)", "b": "Amylase digests/breaks down starch into maltose; at first lots of substrate so many collisions/enzyme-substrate complexes; as starch used up rate falls; 37 C near optimum"},
-"biology.human-nutrition-data-plot.0003": {"a": "Axes: age (x), energy (y) with labels/units, suitable scale; points plotted correctly; smooth curve", "b": "Energy requirement increases with age up to 18 years (max 10800 kJ); increase from 4320 at 2 to 10800 at 18; then decreases slightly to 10350 at 30"},
-"biology.human-nutrition-prac-plan.0001": {"all": "Measure fixed volume of water (e.g. 20 cm3) into boiling tube, record start temperature; weigh food sample; ignite with Bunsen and hold under tube until it burns out; relight if needed; record final temperature; energy = mass water x 4.2 x temp rise / mass food; same volume water, same distance; repeat for each food, calculate mean."},
-"biology.nervous-data-plot.0002": {"a": "Axes labelled with units, sensible scale; points plotted; smooth curve", "b": "As light intensity increases pupil diameter decreases; rapidly at first (6.5 to 3.2 by 30) then more slowly; levels off at about 2.1 mm"},
-"biology.nervous-data-read.0001": {"a": "6.5 mm (graph not visible; assumed)", "b": "(3.2-6.5)/30 = -0.11 mm per unit (decrease of 0.11)", "c": "Reflex; circular muscles of iris contract; radial muscles relax; pupil constricts in bright light to protect retina"},
-"biology.plant-nutrition-ext.0015": {"all": "Nitrate ions for amino acids/proteins for growth; magnesium needed to make chlorophyll; lack of magnesium means less chlorophyll; leaves yellow (chlorosis) especially between veins/older leaves; less light absorbed so less photosynthesis; less glucose so poor growth; ions absorbed by root hair cells by active transport."},
-"biology.plant-nutrition-prac-reliab.0003": {"a": "To identify anomalies and calculate a mean so results are more reliable", "b": "Pondweed in water with no sodium hydrogencarbonate (or boiled/dead pondweed); to show oxygen production is due to the hydrogencarbonate/CO2 (or photosynthesis by living plant)"},
-"biology.plant-nutrition-recall-multi.0002": {"a": "Light intensity; carbon dioxide concentration; temperature", "b": "Spongy mesophyll"},
-"biology.plant-reproduction-data-graph.0001": {"a": "Germination increases with temperature to an optimum (about 25-30 C) then decreases at higher temperatures (graph values not visible)", "b": "Enzymes needed for germination; low temp less kinetic energy, slower enzyme activity; optimum; high temp enzymes denature so germination falls"},
-"biology.plant-responses-prac-plan.0001": {"all": "Grow seedlings (e.g. cress) of same type/age in dishes; place one set in box with slit on one side (unilateral light), control in all-round light or darkness; same temperature, water, time; leave several days; measure angle of curvature/length of shoots; use many seedlings and repeat; shoots bend towards light (phototropism)."},
-"biology.plant-responses-prac-step.0001": {"all": "Seedlings vary/some may not germinate or be anomalous; using ten allows a mean to be calculated, making results more reliable/representative"},
-"biology.respiration-prac-plan.0003": {"all": "Mix yeast with glucose/sugar solution in tube; delivery tube into limewater (or hydrogencarbonate indicator); keep in water bath at e.g. 30-35 C; control tube with boiled yeast or no yeast; same volumes/concentration; observe limewater turning milky/cloudy; time how long it takes; repeat."}
-}}
+{
+ "batch": "biology-recheck-1",
+ "answers": {
+  "biology.blood-ext.0014": {
+   "all": "Vaccine contains dead/inactive/weakened polio virus (antigens); antigens recognised by lymphocytes; lymphocytes divide and produce specific antibodies; memory cells formed; on later infection memory cells respond faster, more antibodies produced, more quickly; virus destroyed before symptoms; immunity."
+  },
+  "biology.bubbles.0005": {
+   "all": "89 anomalous; mean of 35 and 40 = 37.5 bubbles in 3 min; 37.5/3 = 12.5 bubbles per minute"
+  },
+  "biology.crops-data-pct.0003": {
+   "a": "(7.9-3.6)/3.6 x100 = 119%",
+   "b": "Fertiliser provides nitrate ions; absorbed by roots (active transport); used to make amino acids/proteins for growth; more growth/more photosynthesis so higher yield"
+  },
+  "biology.crops-prac-method.0002": {
+   "all": "Use several masses of fertiliser (e.g. 0, 5, 10, 15 g) in same volume/mass of compost; same variety/age of plants, same pot size, light, temperature, water; several plants per mass; grow for fixed time; harvest and weigh tomatoes per plant; calculate mean."
+  },
+  "biology.crops-prac-risk.0002": {
+   "a": "Fertiliser is an irritant/harmful if ingested or on skin; wear gloves and wash hands",
+   "b": "Use a balance with greater resolution/top-pan balance; dry tomatoes; weigh all tomatoes from each plant and repeat for several plants"
+  },
+  "biology.cycles-ext.0004": {
+   "all": "Burning: combustion of wood releases CO2 directly; Fewer trees so less photosynthesis, less CO2 removed; remaining wood/roots decomposed by microorganisms which respire releasing CO2; carbon no longer stored in trees; net increase in atmospheric CO2; contributes to greenhouse effect/global warming."
+  },
+  "biology.environment-prac-plan.0002": {
+   "all": "Lay tape measure from hedge into field (transect); place quadrat at regular intervals e.g. every 1 m; count number of plants or % cover in each quadrat; repeat with several transects; control/keep same quadrat size, same time; measure abiotic factors such as light intensity; plot abundance vs distance."
+  },
+  "biology.environment-prac-reliab.0003": {
+   "a": "To identify anomalous results and calculate a mean, making the results more reliable/repeatable",
+   "b": "e.g. height on shore / time of tide / exposure to waves; sample at same height on shore/same time relative to low tide (or same quadrat size)"
+  },
+  "biology.environment-prac-risk.0002": {
+   "a": "Tripping over tape measure / uneven ground / allergens or stinging plants; take care, wear suitable footwear, wear gloves",
+   "b": "Use quadrat divided into grid of small squares (e.g. 100) and count squares covered; same person estimating"
+  },
+  "biology.excretion-ext.0010": {
+   "all": "Blood enters glomerulus under high pressure; ultrafiltration of small molecules (water, glucose, urea, salts) into Bowman's capsule; proteins/cells stay in blood; in proximal convoluted tubule all glucose selectively reabsorbed (active transport); loop of Henle; water reabsorbed in collecting duct under control of ADH; remaining urea, excess water and salts form urine to ureter/bladder."
+  },
+  "biology.feeding-data-read.0004": {
+   "a": "Read from graph (graph not visible in text; values cannot be determined)",
+   "b": "(value at 5 weeks - value at 1 week)/4 aphids per week",
+   "c": "Ladybirds are predators that eat aphids; so aphid numbers fall; fewer aphids then limit ladybird food (or aphids reproduce initially before predation)"
+  },
+  "biology.homeostasis-ext.0004": {
+   "all": "Homeostasis keeps internal conditions constant for enzymes/cells to function; temperature kept ~37 C, optimum for enzymes, too high denatures, too low slows reactions; controlled by hypothalamus, sweating, vasodilation/constriction, shivering; water content: prevents cells losing/gaining water by osmosis (crenation/bursting); kidney/ADH regulates."
+  },
+  "biology.human-nutrition-data-graph.0001": {
+   "a": "As time increases starch concentration decreases; rapid at first then slows; levels off at/near zero (values unreadable from text)",
+   "b": "Amylase digests/breaks down starch into maltose; at first lots of substrate so many collisions/enzyme-substrate complexes; as starch used up rate falls; 37 C near optimum"
+  },
+  "biology.human-nutrition-data-plot.0003": {
+   "a": "Axes: age (x), energy (y) with labels/units, suitable scale; points plotted correctly; smooth curve",
+   "b": "Energy requirement increases with age up to 18 years (max 10800 kJ); increase from 4320 at 2 to 10800 at 18; then decreases slightly to 10350 at 30"
+  },
+  "biology.human-nutrition-prac-plan.0001": {
+   "all": "Measure fixed volume of water (e.g. 20 cm3) into boiling tube, record start temperature; weigh food sample; ignite with Bunsen and hold under tube until it burns out; relight if needed; record final temperature; energy = mass water x 4.2 x temp rise / mass food; same volume water, same distance; repeat for each food, calculate mean."
+  },
+  "biology.nervous-data-plot.0002": {
+   "a": "Axes labelled with units, sensible scale; points plotted; smooth curve",
+   "b": "As light intensity increases pupil diameter decreases; rapidly at first (6.5 to 3.2 by 30) then more slowly; levels off at about 2.1 mm"
+  },
+  "biology.nervous-data-read.0001": {
+   "a": "6.5 mm (graph not visible; assumed)",
+   "b": "(3.2-6.5)/30 = -0.11 mm per unit (decrease of 0.11)",
+   "c": "Reflex; circular muscles of iris contract; radial muscles relax; pupil constricts in bright light to protect retina"
+  },
+  "biology.plant-nutrition-ext.0015": {
+   "all": "Nitrate ions for amino acids/proteins for growth; magnesium needed to make chlorophyll; lack of magnesium means less chlorophyll; leaves yellow (chlorosis) especially between veins/older leaves; less light absorbed so less photosynthesis; less glucose so poor growth; ions absorbed by root hair cells by active transport."
+  },
+  "biology.plant-nutrition-prac-reliab.0003": {
+   "a": "To identify anomalies and calculate a mean so results are more reliable",
+   "b": "Pondweed in water with no sodium hydrogencarbonate (or boiled/dead pondweed); to show oxygen production is due to the hydrogencarbonate/CO2 (or photosynthesis by living plant)"
+  },
+  "biology.plant-nutrition-recall-multi.0002": {
+   "a": "Light intensity; carbon dioxide concentration; temperature",
+   "b": "Spongy mesophyll"
+  },
+  "biology.plant-reproduction-data-graph.0001": {
+   "a": "Germination increases with temperature to an optimum (about 25-30 C) then decreases at higher temperatures (graph values not visible)",
+   "b": "Enzymes needed for germination; low temp less kinetic energy, slower enzyme activity; optimum; high temp enzymes denature so germination falls"
+  },
+  "biology.plant-responses-prac-plan.0001": {
+   "all": "Grow seedlings (e.g. cress) of same type/age in dishes; place one set in box with slit on one side (unilateral light), control in all-round light or darkness; same temperature, water, time; leave several days; measure angle of curvature/length of shoots; use many seedlings and repeat; shoots bend towards light (phototropism)."
+  },
+  "biology.plant-responses-prac-step.0001": {
+   "all": "Seedlings vary/some may not germinate or be anomalous; using ten allows a mean to be calculated, making results more reliable/representative"
+  },
+  "biology.respiration-prac-plan.0003": {
+   "all": "Mix yeast with glucose/sugar solution in tube; delivery tube into limewater (or hydrogencarbonate indicator); keep in water bath at e.g. 30-35 C; control tube with boiled yeast or no yeast; same volumes/concentration; observe limewater turning milky/cloudy; time how long it takes; repeat."
+  }
+ },
+ "verdicts": {
+  "biology.blood-ext.0014": {
+   "result": "pass"
+  },
+  "biology.bubbles.0005": {
+   "result": "pass"
+  },
+  "biology.crops-data-pct.0003": {
+   "result": "pass"
+  },
+  "biology.crops-prac-method.0002": {
+   "result": "pass"
+  },
+  "biology.crops-prac-risk.0002": {
+   "result": "pass"
+  },
+  "biology.cycles-ext.0004": {
+   "result": "pass"
+  },
+  "biology.environment-prac-plan.0002": {
+   "result": "pass"
+  },
+  "biology.environment-prac-reliab.0003": {
+   "result": "fail",
+   "problem": "(b) examples (soil moisture, soil pH, trampling) do not fit a rocky shore, and 'measure it with a meter' monitors rather than controls the variable as the question asks; obvious shore variables are missing.",
+   "fix": "Variable: height on shore / exposure to waves / time since low tide / rock type / quadrat size (1); control: place all quadrats at the same height on the shore / sample at the same state of tide on the same day / use same quadrat size (1)."
+  },
+  "biology.environment-prac-risk.0002": {
+   "result": "pass"
+  },
+  "biology.excretion-ext.0010": {
+   "result": "pass"
+  },
+  "biology.feeding-data-read.0004": {
+   "result": "fail",
+   "problem": "Unit for (b) given as 'units per weeks' (should be aphids per week); stem also says '1 weeks'/'5 weeks'; (c) credits 'population levels off', which is a trend description its own note rejects.",
+   "fix": "(b) -119 aphids per week; reword stem to 'at 1 week'; replace 'population levels off' with e.g. 'aphids reproduce / food from crop allows some to survive'."
+  },
+  "biology.homeostasis-ext.0004": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-data-graph.0001": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-data-plot.0003": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-prac-plan.0001": {
+   "result": "pass"
+  },
+  "biology.nervous-data-plot.0002": {
+   "result": "pass"
+  },
+  "biology.nervous-data-read.0001": {
+   "result": "pass"
+  },
+  "biology.plant-nutrition-ext.0015": {
+   "result": "pass"
+  },
+  "biology.plant-nutrition-prac-reliab.0003": {
+   "result": "pass"
+  },
+  "biology.plant-nutrition-recall-multi.0002": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-data-graph.0001": {
+   "result": "pass"
+  },
+  "biology.plant-responses-prac-plan.0001": {
+   "result": "pass"
+  },
+  "biology.plant-responses-prac-step.0001": {
+   "result": "pass"
+  },
+  "biology.respiration-prac-plan.0003": {
+   "result": "pass"
+  }
+ }
+}

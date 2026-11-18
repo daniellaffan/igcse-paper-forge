@@ -53,8 +53,8 @@ FIX = {
     ("globalisation", 3): dict(
         a_points=["Low wages keep workers' living standards down even though {w} million people are employed",
                   "Poor working conditions and long hours may harm workers' health and productivity",
-                  "{country} depends on foreign brands that could move orders to cheaper countries, causing sudden job losses",
-                  "Most profit flows to foreign owners, so less income stays in {country} to be spent or invested",
+                  "{nation} depends on foreign brands that could move orders to cheaper countries, causing sudden job losses",
+                  "Most profit flows to foreign owners, so less income stays in {nation} to be spent or invested",
                   "Textile production can pollute rivers and land, creating external costs for local communities"]),
     ("growth", 2): dict(
         j_pro=["Lower consumer spending reduces demand-pull inflation",
@@ -108,6 +108,13 @@ FIX = {
         j_pro=["Economies of scale may lower costs, which could be passed on as lower prices",
                "A larger firm may invest more in new products", "Removing duplicated costs could make the firm more efficient",
                "A stronger firm may be more reliable and offer a wider range"]),
+    ("labour", 1): dict(
+        a_points=["Low-paid workers who keep their jobs receive {ncy}{mw} per hour, increasing their income",
+                  "Higher incomes reduce poverty and inequality and may raise workers' motivation and productivity",
+                  "Higher pay may attract more people into the labour force",
+                  "If the minimum wage is above the equilibrium wage, the supply of labour exceeds demand, so some workers become unemployed",
+                  "Small firms in retail and hospitality may cut staff or reduce workers' hours, so some workers' weekly pay may fall",
+                  "Firms may replace workers with machines or cut training and other benefits to offset higher wage costs"]),
     ("scale", 2): dict(
         j_pro=["Decentralising decisions to local managers can speed up decisions", "Better communication systems reduce mistakes between layers",
                "Smaller teams with clear targets can improve morale and productivity", "Incentives such as bonuses can motivate the {b} staff"],

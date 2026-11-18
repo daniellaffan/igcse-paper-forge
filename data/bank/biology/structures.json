@@ -69671,7 +69671,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "g per dm³ per minutes"
+    "answer_suffix": "g per dm³ per minute"
    },
    {
     "label": "c",
@@ -69698,7 +69698,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.983 g per dm³ per minutes (1)",
+     "answer": "-0.983 g per dm³ per minute (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -70108,7 +70108,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "g per dm³ per minutes"
+    "answer_suffix": "g per dm³ per minute"
    },
    {
     "label": "c",
@@ -70135,7 +70135,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.738 g per dm³ per minutes (1)",
+     "answer": "-0.738 g per dm³ per minute (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -70533,7 +70533,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "kJ per years"
+    "answer_suffix": "kJ per year"
    },
    {
     "label": "c",
@@ -70560,7 +70560,7 @@
     },
     {
      "part": "b",
-     "answer": "413 kJ per years (1)",
+     "answer": "413 kJ per year (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -70958,7 +70958,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "kJ per years"
+    "answer_suffix": "kJ per year"
    },
    {
     "label": "c",
@@ -70985,7 +70985,7 @@
     },
     {
      "part": "b",
-     "answer": "380 kJ per years (1)",
+     "answer": "380 kJ per year (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -71383,7 +71383,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "°C per days"
+    "answer_suffix": "°C per day"
    },
    {
     "label": "c",
@@ -71410,7 +71410,7 @@
     },
     {
      "part": "b",
-     "answer": "1.67 °C per days (1)",
+     "answer": "1.67 °C per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -71681,7 +71681,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the percentage increase in temperature between 1 days and 4 days.\n\nGive your answer to the nearest whole number.",
+    "text": "Calculate the percentage increase in temperature between 1 day and 4 days.\n\nGive your answer to the nearest whole number.",
     "marks": 2,
     "space": "working",
     "lines": 4,
@@ -71790,7 +71790,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Use the graph to give the temperature at 1 days.",
+    "text": "Use the graph to give the temperature at 1 day.",
     "marks": 1,
     "lines": 1,
     "figures": [
@@ -71803,12 +71803,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of temperature between 1 days and 4 days.",
+    "text": "Calculate the mean rate of change of temperature between 1 day and 4 days.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "°C per days"
+    "answer_suffix": "°C per day"
    },
    {
     "label": "c",
@@ -71835,7 +71835,7 @@
     },
     {
      "part": "b",
-     "answer": "2.00 °C per days (1)",
+     "answer": "2.00 °C per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -74748,7 +74748,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "breaths per minute per minutes"
+    "answer_suffix": "breaths per minute per minute"
    },
    {
     "label": "c",
@@ -74775,7 +74775,7 @@
     },
     {
      "part": "b",
-     "answer": "2.50 breaths per minute per minutes (1)",
+     "answer": "2.50 breaths per minute per minute (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -75185,7 +75185,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "breaths per minute per minutes"
+    "answer_suffix": "breaths per minute per minute"
    },
    {
     "label": "c",
@@ -75212,7 +75212,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.750 breaths per minute per minutes (1)",
+     "answer": "-0.750 breaths per minute per minute (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -78335,7 +78335,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "arbitrary units per days"
+    "answer_suffix": "arbitrary units per day"
    },
    {
     "label": "c",
@@ -78362,7 +78362,7 @@
     },
     {
      "part": "b",
-     "answer": "0.550 arbitrary units per days (1)",
+     "answer": "0.550 arbitrary units per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -78784,7 +78784,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "arbitrary units per days"
+    "answer_suffix": "arbitrary units per day"
    },
    {
     "label": "c",
@@ -78811,7 +78811,7 @@
     },
     {
      "part": "b",
-     "answer": "0.120 arbitrary units per days (1)",
+     "answer": "0.120 arbitrary units per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -79222,7 +79222,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "thousands per mm³ per days"
+    "answer_suffix": "thousands per mm³ per day"
    },
    {
     "label": "c",
@@ -79249,7 +79249,7 @@
     },
     {
      "part": "b",
-     "answer": "2.33 thousands per mm³ per days (1)",
+     "answer": "2.33 thousands per mm³ per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -79528,7 +79528,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the percentage increase in white blood cells between 1 days and 5 days.\n\nGive your answer to the nearest whole number.",
+    "text": "Calculate the percentage increase in white blood cells between 1 day and 5 days.\n\nGive your answer to the nearest whole number.",
     "marks": 2,
     "space": "working",
     "lines": 4,
@@ -79641,7 +79641,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Use the graph to give the white blood cells at 1 days.",
+    "text": "Use the graph to give the white blood cells at 1 day.",
     "marks": 1,
     "lines": 1,
     "figures": [
@@ -79654,12 +79654,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of white blood cells between 1 days and 5 days.",
+    "text": "Calculate the mean rate of change of white blood cells between 1 day and 5 days.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "thousands per mm³ per days"
+    "answer_suffix": "thousands per mm³ per day"
    },
    {
     "label": "c",
@@ -79686,7 +79686,7 @@
     },
     {
      "part": "b",
-     "answer": "0.250 thousands per mm³ per days (1)",
+     "answer": "0.250 thousands per mm³ per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -80934,7 +80934,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per mmol per dm³"
+    "answer_suffix": "relative risk per mmol per dm³"
    },
    {
     "label": "c",
@@ -80961,7 +80961,7 @@
     },
     {
      "part": "b",
-     "answer": "0.500 units per mmol per dm³ (1)",
+     "answer": "0.500 relative risk per mmol per dm³ (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -81359,7 +81359,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per mmol per dm³"
+    "answer_suffix": "relative risk per mmol per dm³"
    },
    {
     "label": "c",
@@ -81386,7 +81386,7 @@
     },
     {
      "part": "b",
-     "answer": "0.833 units per mmol per dm³ (1)",
+     "answer": "0.833 relative risk per mmol per dm³ (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -84231,7 +84231,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the percentage increase in angle of bending between 1 days and 5 days.\n\nGive your answer to the nearest whole number.",
+    "text": "Calculate the percentage increase in angle of bending between 1 day and 5 days.\n\nGive your answer to the nearest whole number.",
     "marks": 2,
     "space": "working",
     "lines": 4,
@@ -84358,7 +84358,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "degrees per days"
+    "answer_suffix": "degrees per day"
    },
    {
     "label": "c",
@@ -84385,7 +84385,7 @@
     },
     {
      "part": "b",
-     "answer": "10.0 degrees per days (1)",
+     "answer": "10.0 degrees per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -84765,7 +84765,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Use the graph to give the angle of bending at 1 days.",
+    "text": "Use the graph to give the angle of bending at 1 day.",
     "marks": 1,
     "lines": 1,
     "figures": [
@@ -84778,12 +84778,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of angle of bending between 1 days and 4 days.",
+    "text": "Calculate the mean rate of change of angle of bending between 1 day and 4 days.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "degrees per days"
+    "answer_suffix": "degrees per day"
    },
    {
     "label": "c",
@@ -84810,7 +84810,7 @@
     },
     {
      "part": "b",
-     "answer": "10.3 degrees per days (1)",
+     "answer": "10.3 degrees per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -86978,7 +86978,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "mg per 100 cm³ per minutes"
+    "answer_suffix": "mg per 100 cm³ per minute"
    },
    {
     "label": "c",
@@ -87005,7 +87005,7 @@
     },
     {
      "part": "b",
-     "answer": "0.133 mg per 100 cm³ per minutes (1)",
+     "answer": "0.133 mg per 100 cm³ per minute (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -87415,7 +87415,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "mg per 100 cm³ per minutes"
+    "answer_suffix": "mg per 100 cm³ per minute"
    },
    {
     "label": "c",
@@ -87442,7 +87442,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.392 mg per 100 cm³ per minutes (1)",
+     "answer": "-0.392 mg per 100 cm³ per minute (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"

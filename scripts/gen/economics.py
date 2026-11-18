@@ -17,6 +17,7 @@ from common import Bank, row, levels  # noqa: E402
 import economics_spec as SP  # noqa: E402
 from economics_util import new_ctx, fill, cap, mcq_parts  # noqa: E402
 from economics_calc import GEN  # noqa: E402
+from economics_data import DGEN  # noqa: E402
 from economics_diag import DIAG  # noqa: E402
 import economics_kb1, economics_kb2, economics_kb3, economics_kb4  # noqa: E402,E401
 import economics_kbfix  # noqa: E402
@@ -107,8 +108,36 @@ def b_define(sid, kb):
             [row("", f"{cap(p1)} {p2}.", 1, notes="Award 1 mark for a precise definition. Do not award the mark for an example alone.", ao="AO1")],
             f"{tk(sid)}-define1", ["AO1"])
         add(sid, "define", "What is meant by", "1-3", [{"label": "", "text": f"What is meant by the term **{term}**?", "marks": 2, "lines": 4}],
-            [row("", f"{cap(p1)} (1) {p2} (1).", 2, notes="Award 1 mark for each element of the definition. Do not award marks for examples.", ao="AO1")],
+            [row("", f"{cap(p1)} (1) {p2} (1).", 2, notes="Award 1 mark for the key idea of the definition and 1 mark for a valid developing point, which may be a relevant example such as the one shown. An example given without the key idea gains a maximum of 1 mark.", ao="AO1")],
             f"{tk(sid)}-define2", ["AO1"])
+
+
+# Terms whose definitions overlap: none of them may be used as a distractor for another in the same group,
+# otherwise a "wrong" option is also a correct description (e.g. effective demand for demand).
+DEF_CLUSTERS = [
+    {"demand", "effective demand"},
+    {"scarcity", "the economic problem"},
+    {"equilibrium price", "market equilibrium"},
+    {"externality", "negative externality", "positive externality"}, {"negative externality", "external cost"},
+    {"social cost", "external cost"},
+    {"productivity", "labour productivity"},
+    {"division of labour", "specialisation"},
+    {"external growth", "merger"},
+    {"economies of scale", "internal economies of scale"},
+    {"monopoly", "price maker"}, {"competitive market", "price taker"},
+    {"trade union", "collective bargaining", "industrial action"},
+    {"regulation", "competition policy"},
+    {"economic growth", "real GDP", "gross domestic product (GDP)"}, {"GDP per capita", "standard of living"},
+    {"unemployment", "unemployment rate"},
+    {"inflation", "consumer price index (CPI)"},
+    {"current account deficit", "imports"},
+    {"free trade", "international trade"}, {"specialisation (between countries)", "comparative advantage", "absolute advantage"},
+    {"subsidy", "a subsidy"}, {"monetary policy", "interest rate"},
+]
+
+
+def overlaps(t1, t2):
+    return any(t1 in g and t2 in g for g in DEF_CLUSTERS)
 
 
 def b_mcq(sid, kb):
@@ -117,7 +146,9 @@ def b_mcq(sid, kb):
     # definition items
     if len(terms) >= 4:
         for i, (term, p1, p2) in enumerate(terms):
-            others = [t for j, t in enumerate(terms) if j != i]
+            others = [t for j, t in enumerate(terms) if j != i and not overlaps(term, t[0])]
+            if len(others) < 3:
+                continue
             pick = R.sample(others, 3)
             parts, rows, vals = mcq_parts(f"Which one of the following best describes **{term}**?", cap(f"{p1} {p2}"),
                                           [cap(f"{o[1]} {o[2]}") for o in pick], R, reasons=[f"that is the meaning of {o[0]}" for o in pick])
@@ -163,7 +194,8 @@ def b_state(sid, kb):
         cats = cl["cats"]
         if cl.get("state"):
             for cat, exs in cats.items():
-                add(sid, "state", "State", "1-3", [{"label": "", "text": cl["state"].replace("{cat}", cat), "marks": 1, "lines": 2}],
+                stext = re.sub(r"\bone (?:a|an) ", "one ", cl["state"].replace("{cat}", cat))   # "State one a benefit" -> "State one benefit"
+                add(sid, "state", "State", "1-3", [{"label": "", "text": stext, "marks": 1, "lines": 2}],
                     [row("", "Award 1 mark for any one of: " + "; ".join(e[0].lower() + e[1:] for e in exs) + ".", 1, notes="Accept any other appropriate example.", ao="AO1")],
                     f"{k}-state-class", ["AO1"])
         if len(cats) >= 2 and "{cat}" in cl["mcq"]:
@@ -318,7 +350,7 @@ def b_data(sid, kb):
                 _, proB, conB = directed(issues[ib], cb, proB, conB)
                 figs.append({"type": "source", "label": "Extract B", "text": ctxB, "provenance": "Original fictional extract written for this question bank."})
                 ref = "Extract B"
-            res = GEN[k](R, dict(ca))
+            res = DGEN[k][ia](R, dict(ca)) if k in DGEN else GEN[k](R, dict(ca))   # part (a) built from Extract A's own figures
             if res.get("table"):
                 figs.append(res["table"])
             other = " and Figure 1" if res.get("table") else ""

@@ -20786,7 +20786,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "g per days"
+    "answer_suffix": "g per day"
    },
    {
     "label": "c",
@@ -20813,7 +20813,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.133 g per days (1)",
+     "answer": "-0.133 g per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -21211,7 +21211,7 @@
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "g per days"
+    "answer_suffix": "g per day"
    },
    {
     "label": "c",
@@ -21238,7 +21238,7 @@
     },
     {
      "part": "b",
-     "answer": "-0.133 g per days (1)",
+     "answer": "-0.133 g per day (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -23338,12 +23338,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of number of mutant colonies between 0 arbitrary units and 30 arbitrary units.",
+    "text": "Calculate the mean rate of change of the number of mutant colonies between 0 arbitrary units and 30 arbitrary units.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per arbitrary units"
+    "answer_suffix": "mutant colonies per arbitrary units"
    },
    {
     "label": "c",
@@ -23369,7 +23369,7 @@
     },
     {
      "part": "b",
-     "answer": "0.767 units per arbitrary units (1)",
+     "answer": "0.767 mutant colonies per arbitrary units (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -23790,12 +23790,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of number of mutant colonies between 10 arbitrary units and 40 arbitrary units.",
+    "text": "Calculate the mean rate of change of the number of mutant colonies between 10 arbitrary units and 40 arbitrary units.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per arbitrary units"
+    "answer_suffix": "mutant colonies per arbitrary units"
    },
    {
     "label": "c",
@@ -23821,7 +23821,7 @@
     },
     {
      "part": "b",
-     "answer": "0.933 units per arbitrary units (1)",
+     "answer": "0.933 mutant colonies per arbitrary units (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"

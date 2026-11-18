@@ -32,8 +32,9 @@ def sd_question(event, curve, d, market, xlabel, ylabel, pname="equilibrium pric
 DPRODS = [("coffee", "tea", "milk"), ("cinema tickets", "streaming subscriptions", "popcorn"), ("butter", "margarine", "bread"),
           ("games consoles", "gaming laptops", "video games"), ("tennis rackets", "badminton rackets", "tennis balls"),
           ("petrol cars", "electric cars", "petrol"), ("printers", "tablet computers", "ink cartridges"), ("hot dogs", "burgers", "hot dog rolls")]
-DEVENTS = [("Average incomes in {city} rise. {Prod} are a normal good.", 1),
-           ("A recession causes average incomes in {city} to fall. {Prod} are a normal good.", -1),
+MASS = {"coffee", "butter", "petrol", "rice", "bread", "steel", "orange juice", "chocolate", "salt", "electricity", "tap water"}  # take "is"
+DEVENTS = [("Average incomes in {city} rise. {Prod} {be} a normal good.", 1),
+           ("A recession causes average incomes in {city} to fall. {Prod} {be} a normal good.", -1),
            ("The price of {sub}, a substitute for {prod}, rises.", 1),
            ("The price of {sub}, a substitute for {prod}, falls.", -1),
            ("The price of {comp}, a complement to {prod}, rises.", -1),
@@ -47,17 +48,17 @@ SPRODS = [("rice", "fertiliser"), ("cotton shirts", "cotton"), ("wooden chairs",
 SEVENTS = [("The cost of {inp}, a key raw material for {prod}, rises sharply.", -1),
            ("Producers of {prod} introduce new technology that lowers their costs.", 1),
            ("Wages paid to workers producing {prod} rise.", -1),
-           ("The government of {country} gives producers of {prod} a subsidy.", 1),
-           ("The government of {country} places an indirect tax on {prod}.", -1),
-           ("Several new firms enter the market for {prod} in {country}.", 1),
-           ("A number of producers of {prod} in {country} go out of business.", -1),
+           ("The government of {nation} gives producers of {prod} a subsidy.", 1),
+           ("The government of {nation} places an indirect tax on {prod}.", -1),
+           ("Several new firms enter the market for {prod} in {nation}.", 1),
+           ("A number of producers of {prod} in {nation} go out of business.", -1),
            ("The cost of the energy used to make {prod} falls.", 1)]
 
 
 def demand_events(r, c):
     prod, sub, comp = r.choice(DPRODS)
     ev, d = r.choice(DEVENTS)
-    c2 = dict(c, prod=prod, Prod=cap(prod), sub=sub, comp=comp)
+    c2 = dict(c, prod=prod, Prod=cap(prod), sub=sub, comp=comp, be="is" if prod in MASS else "are")
     return sd_question(fill(ev, c2, r), "D", d, f"market for {prod} in {c['city']}", f"Quantity of {prod}", "Price")
 
 
@@ -65,7 +66,7 @@ def supply_events(r, c):
     prod, inp = r.choice(SPRODS)
     ev, d = r.choice(SEVENTS)
     c2 = dict(c, prod=prod, inp=inp)
-    return sd_question(fill(ev, c2, r), "S", d, f"market for {prod} in {c['country']}", f"Quantity of {prod}", "Price")
+    return sd_question(fill(ev, c2, r), "S", d, f"market for {prod} in {c['nation']}", f"Quantity of {prod}", "Price")
 
 
 def price_events(r, c):
@@ -104,7 +105,7 @@ def pes_draw(r, c):
     move = r.choice(["rise", "fall"])
     steep = "steep" if kind == "inelastic" else "shallow (flat)"
     prop = "smaller" if kind == "inelastic" else "larger"
-    text = (f"The supply of {prod} in {c['country']} is price {kind} {why}.\n\nOn the axes in Figure 1, draw a supply curve for {prod} "
+    text = (f"The supply of {prod} in {c['nation']} is price {kind} {why}.\n\nOn the axes in Figure 1, draw a supply curve for {prod} "
             f"and use it to show the effect on quantity supplied of a {move} in price from P1 to P2.")
     rows = [(f"Upward-sloping supply curve drawn relatively {steep} and labelled S", None),
             (f"P1 and P2 shown on the price axis, with P2 {'above' if move == 'rise' else 'below'} P1", None),

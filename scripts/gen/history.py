@@ -392,6 +392,11 @@ def compare(cl, a, b):
     """Return (agreements, differences) between source a and b claims."""
     agree, diff = [], []
     ca, cb = a[2], b[2]
+    # every aspect a source's text addresses must be tagged (an untagged aspect is reported as "not
+    # mentioned"), and one piece of evidence may back only one aspect, so no bullet repeats another
+    for s in (a, b):
+        evs = [ev for _, ev in s[2].values()]
+        assert len(evs) == len(set(evs)), ("evidence reused across aspects", s[0])
     for asp in cl["aspects"]:
         if asp in ca and asp in cb:
             (sa, ea), (sb, eb) = ca[asp], cb[asp]
@@ -406,6 +411,7 @@ def compare(cl, a, b):
         elif asp in cb:
             sb, eb = cb[asp]
             diff.append(f"Difference: Source B suggests that {stance_text(cl, asp, sb)} ({eb}), which Source A does not mention.")
+    assert len(set(agree + diff)) == len(agree + diff), ("duplicate bullet", a[0], b[0])
     return agree, diff
 
 
@@ -428,13 +434,23 @@ def support_ind(cl, a, b):
 def interp_ind(cl, a, b, ext_view):
     v = ext_view
     ind = [f"Extract C argues that {v['view']}; it says that " + " and ".join(v["ext"]) + "."]
+    # Only aspects that bear on THIS view are classified: "pro" aspects support it when the source takes
+    # the given stance and challenge it otherwise; "alt" aspects challenge it (another factor) only when
+    # the source takes the given stance. Every other source point is irrelevant here and is left out.
+    nsrc = 0
     for lab, s in (("A", a), ("B", b)):
         for asp, (st, ev) in s[2].items():
             if asp in v["pro"]:
-                if st == v["pro"][asp]:
-                    ind.append(f"Support from Source {lab}: it suggests that {stance_text(cl, asp, st)} ({ev}).")
-                else:
-                    ind.append(f"Challenge from Source {lab}: it suggests that {stance_text(cl, asp, st)} ({ev}).")
+                kind = "Support" if st == v["pro"][asp] else "Challenge"
+                ind.append(f"{kind} from Source {lab}: it suggests that {stance_text(cl, asp, st)} ({ev}).")
+                nsrc += 1
+            elif v.get("alt", {}).get(asp) == st:
+                ind.append(f"Challenge from Source {lab}: it points to a different factor, suggesting that "
+                           f"{stance_text(cl, asp, st)} ({ev}).")
+                nsrc += 1
+    if not nsrc:
+        ind.append("Sources A and B do not bear directly on this interpretation: credit candidates who explain their "
+                   "limited relevance and base the judgement mainly on Extract C and own knowledge.")
     ind += [f"Own knowledge supporting the interpretation: {x}." for x in v["own_for"]]
     ind += [f"Own knowledge challenging the interpretation: {x}." for x in v["own_against"]]
     ind.append("A Level 4 answer reaches a clear judgement on how far it agrees, weighing the evidence of the sources and own knowledge against the view in Extract C.")
@@ -484,8 +500,14 @@ def russia(bank):
             for eline, etext, views in cl["extracts"]:
                 efig = {"type": "source", "label": f"Extract C: {eline}", "text": etext, "provenance": EXT_PROV}
                 for v in views:
-                    pa, pb = pairs[(vk * 2) % len(pairs)]
-                    qa, qb = pairs[(vk * 2 + 1) % len(pairs)]
+                    # rotate through the pairs as before, but prefer pairs in which both sources bear on
+                    # this view (and then pairs with more relevant points), so part (c) uses the sources
+                    rel = lambda s: sum(1 for asp, (st, _) in s[2].items()
+                                        if asp in v["pro"] or v.get("alt", {}).get(asp) == st)
+                    score = lambda p: (min(rel(srcs[p[0]]), rel(srcs[p[1]])) > 0, rel(srcs[p[0]]) + rel(srcs[p[1]]))
+                    order = [pairs[(vk * 2 + k) % len(pairs)] for k in range(len(pairs))]
+                    ranked = sorted(order, key=score, reverse=True)  # stable: keeps rotation order among ties
+                    (pa, pb), (qa, qb) = ranked[0], ranked[1]
                     vk += 1
                     a, b = srcs[pa], srcs[pb]
                     figs = [src_fig(a, "A"), src_fig(b, "B"), efig]

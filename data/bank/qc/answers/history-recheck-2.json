@@ -1,0 +1,48 @@
+{
+ "batch": "history-recheck-2",
+ "answers": {
+  "history.russia-investigation.0006": {
+   "b": "Partial support. Both show worker discontent and strike talk, and police repression (A: police lists; B: owner asks for more police). Differ: A stresses grim conditions (12 to a room, fines) and fear; B claims good pay and new insurance, and workers militant post-Lena 1912. Provenance: A private letter of worker 1907 (post-1905 repression, Stolypin); B owner 1912, self-justifying. Overall some support on unrest, not on conditions.",
+   "c": "Agree partly: 1912 insurance law, unions legal 1906 (but closely watched/closed), wages rose in some trades, rapid industrial growth (Witte, 1890s/1908-13). Disagree: A barracks, fines; Lena massacre 1912 shows repression; strike wave 1912-14 (political strikes, July 1914 barricades); long hours, Okhrana. Judgement: limited, reluctant efforts outweighed by repression/conditions."
+  },
+  "history.russia-investigation.0038": {
+   "b": "Partial support. Both show Bolsheviks using force against opponents: A sailors dispersing Constituent Assembly Jan 1918; B Red Guards shutting SR newspaper. Differ: B shows popular support via Decree on Land; A shows denial of democracy. Provenance: A SR deputy, hostile, 1921 memoir; B grateful peasant, contemporary. Overall support on repression, contrast on popularity.",
+   "c": "Agree: Cheka Dec 1917, Decree on Press, CA dispersed, Red Terror after Aug 1918, banning Kadets. Disagree: popular decrees (Land, Peace, Workers' control), Brest-Litovsk peace, Left SR coalition until March 1918, weakness of opponents, Red Army/Trotsky, War Communism. Judgement: terror important but popular measures/concessions also key in 1917-18."
+  },
+  "history.russia-investigation.0012": {
+   "b": "Little support. A (Nov 1905 socialist) says October Manifesto a trick, repression continues, struggle goes on; B (govt, 1906) says freedoms granted, order restored, peace. Some agreement: both mention freedoms granted and violence/repression (B 'punished'). Provenance: A partisan revolutionary; B propaganda. Mostly contradicts.",
+   "c": "Agree: Duma, legal parties, unions, censorship eased, questioning of ministers. Disagree: Fundamental Laws April 1906 kept Tsar autocrat; Duma dissolved (1st, 2nd), electoral law changed June 1907; Article 87; Stolypin repression ('necktie'); Okhrana. Judgement: Tsar largely retained autocratic power; change limited."
+  },
+  "history.russia-support.0044": {
+   "all": "Little support. A shows White weakness: disunity of aims, Kolchak and Denikin failed to link, looting alienated peasants, British aid insufficient. B shows White strength: Denikin advancing on Moscow 1919, Reds in disorder, welcomed by towns. Agreement only that British supplies reached Whites. Provenance: A hindsight after defeat (1928, emigre), B contemporary optimistic 1919 at height of advance. A contradicts B."
+  },
+  "history.russia-support.0011": {
+   "all": "Partial support. Both show order restored by force/punishment (A: army crushed Presnya, B: violent punished, order restored) and both mention Manifesto/freedoms. Differ: A stresses division (liberals satisfied, workers alone) and Tsar dependent on army; B stresses freedoms and peace. Provenance: A officer's private letter Dec 1905; B govt propaganda 1906. Some support on restoration of order."
+  },
+  "history.russia-support.0026": {
+   "all": "Partial support. Both mention freedoms granted and Constituent Assembly to come, and continuing war vs Germany. Differ: A reveals weakness \u2014 Dual Power, Soviet Order No.1, soldiers obey Soviet, unpopular offensive; B portrays a strong free government. Provenance: A private diary of insider (honest), B public speech propaganda. Supports on achievements, not on authority."
+  }
+ },
+ "verdicts": {
+  "history.russia-investigation.0006": {
+   "result": "pass"
+  },
+  "history.russia-investigation.0038": {
+   "result": "pass"
+  },
+  "history.russia-investigation.0012": {
+   "result": "pass"
+  },
+  "history.russia-support.0044": {
+   "result": "pass"
+  },
+  "history.russia-support.0011": {
+   "result": "fail",
+   "problem": "Mark scheme says Source A does not mention the Tsar's concessions, but Source A explicitly refers to the Manifesto satisfying the lawyers and professors, so both sources acknowledge concessions; the Duma point also duplicates the concessions point.",
+   "fix": "Replace the 'which Source A does not mention' concession bullet with an agreement point: both acknowledge the Tsar made concessions (A: the Manifesto satisfied the middle classes; B: Duma and freedoms granted), but A says they divided the opposition rather than bringing peace; merge the duplicate Duma bullet."
+  },
+  "history.russia-support.0026": {
+   "result": "pass"
+  }
+ }
+}

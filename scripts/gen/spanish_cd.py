@@ -72,34 +72,6 @@ c#¿Cómo sería tu instituto ideal?#Si fueras director o directora, ¿qué camb
 d#Explica las diferencias entre los institutos de tu país y los de otro país.#Describe a tu profesor o profesora favorito/favorita.#Description/comparison.
 f#¿Vas a ir a la universidad? ¿Por qué (no)?#¿Qué vas a hacer cuando termines el instituto?#Future + reason.
 """,
-    rp=[dict(ctx=["Estás de intercambio en {city}. Es tu primer día en el instituto. Hablas con el profesor / la profesora de español.#El profesor / La profesora",
-                  "Estás en {city}. Quieres hacer un curso de verano en una escuela de idiomas. Hablas con el secretario / la secretaria.#El secretario / La secretaria"],
-             slots=["""
-Hola, bienvenido/bienvenida. ¿Cuántos años tienes?#Age, e.g. *Tengo dieciséis años.*
-Buenos días, ¿qué curso quieres hacer?#Course, e.g. *Un curso de español.*
-""", """
-¿Qué asignaturas estudias en tu país?#Subjects, e.g. *Historia y ciencias.*
-¿Cuántas semanas quieres estudiar?#Duration, e.g. *Dos semanas.*
-""", """
-¿Cuál es tu asignatura favorita? [PAUSA] ¿Por qué?#Subject + reason, e.g. *El arte, es creativo.*
-¿Prefieres clases por la mañana o por la tarde? [PAUSA] ¿Por qué?#Choice + reason.
-""", """
-¿Qué hiciste ayer en clase?#Past, e.g. *Hice un examen.*
-¿Has estudiado español antes?#Perfect/past, e.g. *Sí, estudié dos años.*
-""", """
-¿Qué vas a estudiar en el futuro?#Future, e.g. *Voy a estudiar idiomas.*
-¿Qué te gustaría hacer después de las clases?#Conditional, e.g. *Me gustaría visitar la ciudad.*
-"""])],
-    form=dict(titles=["Inscripción en el intercambio escolar", "Ficha del curso de verano"],
-              ctx=["Vas a participar en un intercambio con un instituto español.", "Te apuntas a un curso de verano en una escuela."],
-              gaps="""
-Asignatura favorita:#Any school subject, e.g. historia.#Teachers' names.#1
-Asignatura que no te gusta:#Any school subject, e.g. química.#Non-subjects.#1
-Actividad extraescolar:#Any club or activity, e.g. el coro.#Subjects.#1
-Material que necesitas en clase:#Any classroom item, e.g. calculadora.#Subjects.#1
-Dos lugares de tu instituto:#Any two places in school, e.g. la biblioteca, el gimnasio.#The same place twice.#2
-Lo que quieres estudiar en el futuro:#Any subject or course, e.g. medicina.#Jobs alone are acceptable if they communicate a course of study; refuse non-studies.#1
-"""),
 )
 
 C["D2"] = dict(
@@ -117,16 +89,16 @@ C["D2"] = dict(
 {fr} dice:#Mi primo busca trabajo {v}.#¿Dónde quiere trabajar el primo de {fr}?#lugar_trabajo
 """,
     signs=("En una oficina de empleo", """
-Ofertas de trabajo para jóvenes#Busco un empleo de verano para estudiantes.
+Ofertas de trabajo para jóvenes#Busco un empleo de verano para estudiantes.#jobs
 Entrevistas: espere su turno#Antes de hablar con la empleada, tienes que esperar.
 Cursos de formación gratuitos#Puedo aprender algo nuevo sin pagar.
 Entregue aquí su currículum#Dejo mis datos y mi experiencia en esta mesa.
 Se busca camarero con experiencia#Un bar necesita a alguien que ya haya servido mesas.
 Trabajo a tiempo parcial: fines de semana#Solo quiero trabajar el sábado y el domingo.
-Prácticas en empresas para estudiantes#Quiero conocer el mundo del trabajo mientras estudio.
-Horario de atención: de 9:00 a 14:00#Por la tarde no hay nadie para ayudarme.
+Prácticas en empresas para estudiantes#Quiero conocer el mundo del trabajo mientras estudio.#jobs
+Horario de atención: de 9:00 a 14:00#Por la tarde no hay nadie para ayudarme.#hours
 Se necesita carné de conducir#Para este trabajo hay que saber manejar un coche.
-Oficina cerrada por la tarde#Si vengo a las cinco, no puedo entrar.
+Oficina cerrada por la tarde#Si vengo a las cinco, no puedo entrar.#hours
 """),
     ann=dict(title="Una feria de empleo", desc="un anuncio en una feria de empleo para jóvenes", sp="Locutora",
              open="Buenos días y bienvenidos a la Feria del Empleo Joven de {city}.",
@@ -171,34 +143,6 @@ c#¿Cuál sería tu trabajo ideal? ¿Por qué?#¿Te gustaría trabajar en el ext
 d#Describe el trabajo de una persona que admiras.#Explica qué hace una persona en un trabajo que te interesa.#Description.
 f#¿Dónde vas a trabajar dentro de diez años?#¿Cómo será tu vida laboral en el futuro?#Future.
 """,
-    rp=[dict(ctx=["Estás en {city} y quieres trabajar en un restaurante este verano. Tienes una entrevista con el gerente / la gerente.#El gerente / La gerente",
-                  "Estás en {city}. Quieres un trabajo de verano en un hotel. Hablas con el director / la directora de personal.#El director / La directora"],
-             slots=["""
-Buenos días. ¿Por qué quieres este trabajo?#Reason, e.g. *Quiero ganar dinero y practicar español.*
-Hola, ¿qué trabajo te interesa?#A job, e.g. *Recepcionista.*
-""", """
-¿Qué idiomas hablas?#Languages, e.g. *Inglés y español.*
-¿Cuándo puedes empezar?#A date/day, e.g. *El uno de julio.*
-""", """
-¿Cómo eres de carácter?#Personality, e.g. *Soy trabajador y simpático.*
-¿Prefieres trabajar por la mañana o por la tarde? [PAUSA] ¿Por qué?#Choice + reason.
-""", """
-¿Has trabajado antes?#Past/perfect, e.g. *Sí, trabajé en una tienda.*
-¿Qué hiciste el verano pasado?#Past, e.g. *Trabajé en un café.*
-""", """
-¿Qué vas a hacer con el dinero?#Future, e.g. *Voy a viajar.*
-¿Qué trabajo te gustaría hacer en el futuro?#Conditional, e.g. *Me gustaría ser profesor.*
-"""])],
-    form=dict(titles=["Solicitud de trabajo de verano", "Ficha de prácticas en empresas"],
-              ctx=["Quieres trabajar este verano en un hotel de la costa.", "Vas a hacer prácticas en una empresa de tu ciudad."],
-              gaps="""
-Trabajo que te interesa:#Any job, e.g. camarero.#Places alone.#1
-Idioma que hablas:#Any language, e.g. inglés.#Countries.#1
-Experiencia de trabajo:#Any job or work experience, e.g. en una tienda; or ninguna.#Hobbies.#1
-Días que puedes trabajar:#Any day(s), e.g. sábado.#Times alone.#1
-Dos cualidades personales:#Any two qualities, e.g. trabajador, puntual.#The same quality twice.#2
-Trabajo que quieres hacer en el futuro:#Any job, e.g. médico.#Subjects alone.#1
-"""),
     ads=("Ofertas de empleo y formación", """
 Soy estudiante y quiero trabajar solo los fines de semana para ganar algo de dinero.#‘Heladería Polar’: buscamos jóvenes para sábados y domingos. No hace falta experiencia.#‘Oficina Gestoría’: administrativo a jornada completa, de lunes a viernes.
 Me encantan los niños y busco un trabajo para el verano.#‘Campamento Pinos’: se buscan monitores para julio y agosto, para niños de 6 a 12 años.#‘Residencia Sol’: se necesita personal para cuidar a personas mayores todo el año.

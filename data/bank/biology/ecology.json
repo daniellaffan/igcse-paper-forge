@@ -15085,8 +15085,9 @@
     },
     {
      "part": "b",
-     "answer": "An answer that makes reference to the following:\n• named abiotic variable, e.g. light intensity / soil moisture / soil pH / trampling (1)\n• measure it at each quadrat with a light meter / moisture meter / pH kit, or sample on the same day in similar conditions (1)",
+     "answer": "An answer that makes reference to the following:\n• named variable, e.g. soil moisture / soil pH / shade from trees or buildings / time of year (1)\n• keep it the same, e.g. choose areas with similar soil moisture and pH / sample open areas away from trees and buildings in both places / sample both areas on the same day (1)",
      "marks": "2",
+     "notes": "Accept any valid equivalent variable that affects the measurement, with a matching way of keeping it the same",
      "ao": "AO3"
     }
    ]
@@ -15439,8 +15440,9 @@
     },
     {
      "part": "b",
-     "answer": "An answer that makes reference to the following:\n• named abiotic variable, e.g. light intensity / soil moisture / soil pH / trampling (1)\n• measure it at each quadrat with a light meter / moisture meter / pH kit, or sample on the same day in similar conditions (1)",
+     "answer": "An answer that makes reference to the following:\n• named variable, e.g. soil moisture / soil pH / soil mineral content / trampling / grazing (1)\n• keep it the same, e.g. run the transect across ground of one soil type / away from paths and gateways / where no animals graze / sample all quadrats on the same day (1)",
      "marks": "2",
+     "notes": "Accept any valid equivalent variable that affects the measurement, with a matching way of keeping it the same",
      "ao": "AO3"
     }
    ]
@@ -15794,8 +15796,9 @@
     },
     {
      "part": "b",
-     "answer": "An answer that makes reference to the following:\n• named abiotic variable, e.g. light intensity / soil moisture / soil pH / trampling (1)\n• measure it at each quadrat with a light meter / moisture meter / pH kit, or sample on the same day in similar conditions (1)",
+     "answer": "An answer that makes reference to the following:\n• named variable, e.g. height on the shore / time after low tide / time of day / weather / aspect / season (1)\n• keep it the same, e.g. sample both areas at the same height on the shore, at the same time after low tide, on the same day in similar weather, on rocks facing the same direction (1)",
      "marks": "2",
+     "notes": "Accept any valid equivalent variable that affects the measurement, with a matching way of keeping it the same",
      "ao": "AO3"
     }
    ]
@@ -16314,12 +16317,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of mean number of grass plants per quadrat between 0 m and 6 m.",
+    "text": "Calculate the mean rate of change of the mean number of grass plants per quadrat between 0 m and 6 m.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per m"
+    "answer_suffix": "grass plants per quadrat per m"
    },
    {
     "label": "c",
@@ -16346,7 +16349,7 @@
     },
     {
      "part": "b",
-     "answer": "2.67 units per m (1)",
+     "answer": "2.67 grass plants per quadrat per m (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -16739,12 +16742,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of mean number of grass plants per quadrat between 2 m and 8 m.",
+    "text": "Calculate the mean rate of change of the mean number of grass plants per quadrat between 2 m and 8 m.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per m"
+    "answer_suffix": "grass plants per quadrat per m"
    },
    {
     "label": "c",
@@ -16771,7 +16774,7 @@
     },
     {
      "part": "b",
-     "answer": "3.00 units per m (1)",
+     "answer": "3.00 grass plants per quadrat per m (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -17192,12 +17195,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of mean number of limpets per quadrat between 0 m and 3 m.",
+    "text": "Calculate the mean rate of change of the mean number of limpets per quadrat between 0 m and 3 m.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per m"
+    "answer_suffix": "limpets per quadrat per m"
    },
    {
     "label": "c",
@@ -17223,7 +17226,7 @@
     },
     {
      "part": "b",
-     "answer": "-4.33 units per m (1)",
+     "answer": "-4.33 limpets per quadrat per m (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -17644,12 +17647,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of mean number of limpets per quadrat between 1 m and 4 m.",
+    "text": "Calculate the mean rate of change of the mean number of limpets per quadrat between 1 m and 4 m.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per m"
+    "answer_suffix": "limpets per quadrat per m"
    },
    {
     "label": "c",
@@ -17675,7 +17678,7 @@
     },
     {
      "part": "b",
-     "answer": "-6.00 units per m (1)",
+     "answer": "-6.00 limpets per quadrat per m (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
@@ -18581,7 +18584,7 @@
     },
     {
      "part": "b",
-     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• population levels off (1)",
+     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• ladybird numbers fall, so fewer aphids are eaten / predator and prey numbers balance (1)",
      "marks": "3",
      "notes": "Do not credit a description of the trend alone",
      "ao": "AO2"
@@ -18851,7 +18854,7 @@
     },
     {
      "part": "b",
-     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• population levels off (1)",
+     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• ladybird numbers fall, so fewer aphids are eaten / predator and prey numbers balance (1)",
      "marks": "3",
      "notes": "Do not credit a description of the trend alone",
      "ao": "AO2"
@@ -18906,12 +18909,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of number of aphids between 0 weeks and 3 weeks.",
+    "text": "Calculate the mean rate of change of the number of aphids between 0 weeks and 3 weeks.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per weeks"
+    "answer_suffix": "aphids per week"
    },
    {
     "label": "c",
@@ -18938,14 +18941,14 @@
     },
     {
      "part": "b",
-     "answer": "-144 units per weeks (1)",
+     "answer": "-144 aphids per week (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
     },
     {
      "part": "c",
-     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• population levels off (1)",
+     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• ladybird numbers fall, so fewer aphids are eaten / predator and prey numbers balance (1)",
      "marks": "3",
      "notes": "Do not credit a description of the trend alone",
      "ao": "AO2"
@@ -19018,7 +19021,7 @@
     },
     {
      "part": "b",
-     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• population levels off (1)",
+     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• ladybird numbers fall, so fewer aphids are eaten / predator and prey numbers balance (1)",
      "marks": "3",
      "notes": "Do not credit a description of the trend alone",
      "ao": "AO2"
@@ -19217,7 +19220,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the percentage decrease in number of aphids between 1 weeks and 5 weeks.\n\nGive your answer to the nearest whole number.",
+    "text": "Calculate the percentage decrease in number of aphids between 1 week and 5 weeks.\n\nGive your answer to the nearest whole number.",
     "marks": 2,
     "space": "working",
     "lines": 4,
@@ -19288,7 +19291,7 @@
     },
     {
      "part": "b",
-     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• population levels off (1)",
+     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• ladybird numbers fall, so fewer aphids are eaten / predator and prey numbers balance (1)",
      "marks": "3",
      "notes": "Do not credit a description of the trend alone",
      "ao": "AO2"
@@ -19330,7 +19333,7 @@
   "parts": [
    {
     "label": "a",
-    "text": "Use the graph to give the number of aphids at 1 weeks.",
+    "text": "Use the graph to give the number of aphids at 1 week.",
     "marks": 1,
     "lines": 1,
     "figures": [
@@ -19343,12 +19346,12 @@
    },
    {
     "label": "b",
-    "text": "Calculate the mean rate of change of number of aphids between 1 weeks and 5 weeks.",
+    "text": "Calculate the mean rate of change of the number of aphids between 1 week and 5 weeks.",
     "marks": 2,
     "space": "working",
     "lines": 4,
     "answer_prefix": "rate = ",
-    "answer_suffix": "units per weeks"
+    "answer_suffix": "aphids per week"
    },
    {
     "label": "c",
@@ -19375,14 +19378,14 @@
     },
     {
      "part": "b",
-     "answer": "-119 units per weeks (1)",
+     "answer": "-119 aphids per week (1)",
      "marks": "1",
      "notes": "Allow ecf from incorrect readings; ignore sign",
      "ao": "AO2"
     },
     {
      "part": "c",
-     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• population levels off (1)",
+     "answer": "An explanation that makes reference to three of the following:\n• ladybirds eat aphids / predators (1)\n• aphid deaths exceed births (1)\n• fewer aphids so harder for ladybirds to find food (1)\n• ladybird numbers fall, so fewer aphids are eaten / predator and prey numbers balance (1)",
      "marks": "3",
      "notes": "Do not credit a description of the trend alone",
      "ao": "AO2"

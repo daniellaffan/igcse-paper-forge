@@ -1,0 +1,271 @@
+{
+ "batch": "spanish-recheck-1",
+ "answers": {
+  "spanish.l-announce.c3.0002": {
+   "a": "gafas de realidad virtual",
+   "b": "la seguridad en internet",
+   "c": "vídeos cortos",
+   "d": "una tableta",
+   "e": "wifi gratis",
+   "f": "móviles viejos"
+  },
+  "spanish.l-announce.c4.0004": {
+   "a": "quinientos años",
+   "b": "probar productos locales",
+   "c": "conciertos",
+   "d": "estrechas",
+   "e": "el puerto",
+   "f": "en la oficina de turismo"
+  },
+  "spanish.l-interview-3.b4.0003": {
+   "a": "Porque no pierde tiempo por la mañana",
+   "b": "ropa cómoda",
+   "c": "Porque es demasiado cara",
+   "d": "en tiendas de segunda mano",
+   "e": "Le hacen descuento",
+   "f": "Lo odiaba",
+   "g": "Un abrigo y unos guantes",
+   "h": "Viajar",
+   "i": "pendientes"
+  },
+  "spanish.l-interview-3.c1.0013": {
+   "a": "el este",
+   "b": "dos",
+   "c": "inglés",
+   "d": "Las casas",
+   "e": "Porque es tranquila y está junto al mar",
+   "f": "Asia",
+   "g": "Hace las clases más interesantes",
+   "h": "El frío",
+   "i": "Es fácil viajar a todas partes"
+  },
+  "spanish.l-interview-3.e2.0005": {
+   "a": "el veinticuatro de diciembre",
+   "b": "los Reyes Magos",
+   "c": "Le encanta disfrazarse",
+   "d": "el premio al mejor disfraz",
+   "e": "Probó platos nuevos",
+   "f": "Forman parte de nuestra identidad",
+   "g": "Son crueles",
+   "h": "con su padre",
+   "i": "doce uvas"
+  },
+  "spanish.l-interview-4.c3.0002": {
+   "a": "Le robaron la contraseña",
+   "b": "cada mes",
+   "c": "Que es demasiado",
+   "d": "Porque la pantalla le cansa los ojos",
+   "e": "veinte palabras en japonés",
+   "f": "videojuegos"
+  },
+  "spanish.l-short.a2.0012": {
+   "a": "dinner",
+   "b": "a cup of coffee",
+   "c": "peas",
+   "d": "a burger",
+   "e": "peppers",
+   "f": "apples",
+   "g": "a glass of milk",
+   "h": "strawberries"
+  },
+  "spanish.l-short.c2.0003": {
+   "a": "a dog",
+   "b": "a thunderstorm",
+   "c": "a desert",
+   "d": "mountains",
+   "e": "fog",
+   "f": "a bird",
+   "g": "batteries",
+   "h": "drinks cans"
+  },
+  "spanish.l-short.c4.0005": {
+   "a": "a newspaper kiosk",
+   "b": "a railway station",
+   "c": "€9.90",
+   "d": "a farm",
+   "e": "a shop next to a chemist's",
+   "f": "a butcher's",
+   "g": "a market",
+   "h": "a park"
+  },
+  "spanish.r-long.a3.0002": {
+   "a": "Perú",
+   "b": "Se rompió la pierna (jugando al fútbol)",
+   "c": "Sale a caminar con su perro",
+   "d": "Porque su abuelo estuvo muy enfermo por el tabaco",
+   "e": "fiebre / le dolía la garganta",
+   "f": "relajarse / dormir mejor",
+   "g": "tenía asma",
+   "h": "Es una buena idea",
+   "i": "Es tan importante como la salud física",
+   "j": "Para trabajar en la piscina",
+   "k": "Iría al gimnasio todos los días"
+  },
+  "spanish.r-long.a4.0006": {
+   "a": "Uruguay",
+   "b": "En hora punta está lleno de gente",
+   "c": "Hay un carril bici nuevo",
+   "d": "Para proteger el medio ambiente",
+   "e": "andando",
+   "f": "sacarse el carné de conducir",
+   "g": "dos trenes y un autobús",
+   "h": "un señor muy amable",
+   "i": "se marea",
+   "j": "es demasiado caro",
+   "k": "para no necesitar coche"
+  },
+  "spanish.r-long.b4.0013": {
+   "a": "Ecuador",
+   "b": "No pierde tiempo eligiendo ropa por la mañana",
+   "c": "en tiendas de segunda mano",
+   "d": "le quedaba pequeña (tuvo que devolverla)",
+   "e": "los zapatos nuevos le hacían daño",
+   "f": "la gente gasta demasiado dinero en ropa que solo se pone una o dos veces",
+   "g": "le hacen descuento",
+   "h": "lo odiaba",
+   "i": "compra más rápido",
+   "j": "un abrigo muy caliente / unos guantes",
+   "k": "para hacer su propia ropa"
+  },
+  "spanish.r-long.c1.0012": {
+   "a": "Colombia",
+   "b": "muy abierta y acogedora",
+   "c": "lo diferentes que son las casas",
+   "d": "es tranquila / está al lado del mar",
+   "e": "Asia",
+   "f": "sus padres trabajaban allí como médicos",
+   "g": "te ayuda a entender mejor a otras personas",
+   "h": "hace las clases más interesantes",
+   "i": "en tren y en autobús",
+   "j": "hace mucho frío",
+   "k": "está muy bien comunicada; es fácil viajar a todas partes"
+  },
+  "spanish.r-long.c2.0008": {
+   "a": "Venezuela",
+   "b": "por el tráfico",
+   "c": "hubo un incendio enorme en el bosque",
+   "d": "limpia el río (es voluntaria)",
+   "e": "cada persona",
+   "f": "está en peligro de extinción",
+   "g": "paneles solares",
+   "h": "una bolsa de tela",
+   "i": "suave",
+   "j": "prohibiría los coches en el centro",
+   "k": "se esconde debajo de la cama"
+  },
+  "spanish.r-long.e1.0010": {
+   "a": "Nueva Zelanda",
+   "b": "la pronunciación (la erre)",
+   "c": "ve series en versión original con subtítulos",
+   "d": "la gente hablaba muy rápido",
+   "e": "a las cuatro",
+   "f": "en el bolsillo de su chaqueta",
+   "g": "porque aprendes mucho",
+   "h": "probar la comida típica",
+   "i": "traductor",
+   "j": "por su cultura",
+   "k": "el avión tuvo un retraso de seis horas"
+  },
+  "spanish.r-pictures.b2.0007": {
+   "a": "B",
+   "b": "A",
+   "c": "D",
+   "d": "E",
+   "e": "C"
+  },
+  "spanish.r-pictures.c1.0008": {
+   "a": "D",
+   "b": "A",
+   "c": "F",
+   "d": "C",
+   "e": "B"
+  },
+  "spanish.r-pictures.c2.0010": {
+   "a": "D",
+   "b": "F",
+   "c": "E",
+   "d": "A",
+   "e": "B"
+  },
+  "spanish.r-pictures.c3.0008": {
+   "a": "E",
+   "b": "C",
+   "c": "F",
+   "d": "D",
+   "e": "A"
+  },
+  "spanish.r-pictures.d1.0007": {
+   "a": "C",
+   "b": "D",
+   "c": "E",
+   "d": "B",
+   "e": "A"
+  }
+ },
+ "verdicts": {
+  "spanish.l-announce.c3.0002": {
+   "result": "pass"
+  },
+  "spanish.l-announce.c4.0004": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.b4.0003": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.c1.0013": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.e2.0005": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.c3.0002": {
+   "result": "pass"
+  },
+  "spanish.l-short.a2.0012": {
+   "result": "fail",
+   "problem": "Transcript Q5 is ungrammatical: 'No me gustan nada pimientos' (missing article).",
+   "fix": "Samuel: No me gustan nada los pimientos."
+  },
+  "spanish.l-short.c2.0003": {
+   "result": "pass"
+  },
+  "spanish.l-short.c4.0005": {
+   "result": "pass"
+  },
+  "spanish.r-long.a3.0002": {
+   "result": "pass"
+  },
+  "spanish.r-long.a4.0006": {
+   "result": "pass"
+  },
+  "spanish.r-long.b4.0013": {
+   "result": "pass"
+  },
+  "spanish.r-long.c1.0012": {
+   "result": "pass"
+  },
+  "spanish.r-long.c2.0008": {
+   "result": "pass"
+  },
+  "spanish.r-long.e1.0010": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.b2.0007": {
+   "result": "fail",
+   "problem": "Sentence (b) 'Mi habitación favorita es el jardín' is nonsensical: a garden is not a habitación.",
+   "fix": "Mi lugar favorito de la casa es el jardín."
+  },
+  "spanish.r-pictures.c1.0008": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.c2.0010": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.c3.0008": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.d1.0007": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "batch": "history-recheck-3",
+ "answers": {
+  "history.russia-support.0040": {
+   "all": "Limited support. A shows popular support from land decree and also repression (closing SR newspaper by Red Guards); B shows terror by Cheka (arrests, executions). Agree on repression of opponents; differ in that A stresses popularity/land gains, B coercion. Provenance: peasant beneficiary vs Cheka official boasting. Judgement: partial support."
+  },
+  "history.russia-support.0017": {
+   "all": "Little support. A: hunger, prices x4, casualties, discontent vs Tsar/Tsarina, riot risk. B: Brusilov success, shell production, nation united behind Tsar. Some overlap: both mention sacrifice/war burden (deaths vs sacrifices). Provenance: secret police report private/reliable vs propaganda army paper. Judgement: A largely contradicts B."
+  },
+  "history.russia-support.0048": {
+   "all": "Largely contradicts. A: Whites advancing (Denikin 1919), Reds in disorder, popular welcome, foreign (British) aid. B: Reds control railways, Trotsky organisation, war communism grain requisition, Reds preferred to landlords/foreigners. Agree on foreign support for Whites. Different dates 1919 vs 1920 and perspectives (biased White ally vs worker). Judgement: limited support."
+  }
+ },
+ "verdicts": {
+  "history.russia-support.0040": {
+   "result": "pass"
+  },
+  "history.russia-support.0048": {
+   "result": "pass"
+  },
+  "history.russia-support.0017": {
+   "result": "fail",
+   "problem": "Mark scheme difference point says Source A shows shortages of food and fuel, but Source A mentions only bread/food; fuel is not in the source.",
+   "fix": "Change to: Source A suggests there were serious food shortages (bread has risen fourfold in price and women go home with nothing)."
+  }
+ }
+}

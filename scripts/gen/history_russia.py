@@ -11,7 +11,11 @@ CLUSTERS[sub]  = list of clusters:
     "sources": [(attribution, text, {aspect: (stance, evidence)}), x4],
     "extracts": [(attribution, text, [view, ...]), x2]}
    view = {"view": statement, "pro": {aspect: stance}, "ext": [what the extract says],
+           "alt": {aspect: stance} (optional: a source taking this stance points to a DIFFERENT factor, so it
+                  challenges the view; any other stance on that aspect is irrelevant and omitted),
            "own_for": [...], "own_against": [...]}
+   Only aspects that bear on the view go in "pro"/"alt"; all other source points are left out of its
+   indicative content. Own knowledge "against" must not repeat a point the extract itself makes.
 """
 
 FEATURES = {
@@ -155,9 +159,9 @@ CLUSTERS = {
 "tsarist": [
 {"focus": "the condition of Russian workers before 1914",
  "aspects": {
-   "poor": {"+": "workers' living and working conditions were very poor", "-": "workers' conditions were improving"},
-   "anger": {"+": "workers were angry and ready to protest", "-": "workers were loyal or unwilling to protest"},
-   "gov": {"+": "the government did more to control workers than to help them", "-": "the government was trying to help workers"}},
+   "poor": {"+": "workers' living and working conditions were very poor", "-": "some workers were treated reasonably well"},
+   "anger": {"+": "workers were discontented and some wanted to strike", "-": "workers were loyal or unwilling to protest"},
+   "gov": {"+": "the authorities treated workers as a threat to be controlled", "-": "the government was trying to help workers"}},
  "sources": [
   ("From a letter written by a textile worker in St Petersburg to her brother in the countryside, 1907.",
    "We sleep twelve to a room in the barracks next to the mill, and the air is so thick you can hardly breathe. "
@@ -165,7 +169,7 @@ CLUSTERS = {
    "as we did in 1905, but I am afraid. They say the police have lists of all our names.",
    {"poor": ("+", "twelve people sleep in one room and workers are fined"),
     "anger": ("+", "some men want to strike again"),
-    "gov": ("+", "the police keep lists of workers' names, so the authorities watch rather than help them")}),
+    "gov": ("+", "she has heard that the police have lists of all the workers' names")}),
   ("From a report by a factory inspector employed by the government, 1910.",
    "In the larger works of the capital there has been some improvement. Hours have been reduced in several "
    "factories, and a few owners have built schools and clinics. Nonetheless, the barracks remain crowded "
@@ -195,7 +199,7 @@ CLUSTERS = {
    "made a few reforms, such as sickness insurance, but relied mostly on the police and the army. Many "
    "workers had concluded that peaceful protest was useless.",
    [{"view": "by 1914 Russian workers had become a serious threat to Tsarist rule",
-     "pro": {"anger": "+", "gov": "+"},
+     "pro": {"anger": "+"},
      "ext": ["strikes rose every year after 1911", "barricades went up in St Petersburg in 1914"],
      "own_for": ["Over a million workers took part in strikes in the first half of 1914", "The Bolsheviks gained support among workers, winning control of several trade unions", "The Lena Goldfields Massacre of 1912 caused widespread anger"],
      "own_against": ["The outbreak of war in August 1914 brought a wave of patriotism and the strikes ended", "The army remained loyal and could still crush unrest", "The revolutionary parties were small and their leaders, such as Lenin, were in exile"]},
@@ -220,7 +224,7 @@ CLUSTERS = {
      "own_for": ["Industrial output grew rapidly between 1908 and 1914", "Trade unions were legalised in 1906", "Insurance laws were passed in 1912"],
      "own_against": ["Living conditions in factory barracks remained overcrowded", "Wages fell behind rising prices", "The Lena Goldfields strike showed the harsh conditions in some industries"]},
     {"view": "the Tsarist regime could have survived if war had not broken out in 1914",
-     "pro": {"anger": "-", "gov": "-"},
+     "pro": {"anger": "-"},
      "ext": ["most strikes were about pay, not politics", "the regime might well have survived without war"],
      "own_for": ["The army and police remained loyal before 1914", "Stolypin's reforms had reduced peasant unrest", "Revolutionary leaders were in exile and the parties were divided"],
      "own_against": ["Strikes were rising sharply in 1914", "The Tsar refused to share power with the Duma", "Opposition among workers and liberals was growing"]},
@@ -232,25 +236,26 @@ CLUSTERS = {
  ]},
 {"focus": "the effects of the 1905 Revolution",
  "aspects": {
-   "change": {"+": "the Tsar was forced to make real concessions", "-": "the Tsar's concessions changed little"},
+   "change": {"+": "the Tsar made real concessions", "-": "the Tsar's concessions changed little"},
    "split": {"+": "the opposition was divided", "-": "the opposition remained united"},
-   "force": {"+": "the regime survived by using force", "-": "the regime survived without needing to use force"},
-   "power": {"+": "the Tsar kept or reasserted his autocratic power", "-": "the Tsar gave up real power"},
-   "duma": {"+": "the Tsar granted an elected Duma", "-": "no real parliament was granted"}},
+   "force": {"+": "the regime used force against its opponents", "-": "the regime did not need to use force"},
+   "power": {"+": "the Tsar kept his power", "-": "the Tsar gave up real power"},
+   "duma": {"+": "a Duma was set up", "-": "no real parliament was granted"}},
  "sources": [
   ("From the memoirs of a liberal member of the First Duma, published in 1922.",
    "When the Manifesto was published in October 1905, we believed that Russia had become a constitutional "
    "state at last. Our joy did not last. Within months the Tsar had issued laws that left him master of "
    "the army, the ministers and the purse. When we criticised his government, he simply sent us home.",
-   {"change": ("-", "the liberals' joy did not last because the Tsar soon kept control of the army, ministers and money"),
-    "power": ("+", "the Tsar issued laws leaving him master of the army, ministers and purse, and dissolved the Duma when it criticised him"),
-    "duma": ("+", "the Manifesto led to a Duma in which liberals sat")}),
+   {"change": ("-", "the liberals' belief that Russia had become a constitutional state did not last"),
+    "power": ("+", "the Tsar issued laws leaving him master of the army, ministers and purse, and sent the Duma home when it criticised him"),
+    "duma": ("+", "the liberals sat in the new Duma and criticised the government")}),
   ("From a letter written by an army officer serving in Moscow, December 1905.",
    "We have cleared the Presnya district street by street. The workers fought well behind their barricades, "
    "but they could not stand against artillery. Hundreds are dead. The Manifesto satisfied the lawyers and "
    "professors, and so the workers fought alone. The Tsar owes his throne to the army.",
    {"force": ("+", "the army crushed the Moscow rising with artillery"),
-    "split": ("+", "the Manifesto satisfied the middle classes, so the workers fought alone"),
+    "change": ("+", "the Manifesto was enough to satisfy the lawyers and professors"),
+    "split": ("+", "once the middle classes were satisfied, the workers fought alone"),
     "power": ("+", "it says the Tsar owes his throne to the army")}),
   ("From a speech by a socialist at a workers' meeting in St Petersburg, November 1905.",
    "The Manifesto is a trick! The Tsar promises freedom with one hand and sends his Cossacks with the other. "
@@ -259,12 +264,12 @@ CLUSTERS = {
    {"change": ("-", "it calls the Manifesto a trick"),
     "split": ("+", "the liberals have gone to celebrate while the socialists continue"),
     "force": ("+", "the Tsar sends his Cossacks"),
-    "power": ("+", "the struggle must go on because the autocracy still stands")}),
+    "power": ("+", "the struggle must go on until the autocracy is destroyed")}),
   ("From a government statement published in newspapers, October 1906.",
    "His Majesty has granted his people the Duma and the freedoms of speech and assembly. Order has been "
    "restored throughout the empire. Those who used these freedoms to spread violence have been punished, "
    "and loyal subjects may now look forward to peace and progress.",
-   {"change": ("+", "the Tsar has granted the Duma and freedoms"),
+   {"change": ("+", "the freedoms of speech and assembly have been granted"),
     "duma": ("+", "His Majesty has granted his people the Duma"),
     "force": ("+", "those who spread violence have been punished")}),
  ],
@@ -275,35 +280,37 @@ CLUSTERS = {
    "The workers and peasants were then crushed one group at a time. The promises of 1905 were soon taken back.",
    [{"view": "the Tsar survived the 1905 Revolution mainly because his opponents were divided",
      "pro": {"split": "+"},
+     "alt": {"force": "+"},
      "ext": ["his enemies were divided", "the middle classes deserted the revolution"],
      "own_for": ["The Octobrists and Kadets accepted the Manifesto", "Peasants, workers and liberals had different aims", "The St Petersburg Soviet was isolated and arrested in December 1905"],
-     "own_against": ["The loyalty of the army was vital, for example in crushing the Moscow rising", "The end of the war with Japan allowed troops to return", "Stolypin's repression crushed peasant revolts"]},
+     "own_against": ["A large French loan in 1906 let the government pay its army and officials", "The end of the war with Japan allowed troops to return", "Stolypin's repression crushed peasant revolts"]},
     {"view": "the Tsar's concessions in 1905 were not genuine",
-     "pro": {"change": "-"},
+     "pro": {"change": "-", "power": "+"},
      "ext": ["the Manifesto only seemed to give the liberals what they wanted", "the promises were soon taken back"],
      "own_for": ["The Fundamental Laws of 1906 confirmed the Tsar's autocratic power", "The first two Dumas were dissolved", "The electoral law was changed in 1907"],
      "own_against": ["The Duma continued to meet until 1917", "Trade unions and political parties became legal", "Censorship was relaxed"]},
     {"view": "the use of force was the main reason the regime survived 1905",
      "pro": {"force": "+"},
+     "alt": {"split": "+", "change": "+"},
      "ext": ["the army stayed loyal", "workers and peasants were crushed one group at a time"],
      "own_for": ["Troops crushed the Moscow rising in December 1905", "Punitive expeditions were sent to the countryside", "Stolypin's courts executed many rebels"],
-     "own_against": ["The October Manifesto calmed the middle classes", "The Peasant Land Bank and cancellation of redemption payments reduced peasant anger", "Peace with Japan reduced discontent"]}]),
+     "own_against": ["Witte persuaded the Tsar to make concessions rather than rely on force alone", "The Peasant Land Bank and cancellation of redemption payments reduced peasant anger", "Peace with Japan reduced discontent"]}]),
   ("From a study of Russian politics, published in 2003.",
    "The events of 1905 changed Russia more than is often admitted. For the first time, Russians could vote, "
    "form parties and trade unions, and read newspapers that criticised the government. The Duma, however weak, "
    "became a place where ministers were questioned in public. The autocracy would never be quite the same again.",
-   [{"view": "the 1905 Revolution brought real change to Russia",
-     "pro": {"change": "+"},
+    [{"view": "the 1905 Revolution brought real change to Russia",
+     "pro": {"change": "+", "power": "-"},
      "ext": ["Russians could vote and form parties and trade unions", "ministers were questioned in public"],
      "own_for": ["Four Dumas met between 1906 and 1917", "Trade unions were legalised in 1906", "Newspapers could criticise the government more openly"],
      "own_against": ["The Fundamental Laws gave the Tsar power to dissolve the Duma and rule by decree", "The voting system was changed to favour landowners", "The Okhrana continued to arrest opponents"]},
     {"view": "the creation of the Duma was a significant change in how Russia was ruled",
-     "pro": {"change": "+", "force": "-"},
+     "pro": {"change": "+", "duma": "+", "power": "-"},
      "ext": ["the Duma, however weak, was a place where ministers were questioned"],
      "own_for": ["The Third Duma passed laws on education and insurance", "The Duma criticised Rasputin and the conduct of the war", "Duma members formed the Provisional Government in 1917"],
      "own_against": ["The first and second Dumas lasted only a few months", "The Tsar kept control of ministers", "The Third and Fourth Dumas were dominated by loyal landowners"]},
     {"view": "after 1905 the Tsar could no longer rule as a complete autocrat",
-     "pro": {"change": "+"},
+     "pro": {"change": "+", "power": "-"},
      "ext": ["the autocracy would never be quite the same again"],
      "own_for": ["The Tsar had to work with an elected Duma", "Political parties operated openly", "Public criticism of the government increased"],
      "own_against": ["Nicholas II still called himself autocrat in the Fundamental Laws", "He appointed and dismissed ministers freely", "He ignored the Duma's advice during the war"]}]),
@@ -312,10 +319,10 @@ CLUSTERS = {
 "war-feb": [
 {"focus": "conditions in Russia during the First World War",
  "aspects": {
-   "food": {"+": "there were serious shortages of food and fuel", "-": "supplies were adequate"},
+   "food": {"+": "there were serious food shortages", "-": "food was still available, at least to the wealthy"},
    "army": {"+": "the army was badly led and equipped", "-": "the army was performing well"},
-   "blame": {"+": "the Tsar and his government were blamed", "-": "people remained loyal to the Tsar"},
-   "loss": {"+": "the war brought heavy losses and sacrifices for Russians", "-": "the war cost Russia little"}},
+   "blame": {"+": "the royal family was blamed", "-": "people remained loyal to the Tsar"},
+   "loss": {"+": "the war brought heavy losses or sacrifices for Russians", "-": "the war cost Russia little"}},
  "sources": [
   ("From a letter written by a soldier at the front to his family, 1915.",
    "We were sent forward with one rifle for every three men and told to pick up the weapons of the dead. "
@@ -323,7 +330,7 @@ CLUSTERS = {
    "The men say that the Tsar's German wife is betraying us.",
    {"army": ("+", "one rifle for every three men and officers who drink and gamble"),
     "food": ("+", "the soldiers starve on black bread"),
-    "blame": ("+", "the men blame the Tsar's German wife"),
+    "blame": ("+", "the men say the Tsar's German wife is betraying them"),
     "loss": ("+", "soldiers are told to pick up the weapons of the dead")}),
   ("From a police report on the mood in Petrograd, October 1916.",
    "The price of bread has risen fourfold since the start of the war. Women stand in queues all night and "
@@ -336,7 +343,7 @@ CLUSTERS = {
    "We dined at the Bear restaurant last night and the food was as good as ever, though dearer. People talk "
    "of nothing but Rasputin's murder, and everyone has lost someone at the front. Everyone agrees that the Empress has ruined the government. Even the "
    "Grand Dukes say Nicholas must make changes.",
-   {"food": ("-", "she dined well at a restaurant"),
+   {"food": ("-", "she dined well at a restaurant, though food was dearer"),
     "blame": ("+", "everyone agrees the Empress has ruined the government"),
     "loss": ("+", "everyone has lost someone at the front")}),
   ("From an official army newspaper, 1916.",
@@ -353,17 +360,17 @@ CLUSTERS = {
    "front, shortages at home and scandal at court came together in the winter of 1916–17. By taking command "
    "of the army, Nicholas made himself personally responsible for every failure.",
    [{"view": "the war exposed the weaknesses of the Tsarist regime",
-     "pro": {"army": "+", "food": "+"},
+     "pro": {"army": "+", "food": "+", "blame": "+"},
      "ext": ["defeat, shortages and scandal came together", "the war exposed every weakness"],
      "own_for": ["Russia lost heavily at Tannenberg in 1914", "Railways could not supply both the army and the cities", "Inflation caused by printing money hit workers hard"],
      "own_against": ["Russia's armies did well in the Brusilov Offensive of 1916", "Shell production had improved by 1916", "Problems such as the Tsar's refusal to share power existed before the war"]},
     {"view": "the Tsar's decision to take command of the army was a serious mistake",
-     "pro": {"blame": "+"},
+     "pro": {"blame": "+", "army": "+"},
      "ext": ["Nicholas made himself personally responsible for every failure"],
      "own_for": ["He took command in September 1915 and was blamed for later defeats", "He left the Tsarina and Rasputin in charge in Petrograd", "Ministers were changed frequently in his absence"],
      "own_against": ["The army's performance improved in 1916", "Shortages at home were caused by transport problems, not his command", "Opposition to the Tsar existed before 1915"]},
     {"view": "the combination of problems in 1916–17 made the fall of the Tsar likely",
-     "pro": {"food": "+", "blame": "+"},
+     "pro": {"food": "+", "blame": "+", "army": "+"},
      "ext": ["defeat, shortages and scandal came together in the winter of 1916–17"],
      "own_for": ["Food shortages in Petrograd were severe in early 1917", "Rasputin's murder in December 1916 showed even nobles had turned against the court", "The Duma's Progressive Bloc demanded a new government"],
      "own_against": ["The army had stayed loyal until February 1917", "The revolution began unexpectedly with bread queues", "Revolutionary parties did not plan the February Revolution"]}]),
@@ -378,6 +385,7 @@ CLUSTERS = {
      "own_against": ["Millions of soldiers had been killed or captured by 1917", "Desertion was rising", "The Petrograd garrison mutinied in February 1917"]},
     {"view": "shortages in the cities were the main cause of opposition to the government",
      "pro": {"food": "+"},
+     "alt": {"army": "+"},
      "ext": ["transport broke down and hunger turned workers against the government"],
      "own_for": ["Bread queues in Petrograd sparked the February Revolution", "Fuel shortages closed factories", "Prices rose much faster than wages"],
      "own_against": ["The influence of Rasputin damaged the royal family", "Military defeats lowered morale", "The Duma politicians had lost faith in the Tsar"]},
@@ -389,9 +397,10 @@ CLUSTERS = {
  ]},
 {"focus": "the February Revolution of 1917",
  "aspects": {
-   "spont": {"+": "the revolution was spontaneous", "-": "the revolution was organised"},
-   "troops": {"+": "the army was no longer loyal to the Tsar's government", "-": "the army remained loyal to the Tsar"},
-   "tsar": {"+": "the Tsar had lost support", "-": "the Tsar still had support"}},
+   "spont": {"+": "the revolution was spontaneous", "-": "revolutionaries led the protests"},
+   "troops": {"+": "the army could no longer be relied on to defend the Tsar's government", "-": "the army remained loyal to the Tsar"},
+   "tsar": {"+": "the Tsar had lost support", "-": "some still hoped the Tsar could save his dynasty"},
+   "char": {"+": "Nicholas seemed strangely detached from the crisis", "-": "Nicholas fought hard to save his throne"}},
  "sources": [
   ("From the memoirs of a Petrograd factory worker, written in 1927.",
    "Nobody planned it. On Women's Day the women from the textile mills came out about the bread, and they "
@@ -404,12 +413,12 @@ CLUSTERS = {
    "The situation is serious. There is anarchy in the capital. The government is paralysed. Transport and "
    "food supplies are in complete disorder. Troops are firing on one another. A person trusted by the "
    "country must be given power to form a new government at once.",
-   {"troops": ("+", "troops are firing on one another, so the army can no longer be relied on"),
+   {"troops": ("+", "troops are firing on one another"),
     "tsar": ("+", "a person trusted by the country must form a new government")}),
   ("From a report by a Bolshevik organiser in Petrograd, March 1917.",
    "Our comrades in the factories led the strikes and carried the red flags. We called on the soldiers to "
    "join the people, and many listened. The Tsar had no friends left, not even among his generals.",
-   {"spont": ("-", "Bolshevik comrades led the strikes"),
+   {"spont": ("-", "the Bolshevik organiser says his comrades in the factories led the strikes"),
     "troops": ("+", "many soldiers listened and joined the people"),
     "tsar": ("+", "the Tsar had no friends left, even among the generals")}),
   ("From the diary of a Tsarist general at army headquarters, March 1917.",
@@ -417,7 +426,8 @@ CLUSTERS = {
    "could not be relied upon. Some of us believed he could still save the dynasty. He signed the "
    "abdication calmly, as though he were handing over command of a squadron.",
    {"troops": ("+", "the army could not be relied upon"),
-    "tsar": ("-", "some generals believed he could still save the dynasty")}),
+    "tsar": ("-", "some generals believed he could still save the dynasty"),
+    "char": ("+", "he signed the abdication calmly, as though handing over command of a squadron")}),
  ],
  "extracts": [
   ("From a history of the Russian Revolution, published in 2017.",
@@ -433,7 +443,7 @@ CLUSTERS = {
      "pro": {"troops": "+"},
      "ext": ["it became a revolution only when the soldiers refused to fire"],
      "own_for": ["The Petrograd garrison mutinied on 27 February", "The generals told the Tsar they could not guarantee the army's loyalty", "Soldiers helped set up the Petrograd Soviet"],
-     "own_against": ["Long-term discontent among workers and peasants was a cause", "Food shortages caused the protests", "The Tsar had lost the support of the Duma and nobility"]},
+     "own_against": ["Long-term discontent among workers and peasants was a cause", "The Tsar's absence at the front left weak ministers in charge in Petrograd", "The Tsar had lost the support of the Duma and nobility"]},
     {"view": "the collapse of the Romanov dynasty was very rapid",
      "pro": {"tsar": "+"},
      "ext": ["within a week the dynasty had gone"],
@@ -449,12 +459,13 @@ CLUSTERS = {
      "own_for": ["The Duma's Progressive Bloc demanded a government of public confidence", "Nobles murdered Rasputin in December 1916", "The generals advised abdication in March 1917"],
      "own_against": ["Many peasant soldiers still respected the idea of the Tsar", "Some generals were willing to fight for him", "Opposition groups disagreed about what should replace him"]},
     {"view": "the Tsar's own character was the main reason for his downfall",
-     "pro": {"tsar": "+"},
+     "pro": {"char": "+"},
+     "alt": {"troops": "+"},
      "ext": ["he refused to change course", "his stubbornness turned a crisis into a catastrophe"],
      "own_for": ["He refused to appoint ministers trusted by the Duma", "He ignored warnings from the Duma president", "He went to the front in 1915, leaving the Tsarina in charge"],
      "own_against": ["The war created problems no ruler could easily solve", "Food shortages were caused by the transport system", "The mutiny of the soldiers ended his rule"]},
     {"view": "the February Revolution was caused by a crisis that had been building up",
-     "pro": {"spont": "-", "tsar": "+"},
+     "pro": {"tsar": "+"},
      "ext": ["workers and peasants were hungry", "the Duma politicians were plotting"],
      "own_for": ["Strikes had increased through 1916", "Police reports warned of revolution", "Inflation and shortages had grown since 1915"],
      "own_against": ["The revolution itself was sparked unexpectedly by bread queues", "Few people expected the Tsar to fall so quickly", "Revolutionary parties did not plan it"]}]),
@@ -463,9 +474,9 @@ CLUSTERS = {
 "provisional": [
 {"focus": "the Provisional Government in 1917",
  "aspects": {
-   "war": {"+": "the war was a serious problem for the government", "-": "the war was supported and was not a problem"},
+   "war": {"+": "the war was a serious problem for the government", "-": "the war still had support"},
    "weak": {"+": "the government was weak and lacked authority", "-": "the government had real authority"},
-   "land": {"+": "the government failed to deal with the land question", "-": "the government dealt with the land question"},
+   "land": {"+": "the government delayed dealing with the land question", "-": "the government dealt with the land question"},
    "reform": {"+": "the government had introduced or promised political reforms", "-": "the government made no reforms"}},
  "sources": [
   ("From the diary of a member of the Provisional Government, June 1917.",
@@ -479,10 +490,10 @@ CLUSTERS = {
    "The government tells us to wait for the Constituent Assembly before we take the land. We have waited "
    "three hundred years. In our village we have already driven off the landlord's steward and divided his "
    "fields. My son writes from the front that the men there want only to come home.",
-   {"land": ("+", "the government tells peasants to wait for the land"),
+   {"land": ("+", "peasants are told to wait before taking the land"),
     "war": ("+", "the men at the front want to come home"),
     "weak": ("+", "the villagers have taken the land themselves"),
-    "reform": ("+", "the government promises a Constituent Assembly")}),
+    "reform": ("+", "the government tells peasants to wait for the Constituent Assembly")}),
   ("From a speech by a supporter of the government in Moscow, May 1917.",
    "Free Russia has the freest government in the world. We have abolished the death penalty, freed the "
    "prisoners and given equal rights to all peoples. Soon the Constituent Assembly will decide our future. "
@@ -505,16 +516,18 @@ CLUSTERS = {
    "reward.",
    [{"view": "continuing the war was the Provisional Government's biggest mistake",
      "pro": {"war": "+"},
+     "alt": {"weak": "+", "land": "+"},
      "ext": ["carrying on fighting was the greatest mistake", "soldiers deserted in their hundreds of thousands"],
      "own_for": ["The June Offensive of 1917 was a disaster", "Desertion increased, with soldiers going home to take land", "The Bolshevik slogan 'Peace, Bread and Land' became popular"],
      "own_against": ["Dual Power with the Petrograd Soviet limited the government's authority", "The delay over land reform angered the peasants", "The Kornilov Affair destroyed Kerensky's support among the army officers"]},
     {"view": "the Bolsheviks gained support because they promised peace",
      "pro": {"war": "+"},
+     "alt": {"land": "+"},
      "ext": ["the Bolsheviks, who promised peace, reaped the reward"],
      "own_for": ["Lenin's April Theses demanded an end to the war", "Bolshevik membership grew to about 250,000 by October", "The Bolsheviks won majorities in the Petrograd and Moscow Soviets in September"],
      "own_against": ["The Kornilov Affair gave the Bolsheviks weapons and prestige", "Trotsky's organisation was important in October", "Promises of land and bread also attracted support"]},
     {"view": "the war made all the government's other problems worse",
-     "pro": {"war": "+", "land": "+"},
+     "pro": {"war": "+"},
      "ext": ["it made every other problem worse, from food supplies to land"],
      "own_for": ["Food shortages continued in the cities", "Soldiers left the front to seize land", "Inflation continued as the war was paid for by printing money"],
      "own_against": ["The land question was delayed by the government's own choice", "The government's weaknesses came from Dual Power", "Kerensky's mistakes in the Kornilov Affair were not caused by the war"]}]),
@@ -528,12 +541,14 @@ CLUSTERS = {
      "own_for": ["Order Number One meant soldiers obeyed the Soviet", "It was formed from the old Duma, not elected", "It called itself 'provisional' and delayed decisions"],
      "own_against": ["It had wide support in March 1917", "It survived the July Days and the Bolsheviks were blamed", "It introduced important reforms such as civil rights"]},
     {"view": "the Kornilov Affair was the turning point for the Provisional Government",
-     "pro": {"weak": "+"},
+     "pro": {},
+     "alt": {"war": "+"},
      "ext": ["the Kornilov Affair destroyed what little authority it had left", "Kerensky had to arm the Bolsheviks"],
      "own_for": ["Red Guards were given weapons", "Bolshevik prisoners were released", "The officers turned against Kerensky"],
      "own_against": ["The failure of the June Offensive had already damaged the government", "Peasants were already taking land", "Lenin's leadership was important in October"]},
     {"view": "Dual Power was the main weakness of the Provisional Government",
      "pro": {"weak": "+"},
+     "alt": {"war": "+", "land": "+"},
      "ext": ["it shared power with the Petrograd Soviet"],
      "own_for": ["The Soviet controlled the railways and the soldiers", "Order Number One undermined officers' authority", "The Soviet's Military Revolutionary Committee organised the October seizure of power"],
      "own_against": ["The decision to continue the war cost it support", "Delays over land reform and the Constituent Assembly made it unpopular", "Economic problems continued"]}]),
@@ -541,7 +556,9 @@ CLUSTERS = {
 {"focus": "the Bolshevik seizure of power in October 1917",
  "aspects": {
    "easy": {"+": "the seizure of power was easy and met little resistance", "-": "the seizure of power was violent and hard fought"},
-   "lead": {"+": "Bolshevik leadership was important", "-": "the Bolshevik leaders were not important"},
+   "lead": {"+": "the seizure of power was carefully planned", "-": "the seizure of power was not planned"},
+   "lenin": {"+": "Lenin had great personal appeal", "-": "Lenin had little influence"},
+   "trotsky": {"+": "Trotsky planned the seizure of power", "-": "Trotsky played little part"},
    "pop": {"+": "the Bolsheviks had popular support", "-": "the Bolsheviks had little popular support"}},
  "sources": [
   ("From the memoirs of a Red Guard who took part in the events, written in 1930.",
@@ -549,20 +566,23 @@ CLUSTERS = {
    "exchange. Hardly a shot was fired. Comrade Trotsky had planned everything at the Smolny. When we entered "
    "the Winter Palace, the ministers were sitting around a table waiting to be arrested.",
    {"easy": ("+", "hardly a shot was fired and the ministers were waiting to be arrested"),
-    "lead": ("+", "Trotsky had planned everything")}),
+    "lead": ("+", "everything had been planned in advance at the Smolny"),
+    "trotsky": ("+", "it names Comrade Trotsky as the man who planned it")}),
   ("From a newspaper published by a rival socialist party, 26 October 1917.",
    "A small group of conspirators has seized power behind the backs of the people. The Bolsheviks have not "
    "waited for the Congress of Soviets or the Constituent Assembly. Their rule will not last and will bring "
    "civil war.",
-   {"pop": ("-", "it calls them a small group of conspirators acting behind the people's backs"),
-    "lead": ("+", "it says a small group of conspirators seized power without waiting for the Congress")}),
+   {"pop": ("-", "it says power was seized behind the backs of the people"),
+    "lead": ("+", "it calls the Bolsheviks a small group of conspirators who did not wait for the Congress of Soviets")}),
   ("From the diary of an American journalist in Petrograd, October 1917.",
    "In the streets life went on as normal: trams ran and the theatres were open. Yet at the Congress of "
-   "Soviets the hall roared its approval when Lenin appeared. Workers and soldiers everywhere seemed to "
+   "Soviets the hall roared its approval when Lenin appeared. A Bolshevik told me the rising had been planned "
+   "for weeks by a handful of men at the Smolny. Workers and soldiers everywhere seemed to "
    "believe that the Bolsheviks would give them peace.",
    {"easy": ("+", "life went on as normal in the streets"),
     "pop": ("+", "workers and soldiers seemed to believe the Bolsheviks would give them peace"),
-    "lead": ("+", "the hall roared approval when Lenin appeared")}),
+    "lenin": ("+", "the hall roared approval when Lenin appeared"),
+    "lead": ("+", "a Bolshevik said the rising had been planned for weeks by a handful of men")}),
   ("From a letter written by an officer cadet defending the Winter Palace, October 1917.",
    "We were left with a handful of cadets and the women's battalion. The government had no other defenders. "
    "The cruiser Aurora fired a blank shot, and some of the Bolsheviks' shells hit the palace. When they "
@@ -576,17 +596,18 @@ CLUSTERS = {
    "few thousand Red Guards and sailors under the direction of Trotsky's Military Revolutionary Committee. "
    "Most of the people of Petrograd were hardly aware that anything had happened.",
    [{"view": "the October Revolution was a coup rather than a popular rising",
-     "pro": {"pop": "-", "easy": "+"},
+     "pro": {"pop": "-", "easy": "+", "lead": "+"},
      "ext": ["it was a carefully planned coup", "most people were hardly aware that anything had happened"],
      "own_for": ["Only a few thousand Red Guards, soldiers and sailors were involved", "The Bolsheviks acted before the Congress of Soviets met", "The Bolsheviks won only about a quarter of the votes in the Constituent Assembly elections"],
      "own_against": ["The Bolsheviks had won majorities in the Petrograd and Moscow Soviets", "The Congress of Soviets approved the new government", "Bolshevik membership had grown to around a quarter of a million"]},
     {"view": "Trotsky's role was vital to the success of the Bolshevik seizure of power",
-     "pro": {"lead": "+"},
+     "pro": {"trotsky": "+"},
+     "alt": {"lenin": "+"},
      "ext": ["the coup was carried out under the direction of Trotsky's Military Revolutionary Committee"],
      "own_for": ["Trotsky chaired the Petrograd Soviet and its Military Revolutionary Committee", "He planned the seizure of key points in the city", "He persuaded the garrison to support the Soviet"],
      "own_against": ["Lenin persuaded the Bolshevik Central Committee to act", "The weakness of the Provisional Government made the takeover easier", "The Kornilov Affair had already armed the Red Guards"]},
     {"view": "the Bolshevik seizure of power was achieved by a small number of people",
-     "pro": {"easy": "+", "pop": "-"},
+     "pro": {"easy": "+", "pop": "-", "lead": "+"},
      "ext": ["a few thousand Red Guards and sailors carried it out"],
      "own_for": ["The Winter Palace was defended only by cadets and a women's battalion", "Few people died in Petrograd", "Kerensky could not find troops to defend the government"],
      "own_against": ["The fighting in Moscow lasted about a week", "The Bolsheviks had wide support among Petrograd workers and soldiers", "Support from the Petrograd garrison was vital"]}]),
@@ -596,10 +617,11 @@ CLUSTERS = {
    "the Bolsheviks a mass following. When the Provisional Government collapsed, it was Lenin's party that was "
    "ready to take its place.",
    [{"view": "Lenin was the main reason for the Bolshevik seizure of power",
-     "pro": {"lead": "+"},
+     "pro": {"lenin": "+"},
+     "alt": {"trotsky": "+"},
      "ext": ["without Lenin there would have been no October Revolution", "he insisted the moment had come"],
      "own_for": ["Lenin's April Theses gave the party clear aims", "He returned from hiding to persuade the Central Committee to vote for a rising", "He wrote many articles urging the seizure of power"],
-     "own_against": ["Trotsky organised the actual takeover", "The weakness of the Provisional Government made it possible", "The Kornilov Affair increased Bolshevik support"]},
+     "own_against": ["Trotsky organised the actual takeover", "Lenin was in hiding in Finland for much of the time after the July Days", "The Kornilov Affair increased Bolshevik support"]},
     {"view": "the Bolsheviks had won mass support by October 1917",
      "pro": {"pop": "+"},
      "ext": ["his slogans had won the Bolsheviks a mass following"],
@@ -607,23 +629,25 @@ CLUSTERS = {
      "own_against": ["They won only about a quarter of the votes for the Constituent Assembly", "Many peasants supported the Socialist Revolutionaries", "Rival socialists condemned the seizure of power"]},
     {"view": "the Bolsheviks took power because the Provisional Government collapsed",
      "pro": {"easy": "+"},
+     "alt": {"lead": "+", "trotsky": "+"},
      "ext": ["when the Provisional Government collapsed, Lenin's party was ready"],
      "own_for": ["The government had few troops to defend it", "Kerensky fled Petrograd", "The war and land problems had destroyed the government's support"],
-     "own_against": ["The Bolsheviks actively planned and organised the takeover", "Lenin and Trotsky's leadership was crucial", "The Military Revolutionary Committee controlled the garrison"]}]),
+     "own_against": ["The Bolsheviks actively planned and organised the takeover", "Bolshevik support in the Petrograd factories and garrison had been growing", "The Military Revolutionary Committee controlled the garrison"]}]),
  ]},
 ],
 "civil-war": [
 {"focus": "the Bolshevik consolidation of power in 1917–18",
  "aspects": {
-   "force": {"+": "the Bolsheviks used force and terror", "-": "the Bolsheviks ruled by consent"},
-   "pop": {"+": "Bolshevik policies were popular", "-": "Bolshevik policies were unpopular"},
-   "dem": {"+": "the Bolsheviks rejected democracy", "-": "the Bolsheviks respected democracy"}},
+   "force": {"+": "the Bolsheviks used force against opponents", "-": "the Bolsheviks ruled by consent"},
+   "pop": {"+": "the Bolsheviks had won support", "-": "many Russians did not support the Bolsheviks"},
+   "dem": {"+": "the Bolsheviks rejected democracy and free opposition", "-": "the Bolsheviks respected democracy"}},
  "sources": [
   ("From the memoirs of a Socialist Revolutionary deputy to the Constituent Assembly, published in 1921.",
    "We arrived at the Tauride Palace on 5 January to find it surrounded by sailors with rifles. The galleries "
    "were full of armed men who jeered at our speeches. When we tried to return the next day, the doors were "
    "locked. The people had voted for us, and Lenin simply sent us home.",
    {"dem": ("+", "the Assembly was surrounded by armed sailors and then locked out"),
+    "pop": ("-", "the people had voted for the Socialist Revolutionaries, not the Bolsheviks"),
     "force": ("+", "sailors with rifles and armed men in the galleries")}),
   ("From a letter written by a peasant to a newspaper, December 1917.",
    "At last the land is ours! The new government has given us the landlord's estate without payment. We "
@@ -655,6 +679,7 @@ CLUSTERS = {
      "own_against": ["Left Socialist Revolutionaries joined the government in December 1917", "Lenin allowed the Constituent Assembly elections to go ahead", "Power was formally held by the Congress of Soviets"]},
     {"view": "terror was the main way the Bolsheviks kept power in 1917–18",
      "pro": {"force": "+"},
+     "alt": {"pop": "+"},
      "ext": ["he set up the Cheka in December 1917", "Russia was ruled by terror"],
      "own_for": ["The Red Terror followed the attempt on Lenin's life in August 1918", "The Tsar and his family were executed in July 1918", "The Cheka executed thousands of suspects"],
      "own_against": ["The Decree on Land won peasant support", "The Decree on Peace and Brest-Litovsk ended the war", "Workers' control of factories was popular in the cities"]},
@@ -674,6 +699,7 @@ CLUSTERS = {
      "own_against": ["The Treaty of Brest-Litovsk was seen as humiliating", "The closure of the Constituent Assembly angered many", "Grain requisitioning soon turned peasants against the government"]},
     {"view": "the Bolsheviks kept power in 1917–18 mainly by winning support",
      "pro": {"pop": "+", "force": "-"},
+     "alt": {"dem": "+"},
      "ext": ["many Russians were willing to tolerate the new government"],
      "own_for": ["The land decree won over many peasants", "Ending the war was welcomed by soldiers", "The Bolsheviks controlled the soviets in the main cities"],
      "own_against": ["The Cheka was used against opponents", "The Constituent Assembly was closed by force", "Opposition newspapers were banned"]},
@@ -685,23 +711,25 @@ CLUSTERS = {
  ]},
 {"focus": "the Civil War of 1918–21",
  "aspects": {
-   "white": {"+": "the Whites were divided and weak", "-": "the Whites were strong and dangerous"},
+   "white": {"+": "the Whites were divided", "-": "the Whites were strong and dangerous"},
    "red": {"+": "the Red Army was well organised", "-": "the Red Army was badly organised"},
-   "harsh": {"+": "the war was fought brutally", "-": "the war was fought with restraint"},
+   "geo": {"+": "geography and distance worked in the Reds' favour",
+           "-": "geography did not hold the Whites back"},
+   "peas": {"+": "ordinary people had reasons to oppose the Whites", "-": "ordinary people welcomed the Whites"},
    "foreign": {"+": "foreign powers were helping the Whites", "-": "the Whites had no foreign help"}},
  "sources": [
   ("From the memoirs of a White Army officer, published in Paris in 1928.",
    "We had brave men but no common aim. Some of our generals wanted the Tsar back; others wanted a republic. "
    "Kolchak in Siberia and Denikin in the south never managed to join their forces, even when British tanks and uniforms reached us. Our soldiers looted the "
    "villages, and the peasants came to hate us as much as the Reds.",
-   {"white": ("+", "the Whites had no common aim and their generals never joined forces"),
-    "harsh": ("+", "White soldiers looted the villages"),
+   {"white": ("+", "the Whites had no common aim: some generals wanted the Tsar back, others a republic"),
+    "geo": ("+", "Kolchak in Siberia and Denikin in the south never managed to join their forces"),
+    "peas": ("+", "White soldiers looted the villages and the peasants came to hate them"),
     "foreign": ("+", "British tanks and uniforms reached the Whites")}),
   ("From an order issued by Trotsky to the Red Army, 1918.",
    "Any unit that retreats without orders will have its commissar and commander shot. Deserters will be "
    "punished with the utmost severity. The Red Army will defend the revolution to the last drop of blood against the White Guards and their foreign paymasters.",
-   {"red": ("+", "it shows strict discipline with punishments for retreat"),
-    "harsh": ("+", "commanders and commissars will be shot"),
+   {"red": ("+", "it shows strict discipline: commanders and commissars of units that retreat will be shot"),
     "foreign": ("+", "it calls the Whites' backers their foreign paymasters")}),
   ("From a letter written by a British officer serving with the Whites, 1919.",
    "Denikin's army is advancing fast and may reach Moscow before winter. The Reds are falling back in "
@@ -709,13 +737,15 @@ CLUSTERS = {
    "could finish the Bolsheviks this year.",
    {"white": ("-", "Denikin's army is advancing fast and may reach Moscow"),
     "red": ("-", "the Reds are falling back in disorder"),
+    "peas": ("-", "the people in the towns the Whites take greet them with relief"),
     "foreign": ("+", "more supplies from Britain could finish the Bolsheviks")}),
   ("From the diary of a railway worker in central Russia, 1920.",
    "Trotsky's armoured train passed through again today, full of commissars and machine guns. The Reds hold "
    "all the railway lines from Moscow, and they move their men wherever they are needed. They take our grain "
    "and shoot anyone who hides it, but at least they are not the landlords, and not the English and French who are paying the Whites.",
-   {"red": ("+", "the Reds control the railways and move men wherever needed"),
-    "harsh": ("+", "they shoot anyone who hides grain"),
+   {"red": ("+", "the Reds move their men wherever they are needed, and Trotsky's armoured train keeps passing through"),
+    "geo": ("+", "the Reds hold all the railway lines from Moscow"),
+    "peas": ("+", "the railway worker prefers the Reds because at least they are not the landlords"),
     "foreign": ("+", "the English and French are paying the Whites")}),
  ],
  "extracts": [
@@ -724,17 +754,18 @@ CLUSTERS = {
    "Russia, thousands of kilometres apart, and their leaders distrusted one another. Many peasants feared that "
    "a White victory would mean the return of the landlords.",
    [{"view": "the Whites lost the Civil War mainly because of their own weaknesses",
-     "pro": {"white": "+"},
+     "pro": {"white": "+", "peas": "+"},
+     "alt": {"red": "+"},
      "ext": ["their armies were scattered and their leaders distrusted each other", "peasants feared the return of the landlords"],
      "own_for": ["Kolchak, Denikin and Yudenich attacked at different times", "The Whites included monarchists and liberals with different aims", "Foreign support was limited and withdrawn by 1920"],
      "own_against": ["Trotsky's leadership of the Red Army was vital", "The Reds controlled the railways and industrial centres", "War Communism supplied the Red Army with food"]},
     {"view": "geography was a key reason for the White defeat",
-     "pro": {"white": "+", "red": "+"},
+     "pro": {"geo": "+"},
      "ext": ["White armies were scattered around the edges of Russia, thousands of kilometres apart"],
      "own_for": ["The Reds held Moscow and Petrograd with their factories and population", "The Reds could use the railways to move troops", "White forces could not coordinate attacks"],
-     "own_against": ["The Whites also had poor leadership and unity", "Red propaganda and terror were important", "Trotsky's discipline in the Red Army"]},
+     "own_against": ["War Communism kept the Red Army supplied with food and weapons", "Red propaganda and terror were important", "Trotsky imposed strict discipline on the Red Army"]},
     {"view": "peasant fears of the Whites helped the Reds to win",
-     "pro": {"white": "+", "harsh": "+"},
+     "pro": {"peas": "+"},
      "ext": ["many peasants feared that a White victory would bring back the landlords"],
      "own_for": ["The Reds had given land to the peasants in 1917", "White forces often looted villages", "Bolshevik propaganda warned of the return of the landlords"],
      "own_against": ["Many peasants resented Red requisitioning", "Peasant revolts such as the Green armies fought both sides", "Military factors such as the railways mattered more"]}]),
@@ -744,11 +775,12 @@ CLUSTERS = {
    "every danger point. More than any other individual, he won the Civil War for the Bolsheviks.",
    [{"view": "Trotsky was the main reason for the Bolshevik victory in the Civil War",
      "pro": {"red": "+"},
+     "alt": {"white": "+", "geo": "+"},
      "ext": ["Trotsky built the Red Army from almost nothing", "more than anyone, he won the Civil War"],
      "own_for": ["He introduced conscription and the army grew to about 5 million", "He used around 50,000 former Tsarist officers", "His armoured train travelled to the fronts to raise morale"],
      "own_against": ["The divisions among the Whites were also important", "Control of central Russia and the railways helped the Reds", "Lenin's War Communism supplied the army"]},
     {"view": "the Red Army was well organised and disciplined",
-     "pro": {"red": "+", "harsh": "+"},
+     "pro": {"red": "+"},
      "ext": ["Trotsky imposed ferocious discipline", "former officers were watched by commissars"],
      "own_for": ["Deserters were shot", "Commissars ensured loyalty", "The army was centrally directed from Moscow"],
      "own_against": ["Desertion from the Red Army remained high", "It lost the war against Poland in 1920", "Many soldiers were poorly trained conscripts"]},
@@ -762,10 +794,13 @@ CLUSTERS = {
 "nep": [
 {"focus": "the effects of War Communism",
  "aspects": {
-   "hunger": {"+": "War Communism caused hunger and hardship", "-": "War Communism fed the cities and army"},
-   "anger": {"+": "War Communism caused anger and revolt", "-": "people accepted War Communism"},
-   "need": {"+": "War Communism was necessary to win the Civil War", "-": "War Communism was not necessary"},
-   "taken": {"+": "grain was taken from the peasants by force", "-": "peasants gave grain willingly"}},
+   "hunger": {"+": "War Communism caused hunger and hardship", "-": "War Communism fed the Red Army"},
+   "anger": {"+": "War Communism caused anger and discontent", "-": "people accepted War Communism"},
+   "need": {"+": "War Communism was needed to supply the war effort", "-": "War Communism was not necessary"},
+   "taken": {"+": "grain was taken from the peasants", "-": "peasants gave grain willingly"},
+   "kron": {"+": "the Kronstadt sailors were demanding political freedom",
+            "-": "the Kronstadt sailors were loyal to Bolshevik policy"},
+   "repress": {"+": "the Bolsheviks dealt harshly with their opponents", "-": "the Bolsheviks tolerated opposition"}},
  "sources": [
   ("From a letter written by a peasant in the Volga region to the government, 1920.",
    "The requisition squads have taken everything, even the seed for next year. They searched under the "
@@ -782,9 +817,11 @@ CLUSTERS = {
     "taken": ("+", "grain is taken from the kulaks")}),
   ("From the demands of the sailors at Kronstadt, March 1921.",
    "We demand new elections to the soviets by secret ballot, freedom of speech for workers and peasants, "
-   "and an end to the armed squads that take the peasants' grain. The peasants must be free to work their "
+   "the release of all socialist political prisoners, and an end to the armed squads that take the peasants' grain. The peasants must be free to work their "
    "land as they wish.",
-   {"anger": ("+", "the sailors demand an end to requisitioning and new elections"),
+   {"kron": ("+", "the Kronstadt sailors demand new elections to the soviets and free speech"),
+    "anger": ("+", "the sailors demand that the peasants be free to work their land as they wish"),
+    "repress": ("+", "the sailors demand the release of socialist political prisoners"),
     "taken": ("+", "armed squads take the peasants' grain")}),
   ("From the diary of a factory worker in Petrograd, 1920.",
    "Our ration is a quarter of a pound of bread a day, and half the time it does not arrive. Many of my "
@@ -799,17 +836,17 @@ CLUSTERS = {
    "the Red Army, yet it destroyed the peasants' will to grow food. By 1921 the cities were empty, factories "
    "were idle and revolts had broken out across the countryside.",
    [{"view": "War Communism caused terrible damage to Russia",
-     "pro": {"hunger": "+", "anger": "+"},
+     "pro": {"hunger": "+", "anger": "+", "kron": "+"},
      "ext": ["it destroyed the peasants' will to grow food", "by 1921 the cities were empty and factories idle"],
      "own_for": ["Grain production fell sharply by 1921", "Around 5 million died in the famine of 1921", "Industrial output fell to a fraction of its 1913 level"],
-     "own_against": ["The Civil War itself caused much of the damage", "Drought contributed to the famine", "War Communism kept the Red Army supplied"]},
+     "own_against": ["The Civil War itself caused much of the damage", "Drought contributed to the famine", "Foreign intervention and blockade cut Russia's trade"]},
     {"view": "War Communism was necessary to win the Civil War",
      "pro": {"need": "+"},
      "ext": ["War Communism helped the Bolsheviks to win the Civil War", "requisitioning fed the Red Army"],
      "own_for": ["The army needed food and weapons", "Nationalised factories produced for the war", "Strict discipline was applied to workers"],
      "own_against": ["Requisitioning caused peasant revolts such as Tambov", "Many Bolsheviks saw it as a way to bring in communism, not just to win the war", "It continued after the Whites were mostly defeated"]},
     {"view": "War Communism caused widespread revolt by 1921",
-     "pro": {"anger": "+"},
+     "pro": {"anger": "+", "kron": "+"},
      "ext": ["revolts had broken out across the countryside"],
      "own_for": ["The Tambov rising involved tens of thousands of peasants", "The Kronstadt sailors rebelled in March 1921", "Workers went on strike in Petrograd in February 1921"],
      "own_against": ["The Bolsheviks crushed the revolts", "Many people were too hungry to rebel", "Some supported the Bolsheviks against the Whites"]}]),
@@ -818,17 +855,18 @@ CLUSTERS = {
    "in 1921, demanding free soviets and an end to requisitioning, Lenin knew he had to change course. He "
    "crushed the rising with great brutality, but at the same party congress he announced the New Economic Policy.",
    [{"view": "the Kronstadt Rising forced Lenin to change his economic policy",
-     "pro": {"anger": "+"},
+     "pro": {"kron": "+"},
+     "alt": {"hunger": "+"},
      "ext": ["Lenin knew he had to change course", "at the same congress he announced the NEP"],
      "own_for": ["The NEP was announced at the Tenth Party Congress in March 1921", "Lenin called Kronstadt the flash that lit up reality", "Requisitioning was replaced with a tax in kind"],
      "own_against": ["The famine and economic collapse also forced a change", "Peasant revolts such as Tambov had begun earlier", "Lenin had already been considering reforms before Kronstadt"]},
     {"view": "the Bolsheviks used brutal methods to deal with opposition in 1921",
-     "pro": {"anger": "+"},
+     "pro": {"repress": "+"},
      "ext": ["he crushed the rising with great brutality"],
      "own_for": ["Thousands of Kronstadt sailors were killed or executed", "The Tambov rising was crushed using poison gas", "Factions within the party were banned"],
      "own_against": ["Lenin also made concessions through the NEP", "Some rebels were pardoned", "The famine was met with foreign aid"]},
     {"view": "the Kronstadt sailors' demands showed how unpopular War Communism had become",
-     "pro": {"anger": "+", "hunger": "+"},
+     "pro": {"kron": "+", "anger": "+"},
      "ext": ["the sailors demanded free soviets and an end to requisitioning"],
      "own_for": ["The sailors had supported the Bolsheviks in 1917", "Their demands echoed those of striking workers", "Peasant families of the sailors suffered from requisitioning"],
      "own_against": ["The sailors were a small group", "Many original sailors had been replaced by new recruits", "The Bolsheviks still had support in the army"]}]),
@@ -836,21 +874,26 @@ CLUSTERS = {
 {"focus": "the New Economic Policy",
  "aspects": {
    "recov": {"+": "the NEP led to economic recovery", "-": "the NEP did not improve the economy"},
-   "retreat": {"+": "the NEP was a retreat from communism", "-": "the NEP was consistent with communism"},
-   "unrest": {"+": "the NEP caused opposition within the party", "-": "the NEP was accepted in the party"}},
+   "retreat": {"+": "the NEP brought back private trade", "-": "the NEP did not bring back capitalism"},
+   "temp": {"+": "the NEP was meant as a temporary retreat", "-": "the NEP was meant to be permanent"},
+   "control": {"+": "the state kept control of the key parts of the economy", "-": "the state gave up control of the economy"},
+   "unrest": {"+": "the NEP was criticised by communists", "-": "the NEP was accepted in the party"}},
  "sources": [
   ("From the diary of a Moscow schoolteacher, 1922.",
    "Shops have reopened on the Tverskaya, and for the first time in years you can buy butter and sugar, if "
    "you can afford them. The Nepmen strut about in fur coats. Our old Bolshevik neighbour says this is not "
    "what he fought for.",
    {"recov": ("+", "shops have reopened and food can be bought"),
-    "retreat": ("+", "private traders, the Nepmen, have grown rich and strut about in fur coats"),
+    "retreat": ("+", "the private traders, the Nepmen, strut about in fur coats"),
     "unrest": ("+", "an old Bolshevik says it is not what he fought for")}),
   ("From a speech by Lenin to the party, 1921.",
    "We must make a step back in order to take two steps forward later. The peasant must be given a reason to "
    "grow more grain. The state will keep the large factories, the banks and foreign trade. This is not "
-   "capitalism; it is a breathing space.",
-   {"retreat": ("+", "Lenin calls it a step back")}),
+   "capitalism; it is a breathing space. Many comrades already call this a betrayal. They are wrong.",
+   {"temp": ("+", "Lenin calls it a step back to take two steps forward later, a breathing space"),
+    "control": ("+", "the state will keep the large factories, the banks and foreign trade"),
+    "unrest": ("+", "Lenin says many comrades already call it a betrayal"),
+    "retreat": ("-", "Lenin insists that 'this is not capitalism'")}),
   ("From a letter written by a young party member to a newspaper, 1923.",
    "We shed our blood in the Civil War to destroy the bourgeoisie, and now they are back, selling us bread at "
    "high prices. The kulaks grow rich while the workers' wages stay low. Is this what Lenin meant by communism?",
@@ -862,7 +905,7 @@ CLUSTERS = {
    "However, heavy industry is recovering more slowly, and prices of manufactured goods are high compared "
    "with the prices peasants receive for grain.",
    {"recov": ("+", "grain production has almost returned to pre-war level"),
-    "retreat": ("+", "some comrades complain that the Nepmen are a return to capitalism"),
+    "retreat": ("+", "small industry and private trade are permitted again and flourishing"),
     "unrest": ("+", "some comrades still complain about the Nepmen")}),
  ],
  "extracts": [
@@ -876,7 +919,7 @@ CLUSTERS = {
      "own_for": ["Grain production rose from about 37 million tonnes in 1921 to over 50 million by 1924", "Small industries and shops recovered quickly", "The famine of 1921 was not repeated"],
      "own_against": ["Heavy industry recovered slowly", "The 'scissors crisis' of 1923 saw industrial prices rise far above farm prices", "Unemployment rose in the cities"]},
     {"view": "many communists saw the NEP as a betrayal",
-     "pro": {"unrest": "+", "retreat": "+"},
+     "pro": {"unrest": "+"},
      "ext": ["many communists hated it", "they saw private trade and the Nepmen as a betrayal"],
      "own_for": ["Left-wing Bolsheviks criticised the policy", "Lenin had to ban factions in 1921 to silence critics", "Some party members left the party in protest"],
      "own_against": ["Lenin persuaded the party that it was a temporary measure", "Bukharin strongly supported the NEP", "The state kept control of the commanding heights"]},
@@ -890,12 +933,12 @@ CLUSTERS = {
    "foreign trade, and the Communist Party kept total political control. Lenin was clear that the policy was "
    "a temporary retreat, designed to give the regime time to recover.",
    [{"view": "the NEP was not a return to capitalism",
-     "pro": {"retreat": "-"},
+     "pro": {"control": "+", "retreat": "-"},
      "ext": ["the state kept control of heavy industry, the banks and foreign trade"],
      "own_for": ["Lenin called these the commanding heights of the economy", "The party remained the only legal party", "Large industries stayed nationalised"],
      "own_against": ["Private trade and small businesses returned", "Peasants could sell their surplus for profit", "The Nepmen became wealthy"]},
     {"view": "Lenin saw the NEP only as a temporary retreat",
-     "pro": {"retreat": "+", "unrest": "-"},
+     "pro": {"temp": "+"},
      "ext": ["Lenin was clear that it was a temporary retreat"],
      "own_for": ["Lenin described it as a step back in order to take two steps forward", "It was introduced as an emergency response in 1921", "Stalin ended it in 1928"],
      "own_against": ["Lenin later suggested it might last for many years", "Bukharin saw it as the long-term road to socialism", "It became a central part of Soviet policy until Lenin's death"]},

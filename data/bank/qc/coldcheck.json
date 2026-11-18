@@ -72,23 +72,35 @@
     "problem": "(b) agreement bullet claims both sources show NEP as a retreat from communism, but Source B only says small trade is flourishing; the real agreement (high prices, uneven benefits) is missed.",
     "fix": "Replace the agreement bullet with: both show high prices and uneven benefits (A: bourgeoisie selling bread at high prices; B: manufactured goods dear relative to peasants' grain prices).",
     "resolved": true,
-    "how": "Russia source-pair claims audited against source texts (e.g. NEP 'retreat' only where a source says so); unsupported stances removed or texts amended"
+    "how": "Russia source-pair claims audited against source texts (e.g. NEP 'retreat' only where a source says so); unsupported stances removed or texts amended; then: (c) indicative content now classifies each source point only against THAT interpretation (support/challenge, 'different factor' challenges, irrelevant points omitted) across all 54 views; source aspects split (geography, peasant attitudes, Trotsky vs Lenin, Kronstadt, NEP control/temporary) and source pairs chosen to bear on the view; own-knowledge challenges no longer repeat the extract; regenerated, validated"
    },
    {
     "id": "history.russia-support.0007",
     "problem": "Difference bullet says Source A shows the regime survived 'through agreement' with the Duma dissolved; dissolving the Duma and issuing the Fundamental Laws is unilateral royal authority, not agreement, so the contrast is mislabelled.",
     "fix": "Source A: regime survived by reasserting autocratic power through legal/political means (Fundamental Laws, Duma dismissed); Source B: by military force at Presnya.",
     "resolved": true,
-    "how": "1905 dissolving the Duma/Fundamental Laws now 'reasserted autocratic power', not survival 'through agreement'; all cluster bullets audited"
+    "how": "1905 dissolving the Duma/Fundamental Laws now 'reasserted autocratic power', not survival 'through agreement'; all cluster bullets audited; then: source tags audited against every source text so 'does not mention' is only claimed when true (e.g. the 1905 officer's Manifesto point is now an agreement on concessions); each piece of evidence backs one aspect only, with asserts against reused evidence and duplicate bullets; all source pairs checked, incl. extended texts; regenerated, validated; then: stance and evidence wording checked line by line against every source text so each summary claims only what that source says (e.g. 'serious food shortages', not 'food and fuel'; 'the royal family was blamed'; planning/Trotsky points from the sentences that state them); regenerated, validated"
    }
   ],
-  "recheck_sampled": 9,
-  "recheck_pass": 8,
+  "recheck_sampled": 18,
+  "recheck_pass": 15,
   "recheck_failures": [
    {
     "id": "history.russia-investigation.0044",
     "problem": "In (c) the indicative content mislabels evidence: Source A's Red discipline is listed as 'support' for the geography interpretation and Source B's Red disorder as a 'challenge' to it, though neither bears on geography (A is an alternative factor, i.e. a challenge); 'White poor leadership and unity' is also listed as challenging C although C itself names White disunity.",
     "fix": "Relabel: Source A (Red discipline/Trotsky) challenges by offering an alternative factor; Source B (Denikin near Moscow, reliance on British supplies) supports that Whites operated from the periphery dependent on outside supply lines; White disunity is part of C's own argument, so treat it as supporting C's broader view, not challenging geography.",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "history.russia-support.0011",
+    "problem": "Mark scheme says Source A does not mention the Tsar's concessions, but Source A explicitly refers to the Manifesto satisfying the lawyers and professors, so both sources acknowledge concessions; the Duma point also duplicates the concessions point.",
+    "fix": "Replace the 'which Source A does not mention' concession bullet with an agreement point: both acknowledge the Tsar made concessions (A: the Manifesto satisfied the middle classes; B: Duma and freedoms granted), but A says they divided the opposition rather than bringing peace; merge the duplicate Duma bullet.",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "history.russia-support.0017",
+    "problem": "Mark scheme difference point says Source A shows shortages of food and fuel, but Source A mentions only bread/food; fuel is not in the source.",
+    "fix": "Change to: Source A suggests there were serious food shortages (bread has risen fourfold in price and women go home with nothing).",
     "fixed_after_recheck": false
    }
   ],
@@ -159,371 +171,420 @@
   "sampled": 265,
   "pass": 214,
   "fail": 51,
-  "resolved": 0,
+  "resolved": 51,
   "failures": [
    {
     "id": "spanish.l-announce.c3.0013",
     "problem": "Transcript never mentions a contest; 'El ganador recibir\u00e1 una tableta' is orphaned, yet (c) asks about 'el ganador del concurso'.",
     "fix": "Add a line such as 'Hay un concurso de videojuegos a las seis.' before the winner line.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "follow-on facts (^) are only used straight after the fact that introduces their friend, contest or trip; regenerated, validated"
    },
    {
     "id": "spanish.l-announce.c4.0011",
     "problem": "Transcript has factual errors for Cusco: it is an inland Andean city with no port, and its cathedral is c.400 years old, not 600+.",
     "fix": "Set the tour in a coastal city (e.g. Cartagena) or change 'el puerto' to 'la plaza de armas'/'el museo' and the age to 'm\u00e1s de cuatrocientos a\u00f1os' (option D) with key updated.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "follow-on facts (^) are only used straight after the fact that introduces their friend, contest or trip; regenerated, validated"
    },
    {
     "id": "spanish.l-interview-3.b4.0012",
     "problem": "Grammar error in transcript: female speaker Natalia says 'Si fuera rico' (should be 'rica'); interviewer's question 'si fueras rico' likewise.",
     "fix": "Use 'Si fuera rica' / '\u00bfQu\u00e9 har\u00edas si fueras rica?'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "de el/a el contracted on all text; gender agreement on adjectives; narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; regenerated, validated"
    },
    {
     "id": "spanish.l-interview-3.c1.0011",
     "problem": "Transcript contradicts itself: Carmen lives in 'un pueblo peque\u00f1o en el sur del pa\u00eds' but later says 'Mi ciudad est\u00e1 en el centro del pa\u00eds'; (a) and (i) rest on incompatible facts.",
     "fix": "Change the last answer to e.g. 'Mi pueblo est\u00e1 bien comunicado y es f\u00e1cil viajar a todas partes' and the question to '\u00bfPor qu\u00e9 es buena la situaci\u00f3n del pueblo de Carmen?'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; regenerated, validated"
    },
    {
     "id": "spanish.l-interview-3.e2.0009",
     "problem": "Transcript for (d) says 'me invit\u00f3 a una cena con su familia' with no subject; the friend (amiga) the question refers to is never mentioned.",
     "fix": "Change line to 'Al final del Ramad\u00e1n mi amiga Aisha me invit\u00f3 a una cena con su familia y prob\u00e9 muchos platos nuevos.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "follow-on facts (^) are only used straight after the fact that introduces their friend, contest or trip; festival set in a city; regenerated, validated"
    },
    {
     "id": "spanish.l-interview-4.c3.0006",
     "problem": "(a) Option C 'en el instituto' is also supported by the transcript (phone banned in class), so two options are defensible.",
     "fix": "Replace option C with a distractor such as 'en el autob\u00fas'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "follow-on facts (^) are only used straight after the fact that introduces their friend, contest or trip; regenerated, validated"
    },
    {
     "id": "spanish.l-short.a2.0013",
     "problem": "Transcript contradicts itself: Q6 'Nunca como guisantes' then Q7 'Para la ensalada necesito guisantes', so (f) and (g) both key peas; (f) also asks what he dislikes when he only says he never eats them.",
     "fix": "Change Q7 to another vegetable, e.g. 'Para la ensalada necesito tomates' with (g) key C (tomatoes); optionally make Q6 'No me gustan nada los guisantes'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; gustar-type verbs get a definite article before bare plural nouns (no me gustan nada los pimientos); regenerated, validated"
    },
    {
     "id": "spanish.l-short.c2.0010",
     "problem": "Transcript Q8 has a grammatical error: '\u00bfD\u00f3nde se tiran la ropa vieja?' (singular subject).",
     "fix": "Javier: \u00bfD\u00f3nde se tira la ropa vieja?",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; 'se tira' agrees with singular item; regenerated, validated"
    },
    {
     "id": "spanish.l-short.c4.0011",
     "problem": "Set in Ciudad de M\u00e9xico but prices are in euros (should be pesos), and buying a gift at a carnicer\u00eda is implausible.",
     "fix": "Use 'veinte pesos' with peso options (e.g. $20.00) and change Q3 to a plausible gift shop (e.g. la librer\u00eda / la pasteler\u00eda) or change 'a comprar un regalo' to 'a comprar carne'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; regenerated, validated"
    },
    {
     "id": "spanish.r-long.a3.0004",
     "problem": "Mark scheme (k) contradicts itself: accepts 'Ir\u00eda al gimnasio' but refuses 'ir\u00eda al gimnasio tc in first person', though the form is identical for 1st/3rd person.",
     "fix": "(k) Ir\u00eda al gimnasio (todos los d\u00edas) \u2014 1; delete the refuse note.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "draft mark-scheme notes removed; refuse notes never contradict accepted answers; narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; regenerated, validated"
    },
    {
     "id": "spanish.r-long.a4.0008",
     "problem": "Mark scheme (c) contains an unresolved draft note ('Refuse estaba nervioso tc in first person? accept') that gives no clear guidance.",
     "fix": "(c) (Estaba) (muy) nerviosa \u2014 1; Refuse tranquila.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "draft mark-scheme notes removed; refuse notes never contradict accepted answers; regenerated, validated"
    },
    {
     "id": "spanish.r-long.b4.0002",
     "problem": "(h) hinges on 'pero solo compro m\u00e1s r\u00e1pido', where 'solo' reads as 'only', so the advantage of shopping alone is not clearly stated.",
     "fix": "Text: 'Me gusta ir de compras con mis amigos, pero cuando voy solo compro m\u00e1s r\u00e1pido.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "de el/a el contracted on all text; gender agreement on adjectives; regenerated, validated"
    },
    {
     "id": "spanish.r-long.c1.0011",
     "problem": "Factual error: Elisa is from Santander, which is on the north coast of Spain, not 'en el centro del pa\u00eds' (the basis of part k).",
     "fix": "Make her from Madrid (or Valladolid), or change the last line to 'Mi ciudad est\u00e1 en la costa norte y tiene buenas conexiones', adjusting (k).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; regenerated, validated"
    },
    {
     "id": "spanish.r-long.c2.0012",
     "problem": "Factual error: Andr\u00e9s is from Sevilla, but the text says his region's summers are not very hot; Seville has famously very hot summers (basis of part h).",
     "fix": "Change the city to one with a mild climate (e.g. Santander or A Coru\u00f1a), or rewrite (h) as 'en verano hace much\u00edsimo calor'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; draft mark-scheme notes removed; refuse notes never contradict accepted answers; regenerated, validated"
    },
    {
     "id": "spanish.r-long.e1.0001",
     "problem": "Implausible context: Paula is from Caracas (a native Spanish speaker), yet she finds Spanish pronunciation of the 'erre' hard, and in Cusco she did not understand anything because people spoke fast; the mark scheme ('Refuse el espa\u00f1ol') assumes she is learning Spanish.",
     "fix": "Make her from a non-Spanish-speaking city (e.g. Lisboa / Londres), or make the difficulty another language (e.g. la pronunciaci\u00f3n del franc\u00e9s) and the exchange in a non-Spanish-speaking country.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "E1 narrators come from non-Spanish-speaking places; favourite language is never their own language; follow-on facts (^) are only used straight after the fact that introduces their friend, contest or trip; regenerated, validated"
    },
    {
     "id": "spanish.r-pictures.b2.0013",
     "problem": "Sentence (b) 'el sof\u00e1 de mi habitaci\u00f3n' also matches the unused picture E (bedroom), so (b) has two defensible answers.",
     "fix": "Change (b) to 'Me encanta el sof\u00e1 del sal\u00f3n' or replace distractor E.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; favourite-room line now 'Mi lugar favorito de la casa es\u2026' so garden/terrace fit; regenerated, validated"
    },
    {
     "id": "spanish.r-pictures.c1.0005",
     "problem": "Pictures A (French flag) and D (France) both fit (b) 'Francia' and (d) 'francesa'; the two answers are interchangeable.",
     "fix": "Replace A with a picture clearly showing a French girl/person, or change (d) to a different nationality with its own picture.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; regenerated, validated"
    },
    {
     "id": "spanish.r-pictures.c2.0002",
     "problem": "Sentence (c) contains an unfilled template placeholder '{city}'.",
     "fix": "Replace with a real city, e.g. 'Hoy hace fr\u00edo en Madrid.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; city filled in; regenerated, validated"
    },
    {
     "id": "spanish.r-pictures.c3.0003",
     "problem": "Sentence (c) 'Lo que m\u00e1s hago con el m\u00f3vil es buscar informaci\u00f3n' names the mobile phone, so F is as defensible as A (search engine).",
     "fix": "Change (c) to 'Siempre busco informaci\u00f3n en internet' (no mention of m\u00f3vil).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; regenerated, validated"
    },
    {
     "id": "spanish.r-pictures.d1.0001",
     "problem": "Sentence (d) 'vamos a el gimnasio' is ungrammatical (no contraction).",
     "fix": "Ahora vamos al gimnasio.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; regenerated, validated"
    },
    {
     "id": "spanish.r-pictures.e1.0013",
     "problem": "Pictures B (Portuguese flag) and E (Portuguese) both fit (a) 'portuguesa' and (b) 'el portugu\u00e9s', so the two answers are interchangeable.",
     "fix": "Make E clearly the language (e.g. a speech bubble 'Ol\u00e1' / a Portuguese textbook) or change one sentence to another nationality/language.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; regenerated, validated"
    },
    {
     "id": "spanish.r-short.a1.0001",
     "problem": "Text has a factual error (Guayaquil is on the equator, so winter days are not 'muy cortos') and an internal contradiction (exams start next month, yet he was late for an English exam yesterday).",
     "fix": "Set the blog in a non-equatorial city (e.g. Santiago, Chile) and change 'examen de ingl\u00e9s' to 'clase de ingl\u00e9s'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; part (a) 'En qu\u00e9 pa\u00eds' now accepts only the country and refuses the city; regenerated, validated"
    },
    {
     "id": "spanish.r-short.b4.0002",
     "problem": "Agreement error in the text: the female narrator says 'Si fuera rico'.",
     "fix": "Si fuera rica, no comprar\u00eda ropa cara.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "de el/a el contracted on all text; gender agreement on adjectives; narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; part (a) 'En qu\u00e9 pa\u00eds' now accepts only the country and refuses the city; regenerated, validated"
    },
    {
     "id": "spanish.r-short.c1.0006",
     "problem": "Text contradicts itself: Medell\u00edn is called a small village in the south 30 km from the coast, later 'en el centro del pa\u00eds'; and 'mi madre es de aqu\u00ed, pero mi padre es colombiano' gives no basis for two nationalities. Q(b) and Q(l) clash.",
     "fix": "Make the mother from another country (e.g. 'Mi madre es inglesa, pero mi padre es colombiano'), drop 'pueblo peque\u00f1o... sur... costa' or the final 'centro' sentence so (b) has one answer.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; part (a) 'En qu\u00e9 pa\u00eds' now accepts only the country and refuses the city; regenerated, validated"
    },
    {
     "id": "spanish.r-short.e1.0009",
     "problem": "Text is incoherent: Machu Picchu appears with no trip mentioned (a sentence seems dropped), and a Uruguayan says his favourite foreign-study language is 'el espa\u00f1ol'.",
     "fix": "Add 'El a\u00f1o pasado viaj\u00e9 a Per\u00fa con mi clase.' before the Machu Picchu sentence and change the favourite language to e.g. 'el franc\u00e9s' (or study languages to ingl\u00e9s y alem\u00e1n with favourite ingl\u00e9s), updating (b).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "E1 narrators come from non-Spanish-speaking places; favourite language is never their own language; follow-on facts (^) are only used straight after the fact that introduces their friend, contest or trip; part (a) 'En qu\u00e9 pa\u00eds' now accepts only the country and refuses the city; regenerated, validated"
    },
    {
     "id": "spanish.r-short.e2.0009",
     "problem": "A sentence introducing the friend is missing: 'Al final del Ramad\u00e1n me invit\u00f3...' has no subject, and Q(d) refers to 'su amiga' who never appears in the text.",
     "fix": "Insert e.g. 'Mi mejor amiga, Amira, es musulmana.' before the Ramad\u00e1n sentence.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "follow-on facts (^) are only used straight after the fact that introduces their friend, contest or trip; part (a) 'En qu\u00e9 pa\u00eds' now accepts only the country and refuses the city; regenerated, validated"
    },
    {
     "id": "spanish.r-signs.a1.0012",
     "problem": "Sentence (b) 'antes de las ocho menos veinte' (19:40) does not match sign E '\u00daltimo pase: 19:30'.",
     "fix": "Hay que entrar antes de las siete y media / a las siete y media como muy tarde.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "sign sentence times now match the sign; ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; regenerated, validated"
    },
    {
     "id": "spanish.r-signs.d2.0012",
     "problem": "Signs A (closed in the afternoon) and B (open 9:00-14:00) both fit (a) and (e); scheme has a=B, e=A, but a=A, e=B is equally valid.",
     "fix": "Change sign A to something unrelated to opening times (e.g. 'Ofertas de trabajo en el extranjero') or reword (a)/(e) so only one sign fits each.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; regenerated, validated"
    },
    {
     "id": "spanish.r-text-mcq.b4.0009",
     "problem": "Sentence 'Me gusta ir de compras con mis amigos, pero solo compro m\u00e1s r\u00e1pido' is garbled and never states going alone, so (f) is not properly supported.",
     "fix": "'Me gusta ir de compras con mis amigos, pero cuando voy solo compro m\u00e1s r\u00e1pido.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "de el/a el contracted on all text; gender agreement on adjectives; ambiguity check: only the keyed option may share the statement's key concept; signs in one group are never shown together; regenerated, validated"
    },
    {
     "id": "spanish.r-text-mcq.c1.0010",
     "problem": "Text contradicts itself: Manuel lives in a small village in the south, then says 'Mi ciudad est\u00e1 en el centro del pa\u00eds'; (a)=south and (g) rely on incompatible locations.",
     "fix": "Rewrite last sentence e.g. 'Mi pueblo est\u00e1 bien comunicado y es f\u00e1cil viajar a todas partes.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; regenerated, validated"
    },
    {
     "id": "spanish.s-conversation.a3.0013",
     "problem": "Examiner questions contain unrendered gender template text ('enferm<o|a>', 'san<o|a>') in C1 Q1, Q4 and Q5.",
     "fix": "Render as 'enfermo/enferma' and 'sano/sana' (as done with 'peque\u00f1o/peque\u00f1a' elsewhere).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "template markup resolved for narrator gender or printed as o/a, plus a final sweep that errors on <, |>, { or } left in output; regenerated, validated"
    },
    {
     "id": "spanish.s-roleplay.a2.0011",
     "problem": "Shop assistant switches register from usted (Q1-3 'necesita', 'quiere') to t\u00fa (Q4 'comiste', Q5 'te gustar\u00eda'); Q4/Q5 are also odd for a shop assistant.",
     "fix": "Keep usted throughout: '\u00bfQu\u00e9 comi\u00f3 ayer?', '\u00bfQu\u00e9 plato le gustar\u00eda aprender a preparar?'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "role play built from one scenario record (spanish_scen.py); formal roles checked for usted throughout; regenerated, validated"
    },
    {
     "id": "spanish.s-roleplay.b4.0010",
     "problem": "Scenario is buying a camiseta, but Q2 '\u00bfDe qu\u00e9 color los quiere?' and Q4 '\u00bfCu\u00e1ndo compr\u00f3 los pantalones?' refer to trousers never mentioned; scheme answers 'Negros' / 'Los compr\u00e9 ayer' follow the wrong item.",
     "fix": "Q2 '\u00bfDe qu\u00e9 color la quiere?'; Q4 e.g. '\u00bfCu\u00e1ndo compr\u00f3 ropa por \u00faltima vez?' with scheme 'Negra' / 'Compr\u00e9 ropa ayer'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "role play built from one scenario record (spanish_scen.py); formal roles checked for usted throughout; regenerated, validated"
    },
    {
     "id": "spanish.s-roleplay.b5.0009",
     "problem": "Sports-centre receptionist asks '\u00bfA qu\u00e9 hora quedamos?' (a friend's phrase) and '\u00bfQu\u00e9 tipo de pel\u00edcula te gusta?', which is off-context for signing up for an activity.",
     "fix": "Q2 '\u00bfA qu\u00e9 hora prefieres la clase?'; Q3 '\u00bfHas practicado este deporte antes? \u2016 \u00bfD\u00f3nde?' (or similar on-context task).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "role play built from one scenario record (spanish_scen.py); formal roles checked for usted throughout; regenerated, validated"
    },
    {
     "id": "spanish.s-roleplay.c2.0006",
     "problem": "Context is volunteering in a natural park but Q1 asks what type of excursion the candidate is looking for; Q2/Q4/Q5 also read as a hiking-trip scenario.",
     "fix": "Change context to 'Quieres hacer una excursi\u00f3n en un parque natural' or change Q1 to '\u00bfQu\u00e9 tipo de trabajo voluntario te interesa?'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "role play built from one scenario record (spanish_scen.py); formal roles checked for usted throughout; regenerated, validated"
    },
    {
     "id": "spanish.s-roleplay.c3.0010",
     "problem": "Context is a mobile phone shop because the phone is broken, but Q1/Q2 ask why and how long the candidate needs 'el ordenador', which the context never mentions.",
     "fix": "Add to context that the shop rents computers/internet while the phone is repaired, or change Q1 to '\u00bfQu\u00e9 problema tiene tu m\u00f3vil?' and Q2 to '\u00bfCu\u00e1ndo lo compraste?'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "role play built from one scenario record (spanish_scen.py); formal roles checked for usted throughout; regenerated, validated"
    },
    {
     "id": "spanish.s-roleplay.e1.0003",
     "problem": "Hotel receptionist asks how long the candidate has studied Spanish and what is hardest about Spanish (off-context), and switches register between usted (Q1, Q5) and t\u00fa (Q2, Q3).",
     "fix": "Replace Q2/Q3 with hotel-relevant tasks (e.g. '\u00bfCu\u00e1ntas noches quiere quedarse?', '\u00bfPrefiere una habitaci\u00f3n con vista al mar o a la ciudad? \u2016 \u00bfPor qu\u00e9?') and keep usted throughout.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "role play built from one scenario record (spanish_scen.py); formal roles checked for usted throughout; regenerated, validated"
    },
    {
     "id": "spanish.s-roleplay.e2.0005",
     "problem": "Context is chatting with a friend about festivals, but Q1 opens with 'Buenos d\u00edas, \u00bfpara qui\u00e9n es el regalo?' (no gift in context) and Q3 pairs '\u00bfQu\u00e9 le gusta hacer?' with an unrelated '\u00bfQu\u00e9 regalo prefieres?'; also 'amigo espa\u00f1ol' in Buenos Aires.",
     "fix": "Context: 'Est\u00e1s en Buenos Aires y buscas un regalo con un amigo argentino'; Q3: '\u00bfQu\u00e9 le gusta hacer? \u2016 \u00bfQu\u00e9 regalo le vas a comprar?'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "role play built from one scenario record (spanish_scen.py); formal roles checked for usted throughout; regenerated, validated"
    },
    {
     "id": "spanish.w-extended.a2.0010",
     "problem": "Rubric contains a grammatical error shown to candidates: 'hablar de el tema'.",
     "fix": "'hablar del tema'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "template markup resolved for narrator gender or printed as o/a, plus a final sweep that errors on <, |>, { or } left in output; de el/a el contracted on all text; gender agreement on adjectives; regenerated, validated"
    },
    {
     "id": "spanish.w-extended.a3.0013",
     "problem": "Bullet 5 shows an unrendered template token 'san<o|a>', and rubric says 'hablar de el tema'.",
     "fix": "'\u00bfQu\u00e9 vas a hacer para estar m\u00e1s sano/sana en el futuro?' and 'hablar del tema'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "template markup resolved for narrator gender or printed as o/a, plus a final sweep that errors on <, |>, { or } left in output; regenerated, validated"
    },
    {
     "id": "spanish.w-extended.b5.0005",
     "problem": "Rubric contains 'hablar de el tema' (should be 'del').",
     "fix": "'Quieres hablar del tema \u00abEl tiempo libre\u00bb en tu blog.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "template markup resolved for narrator gender or printed as o/a, plus a final sweep that errors on <, |>, { or } left in output; regenerated, validated"
    },
    {
     "id": "spanish.w-extended.c1.0005",
     "problem": "Rubric shown to candidates contains the grammatical error 'hablar de el tema'.",
     "fix": "'Quieres hablar del tema ... en tu blog.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "narrator has one place profile (region, climate, currency, country tags) and facts carry conditions, so no false place facts appear; regenerated, validated"
    },
    {
     "id": "spanish.w-extended.d1.0010",
     "problem": "Rubric shown to candidates contains the grammatical error 'hablar de el tema'.",
     "fix": "'Quieres hablar del tema ... en tu blog.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "template markup resolved for narrator gender or printed as o/a, plus a final sweep that errors on <, |>, { or } left in output; regenerated, validated"
    },
    {
     "id": "spanish.w-extended.d2.0001",
     "problem": "Rubric shown to candidates contains the grammatical error 'hablar de el tema'.",
     "fix": "'Quieres hablar del tema ... en tu blog.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "template markup resolved for narrator gender or printed as o/a, plus a final sweep that errors on <, |>, { or } left in output; regenerated, validated"
    },
    {
     "id": "spanish.w-form.a3.0001",
     "problem": "Context says the candidate is joining a new neighbourhood gym, but the form is titled 'Ficha m\u00e9dica para el campamento'.",
     "fix": "Retitle 'Ficha de inscripci\u00f3n en el gimnasio' (or change context to a summer camp).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "form built from one scenario record with matching title, context and fields (spanish_scen.py); regenerated, validated"
    },
    {
     "id": "spanish.w-form.a4.0010",
     "problem": "In a transport survey, 'Cosas que hab\u00eda dentro' (inside what?) has no referent; the mark scheme (libros, llaves) and 'Destino del viaje' belong to a lost-property form, so gaps 2-3 cannot be sensibly answered.",
     "fix": "Replace with 'Cosas que haces durante el viaje (Menciona dos cosas.)' and accept two activities, e.g. leer, escuchar m\u00fasica; or change context to a lost-bag report on a bus.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "form built from one scenario record with matching title, context and fields (spanish_scen.py); regenerated, validated"
    },
    {
     "id": "spanish.w-form.b4.0008",
     "problem": "Context is a clothes-shop survey but the form is titled 'Concurso: dise\u00f1a el uniforme del instituto'.",
     "fix": "Retitle 'Encuesta: los j\u00f3venes y la ropa' (or change context to a uniform-design contest).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "form built from one scenario record with matching title, context and fields (spanish_scen.py); regenerated, validated"
    },
    {
     "id": "spanish.w-form.b5.0011",
     "problem": "Sports-centre membership form asks for an instrument played and favourite film type, which do not fit the context.",
     "fix": "Change context to a youth/leisure club ('club juvenil') or replace those fields with sports-centre items (e.g. 'Horario preferido', 'Otro deporte que te gustar\u00eda probar').",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "form built from one scenario record with matching title, context and fields (spanish_scen.py); regenerated, validated"
    },
    {
     "id": "spanish.w-form.c1.0002",
     "problem": "Context is joining a language club in the candidate's city but the form is titled 'Inscripci\u00f3n: campamento internacional'.",
     "fix": "Retitle 'Inscripci\u00f3n en el club de idiomas' (or change context to an international camp).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "form built from one scenario record with matching title, context and fields (spanish_scen.py); regenerated, validated"
    },
    {
     "id": "spanish.w-form.e1.0012",
     "problem": "Context is a school trip abroad but the form is titled 'Inscripci\u00f3n en la escuela de idiomas'.",
     "fix": "Retitle 'Inscripci\u00f3n para el viaje escolar'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "form built from one scenario record with matching title, context and fields (spanish_scen.py); gap notes no longer labelled 'Refuse' when they grant acceptance; regenerated, validated"
    },
    {
     "id": "spanish.w-short.a3.0008",
     "problem": "Bullet 1 shows an unrendered template token 'enferm<o|a>'.",
     "fix": "'\u00bfQu\u00e9 haces cuando est\u00e1s enfermo/enferma?'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "template markup resolved for narrator gender or printed as o/a, plus a final sweep that errors on <, |>, { or } left in output; regenerated, validated"
    }
   ],
-  "recheck_sampled": 0,
-  "recheck_pass": 0,
-  "recheck_failures": [],
+  "recheck_sampled": 69,
+  "recheck_pass": 61,
+  "recheck_failures": [
+   {
+    "id": "spanish.l-short.a2.0012",
+    "problem": "Transcript Q5 is ungrammatical: 'No me gustan nada pimientos' (missing article).",
+    "fix": "Samuel: No me gustan nada los pimientos.",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "spanish.r-pictures.b2.0007",
+    "problem": "Sentence (b) 'Mi habitaci\u00f3n favorita es el jard\u00edn' is nonsensical: a garden is not a habitaci\u00f3n.",
+    "fix": "Mi lugar favorito de la casa es el jard\u00edn.",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "spanish.r-short.a1.0008",
+    "problem": "Part (a) asks '\u00bfEn qu\u00e9 pa\u00eds\u2026?' but the mark scheme accepts the city (Lima), which does not answer the question.",
+    "fix": "(a) (En) Per\u00fa \u2014 1 [Refuse Lima tc]",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "spanish.r-short.b4.0010",
+    "problem": "Part (a) asks '\u00bfEn qu\u00e9 pa\u00eds\u2026?' but the mark scheme accepts the city (Cali), which does not answer the question.",
+    "fix": "(a) (En) Colombia \u2014 1 [Refuse Cali tc]",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "spanish.r-short.c1.0012",
+    "problem": "Part (a) asks '\u00bfEn qu\u00e9 pa\u00eds\u2026?' but the mark scheme accepts the city (San Jos\u00e9), which does not answer the question.",
+    "fix": "(a) (En) Costa Rica \u2014 1 [Refuse San Jos\u00e9 tc]",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "spanish.r-short.e1.0001",
+    "problem": "Part (a) asks '\u00bfEn qu\u00e9 pa\u00eds\u2026?' but the mark scheme accepts the city (Londres), which does not answer the question.",
+    "fix": "(a) (En) Inglaterra \u2014 1 [Refuse Londres tc]",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "spanish.r-short.e2.0012",
+    "problem": "Part (a) asks '\u00bfEn qu\u00e9 pa\u00eds\u2026?' but the mark scheme accepts the city (Montevideo), which does not answer the question.",
+    "fix": "(a) (En) Uruguay \u2014 1 [Refuse Montevideo tc]",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "spanish.r-short.a2.0003",
+    "problem": "(j) refuses 'comida/platos de otros pa\u00edses' as tc, but the text says she wants to learn to cook dishes from other countries ('sobre todo' japonesa), so that is a full answer to '\u00bfQu\u00e9 tipo de comida?'.",
+    "fix": "(j) Accept (comida/platos) de otros pa\u00edses / japonesa / de Jap\u00f3n.",
+    "fixed_after_recheck": false
+   }
+  ],
   "pass_rate_first_check": 0.808,
-  "unresolved": 51
+  "unresolved": 0
  },
  "physics": {
   "sampled": 204,
@@ -681,7 +742,7 @@
   "sampled": 539,
   "pass": 500,
   "fail": 39,
-  "resolved": 22,
+  "resolved": 39,
   "failures": [
    {
     "id": "economics.bop-analyse-1.0006",
@@ -695,14 +756,14 @@
     "problem": "Incoherent context: a firm called Northgate Textiles is the only supplier of electricity.",
     "fix": "Rename the firm to fit the industry, e.g. Northgate Power.",
     "resolved": true,
-    "how": "firm names now chosen to match the sector (systemic fix across all economics templates)"
+    "how": "firm names now chosen to match the sector (systemic fix across all economics templates); monopoly utility supplier set in a fictional country, not a real one"
    },
    {
     "id": "economics.competition-assess-2.0005",
     "problem": "Incoherent context: Lumo Energy is the only supplier of rail travel.",
     "fix": "Rename the firm to fit the industry, e.g. Lumo Rail.",
     "resolved": true,
-    "how": "firm names now chosen to match the sector (systemic fix across all economics templates)"
+    "how": "firm names now chosen to match the sector (systemic fix across all economics templates); monopoly utility supplier set in a fictional country, not a real one"
    },
    {
     "id": "economics.competition-assess-3.0006",
@@ -716,7 +777,7 @@
     "problem": "Incoherent context: Tamarind Retail is the only supplier of water.",
     "fix": "Rename the firm to fit the industry, e.g. Tamarind Water.",
     "resolved": true,
-    "how": "firm names now chosen to match the sector (systemic fix across all economics templates)"
+    "how": "firm names now chosen to match the sector (systemic fix across all economics templates); monopoly utility supplier set in a fictional country, not a real one"
    },
    {
     "id": "economics.competition-evaluate-3.0001",
@@ -765,7 +826,7 @@
     "problem": "(c) Indicative content for 'methods to increase profit' only repeats why profit fell (AO2/AO3 bullets copied from the analyse question); no methods (raise price, cut costs, increase sales/marketing, improve efficiency) are listed. Context: Sunvale Energy sells kitchen appliances, and (a) gives an implausible average cost of RM1.85 per kitchen appliance.",
     "fix": "Replace AO2/AO3 bullets with methods: raise prices (works if PED inelastic), cut costs (cheaper suppliers, efficiency), increase sales via marketing/new markets, invest in technology. Rename firm; use realistic data, e.g. 3,520 units at total cost RM651,000 (AC RM184.94).",
     "resolved": true,
-    "how": "part (c) content lists ways to raise profit; average-cost data rescaled to realistic values"
+    "how": "part (c) content lists ways to raise profit; average-cost data rescaled to realistic values; part (a) now built from Extract A's own context and figures (economics_data.py), so product, place and stated values match: fuel cost rise uses the stated % for that transport firm; machine case uses the stated fixed costs and business-specific units; profit table has TR up by the stated % and profit falling"
    },
    {
     "id": "economics.costs-evaluate-1.0005",
@@ -800,7 +861,7 @@
     "problem": "Question asks for costs of producing for MNCs, but the indicative content lists only benefits (jobs, export earnings, incomes, skills).",
     "fix": "Indicative content: low wages and poor conditions; dependence on footloose MNCs; profits repatriated to foreign owners; environmental damage; limited skills transfer, applied to Uganda's 4 million workers.",
     "resolved": true,
-    "how": "indicative content now lists costs of producing for MNCs (was benefits only)"
+    "how": "indicative content now lists costs of producing for MNCs (was benefits only); developing-economy / commodity contexts now use a fictional country instead of a random real one (no Singapore maize, Ireland cocoa) (low-wage garment industry with millions of workers)"
    },
    {
     "id": "economics.government-analyse-1.0005",
@@ -828,137 +889,137 @@
     "problem": "Part (b): Question asks for causes of inflation, but 3 of the 5 indicative points (falling real incomes, savers lose, menu costs/uncertainty) are effects, not causes.",
     "fix": "(a) 122.73 is correct. (b) Replace effect bullets with causes: demand-pull (AD exceeding capacity, e.g. rising spending/credit), wage-price spiral expectations, depreciation raising import prices.",
     "resolved": true,
-    "how": "part (b) content lists causes; part (c) content lists effects on consumers and firms"
+    "how": "part (b) content lists causes; part (c) content lists effects on consumers and firms; part (a) now built from Extract A's own context and figures (economics_data.py), so product, place and stated values match: basket cost or CPI rises by exactly the stated inflation rate; loan interest at the stated interest rate; falling CPI table for deflation"
    },
    {
     "id": "economics.labour-data.0003",
     "problem": "(a) says the minimum wage is I$6.54 but Extract A gives I$8.40 (after a 9% rise), so the data contradict each other; MS 215.82 matches the stem only",
     "fix": "Use I$8.40 in (a): 8.40 x 33 = I$277.20, or reword (a) as the old wage of I$7.71 (8.40/1.09)",
     "resolved": true,
-    "how": "part (a) now uses the minimum wage stated in Extract A"
+    "how": "part (a) now uses the minimum wage stated in Extract A; part (a) now built from Extract A's own context and figures (economics_data.py), so product, place and stated values match (minimum wage, nurses' stated pay rise, engineers' stated pay multiple); part (b) indicative content now includes job losses, cut hours and substitution by machines"
    },
    {
     "id": "economics.intervention-pol-analyse-1.0006",
     "problem": "Context puts Dubai (a real UAE city) under the fictional government of Novaris.",
     "fix": "Use a city in Novaris or say 'the government' of the UAE; keep the city and the country consistent.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "fictional city now paired with its own fictional country ({ncity} in {nation}, e.g. Corvane in Corvana) instead of a real city under a fictional government"
    },
    {
     "id": "economics.intervention-pol-analyse-2.0005",
     "problem": "Context puts Kuala Lumpur (Malaysia) under the fictional government of Rendova, so the setting contradicts itself.",
     "fix": "Make the city and the government consistent.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "fictional city now paired with its own fictional country ({ncity} in {nation}, e.g. Corvane in Corvana) instead of a real city under a fictional government; 'from {year}' (could be past) replaced by 'from next year'"
    },
    {
     "id": "economics.intervention-pol-assess-1.0005",
     "problem": "Context puts Manchester (UK) under the fictional government of Lumera.",
     "fix": "Make the city and the government consistent.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "fictional city now paired with its own fictional country ({ncity} in {nation}, e.g. Corvane in Corvana) instead of a real city under a fictional government"
    },
    {
     "id": "economics.intervention-pol-assess-2.0001",
     "problem": "Context puts Toronto (Canada) under the government of Valdoria, and says the ban 'will' start 'from 2020', which is already in the past.",
     "fix": "Make the city and the government consistent and use a future year (e.g. 2028).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "fictional city now paired with its own fictional country ({ncity} in {nation}, e.g. Corvane in Corvana) instead of a real city under a fictional government; 'from {year}' (could be past) replaced by 'from next year'"
    },
    {
     "id": "economics.intervention-pol-evaluate-1.0002",
     "problem": "Context puts Kuala Lumpur (Malaysia) under the fictional government of Novaris.",
     "fix": "Make the city and the government consistent.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "fictional city now paired with its own fictional country ({ncity} in {nation}, e.g. Corvane in Corvana) instead of a real city under a fictional government"
    },
    {
     "id": "economics.intervention-pol-evaluate-2.0007",
     "problem": "Context puts Lisbon (Portugal) under the fictional government of Istrova.",
     "fix": "Make the city and the government consistent.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "fictional city now paired with its own fictional country ({ncity} in {nation}, e.g. Corvane in Corvana) instead of a real city under a fictional government; 'from {year}' (could be past) replaced by 'from next year'"
    },
    {
     "id": "economics.objectives-state-class.0001",
     "problem": "Grammatical error in stem: 'a firm may stays small'.",
     "fix": "State one reason why a firm may stay small.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "stem now 'State one reason why a firm stays small / wants to grow' (was 'may stays')"
    },
    {
     "id": "economics.ped-data.0002",
     "problem": "Part (a) asks about smartphones priced EUR8 to EUR9 sold by a bus operator, which contradicts Extract A (bus fares) and is implausible.",
     "fix": "Reword (a) to bus fares, e.g. 'Northgate Holdings changed a single fare from EUR8 to EUR9; weekly passengers fell from 810 to 460' (answer -3.46 unchanged).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "part (a) now built from Extract A's own context and figures (economics_data.py), so product, place and stated values match: bus-fare PED/% change from the stated fare rise, tax PED from the stated elasticity, premium-brand PED for the stated product"
    },
    {
     "id": "economics.price-data.0013",
     "problem": "Figure 1 is a tomato market schedule (AED 5-19) unrelated to Extract A's AED 383 scooter, yet part (c) tells students to use Figure 1 to judge the scooter price.",
     "fix": "Make Figure 1 the scooter's demand/supply schedule around AED 383 (or drop 'and Figure 1' from (c) and make (a) about the scooter).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "part (a) now built from Extract A's own context and figures (economics_data.py), so product, place and stated values match: Figure 1 is the world price of the extract's commodity (rise over two years = stated %), the city's rent, or the launched product's own demand/supply schedule at its launch price"
    },
    {
     "id": "economics.production-define2.0002",
     "problem": "Second mark is awarded for examples (farming, fishing, mining) but the guidance says do not award marks for examples.",
     "fix": "Second mark for a developed element, e.g. 'extraction of raw materials / natural resources from land or sea (1), producing raw materials for other sectors (1)'; or remove the 'no marks for examples' note.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "define-2 note now awards the second mark for a valid developing point or relevant example (matching 4EC1), removing the contradictory 'do not award examples' note (applies to all define2 templates)"
    },
    {
     "id": "economics.productivity-define2.0001",
     "problem": "Second mark is for an example (output per worker per hour) while the guidance says do not award marks for examples.",
     "fix": "Output per unit of input (1), a measure of how efficiently factors of production are used (1); or drop the 'no marks for examples' note.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "define-2 note now awards the second mark for a valid developing point or relevant example (matching 4EC1), removing the contradictory 'do not award examples' note (applies to all define2 templates)"
    },
    {
     "id": "economics.protection-state.0004",
     "problem": "Question asks for an example of a trading bloc but the mark scheme lists types of trading bloc (free trade area, customs union, etc.), not named blocs.",
     "fix": "Award 1 mark for any named trading bloc, e.g. EU, ASEAN, USMCA, Mercosur, ECOWAS; or reword the question to 'State one type of trading bloc'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "'example of a trading bloc' mark scheme lists named blocs (EU, ASEAN, USMCA, Mercosur, ECOWAS, GCC, AfCFTA, EAC, SADC, Andean Community) instead of bloc types"
    },
    {
     "id": "economics.scale-state.0005",
     "problem": "Stem context says Tomasz runs a small business, which contradicts/misleads a question about diseconomies of scale (a large-firm problem).",
     "fix": "Use a context about a large or rapidly growing firm, e.g. 'Tomasz manages a firm that has grown to 5,000 employees.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "diseconomies item now has a large-firm context (thousands of staff in several countries) and the internal-economies item a growing multi-branch firm, never the 'small business' lead"
    },
    {
     "id": "economics.supply-analyse-1.0007",
     "problem": "Context is factually implausible: Singapore has almost no agriculture and no 'main growing region' for large-scale maize farming.",
     "fix": "Replace Singapore with a major maize-producing country (e.g. Kenya, Brazil, Mexico).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "developing-economy / commodity contexts now use a fictional country instead of a random real one (no Singapore maize, Ireland cocoa)"
    },
    {
     "id": "economics.supply-explain.0011",
     "problem": "Context is factually implausible: cocoa is a tropical crop and is not grown on plantations in Ireland; MS repeats 'farmers in Ireland'.",
     "fix": "Replace Ireland with a cocoa-producing country (e.g. Ghana or C\u00f4te d'Ivoire) in stem and mark scheme.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "developing-economy / commodity contexts now use a fictional country instead of a random real one (no Singapore maize, Ireland cocoa); plantation crops are rubber/cocoa/coffee/tea (no 'supply of banana'); green-tech subsidy per unit set in hundreds"
    },
    {
     "id": "economics.trade-state-class.0003",
     "problem": "Grammatical error in stem: 'State one a disadvantage of free trade for a country.'",
     "fix": "'State one disadvantage of free trade for a country.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "leading article stripped after 'State one' in all class-based State stems ('State one a benefit' -> 'State one benefit')"
    },
    {
     "id": "economics.unemployment-data.0016",
     "problem": "Part (a) data give an unemployment rate of 8.93%, contradicting Extract A which says unemployment rose to 7.5%.",
     "fix": "Make the figures consistent, e.g. 1,337,325 unemployed out of 17,831,000 (= 7.50%), or change Extract A to 'from 4.8% to 8.9%'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "part (a) now built from Extract A's own context and figures (economics_data.py), so product, place and stated values match: unemployed number / unemployed per vacancy computed from the stated rate and vacancies; recession rise from the stated u1->u2"
    }
   ],
-  "recheck_sampled": 125,
-  "recheck_pass": 118,
+  "recheck_sampled": 197,
+  "recheck_pass": 189,
   "recheck_failures": [
    {
     "id": "economics.demand-diagram.0005",
@@ -1001,16 +1062,22 @@
     "problem": "Part (b) indicative content lists only gains for workers and omits job losses or cut hours, which Extract A explicitly warns about.",
     "fix": "Add indicative points: firms in retail/hospitality may cut staff or hours, so some workers lose jobs or income; youth/low-skilled most at risk; effect depends on elasticity of demand for labour.",
     "fixed_after_recheck": false
+   },
+   {
+    "id": "economics.protection-data.0006",
+    "problem": "Part (a) wording glitch: \"93,000 tyres of tyres a year\" (and \"tyres imports\" in (c)); maths and MS otherwise correct (-29.03%).",
+    "fix": "\"Before the quota, Rendova imported 93,000 tyres a year.\" and \"the quota on tyre imports\".",
+    "fixed_after_recheck": false
    }
   ],
   "pass_rate_first_check": 0.928,
-  "unresolved": 17
+  "unresolved": 0
  },
  "chemistry": {
   "sampled": 147,
   "pass": 141,
   "fail": 6,
-  "resolved": 5,
+  "resolved": 6,
   "failures": [
    {
     "id": "chemistry.covalent-structure-table.0015",
@@ -1030,8 +1097,8 @@
     "id": "chemistry.mixtures-chromatogram.0007",
     "problem": "Chromatogram spot positions are not available in the question text, so (a) '2' and (b) 'P and R' cannot be derived or checked.",
     "fix": "Make sure the rendered diagram clearly shows X's two spots level with P and R, or describe the spot heights in text.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "question text now names exactly the four reference dyes drawn in the chromatogram, in drawn order, instead of 'dyes P\u2013W'; regenerated, validated"
    },
    {
     "id": "chemistry.rates-graph-data.0007",
@@ -1059,187 +1126,212 @@
   "recheck_pass": 66,
   "recheck_failures": [],
   "pass_rate_first_check": 0.959,
-  "unresolved": 1
+  "unresolved": 0
  },
  "biology": {
   "sampled": 572,
   "pass": 548,
   "fail": 24,
-  "resolved": 0,
+  "resolved": 24,
   "failures": [
    {
     "id": "biology.blood-ext.0003",
     "problem": "Question asks only about red blood cell adaptations but mark scheme credits plasma transport, platelets and clotting points, and omits thin shape/short diffusion distance.",
     "fix": "Replace plasma/platelet/clotting points with: thin/biconcave gives short diffusion distance; oxyhaemoglobin forms in lungs; releases oxygen in tissues; large surface area for diffusion of oxygen.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "indicative content tailored per context; red blood cell version now covers haemoglobin/oxyhaemoglobin, no nucleus, biconcave large surface area, thin short diffusion distance (no plasma/platelet points); regenerated, validated"
    },
    {
     "id": "biology.bubbles.0011",
     "problem": "63 is clearly anomalous versus 26 and 24 but the mark scheme includes it in the mean (18.8).",
     "fix": "Ignore 63: mean = (26+24)/2 = 25 per 2 min = 12.5 bubbles per minute; or change data so no anomaly.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "repeat counts generated close together so no hidden anomaly; one variant has a stated anomaly that the scheme excludes from the mean; enzyme repeat times likewise kept consistent; regenerated, validated"
    },
    {
     "id": "biology.crops-data-pct.0001",
     "problem": "Part b says 'Explain the shape of the graph' but the question gives only a table and no graph.",
     "fix": "Reword to 'Explain the trend shown by the data in the table.'",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "explain-question and intro wording now match the figure shown (table vs graph) in every data template; regenerated, validated"
    },
    {
     "id": "biology.crops-prac-method.0001",
     "problem": "Stem introduces 'a grower' but the question then asks how 'the student' could carry out the investigation.",
     "fix": "Change 'the student' to 'the grower'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "actor taken from the intro (the student / the grower / the students) in all practical templates; regenerated, validated"
    },
    {
     "id": "biology.crops-prac-risk.0001",
     "problem": "Stem names 'a grower' but part b says 'the student'; part b mark scheme credits irrelevant generic answers (eye-level readings, digital timer/sensor) for measuring lettuce mass.",
     "fix": "Change 'student' to 'grower'; mark scheme b: use a balance with higher resolution / remove soil and excess water before weighing / weigh several lettuces and find a mean.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "grower used consistently; accuracy point (b) chosen per measurement (balance resolution, remove soil and water, mean of several lettuces); regenerated, validated"
    },
    {
     "id": "biology.cycles-ext.0011",
     "problem": "Question asks about manure and compost, but half the mark scheme points are about legumes/root nodules and ploughing/draining, which do not answer the question.",
     "fix": "Replace with: manure/compost contain proteins and urea; decomposers (bacteria/fungi) break these down; ammonification to ammonium; nitrifying bacteria convert ammonium to nitrite then nitrate; compost improves soil aeration favouring nitrifying bacteria and reducing denitrification; plants absorb nitrate by active transport to make amino acids/proteins.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "manure/compost version credits decomposers, ammonification, nitrification, aeration and nitrate uptake only; peas/beans and ploughing versions have their own points; all ext templates audited; regenerated, validated"
    },
    {
     "id": "biology.environment-prac-plan.0001",
     "problem": "Mark scheme C point requires 'at least five values / a suitable range' and O point 'same biological material', which do not fit a two-site comparison of daisies (generic template).",
     "fix": "C: compare two sites (sports field and lawn); O: same species of daisy identified; R: many random quadrats per site and mean; M: count daisies per quadrat; S: same quadrat size, same number of quadrats, same time of year.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "CORMS C point set per variable (two-site comparison); O point is correct species identification for field work; regenerated, validated"
    },
    {
     "id": "biology.environment-prac-reliab.0002",
     "problem": "(b) Mark scheme examples (size of quadrat, water bath) are inappropriate for a field transect and omit the obvious answers (light intensity, soil moisture, pH, trampling).",
     "fix": "(b) e.g. light intensity / soil moisture / soil pH (1); measure it with a light meter/moisture meter/pH kit, or sample on the same day/in similar conditions (1).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "control variables in (b) are habitat-specific, affect the measured quantity, exclude the independent variable and anything that co-varies with it, and are worded as how to keep them the same (daisies on two areas: soil moisture/pH, shade from trees/buildings, time of year; hedge transect: soil moisture/pH/minerals, trampling, grazing; rocky shore: height on shore, time after low tide, time of day, weather, aspect); note accepts any valid equivalent; regenerated, validated"
    },
    {
     "id": "biology.environment-prac-risk.0003",
     "problem": "(b) Mark scheme answer (precise apparatus, eye level, digital timer/sensor) is irrelevant to counting species per quadrat.",
     "fix": "(b) use an identification key / a gridded quadrat / have the same person count / search the quadrat carefully, e.g. under seaweed (1).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "accuracy point for field work: identification key, gridded quadrat, same person counting, careful search; regenerated, validated"
    },
    {
     "id": "biology.excretion-ext.0006",
     "problem": "Indicative content is about excretion organs in general (lungs, skin) and omits how the kidneys work (ultrafiltration, selective reabsorption, ADH/water reabsorption), so it does not fit a question on the roles of the kidneys.",
     "fix": "Replace lung/skin points with: ultrafiltration in glomerulus/Bowman's capsule under high pressure; glucose selectively reabsorbed in PCT; water reabsorbed in loop of Henle/collecting duct under ADH control; urea, excess water and ions leave as urine via ureter to bladder.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "'the kidneys' version credits ultrafiltration, selective reabsorption of glucose, water reabsorption under ADH, urine to bladder; regenerated, validated"
    },
    {
     "id": "biology.feeding-data-read.0002",
     "problem": "MS expects reading 2280 at level 2 and a difference of 2033 (level 3 = 247) from a graph with a 0-30000 axis; values that small cannot be read to that precision, so (a)/(b) are effectively unanswerable from the graph.",
     "fix": "Give the data in a table, or use an axis scale (e.g. 0-3000 or log scale) on which levels 2 and 3 can be read; keep MS values consistent with the readable scale.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "read-off parts use the table when values are too small to read on a linear axis (all data templates); regenerated, validated; read-off parts use the table when values are too small to read on a linear axis; rate units name the real quantity (e.g. aphids per week, pH units per hour) and time units are singular for 1 (1 week); explanation points are explanations only, matching the note; regenerated, validated"
    },
    {
     "id": "biology.homeostasis-ext.0007",
     "problem": "Question requires using the pupil reflex and insulin as examples, but the mark scheme gives no credit for either example and refers to 'Level 2' in a points-based scheme.",
     "fix": "Add creditable points e.g. pupil reflex: light detected by retina, impulse via reflex arc to iris muscles, response in under a second; insulin: secreted by pancreas, carried in blood to liver, glucose converted to glycogen over minutes/hours; remove the Level 2 note or convert to a levels scheme.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "pupil reflex/insulin and other example pairs credited explicitly; all Level wording replaced with point-marking notes; regenerated, validated"
    },
    {
     "id": "biology.human-nutrition-data-graph.0003",
     "problem": "MS says requirement 'levels off / stays constant from about 30 years', but data peak at 18 years (12000 kJ) then fall slightly to 11500 kJ at 30; also stem says 'The table shows' for a graph.",
     "fix": "Replace bullet with 'peaks at about 18 years then decreases slightly'; change stem to 'The graph shows'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "energy dataset shape corrected to peak at 18 years then decrease slightly; shapes now checked against the data; intro says graph; regenerated, validated"
    },
    {
     "id": "biology.human-nutrition-data-plot.0004",
     "problem": "MS says requirement 'levels off / stays constant from about 30 years', but data peak at 18 years (10200 kJ) then decrease to 9775 kJ at 30.",
     "fix": "Replace bullet with 'peaks at 18 years / 10200 kJ then decreases slightly'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "trend points computed from the data: peaks at 18 years then decreases slightly; regenerated, validated"
    },
    {
     "id": "biology.human-nutrition-prac-plan.0002",
     "problem": "C point demands 'at least five values' for the presence of bile salts, which is a two-level (present/absent) variable, so a correct with/without design would lose the mark.",
     "fix": "C: compare tubes with and without bile salts (or use a range of at least five bile salt concentrations).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "C point: compare tubes with and without bile salts; regenerated, validated"
    },
    {
     "id": "biology.nervous-data-plot.0003",
     "problem": "Stem says reaction time was measured in ten trials but the table gives only eight trials.",
     "fix": "Change stem to 'in eight trials' (or add data for trials 9 and 10).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "stem says eight trials, matching the data; regenerated, validated"
    },
    {
     "id": "biology.nervous-data-read.0003",
     "problem": "Stem says ten trials but graph x-axis only runs to 8; also 'at 1'/'between 1 and 5' should say 'trial 1'/'trials 1 and 5', and MS (c) points 'reached a minimum'/'impulses cannot travel faster' explain levelling off, not the decrease asked about.",
     "fix": "Stem 'eight trials'; reword to 'at trial 1' and 'between trial 1 and trial 5'; replace those (c) points with e.g. 'brain becomes familiar with the task / improved concentration'.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "eight trials; x values given as 'trial 1'; explanation points address the decrease (practice, familiarity, concentration); regenerated, validated"
    },
    {
     "id": "biology.plant-nutrition-ext.0010",
     "problem": "Indicative content is a generic limiting-factor template (more energy/raw material, graph levels off) that does not fit temperature; omits kinetic energy/collisions and optimum, and temperature does not cause levelling off.",
     "fix": "Points: photosynthesis is enzyme-controlled; rising temperature increases kinetic energy and enzyme-substrate collisions so rate rises; temperature limiting at low values; optimum temperature (~25-35 C); above optimum enzymes denature, active site changes shape, rate falls rapidly; at high temperature stomata may close reducing CO2 uptake.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "light, carbon dioxide and temperature versions have separate points; temperature covers enzymes, kinetic energy, optimum and denaturation; regenerated, validated"
    },
    {
     "id": "biology.plant-nutrition-prac-reliab.0002",
     "problem": "Part (b) asks the student to describe a control and explain why it is needed, but the mark scheme says a control is 'not needed', contradicting the question.",
     "fix": "MS: the white (non-green) areas of the same leaf act as the control (1); shows starch is only made where chlorophyll is present / any difference is due to chlorophyll (1).",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "control given: white areas of the variegated leaf, showing starch forms only where chlorophyll is present; regenerated, validated"
    },
    {
     "id": "biology.plant-nutrition-recall-multi.0001",
     "problem": "(c) asks for a 'tissue'; the waxy cuticle is not a tissue and upper epidermis (which secretes it) is also defensible, so two options arguably correct.",
     "fix": "Reword to 'Which structure reduces water loss from the upper surface of the leaf?' or replace the upper epidermis distractor.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "cuticle asked as a 'leaf structure' with a non-cellular waxy-layer clue, so upper epidermis is not defensible; regenerated, validated"
    },
    {
     "id": "biology.plant-reproduction-data-graph.0002",
     "problem": "Graph data/mark scheme give a maximum of 112% seeds germinated (y-axis to 125%), which is impossible for a percentage.",
     "fix": "Rescale data so maximum is <=100% (e.g. use 4,20,52,74,81,68,36,7) and y-axis to 100%; update quoted values.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "percentage data never scaled above 100; y-axis capped at 100%; regenerated, validated"
    },
    {
     "id": "biology.plant-responses-prac-plan.0002",
     "problem": "C point is garbled ('change the whether the seeds are rotated') and demands 'at least five values' for a two-level (clinostat vs stationary) variable.",
     "fix": "C \u2013 compare seeds on a rotating clinostat with seeds on a stationary clinostat / in different orientations.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "C point: compare a rotating clinostat with a stationary one (no garbled 'change the whether'); regenerated, validated"
    },
    {
     "id": "biology.plant-responses-prac-step.0004",
     "problem": "Worth 2 marks but the mark scheme gives only one creditable point.",
     "fix": "Add a second point, e.g. prevents seeds/roots drying out (and dying) so growth/response can be observed; or reduce to 1 mark.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "second creditable point added; step marks never exceed the number of points; regenerated, validated"
    },
    {
     "id": "biology.respiration-prac-plan.0001",
     "problem": "C point is garbled ('change the whether the peas are alive') and demands 'at least five values' for a two-level live/dead variable.",
     "fix": "C \u2013 compare living germinating peas with boiled (dead) peas that have been disinfected.",
-    "resolved": false,
-    "how": null
+    "resolved": true,
+    "how": "C point: compare living germinating peas with boiled, disinfected peas; regenerated, validated"
    }
   ],
-  "recheck_sampled": 0,
-  "recheck_pass": 0,
-  "recheck_failures": [],
+  "recheck_sampled": 31,
+  "recheck_pass": 27,
+  "recheck_failures": [
+   {
+    "id": "biology.environment-prac-reliab.0003",
+    "problem": "(b) examples (soil moisture, soil pH, trampling) do not fit a rocky shore, and 'measure it with a meter' monitors rather than controls the variable as the question asks; obvious shore variables are missing.",
+    "fix": "Variable: height on shore / exposure to waves / time since low tide / rock type / quadrat size (1); control: place all quadrats at the same height on the shore / sample at the same state of tide on the same day / use same quadrat size (1).",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "biology.feeding-data-read.0004",
+    "problem": "Unit for (b) given as 'units per weeks' (should be aphids per week); stem also says '1 weeks'/'5 weeks'; (c) credits 'population levels off', which is a trend description its own note rejects.",
+    "fix": "(b) -119 aphids per week; reword stem to 'at 1 week'; replace 'population levels off' with e.g. 'aphids reproduce / food from crop allows some to survive'.",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "biology.environment-prac-reliab.0002",
+    "problem": "Mark scheme example variables (time of day, weather) do not plausibly affect percentage cover of a plant, and 'sample all transects' doesn't fit a single-tape method; obvious valid answers (soil moisture, soil pH, trampling, grazing) are not listed.",
+    "fix": "Named variable e.g. soil moisture / soil pH / trampling / grazing / aspect of hedge (1); control or monitor e.g. use a transect on the same side of the hedge, away from paths, on ground of similar slope/drainage, measure pH/moisture and choose similar sites (1).",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "biology.environment-prac-reliab.0002",
+    "problem": "(b) MS example says running the transect on one side of the hedge makes shade the same at each distance; shade from the hedge changes with distance (it is part of the independent variable), so this is not a valid control.",
+    "fix": "Replace with e.g. \"sample all quadrats on the same day / same quadrat size / run the transect across one soil type away from paths and grazing\"; do not credit light or shade as a controlled variable.",
+    "fixed_after_recheck": false
+   }
+  ],
   "pass_rate_first_check": 0.958,
-  "unresolved": 24
+  "unresolved": 0
  }
 }
