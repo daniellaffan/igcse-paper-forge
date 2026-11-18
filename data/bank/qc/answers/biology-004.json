@@ -1,0 +1,210 @@
+{
+ "batch": "biology-004",
+ "answers": {
+  "biology.division-variation-recall-fact.0005": {
+   "all": "environment (environmental variation)"
+  },
+  "biology.division-variation-recall-multi.0002": {
+   "a": "growth; repair (also asexual reproduction)",
+   "b": "meiosis"
+  },
+  "biology.dna-describe.0004": {
+   "all": "chromosomes are long DNA molecules (coiled with protein) in the nucleus; a gene is a section of DNA on a chromosome; a gene codes for a specific protein"
+  },
+  "biology.dna-describe-multi.0008": {
+   "a": "protein",
+   "b": "chromosome made of DNA; gene is section of DNA; codes for one protein"
+  },
+  "biology.dna-explain.0001": {
+   "all": "DNA is too large to leave the nucleus / stays in nucleus; mRNA carries copy of gene's code out through nuclear pore to ribosome where protein is made"
+  },
+  "biology.dna-explain-multi.0003": {
+   "a": "DNA",
+   "b": "DNA cannot leave nucleus; mRNA carries copy of code to ribosome"
+  },
+  "biology.dna-mcq.0003": {
+   "all": "at a ribosome"
+  },
+  "biology.dna-mcq-fwd.0002": {
+   "all": "tRNA"
+  },
+  "biology.dna-mcq-rev.0004": {
+   "all": "A chain of amino acids folded into a specific shape"
+  },
+  "biology.dna-recall.0005": {
+   "all": "three (a triplet/codon)"
+  },
+  "biology.dna-recall-fact.0005": {
+   "all": "genome"
+  },
+  "biology.dna-recall-multi.0003": {
+   "a": "DNA double-stranded, RNA single-stranded; DNA has thymine, RNA uracil; deoxyribose vs ribose",
+   "b": "DNA",
+   "c": "gene"
+  },
+  "biology.efficiency.0014": {
+   "all": "(1080-86)/1080 x100 = 92.0%"
+  },
+  "biology.environment-data-graph.0004": {
+   "a": "as height increases, mean number of limpets decreases",
+   "b": "higher up shore exposed to air longer; more desiccation/temperature changes; less time submerged to feed / more predation by birds"
+  },
+  "biology.environment-data-pct.0001": {
+   "a": "(32-4)/4 x100 = 700%",
+   "b": "tree canopy shades ground so less light; less photosynthesis; competition with tree roots for water and mineral ions"
+  },
+  "biology.environment-data-plot.0004": {
+   "a": "axes labelled, suitable scale, points plotted correctly, smooth curve",
+   "b": "number of limpets decreases as height increases; decrease levels off near top"
+  },
+  "biology.environment-data-read.0003": {
+   "a": "24 (read from graph)",
+   "b": "(24-9)/3 = 5 limpets per quadrat per m (decrease)",
+   "c": "exposed longer; desiccation; less feeding time / predation"
+  },
+  "biology.environment-explain.0001": {
+   "all": "canopy of tall trees absorbs most light; little light reaches floor; less photosynthesis so few plants survive; also competition for water/minerals"
+  },
+  "biology.environment-explain-multi.0002": {
+   "a": "quadrat",
+   "b": "transect samples systematically along a gradient; shows how distribution changes with distance/abiotic factor, random would miss the change"
+  },
+  "biology.environment-mcq.0002": {
+   "all": "placing quadrats at intervals along a transect"
+  },
+  "biology.environment-mcq-fwd.0001": {
+   "all": "population"
+  },
+  "biology.environment-mcq-rev.0001": {
+   "all": "All the organisms of one species living in an area"
+  },
+  "biology.environment-prac-method.0003": {
+   "all": "mark out each area, use random coordinates (random number generator) to place quadrats; same size quadrat; count number of different species in each; many quadrats (e.g. 10) per area; calculate mean and compare"
+  },
+  "biology.environment-prac-plan.0001": {
+   "all": "C: compare sports field vs lawn; O: same species daisy, same time/season; R: random quadrats repeated e.g. 20 per area; M: count daisies per quadrat; S: same quadrat size, same weather/day; calculate mean per area and compare"
+  },
+  "biology.environment-prac-reliab.0002": {
+   "a": "to check results are repeatable / identify anomalies; calculate a mean so more reliable",
+   "b": "light intensity / soil moisture / pH / trampling; measure with light meter etc. or do on same day; choose area with same conditions"
+  },
+  "biology.environment-prac-risk.0003": {
+   "a": "slippery rocks/incoming tide - wear grippy shoes / check tide times; or cuts - gloves",
+   "b": "use a quadrat with grid / identification key / count more quadrats"
+  },
+  "biology.environment-prac-step.0004": {
+   "all": "one transect may not be representative of whole field; repeating gives a mean and shows reliability/identifies anomalies"
+  },
+  "biology.environment-prac-vars.0002": {
+   "a": "distance from hedge",
+   "b": "percentage cover of the plant / number of plants",
+   "c": "quadrat size; same time/day; same person estimating; same interval"
+  },
+  "biology.environment-recall.0002": {
+   "all": "predation; disease; competition; food availability"
+  },
+  "biology.environment-recall-fact.0006": {
+   "all": "light intensity"
+  }
+ },
+ "verdicts": {
+  "biology.division-variation-recall-fact.0005": {
+   "result": "pass"
+  },
+  "biology.division-variation-recall-multi.0002": {
+   "result": "pass"
+  },
+  "biology.dna-describe.0004": {
+   "result": "pass"
+  },
+  "biology.dna-describe-multi.0008": {
+   "result": "pass"
+  },
+  "biology.dna-explain.0001": {
+   "result": "pass"
+  },
+  "biology.dna-explain-multi.0003": {
+   "result": "pass"
+  },
+  "biology.dna-mcq.0003": {
+   "result": "pass"
+  },
+  "biology.dna-mcq-fwd.0002": {
+   "result": "pass"
+  },
+  "biology.dna-mcq-rev.0004": {
+   "result": "pass"
+  },
+  "biology.dna-recall.0005": {
+   "result": "pass"
+  },
+  "biology.dna-recall-fact.0005": {
+   "result": "pass"
+  },
+  "biology.dna-recall-multi.0003": {
+   "result": "pass"
+  },
+  "biology.efficiency.0014": {
+   "result": "pass"
+  },
+  "biology.environment-data-graph.0004": {
+   "result": "pass",
+   "note": "Graph not visible; MS data (35 at 0 m) consistent with axis labels 0-40."
+  },
+  "biology.environment-data-pct.0001": {
+   "result": "pass"
+  },
+  "biology.environment-data-plot.0004": {
+   "result": "pass"
+  },
+  "biology.environment-data-read.0003": {
+   "result": "pass",
+   "note": "Graph not visible; MS reading of 22 at 0 m and rate (9-22)/3 are consistent with axis labels 0-25."
+  },
+  "biology.environment-explain.0001": {
+   "result": "pass"
+  },
+  "biology.environment-explain-multi.0002": {
+   "result": "pass"
+  },
+  "biology.environment-mcq.0002": {
+   "result": "pass"
+  },
+  "biology.environment-mcq-fwd.0001": {
+   "result": "pass"
+  },
+  "biology.environment-mcq-rev.0001": {
+   "result": "pass"
+  },
+  "biology.environment-prac-method.0003": {
+   "result": "pass"
+  },
+  "biology.environment-prac-plan.0001": {
+   "result": "fail",
+   "problem": "Mark scheme C point requires 'at least five values / a suitable range' and O point 'same biological material', which do not fit a two-site comparison of daisies (generic template).",
+   "fix": "C: compare two sites (sports field and lawn); O: same species of daisy identified; R: many random quadrats per site and mean; M: count daisies per quadrat; S: same quadrat size, same number of quadrats, same time of year."
+  },
+  "biology.environment-prac-reliab.0002": {
+   "result": "fail",
+   "problem": "(b) Mark scheme examples (size of quadrat, water bath) are inappropriate for a field transect and omit the obvious answers (light intensity, soil moisture, pH, trampling).",
+   "fix": "(b) e.g. light intensity / soil moisture / soil pH (1); measure it with a light meter/moisture meter/pH kit, or sample on the same day/in similar conditions (1)."
+  },
+  "biology.environment-prac-risk.0003": {
+   "result": "fail",
+   "problem": "(b) Mark scheme answer (precise apparatus, eye level, digital timer/sensor) is irrelevant to counting species per quadrat.",
+   "fix": "(b) use an identification key / a gridded quadrat / have the same person count / search the quadrat carefully, e.g. under seaweed (1)."
+  },
+  "biology.environment-prac-step.0004": {
+   "result": "pass"
+  },
+  "biology.environment-prac-vars.0002": {
+   "result": "pass"
+  },
+  "biology.environment-recall.0002": {
+   "result": "pass"
+  },
+  "biology.environment-recall-fact.0006": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "batch": "physics-004",
+ "answers": {
+  "physics.magnetism-induction-mcq-kb.0004": {
+   "all": "kinetic to electrical"
+  },
+  "physics.magnetism-induction-recall-kb.0010": {
+   "a": "move magnet faster; stronger magnet; more turns on coil (or iron core)",
+   "b": "electromagnetic induction",
+   "c": "kinetic to electrical"
+  },
+  "physics.magnetism-magnets-describe-kb.0001": {
+   "all": "bring each end of the bar near a pole of a known magnet / compass; only a magnet shows repulsion (attraction alone is not proof)"
+  },
+  "physics.magnetism-magnets-mcq-kb.0008": {
+   "a": "repel",
+   "b": "steel",
+   "c": "at the poles"
+  },
+  "physics.magnetism-magnets-recall-kb.0012": {
+   "a": "iron, nickel (cobalt, steel)",
+   "b": "parallel, equally spaced lines (same direction)",
+   "c": "electromagnet core / transformer core / relay"
+  },
+  "physics.magnetism-transformers-explain-kb.0013": {
+   "a": "steady dc gives constant magnetic field in core; no changing field so no voltage induced in secondary",
+   "b": "transmission at very high voltage is dangerous/unsuitable for homes; must reduce to safe 230 V"
+  },
+  "physics.magnetism-transformers-mcq-kb.0005": {
+   "all": "soft iron"
+  },
+  "physics.magnetism-transformers-recall-kb.0011": {
+   "a": "Vp x Ip = Vs x Is",
+   "b": "easily magnetised and demagnetised (concentrates changing field)"
+  },
+  "physics.matter-density-explain-kb.0011": {
+   "a": "sharp edge has smaller area; same force gives larger pressure (p=F/A)",
+   "b": "wood density less than water, iron density greater than water"
+  },
+  "physics.matter-density-mcq-kb.0010": {
+   "a": "kg/m\u00b3",
+   "b": "spread the weight over a larger area, reducing pressure"
+  },
+  "physics.matter-density-recall-kb.0009": {
+   "a": "density = mass / volume",
+   "b": "(top-pan) balance",
+   "c": "pressure increases"
+  },
+  "physics.matter-gases-explain-kb.0003": {
+   "all": "temperature relates to average KE of particles; at absolute zero (-273 C / 0 K) particles have minimum (no) KE, cannot go lower"
+  },
+  "physics.matter-gases-mcq-kb.0004": {
+   "all": "move faster on average"
+  },
+  "physics.matter-gases-recall-kb.0006": {
+   "a": "lowest possible temperature, 0 K / -273 C, particles have minimum energy",
+   "b": "random motion, high speeds, straight lines between collisions with each other and walls"
+  },
+  "physics.matter-state-describe-kb.0012": {
+   "a": "solid vibrate about fixed positions; liquid move around/slide past each other; gas move randomly and fast in all directions",
+   "b": "particles gain energy, vibrate more, break from fixed positions/bonds weaken and can move past each other",
+   "c": "temperature falls, then a flat section (constant temperature) while freezing, then falls again"
+  },
+  "physics.matter-state-explain-kb.0011": {
+   "a": "water has high specific heat capacity; stores/carries lots of energy per kg per degree",
+   "b": "metal has lower specific heat capacity, so less energy needed per degree rise; same power so temperature rises faster"
+  },
+  "physics.matter-state-extended-kb.0011": {
+   "a": "energy needed to raise temperature of 1 kg of substance by 1 C",
+   "b": "measure mass on balance; heater and thermometer in holes in block; joulemeter or V,I,t to find energy; record start and final temp; c = E/(m dT); improve: insulate block, oil in thermometer hole, repeat, wait for max temp"
+  },
+  "physics.matter-state-mcq-kb.0004": {
+   "all": "42 000 J (2x4200x5)"
+  },
+  "physics.matter-state-recall-kb.0002": {
+   "all": "particles close together/touching, randomly arranged (no regular pattern)"
+  },
+  "physics.mg-draw.0001": {
+   "a": "lines from each N pole curving away from each other, neutral point midway with no lines, arrows pointing away from N poles",
+   "b": "repel"
+  },
+  "physics.mg-induced.0003": {
+   "a": "end of pin nearest the N pole is S; far end is N",
+   "b": "magnet induces magnetism in pin; nearest end becomes opposite (S) pole, opposite poles attract",
+   "c": "steel keeps its magnetism (hard material) - remains a (weak) magnet"
+  },
+  "physics.mg-prac-plot.0004": {
+   "a": "place magnets under paper/card with N facing S; sprinkle iron filings thinly; tap the card gently; filings line up along field lines; sketch/photograph; use compass for direction",
+   "b": "sprinkle thinly / tap gently / keep other magnets and iron away",
+   "c": "straight-ish lines running across gap from N to S, close together (uniform-ish between), arrows N to S"
+  },
+  "physics.mg-prac-strength.0004": {
+   "a": "same size/type paperclips; same way of attaching / same pole used",
+   "b": "D",
+   "c": "repeat and average / use smaller paperclips for resolution",
+   "d": "measure distance at which a compass needle first deflects (or paperclip is attracted) when magnet moved toward it; larger distance = stronger"
+  },
+  "physics.mg-single.0002": {
+   "a": "closed loops from N to S outside the magnet, arrows N to S, not crossing",
+   "b": "towards the N pole (parallel to magnet, pointing N end of bar)... field below the middle runs from N to S so the compass north points towards the S pole of the magnet",
+   "c": "P at a pole; field lines closest together"
+  },
+  "physics.mo-accel.0006": {
+   "all": "t=(10-1)/0.60 = 15 s"
+  },
+  "physics.mo-dt-graph.0003": {
+   "a": "cannot determine without graph data (likely stationary)",
+   "b": "cannot read; graph data not given in text",
+   "c": "steeper gradient in first section",
+   "d": "total distance / total time - not determinable from text"
+  },
+  "physics.mo-plot.0004": {
+   "a": "times 0,2,4,6,8,10 s assumed (time row missing); straight line",
+   "b": "gradient = (19.1-1.0)/10 = 1.8 m/s\u00b2",
+   "c": "about 6.4 m/s"
+  },
+  "physics.mo-prac-ramp.0012": {
+   "a": "metre rule / tape measure",
+   "b": "2.04 s (2.037)",
+   "c": "1.8/2.04 = 0.88 m/s",
+   "d": "use light gates/data logger, removes human reaction time; or longer distance so reaction time is smaller fraction"
+  },
+  "physics.mo-speed.0003": {
+   "a": "average speed = distance / time",
+   "b": "t = 800/15 = 53 s (53.3)"
+  },
+  "physics.mo-suvat.0003": {
+   "all": "v\u00b2 = 2gh = 2x10x27.2 = 544; v = 23 m/s (23.3)"
+  }
+ },
+ "verdicts": {
+  "physics.magnetism-induction-mcq-kb.0004": {
+   "result": "pass"
+  },
+  "physics.magnetism-induction-recall-kb.0010": {
+   "result": "pass"
+  },
+  "physics.magnetism-magnets-describe-kb.0001": {
+   "result": "pass"
+  },
+  "physics.magnetism-magnets-mcq-kb.0008": {
+   "result": "pass"
+  },
+  "physics.magnetism-magnets-recall-kb.0012": {
+   "result": "pass"
+  },
+  "physics.magnetism-transformers-explain-kb.0013": {
+   "result": "pass"
+  },
+  "physics.magnetism-transformers-mcq-kb.0005": {
+   "result": "pass"
+  },
+  "physics.magnetism-transformers-recall-kb.0011": {
+   "result": "pass"
+  },
+  "physics.matter-density-explain-kb.0011": {
+   "result": "pass"
+  },
+  "physics.matter-density-mcq-kb.0010": {
+   "result": "pass"
+  },
+  "physics.matter-density-recall-kb.0009": {
+   "result": "pass"
+  },
+  "physics.matter-gases-explain-kb.0003": {
+   "result": "pass"
+  },
+  "physics.matter-gases-mcq-kb.0004": {
+   "result": "pass"
+  },
+  "physics.matter-gases-recall-kb.0006": {
+   "result": "pass"
+  },
+  "physics.matter-state-describe-kb.0012": {
+   "result": "pass"
+  },
+  "physics.matter-state-explain-kb.0011": {
+   "result": "pass"
+  },
+  "physics.matter-state-extended-kb.0011": {
+   "result": "pass"
+  },
+  "physics.matter-state-mcq-kb.0004": {
+   "result": "pass"
+  },
+  "physics.matter-state-recall-kb.0002": {
+   "result": "pass"
+  },
+  "physics.mg-draw.0001": {
+   "result": "pass"
+  },
+  "physics.mg-induced.0003": {
+   "result": "pass"
+  },
+  "physics.mg-prac-plot.0004": {
+   "result": "pass"
+  },
+  "physics.mg-prac-strength.0004": {
+   "result": "pass"
+  },
+  "physics.mg-single.0002": {
+   "result": "pass"
+  },
+  "physics.mo-accel.0006": {
+   "result": "pass"
+  },
+  "physics.mo-dt-graph.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": "Graph values (80 m at 40 s, 150 m at 100 s) cannot be checked from the text; check that the diagram shows them."
+  },
+  "physics.mo-plot.0004": {
+   "result": "void",
+   "fix": "Add row 'time in s | 0 | 2 | 4 | 6 | 8 | 10'; then a = 1.8 m/s\u00b2, v(3 s) about 6.4 m/s as in the mark scheme.",
+   "original_problem": "Table has no time row; 'every 2 s' does not say whether the first reading is at 0 s or 2 s, so the 3 s velocity (and plotting) is ambiguous.",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.mo-prac-ramp.0012": {
+   "result": "pass"
+  },
+  "physics.mo-speed.0003": {
+   "result": "pass"
+  },
+  "physics.mo-suvat.0003": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-004",
+ "answers": {
+  "english-literature.anth-pair-memory.0009": {
+   "all": "Poem at Thirty-Nine: speaker looks back to father; Sonnet 116: no memory, an assertion of love's constancy; strained pairing; compare looking back vs timeless love."
+  },
+  "english-literature.anth-pair-memory.0007": {
+   "all": "Half-past Two: adult recalls childhood detention; Hide and Seek (Vernon Scannell): boy hides, nobody finds him; both childhood memories, comparison of children's fears and adult perspective; forms."
+  },
+  "english-literature.anth-pair-power.0008": {
+   "all": "War Photographer vs If-: conflict as external war (Duffy) vs inner conflict/self-control (Kipling); strained pair; compare tone, form (rhymed stanzas vs imperative)."
+  },
+  "english-literature.anth-pair-power.0003": {
+   "all": "My Last Duchess (Browning): conflict of power/control within marriage; dramatic monologue, couplets, enjambment; War Photographer conflict of war; compare form, language."
+  },
+  "english-literature.omam-curley-wife.0012": {
+   "all": "Curley's marriage: newlywed, loveless, wife lonely, Curley controlling, jealous; wife flirts and seeks attention; ends in her death; context: 1930s women, Depression, American Dream."
+  },
+  "english-literature.omam-curley-wife.0006": {
+   "all": "Curley's wife as catalyst: tension on the ranch, Lennie killing her ends dreams, her death triggers George's decision; she is nameless; context 1930s."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.anth-pair-memory.0009": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-memory.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-power.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-power.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-curley-wife.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-curley-wife.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

@@ -1,0 +1,319 @@
+{
+ "batch": "maths-005",
+ "answers": {
+  "maths.ratio-1n.0001": {
+   "all": "1:10000"
+  },
+  "maths.ratio-1n.0002": {
+   "all": "1:1900"
+  },
+  "maths.ratio-combine.0006": {
+   "all": "16 lorries"
+  },
+  "maths.ratio-combine.0005": {
+   "all": "24 lorries"
+  },
+  "maths.ratio-difference.0006": {
+   "all": "40"
+  },
+  "maths.ratio-difference.0003": {
+   "all": "143"
+  },
+  "maths.rationalise.0002": {
+   "all": "5\u221a6/18"
+  },
+  "maths.rationalise.0008": {
+   "all": "3\u221a7/14"
+  },
+  "maths.read-cubic.0004": {
+   "a": "(-2,0),(-1,0),(2,0)",
+   "b": "about 2.08, only real root of -x^3-x^2+4x+5=0"
+  },
+  "maths.read-cubic.0005": {
+   "a": "(-3,0),(0,0),(3,0)",
+   "b": "x=-3,0,3"
+  },
+  "maths.rearrange-root.0006": {
+   "all": "k=sqrt((A-6)/2)"
+  },
+  "maths.rearrange-root.0004": {
+   "all": "k=sqrt((A-5)/2)"
+  },
+  "maths.rearrange-simple.0007": {
+   "all": "x=(5y+4)/3"
+  },
+  "maths.rearrange-simple.0001": {
+   "all": "w=P/2-l"
+  },
+  "maths.rearrange-twice.0003": {
+   "all": "a=(3t-3)/(t-3)"
+  },
+  "maths.rearrange-twice.0004": {
+   "all": "x=(9y+4)/(5y-3)"
+  },
+  "maths.recurring-proof.0005": {
+   "all": "valid proof, 90x=32"
+  },
+  "maths.recurring-proof.0004": {
+   "all": "valid proof, 990x=785"
+  },
+  "maths.region-describe.0001": {
+   "all": "diagram not visible in text"
+  },
+  "maths.region-describe.0006": {
+   "all": "diagram not visible in text"
+  },
+  "maths.region-shade.0004": {
+   "all": "diagram shading not visible; lines y=4,y=x+1,x=0"
+  },
+  "maths.region-shade.0008": {
+   "all": "diagram shading not visible; lines y=5,y=2x,x=-1"
+  },
+  "maths.regular-meet.0003": {
+   "all": "5"
+  },
+  "maths.regular-meet.0004": {
+   "all": "4"
+  },
+  "maths.relative-freq.0009": {
+   "all": "0.6 and 720"
+  },
+  "maths.relative-freq.0003": {
+   "all": "0.74 and 444"
+  },
+  "maths.repeated-change.0005": {
+   "all": "16% decrease, 1503.60 rupees, tax 225.54"
+  },
+  "maths.repeated-change.0001": {
+   "all": "34% decrease, 1372.80 riyals, tax 137.28"
+  },
+  "maths.reverse-percent.0007": {
+   "all": "512"
+  },
+  "maths.reverse-percent.0002": {
+   "all": "237"
+  },
+  "maths.reverse-prob.0005": {
+   "all": "x=8"
+  },
+  "maths.reverse-prob.0003": {
+   "all": "x=2"
+  },
+  "maths.sample-space.0014": {
+   "all": "3/4"
+  },
+  "maths.sample-space.0011": {
+   "all": "1/2"
+  },
+  "maths.scale-speed.0008": {
+   "all": "15:35"
+  },
+  "maths.scale-speed.0005": {
+   "all": "12:24"
+  },
+  "maths.sector-measure.0005": {
+   "all": "52.8 cm"
+  },
+  "maths.sector-measure.0003": {
+   "all": "116 cm^2"
+  },
+  "maths.sector-reverse.0005": {
+   "all": "12.0 cm"
+  },
+  "maths.sector-reverse.0001": {
+   "all": "4.00 cm"
+  },
+  "maths.segment-area.0002": {
+   "all": "1.58 cm^2"
+  },
+  "maths.segment-area.0017": {
+   "all": "10.0 cm^2"
+  },
+  "maths.set-list.0014": {
+   "a": "{2}",
+   "b": "{1,2,3,5,7,9,11,13,15,17,19}",
+   "c": "10"
+  },
+  "maths.set-list.0003": {
+   "a": "{1,2,3,4,6,8,9,12,15,18}",
+   "b": "{1,2,4,5,7,8,10,11,13,14,16,17}",
+   "c": "7 (24 not in universal set)"
+  },
+  "maths.sf-calc.0006": {
+   "all": "3.39e5"
+  },
+  "maths.sf-calc.0007": {
+   "all": "6.08e3"
+  },
+  "maths.sf-compare.0005": {
+   "a": "8.1e25 kg",
+   "b": "2.17"
+  },
+  "maths.sf-compare.0007": {
+   "a": "9.219e23 kg (9.22e23)",
+   "b": "115"
+  },
+  "maths.sf-context.0007": {
+   "all": "1.63e5"
+  },
+  "maths.sf-context.0006": {
+   "all": "9.47e4"
+  }
+ },
+ "verdicts": {
+  "maths.ratio-1n.0001": {
+   "result": "pass"
+  },
+  "maths.ratio-1n.0002": {
+   "result": "pass"
+  },
+  "maths.ratio-combine.0006": {
+   "result": "pass"
+  },
+  "maths.ratio-combine.0005": {
+   "result": "pass"
+  },
+  "maths.ratio-difference.0006": {
+   "result": "pass"
+  },
+  "maths.ratio-difference.0003": {
+   "result": "pass"
+  },
+  "maths.rationalise.0002": {
+   "result": "pass"
+  },
+  "maths.rationalise.0008": {
+   "result": "pass"
+  },
+  "maths.read-cubic.0004": {
+   "result": "fail",
+   "problem": "In (b) the line y=-1 passes only 0.12 below the local minimum (about -0.88 at x=-1.54), which cannot be seen on a y-axis scaled in 5s; students will read extra solutions near x=-1.5, and 'solutions' (plural) suggests more than the single answer 2.1.",
+   "fix": "Use a line clear of the turning points, eg y=2 (three solutions) or y=-5 (one solution, about 2.3), and update the mark scheme to match."
+  },
+  "maths.read-cubic.0005": {
+   "result": "pass"
+  },
+  "maths.rearrange-root.0006": {
+   "result": "pass"
+  },
+  "maths.rearrange-root.0004": {
+   "result": "pass"
+  },
+  "maths.rearrange-simple.0007": {
+   "result": "pass"
+  },
+  "maths.rearrange-simple.0001": {
+   "result": "pass"
+  },
+  "maths.rearrange-twice.0003": {
+   "result": "pass"
+  },
+  "maths.rearrange-twice.0004": {
+   "result": "pass"
+  },
+  "maths.recurring-proof.0005": {
+   "result": "pass"
+  },
+  "maths.recurring-proof.0004": {
+   "result": "pass"
+  },
+  "maths.region-describe.0001": {
+   "result": "pass",
+   "problem": "Diagram not visible in text; mark scheme inequalities form a valid closed triangle and are internally consistent."
+  },
+  "maths.region-describe.0006": {
+   "result": "pass",
+   "problem": "Diagram not visible in text; mark scheme inequalities form a valid closed triangle and are internally consistent."
+  },
+  "maths.region-shade.0004": {
+   "result": "pass"
+  },
+  "maths.region-shade.0008": {
+   "result": "pass"
+  },
+  "maths.regular-meet.0003": {
+   "result": "pass"
+  },
+  "maths.regular-meet.0004": {
+   "result": "pass"
+  },
+  "maths.relative-freq.0009": {
+   "result": "pass"
+  },
+  "maths.relative-freq.0003": {
+   "result": "pass"
+  },
+  "maths.repeated-change.0005": {
+   "result": "pass"
+  },
+  "maths.repeated-change.0001": {
+   "result": "pass"
+  },
+  "maths.reverse-percent.0007": {
+   "result": "pass"
+  },
+  "maths.reverse-percent.0002": {
+   "result": "pass"
+  },
+  "maths.reverse-prob.0005": {
+   "result": "pass"
+  },
+  "maths.reverse-prob.0003": {
+   "result": "pass"
+  },
+  "maths.sample-space.0014": {
+   "result": "pass"
+  },
+  "maths.sample-space.0011": {
+   "result": "pass"
+  },
+  "maths.scale-speed.0008": {
+   "result": "pass"
+  },
+  "maths.scale-speed.0005": {
+   "result": "pass"
+  },
+  "maths.sector-measure.0005": {
+   "result": "pass"
+  },
+  "maths.sector-measure.0003": {
+   "result": "pass"
+  },
+  "maths.sector-reverse.0005": {
+   "result": "pass"
+  },
+  "maths.sector-reverse.0001": {
+   "result": "pass"
+  },
+  "maths.segment-area.0002": {
+   "result": "pass"
+  },
+  "maths.segment-area.0017": {
+   "result": "pass"
+  },
+  "maths.set-list.0014": {
+   "result": "pass"
+  },
+  "maths.set-list.0003": {
+   "result": "pass"
+  },
+  "maths.sf-calc.0006": {
+   "result": "pass"
+  },
+  "maths.sf-calc.0007": {
+   "result": "pass"
+  },
+  "maths.sf-compare.0005": {
+   "result": "pass"
+  },
+  "maths.sf-compare.0007": {
+   "result": "pass"
+  },
+  "maths.sf-context.0007": {
+   "result": "pass"
+  },
+  "maths.sf-context.0006": {
+   "result": "pass"
+  }
+ }
+}

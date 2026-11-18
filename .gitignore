@@ -1,0 +1,18 @@
+# Private copyright source material — NEVER commit
+corpus/
+corpus_text/
+*.corpus.txt
+# local tooling
+.venv/
+node_modules/
+site/node_modules/
+site/dist/
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
+corpus_fetch*.log
+brew_tess.log
+scripts/verify/node_modules/
+docs/verification/compare/
+site/public/data/

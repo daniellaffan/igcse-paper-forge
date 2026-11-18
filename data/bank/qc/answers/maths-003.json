@@ -1,0 +1,319 @@
+{
+ "batch": "maths-003",
+ "answers": {
+  "maths.idx-divide.0002": {
+   "all": "7y^-6 = 7/y^6"
+  },
+  "maths.idx-divide.0007": {
+   "all": "8h^5"
+  },
+  "maths.idx-fractional.0007": {
+   "all": "1/(343 w^3 x^6)"
+  },
+  "maths.idx-fractional.0005": {
+   "all": "25 b^2 y^2 (exponent 2/2 = 1)"
+  },
+  "maths.idx-power.0005": {
+   "all": "256 t^28 y^8"
+  },
+  "maths.idx-power.0002": {
+   "all": "9 c^8 y^2"
+  },
+  "maths.idx-solve.0003": {
+   "all": "3^(8x-10)=3^(3x-3); x=7/5"
+  },
+  "maths.idx-solve.0007": {
+   "all": "5^(12x+3)=5^(2x+5); x=1/5"
+  },
+  "maths.ineq-linear.0004": {
+   "all": "0<2n<=11 -> n = 1,2,3,4,5"
+  },
+  "maths.ineq-linear.0005": {
+   "all": "x < -13"
+  },
+  "maths.ineq-quadratic.0007": {
+   "all": "1 <= x <= 2"
+  },
+  "maths.ineq-quadratic.0003": {
+   "all": "5 < x < 6"
+  },
+  "maths.intersecting-chords.0005": {
+   "all": "6*10=3*PD; PD=20 cm"
+  },
+  "maths.intersecting-chords.0010": {
+   "all": "11*6=3*PD; PD=22 cm"
+  },
+  "maths.isos-exterior.0004": {
+   "all": "Diagram not visible; if 72 is at A: base angles 54, x=126; if 72 is base angle at B: x=108 (cannot be determined from text)"
+  },
+  "maths.isos-exterior.0002": {
+   "all": "Diagram not visible; if 40 is at L: base angles 70, x=110; if 40 is base angle: x=140 (cannot be determined from text)"
+  },
+  "maths.kinematics.0001": {
+   "all": "v=-6t^2+36t+20; a=-12t+36=0, t=3; v=74 m/s"
+  },
+  "maths.kinematics.0002": {
+   "all": "v=-3t^2+24t+19; a=-6t+24=0, t=4; v=67 m/s"
+  },
+  "maths.lcm-context.0005": {
+   "all": "LCM(20,25)=100 min; 7:40 am"
+  },
+  "maths.lcm-context.0004": {
+   "all": "LCM(36,24)=72 s; 9:01:12 pm"
+  },
+  "maths.line-perp.0002": {
+   "all": "gradient L=1/2, M=-2; y=-2x+5"
+  },
+  "maths.line-perp.0001": {
+   "all": "gradient M=-1/5; x+5y=-31"
+  },
+  "maths.line-read.0004": {
+   "a": "5",
+   "b": "(0,3)"
+  },
+  "maths.line-read.0001": {
+   "a": "3",
+   "b": "(0,-7)"
+  },
+  "maths.line-two-points.0007": {
+   "all": "m=5; y=5x+8"
+  },
+  "maths.line-two-points.0006": {
+   "all": "m=2; y=2x-9"
+  },
+  "maths.linear-ages.0002": {
+   "all": "6k+15=465, k=75; Valentina 300 pesos"
+  },
+  "maths.linear-ages.0001": {
+   "all": "6j+12=336, j=54; Nadia 216 yuan"
+  },
+  "maths.linear-angles.0004": {
+   "all": "90+5x+10=360, x=52; angle 62 degrees"
+  },
+  "maths.linear-angles.0006": {
+   "all": "2(3x+9)=108, x=15; 39 x 15 = 585 cm^2"
+  },
+  "maths.linear-brackets.0005": {
+   "all": "y=-22/5 = -4.4"
+  },
+  "maths.linear-brackets.0002": {
+   "all": "x=-26/6 = -13/3"
+  },
+  "maths.linear-fraction.0003": {
+   "all": "x=-14/3"
+  },
+  "maths.linear-fraction.0005": {
+   "all": "x=3"
+  },
+  "maths.map-scale.0005": {
+   "a": "26.25 km",
+   "b": "96.875 km^2"
+  },
+  "maths.map-scale.0009": {
+   "a": "3.75 km",
+   "b": "93.75 km^2"
+  },
+  "maths.mean-algebra.0013": {
+   "a": "8x+17=65, x=6",
+   "b": "values 16,2,20,18,9; median 16"
+  },
+  "maths.mean-algebra.0004": {
+   "a": "8x+25=65, x=5",
+   "b": "values 9,16,8,7,25; median 9"
+  },
+  "maths.mean-change.0003": {
+   "all": "1365-20*67.1=23 kg"
+  },
+  "maths.mean-change.0014": {
+   "all": "477-8*49=85 kg"
+  },
+  "maths.mean-combined.0009": {
+   "all": "3018.5/53=56.95 -> 57.0"
+  },
+  "maths.mean-combined.0003": {
+   "all": "26*63.2+19*21.9=1643.2+416.1=2059.3; /45 = 45.76 -> 45.8"
+  },
+  "maths.melt-recast.0002": {
+   "all": "288pi/12pi = 24 cones"
+  },
+  "maths.melt-recast.0004": {
+   "all": "(1372/3)pi / pi = 457.3 -> 457 cones"
+  },
+  "maths.midpoint-grad.0005": {
+   "a": "(-1, 0.5)",
+   "b": "11/6"
+  },
+  "maths.midpoint-grad.0007": {
+   "a": "(-2, 0)",
+   "b": "7/4"
+  },
+  "maths.mixed-calc.0006": {
+   "all": "1/40"
+  },
+  "maths.mixed-calc.0008": {
+   "all": "1 17/56"
+  },
+  "maths.nonlinear.0007": {
+   "all": "x=1,y=5 and x=-4,y=-25"
+  },
+  "maths.nonlinear.0003": {
+   "all": "x=5,y=28 and x=-4,y=-26"
+  }
+ },
+ "verdicts": {
+  "maths.idx-divide.0002": {
+   "result": "pass"
+  },
+  "maths.idx-divide.0007": {
+   "result": "pass"
+  },
+  "maths.idx-fractional.0007": {
+   "result": "pass"
+  },
+  "maths.idx-fractional.0005": {
+   "result": "pass"
+  },
+  "maths.idx-power.0005": {
+   "result": "pass"
+  },
+  "maths.idx-power.0002": {
+   "result": "pass"
+  },
+  "maths.idx-solve.0003": {
+   "result": "pass"
+  },
+  "maths.idx-solve.0007": {
+   "result": "pass"
+  },
+  "maths.ineq-linear.0004": {
+   "result": "pass"
+  },
+  "maths.ineq-linear.0005": {
+   "result": "pass"
+  },
+  "maths.ineq-quadratic.0007": {
+   "result": "pass"
+  },
+  "maths.ineq-quadratic.0003": {
+   "result": "pass"
+  },
+  "maths.intersecting-chords.0005": {
+   "result": "pass"
+  },
+  "maths.intersecting-chords.0010": {
+   "result": "pass"
+  },
+  "maths.isos-exterior.0004": {
+   "result": "pass",
+   "note": "depends on diagram; consistent with mark scheme reading of apex angle"
+  },
+  "maths.isos-exterior.0002": {
+   "result": "pass",
+   "note": "depends on diagram; consistent with mark scheme reading of apex angle"
+  },
+  "maths.kinematics.0001": {
+   "result": "pass"
+  },
+  "maths.kinematics.0002": {
+   "result": "pass"
+  },
+  "maths.lcm-context.0005": {
+   "result": "pass"
+  },
+  "maths.lcm-context.0004": {
+   "result": "pass"
+  },
+  "maths.line-perp.0002": {
+   "result": "pass"
+  },
+  "maths.line-perp.0001": {
+   "result": "pass"
+  },
+  "maths.line-read.0004": {
+   "result": "pass"
+  },
+  "maths.line-read.0001": {
+   "result": "pass"
+  },
+  "maths.line-two-points.0007": {
+   "result": "pass"
+  },
+  "maths.line-two-points.0006": {
+   "result": "pass"
+  },
+  "maths.linear-ages.0002": {
+   "result": "pass"
+  },
+  "maths.linear-ages.0001": {
+   "result": "pass"
+  },
+  "maths.linear-angles.0004": {
+   "result": "pass"
+  },
+  "maths.linear-angles.0006": {
+   "result": "pass"
+  },
+  "maths.linear-brackets.0005": {
+   "result": "pass"
+  },
+  "maths.linear-brackets.0002": {
+   "result": "pass"
+  },
+  "maths.linear-fraction.0003": {
+   "result": "pass"
+  },
+  "maths.linear-fraction.0005": {
+   "result": "pass"
+  },
+  "maths.map-scale.0005": {
+   "result": "pass"
+  },
+  "maths.map-scale.0009": {
+   "result": "pass"
+  },
+  "maths.mean-algebra.0013": {
+   "result": "pass"
+  },
+  "maths.mean-algebra.0004": {
+   "result": "pass"
+  },
+  "maths.mean-change.0003": {
+   "result": "pass"
+  },
+  "maths.mean-change.0014": {
+   "result": "pass"
+  },
+  "maths.mean-combined.0009": {
+   "result": "pass"
+  },
+  "maths.mean-combined.0003": {
+   "result": "pass"
+  },
+  "maths.melt-recast.0002": {
+   "result": "fail",
+   "problem": "Mark scheme final answer is 23 but its own working gives 904.78/37.699 = 24.000; exactly (4/3)pi*6^3 / ((1/3)pi*3^2*4) = 288pi/12pi = 24",
+   "fix": "A1 should be 24"
+  },
+  "maths.melt-recast.0004": {
+   "result": "pass"
+  },
+  "maths.midpoint-grad.0005": {
+   "result": "pass"
+  },
+  "maths.midpoint-grad.0007": {
+   "result": "pass"
+  },
+  "maths.mixed-calc.0006": {
+   "result": "pass"
+  },
+  "maths.mixed-calc.0008": {
+   "result": "pass"
+  },
+  "maths.nonlinear.0007": {
+   "result": "pass"
+  },
+  "maths.nonlinear.0003": {
+   "result": "pass"
+  }
+ }
+}

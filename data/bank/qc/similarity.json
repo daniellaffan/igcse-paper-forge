@@ -1,0 +1,93 @@
+{
+ "subjects": {
+  "maths": {
+   "corpus_docs": 175,
+   "checked": 1854,
+   "flagged": 0,
+   "worst_overlap": 0.15,
+   "flagged_ids": []
+  },
+  "chemistry": {
+   "corpus_docs": 147,
+   "checked": 2141,
+   "flagged": 0,
+   "worst_overlap": 0.148,
+   "flagged_ids": []
+  },
+  "--help": {
+   "corpus_docs": 0,
+   "checked": 0,
+   "flagged": 0,
+   "worst_overlap": 0.0,
+   "flagged_ids": []
+  },
+  "english-language": {
+   "corpus_docs": 190,
+   "checked": 422,
+   "flagged": 0,
+   "worst_overlap": 0.031,
+   "flagged_ids": []
+  },
+  "history": {
+   "corpus_docs": 130,
+   "checked": 809,
+   "flagged": 0,
+   "worst_overlap": 0.043,
+   "flagged_ids": []
+  },
+  "english-literature": {
+   "corpus_docs": 189,
+   "checked": 459,
+   "flagged": 0,
+   "worst_overlap": 0.013,
+   "flagged_ids": []
+  },
+  "further-maths": {
+   "corpus_docs": 138,
+   "checked": 1771,
+   "flagged": 0,
+   "worst_overlap": 0.081,
+   "flagged_ids": []
+  },
+  "spanish": {
+   "corpus_docs": 271,
+   "checked": 3445,
+   "flagged": 0,
+   "worst_overlap": 0.022,
+   "flagged_ids": []
+  },
+  "biology": {
+   "corpus_docs": 148,
+   "checked": 3217,
+   "flagged": 0,
+   "worst_overlap": 0.133,
+   "flagged_ids": []
+  },
+  "physics": {
+   "corpus_docs": 150,
+   "checked": 2313,
+   "flagged": 0,
+   "worst_overlap": 0.148,
+   "flagged_ids": []
+  },
+  "economics": {
+   "corpus_docs": 118,
+   "checked": 4957,
+   "flagged": 0,
+   "worst_overlap": 0.133,
+   "flagged_ids": []
+  }
+ },
+ "method": [
+  "  .venv/bin/python scripts/similarity_check.py [subject ...]",
+  "",
+  "Method: every corpus text file for the subject is cut into overlapping",
+  "8-word shingles (hashed). Shingles that appear in 4+ different corpus",
+  "documents are treated as exam boilerplate (\"Give your answer correct to 3",
+  "significant figures\", \"Total for Question 3 is 4 marks\") and ignored \u2014 reusing",
+  "the board's *format* is allowed. Each question's text (stem, parts, sources,",
+  "passages, mark-scheme answers) is shingled the same way. A question is FLAGGED",
+  "if it shares a run of 5+ consecutive non-boilerplate shingles (about 12 words",
+  "copied in a row) or more than 15% of its shingles with one corpus document."
+ ]
+}

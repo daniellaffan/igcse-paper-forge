@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-017",
+ "answers": {
+  "english-literature.unseen-snow-day.0001": {
+   "all": "Plan (Snow Day (original); childhood joy): Excitement, sledging, sensory detail, exuberant rhythm."
+  },
+  "english-literature.unseen-snow-day.0003": {
+   "all": "Plan (Snow Day (original); a happy memory): Retrospective voice, warmth/cold contrast, ending."
+  },
+  "english-literature.unseen-soft-rains.0002": {
+   "all": "Plan (Teasdale There Will Come Soft Rains; war and consequences): Nature indifferent to human extinction; 'not one would mind, neither bird nor tree'; couplets; implied war ('mankind perished utterly')."
+  },
+  "english-literature.unseen-soft-rains.0003": {
+   "all": "Plan (Teasdale There Will Come Soft Rains; beauty of spring): Swallows, frogs, wild plum trees, robins; sensory/sound imagery; ironic contrast."
+  },
+  "english-literature.unseen-spring-and-fall.0002": {
+   "all": "Plan (Hopkins Spring and Fall; autumn): Goldengrove unleaving, leaves like 'the things of man', sprung rhythm, 'worlds of wanwood leafmeal lie'."
+  },
+  "english-literature.unseen-spring-and-fall.0001": {
+   "all": "Plan (Hopkins Spring and Fall; child's grief): Margaret grieving for leaves, adult speaker, 'It is the blight man was born for', mortality, sprung rhythm, dense compounds."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.unseen-snow-day.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-snow-day.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-soft-rains.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-soft-rains.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-spring-and-fall.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-spring-and-fall.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

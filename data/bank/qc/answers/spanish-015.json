@@ -1,0 +1,107 @@
+{
+ "batch": "spanish-015",
+ "answers": {
+  "spanish.w-extended.c1.0005": {
+   "all": "Plan: mi ciudad está en el norte, cerca de la costa; preterite: visité Francia, fue genial; opinion: sí, importante para aprender culturas e idiomas; future: voy a vivir en la capital; conditional: me gustaría vivir en Canadá porque..."
+  },
+  "spanish.w-extended.c2.0007": {
+   "all": "Plan: e-mail format; clima templado, llueve; preterite: hizo sol y calor; opinion campo > ciudad, menos contaminación; future: voy a reciclar, usar bici; si fuera presidente prohibiría plásticos, plantaría árboles."
+  },
+  "spanish.w-extended.c3.0009": {
+   "all": "Plan: uso Instagram y WhatsApp; preterite: ayer hice deberes en el ordenador, vi vídeos; present: los jóvenes usan el móvil para todo + opinion; future: voy a comprar un portátil; future: la tecnología será más rápida, habrá robots."
+  },
+  "spanish.w-extended.c4.0012": {
+   "all": "Plan: e-mail; hago la compra en el supermercado; imperfect: el barrio era más tranquilo, no había...; opinion tiendas vs internet + reason; future: sí/no voy a vivir aquí porque...; future: voy a ir al cine con amigos."
+  },
+  "spanish.w-extended.d1.0010": {
+   "all": "Plan: instituto grande y moderno; imperfect: mi escuela primaria era pequeña; opinion on rules (uniforme) + reason; future: voy a ir a la universidad para estudiar medicina; future: voy a viajar después de los exámenes."
+  },
+  "spanish.w-extended.d2.0001": {
+   "all": "Plan: mi madre es médica, trabaja en un hospital; imperfect: quería ser futbolista; opinion: dinero no es lo más importante; future: voy a trabajar en Madrid; conditional: mi trabajo ideal sería veterinario porque..."
+  },
+  "spanish.w-extended.e1.0009": {
+   "all": "Plan: veo series en español, hago deberes; preterite: fui a Italia, visité Roma; opinion: sí, útil para trabajo; future: voy a usar idiomas en mi trabajo/viajes; conditional: elegiría España porque..."
+  },
+  "spanish.w-extended.e2.0007": {
+   "all": "Plan: e-mail; Navidad, Año Nuevo; preterite: celebré mi cumpleaños con una fiesta en casa; opinion: sí, conservar tradiciones porque...; future: las fiestas serán más digitales; future: voy a celebrar en un restaurante."
+  },
+  "spanish.w-form.a1.0011": {
+   "all": "octubre; el verano; nadar y correr; el pescado"
+  },
+  "spanish.w-form.a2.0009": {
+   "all": "la naranja; café con leche; tortilla y paella; tomates"
+  },
+  "spanish.w-form.a3.0001": {
+   "all": "los cacahuetes; la espalda; leer y escuchar música; agua (Note: context is a gym but form is a camp medical form)"
+  },
+  "spanish.w-form.a4.0010": {
+   "all": "el autobús; '(unclear: inside what?)' e.g. asientos y ventanas; el instituto; los retrasos (Note: 'Cosas que había dentro' has no referent in a transport survey)"
+  },
+  "spanish.w-form.b1.0013": {
+   "all": "dos hermanos; alta y morena; simpática; un perro; ir al cine"
+  },
+  "spanish.w-form.b2.0009": {
+   "all": "un piso; mi dormitorio; lavo los platos; una nevera y un microondas"
+  },
+  "spanish.w-form.b3.0003": {
+   "all": "azul; marrón; blanco; verdes; negro"
+  }
+ },
+ "verdicts": {
+  "spanish.w-extended.c1.0005": {
+   "result": "fail",
+   "problem": "Rubric shown to candidates contains the grammatical error 'hablar de el tema'.",
+   "fix": "'Quieres hablar del tema ... en tu blog.'"
+  },
+  "spanish.w-extended.c2.0007": {
+   "result": "pass"
+  },
+  "spanish.w-extended.c3.0009": {
+   "result": "pass"
+  },
+  "spanish.w-extended.c4.0012": {
+   "result": "pass"
+  },
+  "spanish.w-extended.d1.0010": {
+   "result": "fail",
+   "problem": "Rubric shown to candidates contains the grammatical error 'hablar de el tema'.",
+   "fix": "'Quieres hablar del tema ... en tu blog.'"
+  },
+  "spanish.w-extended.d2.0001": {
+   "result": "fail",
+   "problem": "Rubric shown to candidates contains the grammatical error 'hablar de el tema'.",
+   "fix": "'Quieres hablar del tema ... en tu blog.'"
+  },
+  "spanish.w-extended.e1.0009": {
+   "result": "pass"
+  },
+  "spanish.w-extended.e2.0007": {
+   "result": "pass"
+  },
+  "spanish.w-form.a1.0011": {
+   "result": "pass"
+  },
+  "spanish.w-form.a2.0009": {
+   "result": "pass"
+  },
+  "spanish.w-form.a3.0001": {
+   "result": "fail",
+   "problem": "Context says the candidate is joining a new neighbourhood gym, but the form is titled 'Ficha médica para el campamento'.",
+   "fix": "Retitle 'Ficha de inscripción en el gimnasio' (or change context to a summer camp)."
+  },
+  "spanish.w-form.a4.0010": {
+   "result": "fail",
+   "problem": "In a transport survey, 'Cosas que había dentro' (inside what?) has no referent; the mark scheme (libros, llaves) and 'Destino del viaje' belong to a lost-property form, so gaps 2-3 cannot be sensibly answered.",
+   "fix": "Replace with 'Cosas que haces durante el viaje (Menciona dos cosas.)' and accept two activities, e.g. leer, escuchar música; or change context to a lost-bag report on a bus."
+  },
+  "spanish.w-form.b1.0013": {
+   "result": "pass"
+  },
+  "spanish.w-form.b2.0009": {
+   "result": "pass"
+  },
+  "spanish.w-form.b3.0003": {
+   "result": "pass"
+  }
+ }
+}

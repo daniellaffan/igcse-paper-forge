@@ -1,0 +1,226 @@
+{
+ "batch": "physics-003",
+ "answers": {
+  "physics.forces-momentum-mcq-kb.0009": {
+   "a": "total momentum before equals total momentum after",
+   "b": "increases the time taken for the head to stop"
+  },
+  "physics.forces-momentum-recall-kb.0001": {
+   "all": "total momentum before a collision/explosion equals total momentum after, provided no external forces act (closed system)"
+  },
+  "physics.forces-motion-describe-kb.0010": {
+   "a": "line curves upwards / gradient increases (gets steeper)",
+   "b": "attach card/interrupt card of known length to trolley; light gate connected to data logger/timer measures time card blocks beam; speed = length of card / time",
+   "c": "acceleration is decreasing; velocity still increasing but at a decreasing rate (gradient = acceleration)"
+  },
+  "physics.forces-motion-mcq-kb.0011": {
+   "a": "it is stationary",
+   "b": "km/h"
+  },
+  "physics.forces-motion-recall-kb.0002": {
+   "a": "average speed = distance moved / time taken",
+   "b": "acceleration = change in velocity / time taken"
+  },
+  "physics.ga-boyle.0005": {
+   "all": "p1V1 = p2V2; p2 = 195 x 275 / 550 = 97.5 kPa"
+  },
+  "physics.ga-data-pt.0002": {
+   "a": "cannot plot: the temperature row of the table is missing",
+   "b": "about -273 C (absolute zero)",
+   "c": "higher temperature -> molecules move faster (more KE); collide with walls more often and with greater force, so greater pressure"
+  },
+  "physics.ga-data-pv.0003": {
+   "a": "cannot do: the volume row of the table is missing",
+   "b": "cannot do without volume data",
+   "c": "temperature and mass (amount) of gas"
+  },
+  "physics.ga-pt.0004": {
+   "all": "T1 = 290 K, T2 = 360 K; p2 = 130 x 360/290 = 161 kPa"
+  },
+  "physics.hl-frac.0001": {
+   "all": "24/6 = 4 half-lives; 2400/16 = 150 Bq"
+  },
+  "physics.hl-graph.0003": {
+   "a": "subtract background 30 from readings; find time for corrected count to halve (graph data not available in text)",
+   "b": "use half-life to halve corrected count repeatedly, then add 30 background",
+   "c": "radioactive decay is random"
+  },
+  "physics.hl-remain.0001": {
+   "all": "116/29 = 4 half-lives; fraction = 1/16"
+  },
+  "physics.li-block.0001": {
+   "a": "ray bends towards the normal entering glass, travels straight through, bends away from normal on leaving; emerging ray parallel to incident ray (laterally displaced)",
+   "b": "sin r = sin 40 / 1.6 = 0.402; r = 23.7 deg (24)"
+  },
+  "physics.li-critical.0006": {
+   "all": "n = 1/sin c = 1/sin 24 = 2.46"
+  },
+  "physics.li-data.0006": {
+   "a": "sin 37 = 0.60; sin 39 = 0.63",
+   "b": "straight line through origin",
+   "c": "gradient approx 1.45-1.5 = refractive index"
+  },
+  "physics.li-mirror.0003": {
+   "a": "reflected ray with angle of reflection = angle of incidence, measured from normal, arrow away",
+   "b": "90 - 25 = 65 deg"
+  },
+  "physics.li-prac.0005": {
+   "a": "draw round block on paper; draw normal; aim ray at block at measured angle i using protractor; mark emerging ray with crosses; remove block, join entry and exit points; measure r from normal with protractor",
+   "b": "n = sin 50 / sin 31 = 1.49",
+   "c": "use a narrow ray / sharp pencil / repeat and average / larger angles / mark rays with points far apart"
+  },
+  "physics.li-prac-crit.0003": {
+   "a": "aim ray at centre of flat face through curved surface; increase angle of incidence inside block; until refracted ray travels along the flat face (angle of refraction 90 deg); measure angle of incidence from normal with protractor = critical angle",
+   "b": "n = 1/sin 40 = 1.56",
+   "c": "so the ray travels along a radius and meets the curved surface along the normal, so it is not refracted there"
+  },
+  "physics.li-semi.0004": {
+   "a": "35 < 39 so ray refracts out into air bending away from normal (angle > 35), plus a weak partially reflected ray",
+   "b": "the ray enters along a radius / along the normal, angle of incidence 0, so no refraction"
+  },
+  "physics.li-snell.0007": {
+   "a": "n = sin i / sin r",
+   "b": "n = sin 41 / sin 26 = 1.50"
+  },
+  "physics.ma-energy.0004": {
+   "all": "E = I V t = 3 x 12 x 120 = 4320 J"
+  },
+  "physics.ma-fuse.0004": {
+   "a": "power = current x voltage",
+   "b": "I = P/V = 120/120 = 1 A",
+   "c": "3 A fuse; it is just above the normal current of 1 A, so it melts if current rises too much (5 A/13 A would allow too large a current)"
+  },
+  "physics.magnetism-em-describe-kb.0004": {
+   "all": "a.c. through the coil in a permanent magnet field; force on coil (motor effect) that changes direction as current alternates; coil and cone vibrate, causing air pressure variations (sound wave)"
+  },
+  "physics.magnetism-em-explain-kb.0014": {
+   "a": "current-carrying wire in magnetic field experiences force (motor effect); current flows in opposite directions on the two sides; forces act in opposite directions, giving a turning effect",
+   "b": "reverses current in coil every half turn so the forces keep turning the coil in the same direction",
+   "c": "the magnetic field of the current interacts with the field of the magnets, producing a force"
+  },
+  "physics.magnetism-em-extended-kb.0014": {
+   "a": "to find the direction of the force on a current-carrying conductor in a magnetic field",
+   "b": "coil in magnetic field, current through coil via brushes and split ring; forces on opposite sides in opposite directions (Fleming LHR) give turning moment; commutator reverses current every half turn; faster: more current, stronger magnet, more turns; reverse direction: reverse current or reverse magnetic field"
+  },
+  "physics.magnetism-em-mcq-kb.0007": {
+   "all": "strong and uniform"
+  },
+  "physics.magnetism-em-recall-kb.0008": {
+   "a": "direction of force on a current-carrying conductor in a magnetic field (motor effect)",
+   "b": "increase current; stronger magnet; more turns on coil",
+   "c": "it is deflected (force perpendicular to motion and field), moves in a circular path"
+  },
+  "physics.magnetism-induction-describe-kb.0003": {
+   "all": "the wheel turns a magnet near/inside a coil; changing magnetic field (field lines cut) induces a voltage/current in the coil"
+  },
+  "physics.magnetism-induction-explain-kb.0008": {
+   "a": "as the coil rotates, each side moves up then down through the field, so the direction of the induced voltage reverses every half turn",
+   "b": "no relative movement, so no change in magnetic field through the coil / no field lines cut, so no induced voltage"
+  },
+  "physics.magnetism-induction-extended-kb.0005": {
+   "a": "relative movement between conductor and magnetic field / changing magnetic field (cutting field lines)",
+   "b": "turbine rotates a magnet (electromagnet) inside coils (or coil in field); field lines cut, inducing voltage; direction reverses each half turn -> a.c.; increase output by faster rotation, stronger magnet, more turns, iron core"
+  }
+ },
+ "verdicts": {
+  "physics.forces-momentum-mcq-kb.0009": {
+   "result": "pass"
+  },
+  "physics.forces-momentum-recall-kb.0001": {
+   "result": "pass"
+  },
+  "physics.forces-motion-describe-kb.0010": {
+   "result": "pass"
+  },
+  "physics.forces-motion-mcq-kb.0011": {
+   "result": "pass"
+  },
+  "physics.forces-motion-recall-kb.0002": {
+   "result": "pass"
+  },
+  "physics.ga-boyle.0005": {
+   "result": "pass"
+  },
+  "physics.ga-data-pt.0002": {
+   "result": "void",
+   "fix": "Add a 'temperature in \u00b0C' row (e.g. 0, 20, 40, ... consistent with the pressures).",
+   "original_problem": "Results table has only the pressure row; the temperature row is missing, so the graph in (a) cannot be plotted and (b) cannot be found from data.",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.ga-data-pv.0003": {
+   "result": "void",
+   "fix": "Add 'volume in cm\u00b3' row: 10, 15, 20, 25, 30, 40 (pV = 4600).",
+   "original_problem": "Results table has only the pressure row; the volume row is missing, so pV cannot be calculated in (a) or used in (b).",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.ga-pt.0004": {
+   "result": "pass"
+  },
+  "physics.hl-frac.0001": {
+   "result": "pass"
+  },
+  "physics.hl-graph.0003": {
+   "result": "fail",
+   "problem": "Stem says the 30 counts/min background is included in the graph, but (b) computes 800/32 + 30 = 55, treating 800 as already corrected; with background included it should be (800-30)/32 + 30 = 54 counts/min (graph points also not given in text to verify the 6 h half-life).",
+   "fix": "Use (800 - 30) \u00f7 2^5 + 30 = 54 counts/min, or state that the plotted values have background already subtracted."
+  },
+  "physics.hl-remain.0001": {
+   "result": "pass"
+  },
+  "physics.li-block.0001": {
+   "result": "pass"
+  },
+  "physics.li-critical.0006": {
+   "result": "pass"
+  },
+  "physics.li-data.0006": {
+   "result": "pass"
+  },
+  "physics.li-mirror.0003": {
+   "result": "pass"
+  },
+  "physics.li-prac.0005": {
+   "result": "pass",
+   "problem": "pass; note results table lacks its header row (i in \u00b0 | r in \u00b0) - add it"
+  },
+  "physics.li-prac-crit.0003": {
+   "result": "pass"
+  },
+  "physics.li-semi.0004": {
+   "result": "pass"
+  },
+  "physics.li-snell.0007": {
+   "result": "pass"
+  },
+  "physics.ma-energy.0004": {
+   "result": "pass"
+  },
+  "physics.ma-fuse.0004": {
+   "result": "pass"
+  },
+  "physics.magnetism-em-describe-kb.0004": {
+   "result": "pass"
+  },
+  "physics.magnetism-em-explain-kb.0014": {
+   "result": "pass"
+  },
+  "physics.magnetism-em-extended-kb.0014": {
+   "result": "pass"
+  },
+  "physics.magnetism-em-mcq-kb.0007": {
+   "result": "pass"
+  },
+  "physics.magnetism-em-recall-kb.0008": {
+   "result": "pass"
+  },
+  "physics.magnetism-induction-describe-kb.0003": {
+   "result": "pass"
+  },
+  "physics.magnetism-induction-explain-kb.0008": {
+   "result": "pass"
+  },
+  "physics.magnetism-induction-extended-kb.0005": {
+   "result": "pass"
+  }
+ }
+}

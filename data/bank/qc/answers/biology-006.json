@@ -1,0 +1,215 @@
+{
+ "batch": "biology-006",
+ "answers": {
+  "biology.excretion-mcq-rev.0008": {
+   "all": "Loses water, salts and some urea in sweat"
+  },
+  "biology.excretion-recall.0001": {
+   "all": "excretion of urea / removal of waste; osmoregulation (control water content of blood); control ion content"
+  },
+  "biology.excretion-recall-fact.0006": {
+   "all": "lungs"
+  },
+  "biology.excretion-recall-multi.0001": {
+   "a": "excrete urea; osmoregulation",
+   "b": "glomerulus",
+   "c": "loop of Henle"
+  },
+  "biology.feeding-data-graph.0003": {
+   "a": "aphid numbers decrease with time; rapidly at first then levelling off; quote data e.g. ~700 at 0 to ~100 at 6 weeks",
+   "b": "ladybirds are predators that eat aphids; aphid deaths exceed births; as aphids fall, ladybirds have less food/harder to find so decrease slows"
+  },
+  "biology.feeding-data-pct.0002": {
+   "a": "(2760-299)/2760 x100 = 89%",
+   "b": "energy lost as heat in respiration; not all eaten (e.g. bones); undigested in faeces; excretion (urine)"
+  },
+  "biology.feeding-data-plot.0003": {
+   "a": "axes, scale, points, smooth curve",
+   "b": "decrease; rapid at first then slows; levels off near 100 aphids; quote data 720 at 0 to 99 at 6 weeks"
+  },
+  "biology.feeding-data-read.0002": {
+   "a": "about 2760 (read from graph)",
+   "b": "about 2760-300 = ~2460 kJ per m2 per year",
+   "c": "respiration heat loss; not all eaten; faeces/excretion"
+  },
+  "biology.feeding-describe.0002": {
+   "all": "always pyramid shaped, widest at producers, narrowing at each level, never inverted; because energy is lost at each level (heat from respiration, faeces, uneaten parts), only ~10% passed on"
+  },
+  "biology.feeding-describe-multi.0006": {
+   "a": "producer",
+   "b": "producers trap light energy as chemical energy in glucose/biomass; consumers eat organisms and energy passes in food; at each level energy lost as heat in respiration, faeces etc."
+  },
+  "biology.feeding-explain.0003": {
+   "all": "energy lost at each trophic level (~90%) through respiration/heat, faeces; eating plants means one fewer trophic level so more energy available to humans; more people fed per area of land"
+  },
+  "biology.feeding-explain-multi.0008": {
+   "a": "primary consumer",
+   "b": "fewer trophic levels; energy lost at each level as heat/respiration; more energy available"
+  },
+  "biology.feeding-mcq.0002": {
+   "all": "one large producer can support many consumers"
+  },
+  "biology.feeding-mcq-fwd.0004": {
+   "all": "tertiary consumer"
+  },
+  "biology.feeding-mcq-rev.0003": {
+   "all": "Feeds on primary consumers"
+  },
+  "biology.feeding-recall.0002": {
+   "all": "heat from respiration; faeces/undigested material; excretion; parts not eaten"
+  },
+  "biology.feeding-recall-fact.0004": {
+   "all": "tertiary consumer"
+  },
+  "biology.feeding-recall-multi.0002": {
+   "a": "respiration heat; faeces",
+   "b": "primary consumer"
+  },
+  "biology.food_energy.0002": {
+   "all": "25 x 4.2 x 33 = 3465 J; 3465/1.18 = 2936 J per g (2940)"
+  },
+  "biology.gas-exchange-humans-data-graph.0003": {
+   "a": "more cigarettes per day, more lung cancer deaths; positive, roughly linear/proportional; quote data",
+   "b": "tar contains carcinogens; cause mutations in DNA of lung cells; uncontrolled cell division forms tumour"
+  },
+  "biology.gas-exchange-humans-data-pct.0004": {
+   "a": "(328-57)/57 x100 = 475%",
+   "b": "carcinogens in tar; mutation; uncontrolled division/tumour"
+  },
+  "biology.gas-exchange-humans-data-plot.0003": {
+   "a": "axes, scale, points, line of best fit",
+   "b": "deaths increase as cigarettes increase; positive linear correlation; quote 9 at 0 and 297 at 35"
+  },
+  "biology.gas-exchange-humans-data-read.0001": {
+   "a": "read resting rate from graph (~12-15 breaths/min)",
+   "b": "(reading at 6 - reading at 0)/6 breaths per min per min",
+   "c": "muscles respire more, need more oxygen and produce more CO2; CO2 must be removed; increased breathing raises gas exchange; also anaerobic/oxygen debt"
+  },
+  "biology.gas-exchange-humans-describe.0001": {
+   "all": "external intercostal muscles contract, ribs move up and out; diaphragm contracts and flattens; thorax volume increases; pressure in lungs falls below atmospheric so air drawn in"
+  },
+  "biology.gas-exchange-humans-describe-multi.0007": {
+   "a": "alveolus",
+   "b": "tar contains carcinogens - lung cancer; tar paralyses/damages cilia and increases mucus, so mucus builds up - coughing, bronchitis, infections; damages alveoli walls - emphysema, reduced surface area"
+  },
+  "biology.gas-exchange-humans-diag-desc.0003": {
+   "a": "depends on diagram",
+   "b": "depends on diagram"
+  },
+  "biology.gas-exchange-humans-diag-func.0001": {
+   "a": "letter of bronchiole (diagram)",
+   "b": "bronchiole (or trachea/bronchus)"
+  },
+  "biology.gas-exchange-humans-diag-mcq.0003": {
+   "all": "depends on diagram"
+  },
+  "biology.gas-exchange-humans-diag-name.0003": {
+   "all": "depends on diagram"
+  },
+  "biology.gas-exchange-humans-explain.0005": {
+   "all": "keeps removing oxygenated blood and bringing CO2-rich blood; maintains steep concentration gradient for diffusion of O2 into and CO2 out of blood"
+  }
+ },
+ "verdicts": {
+  "biology.excretion-mcq-rev.0008": {
+   "result": "pass"
+  },
+  "biology.excretion-recall.0001": {
+   "result": "pass"
+  },
+  "biology.excretion-recall-fact.0006": {
+   "result": "pass"
+  },
+  "biology.excretion-recall-multi.0001": {
+   "result": "pass"
+  },
+  "biology.feeding-data-graph.0003": {
+   "result": "pass",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.feeding-data-pct.0002": {
+   "result": "pass"
+  },
+  "biology.feeding-data-plot.0003": {
+   "result": "pass"
+  },
+  "biology.feeding-data-read.0002": {
+   "result": "fail",
+   "problem": "MS expects reading 2280 at level 2 and a difference of 2033 (level 3 = 247) from a graph with a 0-30000 axis; values that small cannot be read to that precision, so (a)/(b) are effectively unanswerable from the graph.",
+   "fix": "Give the data in a table, or use an axis scale (e.g. 0-3000 or log scale) on which levels 2 and 3 can be read; keep MS values consistent with the readable scale."
+  },
+  "biology.feeding-describe.0002": {
+   "result": "pass"
+  },
+  "biology.feeding-describe-multi.0006": {
+   "result": "pass"
+  },
+  "biology.feeding-explain.0003": {
+   "result": "pass"
+  },
+  "biology.feeding-explain-multi.0008": {
+   "result": "pass"
+  },
+  "biology.feeding-mcq.0002": {
+   "result": "pass"
+  },
+  "biology.feeding-mcq-fwd.0004": {
+   "result": "pass"
+  },
+  "biology.feeding-mcq-rev.0003": {
+   "result": "pass"
+  },
+  "biology.feeding-recall.0002": {
+   "result": "pass"
+  },
+  "biology.feeding-recall-fact.0004": {
+   "result": "pass"
+  },
+  "biology.feeding-recall-multi.0002": {
+   "result": "pass"
+  },
+  "biology.food_energy.0002": {
+   "result": "pass",
+   "note": "2936 J/g rounds to MS 2940."
+  },
+  "biology.gas-exchange-humans-data-graph.0003": {
+   "result": "pass",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.gas-exchange-humans-data-pct.0004": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-data-plot.0003": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-data-read.0001": {
+   "result": "pass",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.gas-exchange-humans-describe.0001": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-describe-multi.0007": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-diag-desc.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; MS letters (C alveolus, D rib, E bronchiole, G diaphragm) are mutually consistent with labels A-G."
+  },
+  "biology.gas-exchange-humans-diag-func.0001": {
+   "result": "pass",
+   "note": "Diagram not visible; MS letters (C alveolus, D rib, E bronchiole, G diaphragm) are mutually consistent with labels A-G."
+  },
+  "biology.gas-exchange-humans-diag-mcq.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; MS letters (C alveolus, D rib, E bronchiole, G diaphragm) are mutually consistent with labels A-G."
+  },
+  "biology.gas-exchange-humans-diag-name.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; MS letters (C alveolus, D rib, E bronchiole, G diaphragm) are mutually consistent with labels A-G."
+  },
+  "biology.gas-exchange-humans-explain.0005": {
+   "result": "pass"
+  }
+ }
+}

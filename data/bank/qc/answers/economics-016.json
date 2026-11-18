@@ -1,0 +1,191 @@
+{
+ "batch": "economics-016",
+ "answers": {
+  "economics.redistribution-calc.0005": {
+   "all": "15% x 38,000 = 5,700; 30% x 16,000 = 4,800; total L\u00a310,500"
+  },
+  "economics.redistribution-define1.0004": {
+   "all": "A tax where the proportion of income paid in tax rises as income rises."
+  },
+  "economics.redistribution-define2.0004": {
+   "all": "A tax where the percentage of income paid rises as income rises (1), so higher earners pay a larger proportion/average rate (1)."
+  },
+  "economics.redistribution-describe.0009": {
+   "all": "Reduces incentive for the rich to work/invest/start firms (1); may lead to tax avoidance or emigration of skilled workers (brain drain), reducing tax revenue (1)."
+  },
+  "economics.redistribution-explain.0017": {
+   "all": "Increase state benefits e.g. child benefit (1) raising disposable income of poorest households (1) closing the gap with average income so fewer below the relative poverty line (1). (Alt: progressive tax, minimum wage, education.)"
+  },
+  "economics.redistribution-mcq-auth.0003": {
+   "all": "progressive"
+  },
+  "economics.redistribution-mcq-class.0003": {
+   "all": "A flat charge of the same amount per adult"
+  },
+  "economics.redistribution-mcq-def.0003": {
+   "all": "When people have income far below the average in their country, so they cannot afford the normal standard of living"
+  },
+  "economics.redistribution-state.0004": {
+   "all": "Progressive income tax / welfare benefits / transfer payments / minimum wage / free public services."
+  },
+  "economics.redistribution-state-id.0003": {
+   "all": "a regressive tax"
+  },
+  "economics.scale-analyse-1.0002": {
+   "all": "Purchasing (bulk-buying) economies with 179 shops lower unit cost -> supports low prices; technical economies (large warehouses, distribution, IT); managerial specialisation improving service/quality; financial economies cheaper borrowing for expansion; lower AC -> higher profit or lower prices -> market share."
+  },
+  "economics.scale-analyse-2.0008": {
+   "all": "Communication/coordination problems: decisions take weeks -> slower response, higher AC; low morale -> lower productivity, higher absenteeism/labour turnover -> higher unit cost; control problems with 7529 staff; AC rises as firm grows -> lower competitiveness/profit."
+  },
+  "economics.scale-assess-1.0007": {
+   "all": "For: further bulk buying, technical, financial, marketing economies lower AC, support low prices. Against: diseconomies (communication, control, morale) may raise AC; service/quality focus harder to maintain; market saturation in Spain; competition authority limits. Conclusion: depends on whether at MES/managing growth."
+  },
+  "economics.scale-assess-2.0005": {
+   "all": "Decentralise/delegate decision-making to speed decisions; improve communication (IT, flatter structure); boost morale via incentives, training, profit sharing, teamwork; split into smaller units/divisions; demerge/downsize. Evaluate: cost, time, loss of control, effectiveness depends on cause; best is decentralisation plus motivation."
+  },
+  "economics.scale-calc.0005": {
+   "all": "AC before 165,000/11,000 = 15.00; after 226,646/22,000 = 10.30; % change = (10.302-15)/15 x100 = -31.32%"
+  },
+  "economics.scale-define1.0006": {
+   "all": "Cost savings from using larger/more advanced machinery and production methods as a firm grows, reducing average cost."
+  },
+  "economics.scale-define2.0006": {
+   "all": "Falls in average cost as a firm grows (1) due to using larger, more efficient machinery/technology or production methods e.g. mass production (1)."
+  },
+  "economics.scale-describe.0013": {
+   "all": "Internal economies arise from growth of the firm itself (e.g. bulk buying) (1); external economies arise from growth of the industry/area the firm is in (e.g. better infrastructure, skilled labour) (1)."
+  },
+  "economics.scale-diagram.0014": {
+   "all": "U-shaped LRAC curve labelled LRAC (1); falling section labelled economies of scale (1); rising section labelled diseconomies of scale (1)."
+  },
+  "economics.scale-explain.0020": {
+   "all": "Financial economies of scale (1): large firms have more assets as collateral and are seen as lower risk by banks (1), so can borrow QR 9m at lower interest rates or issue shares, reducing cost of finance (1)."
+  },
+  "economics.scale-mcq-auth.0003": {
+   "all": "Communication problems in a large firm"
+  },
+  "economics.scale-mcq-class.0010": {
+   "all": "Improved roads serving an industrial area"
+  },
+  "economics.scale-mcq-def.0003": {
+   "all": "Cost savings that arise from the growth of the firm itself"
+  },
+  "economics.scale-state.0005": {
+   "all": "Poor communication / coordination problems / low worker morale (alienation) / difficulty controlling the firm."
+  },
+  "economics.scale-state-class.0004": {
+   "all": "Employing specialist managers (e.g. a specialist finance/marketing manager)."
+  },
+  "economics.scale-state-id.0005": {
+   "all": "a diseconomy of scale"
+  },
+  "economics.supply-analyse-1.0007": {
+   "all": "Drought reduces yields -> supply shifts left; fertiliser price rise raises costs of production -> supply decreases; irrigation subsidy lowers costs/reduces drought risk -> supply shifts right in longer term; net effect likely fall in supply, higher price."
+  },
+  "economics.supply-analyse-2.0003": {
+   "all": "Automation raises productivity, lowers unit costs -> supply shifts right; 5% wage rise raises costs -> supply shifts left; tax on electronic goods raises costs -> supply shifts left/up by tax; net effect depends on relative size."
+  },
+  "economics.supply-calc.0009": {
+   "all": "(2,725-3,000)/3,000 x 100 = -9.17%"
+  },
+  "economics.supply-define1.0003": {
+   "all": "A fall in quantity supplied caused by a fall in the price of the good (movement down along the supply curve)."
+  }
+ },
+ "verdicts": {
+  "economics.redistribution-calc.0005": {
+   "result": "pass"
+  },
+  "economics.redistribution-define1.0004": {
+   "result": "pass"
+  },
+  "economics.redistribution-define2.0004": {
+   "result": "pass"
+  },
+  "economics.redistribution-describe.0009": {
+   "result": "pass"
+  },
+  "economics.redistribution-explain.0017": {
+   "result": "pass"
+  },
+  "economics.redistribution-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.redistribution-mcq-class.0003": {
+   "result": "pass"
+  },
+  "economics.redistribution-mcq-def.0003": {
+   "result": "pass"
+  },
+  "economics.redistribution-state.0004": {
+   "result": "pass"
+  },
+  "economics.redistribution-state-id.0003": {
+   "result": "pass"
+  },
+  "economics.scale-analyse-1.0002": {
+   "result": "pass"
+  },
+  "economics.scale-analyse-2.0008": {
+   "result": "pass"
+  },
+  "economics.scale-assess-1.0007": {
+   "result": "pass"
+  },
+  "economics.scale-assess-2.0005": {
+   "result": "pass"
+  },
+  "economics.scale-calc.0005": {
+   "result": "pass"
+  },
+  "economics.scale-define1.0006": {
+   "result": "pass"
+  },
+  "economics.scale-define2.0006": {
+   "result": "pass"
+  },
+  "economics.scale-describe.0013": {
+   "result": "pass"
+  },
+  "economics.scale-diagram.0014": {
+   "result": "pass"
+  },
+  "economics.scale-explain.0020": {
+   "result": "pass"
+  },
+  "economics.scale-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.scale-mcq-class.0010": {
+   "result": "pass"
+  },
+  "economics.scale-mcq-def.0003": {
+   "result": "pass"
+  },
+  "economics.scale-state.0005": {
+   "result": "fail",
+   "problem": "Stem context says Tomasz runs a small business, which contradicts/misleads a question about diseconomies of scale (a large-firm problem).",
+   "fix": "Use a context about a large or rapidly growing firm, e.g. 'Tomasz manages a firm that has grown to 5,000 employees.'"
+  },
+  "economics.scale-state-class.0004": {
+   "result": "pass"
+  },
+  "economics.scale-state-id.0005": {
+   "result": "pass"
+  },
+  "economics.supply-analyse-1.0007": {
+   "result": "fail",
+   "problem": "Context is factually implausible: Singapore has almost no agriculture and no 'main growing region' for large-scale maize farming.",
+   "fix": "Replace Singapore with a major maize-producing country (e.g. Kenya, Brazil, Mexico)."
+  },
+  "economics.supply-analyse-2.0003": {
+   "result": "pass"
+  },
+  "economics.supply-calc.0009": {
+   "result": "pass"
+  },
+  "economics.supply-define1.0003": {
+   "result": "pass"
+  }
+ }
+}

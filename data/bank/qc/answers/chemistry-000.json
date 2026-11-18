@@ -1,0 +1,254 @@
+{
+ "batch": "chemistry-000",
+ "answers": {
+  "chemistry.acids-describe-items.0004": {
+   "all": "Starts low (pH ~1); rises slowly at first, then rapidly around neutralisation (pH 7); levels off high (~13) when alkali in excess."
+  },
+  "chemistry.acids-eq.0013": {
+   "all": "calcium methanoate + water + carbon dioxide; 2HCOOH + CaCO3 -> (HCOO)2Ca + H2O + CO2"
+  },
+  "chemistry.acids-mcq-facts.0009": {
+   "all": "pipette"
+  },
+  "chemistry.acids-practical-items.0010": {
+   "all": "Drops of liquid left in the funnel may drip into the burette, changing the reading so the titre is inaccurate (too small)."
+  },
+  "chemistry.acids-recall.0006": {
+   "a": "ethanoic acid",
+   "b": "magnesium ethanoate and hydrogen"
+  },
+  "chemistry.acids-recall-facts.0011": {
+   "all": "Titres within 0.10 cm3 (0.20) of each other."
+  },
+  "chemistry.acids-titration-calc.0007": {
+   "all": "n NaOH = 0.2x0.025 = 0.00500; n HNO3 = 0.00500; c = 0.00500/0.02500 = 0.200 mol/dm3"
+  },
+  "chemistry.air-describe-items.0003": {
+   "all": "Burns with a pale blue flame (squeaky pop with lit splint); product condenses as colourless liquid; turns anhydrous copper(II) sulfate white to blue (or boils at 100 C)."
+  },
+  "chemistry.air-equations.0003": {
+   "all": "S(s) + O2(g) -> SO2(g)"
+  },
+  "chemistry.air-mcq-facts.0010": {
+   "all": "they may lead to climate change"
+  },
+  "chemistry.air-oxygen-calc.0006": {
+   "all": "n=6.25/123.5=0.0506; n CO2 = 0.0506; mass = 0.0506x44 = 2.23 g"
+  },
+  "chemistry.air-practical-items.0011": {
+   "all": "Wear eye protection / clamp the tube / don't touch hot tube."
+  },
+  "chemistry.air-recall-facts.0006": {
+   "all": "Burning fossil fuels (or deforestation)."
+  },
+  "chemistry.alcohols-eq.0014": {
+   "all": "2C3H7OH(l) + 9O2(g) -> 6CO2(g) + 8H2O(l)"
+  },
+  "chemistry.alcohols-extended-items.0007": {
+   "all": "Plan: glucose/sugar solution in flask with yeast, warm (~30-35 C), airlock, anaerobic, several days; bubble gas into limewater - turns milky = CO2; filter off yeast, fractional distil to get ethanol."
+  },
+  "chemistry.alcohols-name-recall.0003": {
+   "a": "propan-1-ol",
+   "b": "C3H8O (C3H7OH)",
+   "c": "propanoic acid"
+  },
+  "chemistry.alkanes-recall.0012": {
+   "a": "C5H12",
+   "b": "Only single C-C bonds",
+   "c": "chloropentane (1-chloropentane)"
+  },
+  "chemistry.alkanes-subst-eq.0002": {
+   "all": "C2H6 + Cl2 -> C2H5Cl + HCl"
+  },
+  "chemistry.alkenes-add-eq.0006": {
+   "all": "C3H6 + H2 -> C3H8"
+  },
+  "chemistry.alkenes-recall.0001": {
+   "a": "ethene",
+   "b": "C2H4",
+   "c": "1,2-dibromoethane"
+  },
+  "chemistry.atoms-ar-calc.0019": {
+   "all": "(69x15 + 71x85)/100 = 70.7"
+  },
+  "chemistry.atoms-explain-items.0008": {
+   "all": "Mg atom loses two electrons; 12 protons but 10 electrons so overall 2+."
+  },
+  "chemistry.atoms-mcq-facts.0012": {
+   "all": "the number of protons in an atom"
+  },
+  "chemistry.atoms-particle-mcq.0005": {
+   "all": "12"
+  },
+  "chemistry.atoms-table-recall.0006": {
+   "all": "Cl-: 17 protons, 18 neutrons; O-16: 8 neutrons, 8 electrons; K-39: 19 protons, 20 neutrons"
+  },
+  "chemistry.covalent-dotcross.0004": {
+   "all": "O shares one pair with each H (two bonding pairs); two lone pairs on O."
+  },
+  "chemistry.covalent-explain-items.0003": {
+   "all": "Simple molecular; weak intermolecular forces need little energy to overcome (covalent bonds not broken)."
+  },
+  "chemistry.covalent-extended-items.0005": {
+   "all": "Plan: bp increases down group as Mr increases (F -188 to I 184 C); simple diatomic molecules, covalent bonds within not broken; weak intermolecular forces increase with molecule size so more energy needed."
+  },
+  "chemistry.covalent-mcq-facts.0002": {
+   "all": "3"
+  },
+  "chemistry.covalent-recall-facts.0004": {
+   "all": "3"
+  }
+ },
+ "verdicts": {
+  "chemistry.acids-describe-items.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.acids-eq.0013": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.acids-mcq-facts.0009": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.acids-practical-items.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.acids-recall.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.acids-recall-facts.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.acids-titration-calc.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.air-describe-items.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.air-equations.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.air-mcq-facts.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.air-oxygen-calc.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.air-practical-items.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.air-recall-facts.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.alcohols-eq.0014": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.alcohols-extended-items.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.alcohols-name-recall.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.alkanes-recall.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.alkanes-subst-eq.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.alkenes-add-eq.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.alkenes-recall.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.atoms-ar-calc.0019": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.atoms-explain-items.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.atoms-mcq-facts.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.atoms-particle-mcq.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.atoms-table-recall.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.covalent-dotcross.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.covalent-explain-items.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.covalent-extended-items.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.covalent-mcq-facts.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.covalent-recall-facts.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

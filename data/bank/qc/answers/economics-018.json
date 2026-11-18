@@ -1,0 +1,187 @@
+{
+ "batch": "economics-018",
+ "answers": {
+  "economics.trade-calc.0001": {
+   "all": "94/579 x 100 = 16.23%"
+  },
+  "economics.trade-define1.0004": {
+   "all": "When a country can produce more of a good than another country using the same resources (or the same output with fewer resources)."
+  },
+  "economics.trade-define2.0003": {
+   "all": "When countries concentrate on producing the goods/services they are best at (lowest opportunity cost) (1) and trade with other countries for the rest (1)."
+  },
+  "economics.trade-describe.0008": {
+   "all": "Domestic firms face competition from cheaper imports (1) and may close, causing unemployment (1). (Alt: infant industries cannot grow; over-dependence on imports.)"
+  },
+  "economics.trade-explain.0012": {
+   "all": "Cheaper imported steel takes market share (1), so domestic steel firms lose revenue and may close (1), causing structural unemployment among steel workers in Novaris (1)."
+  },
+  "economics.trade-mcq-auth.0002": {
+   "all": "a lower opportunity cost than other countries"
+  },
+  "economics.trade-mcq-class.0002": {
+   "all": "Greater choice of products"
+  },
+  "economics.trade-mcq-def.0004": {
+   "all": "When a country can produce more of a good than another country using the same resources"
+  },
+  "economics.trade-state.0002": {
+   "all": "To obtain goods it cannot produce itself / to benefit from specialisation and comparative advantage / lower prices / greater choice."
+  },
+  "economics.trade-state-class.0003": {
+   "all": "Domestic firms may close due to foreign competition causing unemployment / infant industries cannot develop / over-dependence on imports."
+  },
+  "economics.trade-state-id.0008": {
+   "all": "a disadvantage of free trade for a country"
+  },
+  "economics.unemployment-analyse-1.0006": {
+   "all": "Structural unemployment: skills mismatch (688,000 vacancies unfilled) - occupational immobility; geographical immobility (travel help suggests jobs in other areas); persistent 5.5% shows not cyclical; possibly frictional; result: vacancies coexist with unemployment."
+  },
+  "economics.unemployment-analyse-2.0007": {
+   "all": "Cyclical unemployment 4.0%->7.5%: lower incomes -> lower consumption/AD -> multiplier, further job losses; govt spends more on benefits, less tax revenue -> budget deficit; lost output (inside PPC); social costs, deskilling; construction/retail regions hit hard; lower inflation."
+  },
+  "economics.unemployment-assess-1.0007": {
+   "all": "For: training addresses skills mismatch/occupational immobility, fills 829,000 vacancies, raises productivity. Against: time lags, cost/opportunity cost, may not match employers' needs, geographical immobility needs travel/housing help, other causes. Judgement: combined with travel help best."
+  },
+  "economics.unemployment-assess-2.0004": {
+   "all": "For: recession -> cyclical unemployment; higher G raises AD, multiplier effect, construction projects directly hire construction workers; Against: budget deficit/debt, time lags, inflation, crowding out, alternative of interest rate cuts. Judgement depends on fiscal position and size of output gap."
+  },
+  "economics.unemployment-calc.0005": {
+   "all": "3,670,233/27,345,000 x 100 = 13.42%"
+  },
+  "economics.unemployment-data.0016": {
+   "a": "1,592,924/17,831,000 x 100 = 8.93% (note: conflicts with 7.5% in Extract A)",
+   "b": "Lower incomes -> lower consumption/AD -> multiplier; benefits up, tax revenue down -> deficit; lost output; social costs; construction/retail hit.",
+   "c": "For higher G: raises AD, multiplier, infrastructure creates construction jobs. Against: debt, time lags, inflation, crowding out, other policies (interest rates). Supported judgement."
+  },
+  "economics.unemployment-define1.0001": {
+   "all": "When people of working age who are willing and able to work and actively seeking work are without a paid job."
+  },
+  "economics.unemployment-define2.0007": {
+   "all": "Unemployment that occurs at certain times of the year (1) because demand for some jobs varies with the seasons, e.g. tourism, farming (1)."
+  },
+  "economics.unemployment-describe.0010": {
+   "all": "Lower consumer incomes reduce demand for firms' products (1), lowering sales revenue and profit (1)."
+  },
+  "economics.unemployment-evaluate-1.0004": {
+   "all": "For: skills mismatch shown by 841,000 vacancies; retraining reduces occupational immobility, raises productivity, LRAS. Against: time lags, cost, training may not fit needs, geographical immobility, demand-side issues. Judgement: training plus mobility help is best; depends on quality and employer links."
+  },
+  "economics.unemployment-evaluate-2.0001": {
+   "all": "For: recession, cyclical unemployment 5.2%->8.5%; G raises AD, multiplier, construction projects. Against: debt, lags, inflation, crowding out, alternatives (interest rate cuts, tax cuts). Judgement depends on fiscal space and recession depth."
+  },
+  "economics.unemployment-explain.0009": {
+   "all": "Seasonal unemployment (1): hotel workers lose jobs when demand for tourism falls in winter (1), so Lyon hotel staff are unemployed for those 4 months each year (1)."
+  },
+  "economics.unemployment-mcq-auth.0002": {
+   "all": "Higher spending on benefits"
+  },
+  "economics.unemployment-mcq-class.0007": {
+   "all": "Construction workers laid off during a recession"
+  },
+  "economics.unemployment-mcq-def.0002": {
+   "all": "The percentage of the labour force that is unemployed"
+  },
+  "economics.unemployment-state.0001": {
+   "all": "Loss of income / lower living standards / loss of skills / stress or ill health."
+  },
+  "economics.unemployment-state-class.0004": {
+   "all": "Workers laid off during a recession due to falling demand (e.g. construction workers)."
+  },
+  "economics.unemployment-state-id.0004": {
+   "all": "frictional unemployment"
+  }
+ },
+ "verdicts": {
+  "economics.trade-calc.0001": {
+   "result": "pass"
+  },
+  "economics.trade-define1.0004": {
+   "result": "pass"
+  },
+  "economics.trade-define2.0003": {
+   "result": "pass"
+  },
+  "economics.trade-describe.0008": {
+   "result": "pass"
+  },
+  "economics.trade-explain.0012": {
+   "result": "pass"
+  },
+  "economics.trade-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.trade-mcq-class.0002": {
+   "result": "pass"
+  },
+  "economics.trade-mcq-def.0004": {
+   "result": "pass"
+  },
+  "economics.trade-state.0002": {
+   "result": "pass"
+  },
+  "economics.trade-state-class.0003": {
+   "result": "fail",
+   "problem": "Grammatical error in stem: 'State one a disadvantage of free trade for a country.'",
+   "fix": "'State one disadvantage of free trade for a country.'"
+  },
+  "economics.trade-state-id.0008": {
+   "result": "pass"
+  },
+  "economics.unemployment-analyse-1.0006": {
+   "result": "pass"
+  },
+  "economics.unemployment-analyse-2.0007": {
+   "result": "pass"
+  },
+  "economics.unemployment-assess-1.0007": {
+   "result": "pass"
+  },
+  "economics.unemployment-assess-2.0004": {
+   "result": "pass"
+  },
+  "economics.unemployment-calc.0005": {
+   "result": "pass"
+  },
+  "economics.unemployment-data.0016": {
+   "result": "fail",
+   "problem": "Part (a) data give an unemployment rate of 8.93%, contradicting Extract A which says unemployment rose to 7.5%.",
+   "fix": "Make the figures consistent, e.g. 1,337,325 unemployed out of 17,831,000 (= 7.50%), or change Extract A to 'from 4.8% to 8.9%'."
+  },
+  "economics.unemployment-define1.0001": {
+   "result": "pass"
+  },
+  "economics.unemployment-define2.0007": {
+   "result": "pass"
+  },
+  "economics.unemployment-describe.0010": {
+   "result": "pass"
+  },
+  "economics.unemployment-evaluate-1.0004": {
+   "result": "pass"
+  },
+  "economics.unemployment-evaluate-2.0001": {
+   "result": "pass"
+  },
+  "economics.unemployment-explain.0009": {
+   "result": "pass"
+  },
+  "economics.unemployment-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.unemployment-mcq-class.0007": {
+   "result": "pass"
+  },
+  "economics.unemployment-mcq-def.0002": {
+   "result": "pass"
+  },
+  "economics.unemployment-state.0001": {
+   "result": "pass"
+  },
+  "economics.unemployment-state-class.0004": {
+   "result": "pass"
+  },
+  "economics.unemployment-state-id.0004": {
+   "result": "pass"
+  }
+ }
+}

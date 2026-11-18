@@ -1,0 +1,56 @@
+{
+  "batch": "english-literature-012",
+  "answers": {
+    "english-literature.unseen-hope-feathers.0002": {
+      "all": "Plan (Dickinson Hope is the thing with feathers; comfort): Bird that sings in storm, 'never in Extremity', 'asked a crumb of me'; hymn metre, dashes, capitals; hope gives comfort without cost."
+    },
+    "english-literature.unseen-hope-feathers.0001": {
+      "all": "Plan (Dickinson Hope is the thing with feathers; hope): Metaphor of bird perching in the soul, tune without words, sweetest in gale, 3 quatrains common metre, slant rhyme."
+    },
+    "english-literature.unseen-hospital-window.0001": {
+      "all": "Plan (Hospital Window (original); illness and recovery): View outside as measure of recovery, sensory detail, shifting tone, form."
+    },
+    "english-literature.unseen-hospital-window.0003": {
+      "all": "Plan (Hospital Window (original); natural world from a window): Frame of window, birds/trees seen, contrast with sterile room."
+    },
+    "english-literature.unseen-innisfree.0001": {
+      "all": "Plan (Yeats Lake Isle of Innisfree; longed-for place): 'I will arise', bee-loud glade, cabin of clay and wattles, peace 'dropping slow'; 3 quatrains, longer lines; real setting in grey city 'pavements grey'."
+    },
+    "english-literature.unseen-innisfree.0003": {
+      "all": "Plan (Yeats Lake Isle of Innisfree; longing): Repeated 'I will', 'always night and day I hear', 'deep heart's core'; contrast with city; rhythm lulling."
+    }
+  },
+  "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+  "verdicts": {
+    "english-literature.unseen-hope-feathers.0002": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-hope-feathers.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-hospital-window.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-hospital-window.0003": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-innisfree.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-innisfree.0003": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

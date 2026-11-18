@@ -1,0 +1,199 @@
+{
+ "batch": "economics-011",
+ "answers": {
+  "economics.intervention-pol-analyse-1.0006": {
+   "all": "Plan: fines raise cost of breaking limit, incentive to comply, cap waste; permits cap total waste (cut 21%), price on pollution internalises external cost, firms with low abatement cost cut most; both reduce harm to third parties."
+  },
+  "economics.intervention-pol-analyse-2.0005": {
+   "all": "Plan: ban reduces demand for older high-emission vehicles (price falls, scrapped); grant lowers effective price of EVs so demand for EVs rises, price/quantity rise; supply of EVs may expand; less pollution."
+  },
+  "economics.intervention-pol-assess-1.0005": {
+   "all": "Plan: permits give certain cap (20% cut), least-cost abatement, flexibility, revenue if auctioned; fines simple but may be too low, enforcement; permits complex, monitoring, cap may be too generous; judgement."
+  },
+  "economics.intervention-pol-assess-2.0001": {
+   "all": "Plan: ban is direct and certain; but enforcement cost, hits low-income drivers; alternatives: grant/subsidy, fuel taxes, congestion charges, public transport; judgement."
+  },
+  "economics.intervention-pol-define1.0003": {
+   "all": "Laws passed by government to ban or restrict an activity"
+  },
+  "economics.intervention-pol-define2.0003": {
+   "all": "Laws passed by the government (1) that ban, restrict or control an activity e.g. pollution (1)"
+  },
+  "economics.intervention-pol-diagram.0003": {
+   "all": "S shifts right to S1; lower price P1, higher quantity Q1"
+  },
+  "economics.intervention-pol-evaluate-1.0002": {
+   "all": "Plan: permits certain 39% cut, efficiency, incentive to innovate; fines direct but level hard to set; permits monitoring costs, price volatility, cap level; conclusion depends on enforcement."
+  },
+  "economics.intervention-pol-evaluate-2.0007": {
+   "all": "Plan: ban direct, quick; enforcement, equity; grant I$2,000 may be too small; taxes/congestion charge/public transport alternatives; combined policy best; conclusion."
+  },
+  "economics.intervention-pol-explain.0011": {
+   "all": "Total carbon emissions are capped (1) and fall 5% a year (1), so pollution in Eskaria is guaranteed to fall, reducing environmental damage (1)"
+  },
+  "economics.intervention-pol-mcq-auth.0003": {
+   "all": "C lower their price and increase quantity bought"
+  },
+  "economics.intervention-pol-mcq-class.0006": {
+   "all": "C money given to farmers for new woodland"
+  },
+  "economics.intervention-pol-mcq-def.0002": {
+   "all": "B a money penalty"
+  },
+  "economics.monetary-define2.0004": {
+   "all": "The total amount of money (1) in circulation in an economy, e.g. notes, coins and bank deposits (1)"
+  },
+  "economics.monetary-describe.0009": {
+   "all": "Time lags: changes take months to affect spending, so inflation may not fall when needed (or higher rates reduce investment/growth, raise unemployment)"
+  },
+  "economics.monetary-evaluate-1.0002": {
+   "all": "Plan: continue - inflation still to reach target, credibility; stop - inflation falling, time lags, housing slowdown, delayed investment hurts growth, unemployment; depends on inflation vs target; conclusion."
+  },
+  "economics.monetary-evaluate-2.0004": {
+   "all": "Plan: cut lowers borrowing costs, raises consumption/investment, depreciation boosts exports, inflation 0.8% leaves room; but low confidence, liquidity trap, time lags, banks may not lend; conclusion."
+  },
+  "economics.monetary-explain.0016": {
+   "all": "Variable rates mean mortgage repayments rise immediately (1), reducing disposable income (1); with large mortgages the cut in spending is large (1)"
+  },
+  "economics.monetary-mcq-auth.0003": {
+   "all": "B the economy is in recession"
+  },
+  "economics.monetary-mcq-class.0003": {
+   "all": "B an appreciation of the currency"
+  },
+  "economics.monetary-mcq-def.0004": {
+   "all": "A the total amount of money in circulation"
+  },
+  "economics.monetary-state.0003": {
+   "all": "Setting interest rates / issuing currency"
+  },
+  "economics.monetary-state-id.0003": {
+   "all": "a rise in interest rates"
+  },
+  "economics.objectives-analyse-1.0004": {
+   "all": "Plan: demand - classes full so excess demand, growth/profit; costs - rent, staff, finance; risk; competition in new area."
+  },
+  "economics.objectives-analyse-2.0001": {
+   "all": "Plan: economies of scale lower costs; 53% share gives market power, higher prices/profit; less competition; route network expansion."
+  },
+  "economics.objectives-analyse-3.0002": {
+   "all": "Plan: divorce of ownership and control; owners want profit/dividends; managers want market share, reputation, status; sustainable materials raise costs; principal-agent."
+  },
+  "economics.objectives-assess-1.0005": {
+   "all": "Plan: full classes show excess demand, more revenue/economies of scale; but costs, risk, demand in new area uncertain, management stretch; judgement."
+  },
+  "economics.objectives-assess-2.0002": {
+   "all": "Plan: economies of scale may lower fares, more routes; but 58% share - monopoly power, higher prices, less choice, less innovation; regulation; judgement."
+  },
+  "economics.objectives-assess-3.0004": {
+   "all": "Plan: profit for owners, reinvestment; but market share, sustainability reputation may give long-run profit; costs; judgement depends on long vs short run."
+  },
+  "economics.objectives-define1.0007": {
+   "all": "When two or more firms agree to join together to form one firm"
+  }
+ },
+ "verdicts": {
+  "economics.intervention-pol-analyse-1.0006": {
+   "result": "fail",
+   "problem": "Context puts Dubai (a real UAE city) under the fictional government of Novaris.",
+   "fix": "Use a city in Novaris or say 'the government' of the UAE; keep the city and the country consistent."
+  },
+  "economics.intervention-pol-analyse-2.0005": {
+   "result": "fail",
+   "problem": "Context puts Kuala Lumpur (Malaysia) under the fictional government of Rendova, so the setting contradicts itself.",
+   "fix": "Make the city and the government consistent."
+  },
+  "economics.intervention-pol-assess-1.0005": {
+   "result": "fail",
+   "problem": "Context puts Manchester (UK) under the fictional government of Lumera.",
+   "fix": "Make the city and the government consistent."
+  },
+  "economics.intervention-pol-assess-2.0001": {
+   "result": "fail",
+   "problem": "Context puts Toronto (Canada) under the government of Valdoria, and says the ban 'will' start 'from 2020', which is already in the past.",
+   "fix": "Make the city and the government consistent and use a future year (e.g. 2028)."
+  },
+  "economics.intervention-pol-define1.0003": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-define2.0003": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-diagram.0003": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-evaluate-1.0002": {
+   "result": "fail",
+   "problem": "Context puts Kuala Lumpur (Malaysia) under the fictional government of Novaris.",
+   "fix": "Make the city and the government consistent."
+  },
+  "economics.intervention-pol-evaluate-2.0007": {
+   "result": "fail",
+   "problem": "Context puts Lisbon (Portugal) under the fictional government of Istrova.",
+   "fix": "Make the city and the government consistent."
+  },
+  "economics.intervention-pol-explain.0011": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-mcq-class.0006": {
+   "result": "pass"
+  },
+  "economics.intervention-pol-mcq-def.0002": {
+   "result": "pass"
+  },
+  "economics.monetary-define2.0004": {
+   "result": "pass"
+  },
+  "economics.monetary-describe.0009": {
+   "result": "pass"
+  },
+  "economics.monetary-evaluate-1.0002": {
+   "result": "pass"
+  },
+  "economics.monetary-evaluate-2.0004": {
+   "result": "pass"
+  },
+  "economics.monetary-explain.0016": {
+   "result": "pass"
+  },
+  "economics.monetary-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.monetary-mcq-class.0003": {
+   "result": "pass"
+  },
+  "economics.monetary-mcq-def.0004": {
+   "result": "pass"
+  },
+  "economics.monetary-state.0003": {
+   "result": "pass"
+  },
+  "economics.monetary-state-id.0003": {
+   "result": "pass"
+  },
+  "economics.objectives-analyse-1.0004": {
+   "result": "pass"
+  },
+  "economics.objectives-analyse-2.0001": {
+   "result": "pass"
+  },
+  "economics.objectives-analyse-3.0002": {
+   "result": "pass"
+  },
+  "economics.objectives-assess-1.0005": {
+   "result": "pass"
+  },
+  "economics.objectives-assess-2.0002": {
+   "result": "pass"
+  },
+  "economics.objectives-assess-3.0004": {
+   "result": "pass"
+  },
+  "economics.objectives-define1.0007": {
+   "result": "pass"
+  }
+ }
+}

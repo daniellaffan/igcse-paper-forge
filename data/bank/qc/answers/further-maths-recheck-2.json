@@ -1,0 +1,220 @@
+{
+ "batch": "further-maths-recheck-2",
+ "answers": {
+  "further-maths.ck-multi.0008": {
+   "a": "v = t^2/2 - 5t + 5",
+   "b": "s = t^3/6 - 5t^2/2 + 5t; s(2) = 4/3 m",
+   "c": "t^2-10t+10=0, t = 5-sqrt15 = 1.13"
+  },
+  "further-maths.cl-multi.0006": {
+   "a": "6/7",
+   "b": "7x + 6y - 133 = 0",
+   "c": "(19, 0)",
+   "d": "85"
+  },
+  "further-maths.cl-short.0013": {
+   "all": "midpoint (3/2,-7/2), grad 7/5: 7x - 5y - 28 = 0"
+  },
+  "further-maths.cl-short.0014": {
+   "all": "(-1, -3)"
+  },
+  "further-maths.cl-short.0002": {
+   "all": "2x + 7y - 21 = 0"
+  },
+  "further-maths.cl-short.0017": {
+   "all": "3x + 10y + 22 = 0"
+  },
+  "further-maths.cl-show.0011": {
+   "a": "midpoint (-7/2,-7), grad -9/2 -> 18x+4y+91=0",
+   "b": "(0, -91/4)"
+  },
+  "further-maths.cl-show.0015": {
+   "a": "CA^2 = CB^2 = 314.5",
+   "b": "C on perp bisector of AB, which is 5x-3y-47=0; check 5(-7/2)-3(-43/2)-47=0"
+  },
+  "further-maths.gs-graph.0001": {
+   "a": "negative cubic through (-4,0),(-3,0),(0,0)",
+   "b": "x < -4 or -3 < x < 0"
+  },
+  "further-maths.gs-graph.0006": {
+   "a": "x=3, y=-3/2; (-7/3,0), (0,7/6)",
+   "b": "y=4 is horizontal, not the asymptote, meets curve once; x = 17/11"
+  },
+  "further-maths.gs-multi.0010": {
+   "a": "x=-3, y=4",
+   "b": "(-3/2,0), (0,2)",
+   "c": "hyperbola sketch",
+   "d": "3x^2-x-24=0: (3,3) and (-8/3,-14)"
+  },
+  "further-maths.gsol-graph.0019": {
+   "a": "-2.2, 4, 0 (x=-1.5, 0, 2)",
+   "b": "plot",
+   "c": "line y = -x - 2; x = -1.3"
+  },
+  "further-maths.gsol-short.0021": {
+   "all": "y = 2x + 1"
+  },
+  "further-maths.if-multi.0017": {
+   "a": "p=-4, q=-7",
+   "b": "(x-3)(2x^2+2x-1)",
+   "c": "x=3, x=(-1\u00b1sqrt3)/2"
+  },
+  "further-maths.if-short.0003": {
+   "all": "quotient 3x^2/2 + 15x/4 + 3/8, remainder 67/8"
+  },
+  "further-maths.if-short.0019": {
+   "all": "p=4, q=5"
+  },
+  "further-maths.if-short.0004": {
+   "a": "-17/8",
+   "b": "f(-2)=8, c=4"
+  },
+  "further-maths.if-short.0020": {
+   "all": "-43"
+  },
+  "further-maths.if-show.0021": {
+   "a": "f(-4)=0",
+   "b": "(x+4)(2x-3)(x-4)",
+   "c": "x=-4, 3/2, 4"
+  },
+  "further-maths.ii-multi.0004": {
+   "a": "x<3",
+   "b": "x<-4 or x>2",
+   "c": "x<-4 or 2<x<3"
+  },
+  "further-maths.ii-short.0020": {
+   "all": "x<1/2 or x>3/2"
+  },
+  "further-maths.ir-graph.0004": {
+   "a": "vertices (2,0),(6,0),(3,4),(2,3)",
+   "b": "23 at (3,4)"
+  },
+  "further-maths.ir-graph.0014": {
+   "a": "vertices (2,0),(7,0),(2,5); y<=2x+2 not binding",
+   "b": "10 at (2,0)"
+  },
+  "further-maths.ir-lp.0015": {
+   "a": "2x+4y<=24, 3x+4y<=24",
+   "b": "region x>=1,y>=1,3x+4y<=24 (P redundant)",
+   "c": "x=4, y=3, 52 seats"
+  },
+  "further-maths.is-multi.0001": {
+   "a": "x^2-x-6=0: A(-2,-7), B(3,-2)",
+   "b": "5sqrt2",
+   "c": "x + y + 4 = 0"
+  },
+  "further-maths.is-short.0003": {
+   "all": "x=-4, 3/2, 4"
+  },
+  "further-maths.is-short.0004": {
+   "all": "3x^2+4x-4=0: (2/3, 17/3) and (-2, 3)"
+  },
+  "further-maths.lg-short-meet.0001": {
+   "all": "2x-3=9x-9, x=6/7, y=3^(-9/7)"
+  },
+  "further-maths.lg-short-points.0004": {
+   "a": "a=1/2, p=2",
+   "b": "(1/2)^x=7, x=-2.81"
+  },
+  "further-maths.lg-short-points.0009": {
+   "a": "a=4, p=6",
+   "b": "4^x=7, x=1.40"
+  }
+ },
+ "verdicts": {
+  "further-maths.ck-multi.0008": {
+   "result": "pass"
+  },
+  "further-maths.cl-multi.0006": {
+   "result": "pass"
+  },
+  "further-maths.cl-short.0013": {
+   "result": "pass"
+  },
+  "further-maths.cl-short.0014": {
+   "result": "pass"
+  },
+  "further-maths.cl-short.0002": {
+   "result": "pass"
+  },
+  "further-maths.cl-short.0017": {
+   "result": "pass"
+  },
+  "further-maths.cl-show.0011": {
+   "result": "pass"
+  },
+  "further-maths.cl-show.0015": {
+   "result": "pass"
+  },
+  "further-maths.gs-graph.0001": {
+   "result": "pass"
+  },
+  "further-maths.gs-graph.0006": {
+   "result": "pass"
+  },
+  "further-maths.gs-multi.0010": {
+   "result": "pass"
+  },
+  "further-maths.gsol-graph.0019": {
+   "result": "pass"
+  },
+  "further-maths.gsol-short.0021": {
+   "result": "pass"
+  },
+  "further-maths.if-multi.0017": {
+   "result": "pass"
+  },
+  "further-maths.if-short.0003": {
+   "result": "pass"
+  },
+  "further-maths.if-short.0019": {
+   "result": "pass"
+  },
+  "further-maths.if-short.0004": {
+   "result": "pass"
+  },
+  "further-maths.if-short.0020": {
+   "result": "pass"
+  },
+  "further-maths.if-show.0021": {
+   "result": "pass"
+  },
+  "further-maths.ii-multi.0004": {
+   "result": "pass"
+  },
+  "further-maths.ii-short.0020": {
+   "result": "pass"
+  },
+  "further-maths.ir-graph.0004": {
+   "result": "pass"
+  },
+  "further-maths.ir-graph.0014": {
+   "result": "pass",
+   "problem": "",
+   "fix": "Note: y<=2x+2 never binds inside R (harmless)."
+  },
+  "further-maths.ir-lp.0015": {
+   "result": "pass",
+   "problem": "",
+   "fix": "Note: resource P constraint is redundant (harmless)."
+  },
+  "further-maths.is-multi.0001": {
+   "result": "pass"
+  },
+  "further-maths.is-short.0003": {
+   "result": "pass"
+  },
+  "further-maths.is-short.0004": {
+   "result": "pass"
+  },
+  "further-maths.lg-short-meet.0001": {
+   "result": "pass"
+  },
+  "further-maths.lg-short-points.0004": {
+   "result": "pass"
+  },
+  "further-maths.lg-short-points.0009": {
+   "result": "pass"
+  }
+ }
+}

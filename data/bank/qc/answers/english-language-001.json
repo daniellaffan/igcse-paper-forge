@@ -1,0 +1,39 @@
+{
+  "batch": "english-language-001",
+  "answers": {
+    "english-language.q2.whiteout.1": {
+      "all": "Left car park at 8am; sky cloudless blue, snow glittering like sugar; well equipped (map, compass, spare gloves, soup flask) with a forecast of dry day; felt smug passing group turning back at stile; by 11 on narrow ridge of rock/old snow with steep drops; enormous views (three lakes, farms, distant sea); stopped to eat sandwich and take photos."
+    },
+    "english-language.q2.stammer.1": {
+      "all": "Counted pupils ahead at register and rehearsed 'here' but word wouldn't come out; swapped hard words for easier ones so sentences were odd/roundabout; teacher's report said 'bright but lazy in oral work'; forced to read aloud to class, felt like longest twenty minutes; teachers didn't understand, thought he should try harder/relax."
+    },
+    "english-language.q2.cartrace.1": {
+      "all": "Arrived just after dawn at the top; church clock said seven but nobody believed it; teams on steps drinking coffee, arguing about wheels; man in flower-decorated helmet asleep in cart; grandmother handing out pastries; nobody in charge; magnificent carts: bathtub, fish, wardrobe with flapping doors."
+    },
+    "english-language.q2.cliffharvest.2": {
+      "all": "Ropes already fixed to iron stakes; Eyrun clips on, checks knot twice, steps backwards into nothing; swings gently against rock face sixty metres down; uses long pole with net to scoop birds from ledges; thousands of adult birds wheel and scream; pushes off with feet and drifts out over the drop."
+    }
+  },
+  "verdicts": {
+    "english-language.q2.whiteout.1": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.q2.stammer.1": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.q2.cartrace.1": {
+      "result": "pass",
+      "problem": "Minor: rules and brakes points are told rather than seen, but enough valid seen points exist.",
+      "fix": ""
+    },
+    "english-language.q2.cliffharvest.2": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

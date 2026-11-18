@@ -1,0 +1,338 @@
+{
+ "batch": "maths-000",
+ "answers": {
+  "maths.algfrac-add.0001": {
+   "all": "-(x+14)/((x+2)(x+6)) = (-x-14)/((x+6)(x+2))"
+  },
+  "maths.algfrac-add.0004": {
+   "all": "(5x-17)/((x-5)(x+3))"
+  },
+  "maths.algfrac-equation.0001": {
+   "all": "x=4 or x=-4 (7x+26=x^2+7x+10 -> x^2=16)"
+  },
+  "maths.algfrac-equation.0006": {
+   "all": "x=3 or x=-4 (x^2+x-12=0)"
+  },
+  "maths.algfrac-simplify.0006": {
+   "all": "(x-5)/(x+4)"
+  },
+  "maths.algfrac-simplify.0003": {
+   "all": "(x-5)/(x-4)"
+  },
+  "maths.alloy-density.0007": {
+   "all": "mass 1240+105*11.3=2426.5; vol 1240/7.3+105=274.9; density 8.83"
+  },
+  "maths.alloy-density.0006": {
+   "all": "mass 1270+190*7.1=2619; vol 1270/2.7+190=660.4; density 3.97"
+  },
+  "maths.alt-segment-reasons.0003": {
+   "all": "Diagram not visible. Assuming 61 is angle between tangent and chord AB: ACB = 61 (alternate segment theorem)"
+  },
+  "maths.alt-segment-reasons.0007": {
+   "all": "Diagram not visible. Assuming 65 is angle between tangent and chord AB: ACB = 65 (alternate segment theorem)"
+  },
+  "maths.ap-context.0002": {
+   "all": "S_n=n(52+7(n-1))/2; S18=1539, S19=1691 -> 19 weeks"
+  },
+  "maths.ap-context.0003": {
+   "all": "S_n=n(42+2(n-1))/2=n(n+20); S32=1664, S33=1749 -> 33 weeks"
+  },
+  "maths.ap-not-term.0005": {
+   "all": "8n-5=441 -> n=55.75 not integer"
+  },
+  "maths.ap-not-term.0002": {
+   "all": "3n+2=183 -> n=60.33 not integer"
+  },
+  "maths.ap-show-sum.0003": {
+   "all": "a=9,d=3: n/2(18+3(n-1))=n/2(3n+15)=3n(n+5)/2"
+  },
+  "maths.ap-show-sum.0007": {
+   "all": "a=8,d=4: n/2(16+4(n-1))=n/2(4n+12)=2n(n+3)"
+  },
+  "maths.ap-two-terms.0006": {
+   "all": "d=5, a=-6, S59=8201"
+  },
+  "maths.ap-two-terms.0005": {
+   "all": "d=-2, a=-6, S53=-3074"
+  },
+  "maths.area-given-find-side.0003": {
+   "all": "LN=2*100.1/(13 sin69)=16.50; MN^2=13^2+16.50^2-2*13*16.50*cos69 -> MN=17.0 cm"
+  },
+  "maths.area-given-find-side.0011": {
+   "all": "AC=2*99/(12 sin89)=16.50; BC=20.2 cm"
+  },
+  "maths.area-half-absinc.0005": {
+   "all": "0.5*13*4.9*sin86=31.8 cm2"
+  },
+  "maths.area-half-absinc.0002": {
+   "all": "0.5*12.7*9.1*sin145=33.1 cm2"
+  },
+  "maths.area-units.0009": {
+   "all": "4.58 m2"
+  },
+  "maths.area-units.0013": {
+   "all": "27+27pi/2=69.4 cm"
+  },
+  "maths.bearing-back.0005": {
+   "all": "111"
+  },
+  "maths.bearing-back.0007": {
+   "all": "283"
+  },
+  "maths.bearing-cosine.0017": {
+   "all": "angle ABC=219-122=97; AC^2=21^2+43^2-2*21*43*cos97 -> 50.1 km"
+  },
+  "maths.bearing-cosine.0008": {
+   "all": "angle ABC=258-200=58; AC=47.2 km"
+  },
+  "maths.bearing-trig.0006": {
+   "a": "angle PQR=90; PR=sqrt(38^2+57^2)=68.5 km",
+   "b": "47+arctan(57/38)=47+56.3=103 deg (103.3)"
+  },
+  "maths.bearing-trig.0011": {
+   "a": "angle PQR=90; PR=sqrt(47^2+41^2)=62.4 km",
+   "b": "75+arctan(41/47)=75+41.1=116 deg"
+  },
+  "maths.best-buy-currency.0006": {
+   "all": "209*18.4=3845.6 pesos; dollar shop cheaper by 3947-3845.6=101.4 pesos"
+  },
+  "maths.best-buy-currency.0002": {
+   "all": "851*1.16=987.16 euros; euro shop (940) cheaper by 47.16 euros"
+  },
+  "maths.bounds-calc.0004": {
+   "all": "12.5*5.5/(13.5*6.5)*100=78.3%"
+  },
+  "maths.bounds-calc.0007": {
+   "all": "485/52.5=9.24 g/cm3"
+  },
+  "maths.bounds-how-many.0004": {
+   "all": "LB tank 37.5, UB jug 0.85; 37.5/0.85=44.1 -> 44"
+  },
+  "maths.bounds-how-many.0002": {
+   "all": "LB tank 31.5, UB jug 0.755; 31.5/0.755=41.7 -> 41"
+  },
+  "maths.bounds-write.0007": {
+   "a": "4650",
+   "b": "4750"
+  },
+  "maths.bounds-write.0004": {
+   "a": "405",
+   "b": "415"
+  },
+  "maths.calc-structured.0003": {
+   "a": "3x^2+6x",
+   "b": "y=45x-76",
+   "c": "x=0 and x=-2"
+  },
+  "maths.calc-structured.0006": {
+   "a": "3x^2-6x-9",
+   "b": "y=-9x-5",
+   "c": "x=-1 and x=3"
+  },
+  "maths.cf-draw.0011": {
+   "a": "2,14,39,60,72,74",
+   "b": "plot at upper class bounds",
+   "c": "CF(21)=19 -> 74-19=55 (approx)"
+  },
+  "maths.cf-draw.0010": {
+   "a": "8,26,54,82,101,113",
+   "b": "plot at upper class bounds",
+   "c": "CF(45)=40 -> 113-40=73 (approx)"
+  },
+  "maths.cf-read.0004": {
+   "all": "Graph not visible in text; cannot answer cold"
+  },
+  "maths.cf-read.0013": {
+   "all": "Graph not visible in text; cannot answer cold"
+  },
+  "maths.circle-theorem.0004": {
+   "a": "Diagram not visible. If 47 is angle at P: x=43",
+   "b": "tangent perpendicular to radius, angles in triangle sum 180"
+  },
+  "maths.circle-theorem.0001": {
+   "a": "Diagram not visible. If x at centre subtending same arc as 44 at circumference: 88",
+   "b": "angle at centre is twice angle at circumference"
+  },
+  "maths.column-vectors.0003": {
+   "a": "(9,-9)",
+   "b": "sqrt(10)=3.16"
+  },
+  "maths.column-vectors.0004": {
+   "a": "(-9,-4)",
+   "b": "sqrt(73)=8.54"
+  },
+  "maths.combined-struct.0009": {
+   "a": "rain 0.85 -> late 0.2, not late 0.8; no rain 0.15 -> late 0.15, not late 0.85",
+   "b": "0.17+0.0225=0.1925",
+   "c": "57.75 ~ 58",
+   "d": "0.17/0.1925=0.883 (34/39)"
+  },
+  "maths.combined-struct.0016": {
+   "a": "rain 0.4 -> late 0.1, not late 0.9; no rain 0.6 -> late 0.2, not late 0.8",
+   "b": "0.04+0.12=0.16",
+   "c": "24",
+   "d": "0.04/0.16=0.25"
+  }
+ },
+ "verdicts": {
+  "maths.algfrac-add.0001": {
+   "result": "pass"
+  },
+  "maths.algfrac-add.0004": {
+   "result": "pass"
+  },
+  "maths.algfrac-equation.0001": {
+   "result": "pass"
+  },
+  "maths.algfrac-equation.0006": {
+   "result": "pass"
+  },
+  "maths.algfrac-simplify.0006": {
+   "result": "pass"
+  },
+  "maths.algfrac-simplify.0003": {
+   "result": "pass"
+  },
+  "maths.alloy-density.0007": {
+   "result": "pass"
+  },
+  "maths.alloy-density.0006": {
+   "result": "pass"
+  },
+  "maths.alt-segment-reasons.0003": {
+   "result": "pass"
+  },
+  "maths.alt-segment-reasons.0007": {
+   "result": "pass"
+  },
+  "maths.ap-context.0002": {
+   "result": "pass"
+  },
+  "maths.ap-context.0003": {
+   "result": "pass"
+  },
+  "maths.ap-not-term.0005": {
+   "result": "pass"
+  },
+  "maths.ap-not-term.0002": {
+   "result": "pass"
+  },
+  "maths.ap-show-sum.0003": {
+   "result": "pass"
+  },
+  "maths.ap-show-sum.0007": {
+   "result": "pass"
+  },
+  "maths.ap-two-terms.0006": {
+   "result": "pass"
+  },
+  "maths.ap-two-terms.0005": {
+   "result": "pass"
+  },
+  "maths.area-given-find-side.0003": {
+   "result": "pass"
+  },
+  "maths.area-given-find-side.0011": {
+   "result": "pass"
+  },
+  "maths.area-half-absinc.0005": {
+   "result": "pass"
+  },
+  "maths.area-half-absinc.0002": {
+   "result": "pass"
+  },
+  "maths.area-units.0009": {
+   "result": "pass"
+  },
+  "maths.area-units.0013": {
+   "result": "pass"
+  },
+  "maths.bearing-back.0005": {
+   "result": "pass"
+  },
+  "maths.bearing-back.0007": {
+   "result": "pass"
+  },
+  "maths.bearing-cosine.0017": {
+   "result": "pass"
+  },
+  "maths.bearing-cosine.0008": {
+   "result": "pass"
+  },
+  "maths.bearing-trig.0006": {
+   "result": "pass"
+  },
+  "maths.bearing-trig.0011": {
+   "result": "pass"
+  },
+  "maths.best-buy-currency.0006": {
+   "result": "pass"
+  },
+  "maths.best-buy-currency.0002": {
+   "result": "pass"
+  },
+  "maths.bounds-calc.0004": {
+   "result": "pass"
+  },
+  "maths.bounds-calc.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "cold answer used wrong LB 485 (slip); mark scheme 482/52.5=9.18 is correct"
+  },
+  "maths.bounds-how-many.0004": {
+   "result": "pass"
+  },
+  "maths.bounds-how-many.0002": {
+   "result": "pass"
+  },
+  "maths.bounds-write.0007": {
+   "result": "pass"
+  },
+  "maths.bounds-write.0004": {
+   "result": "pass"
+  },
+  "maths.calc-structured.0003": {
+   "result": "pass"
+  },
+  "maths.calc-structured.0006": {
+   "result": "pass"
+  },
+  "maths.cf-draw.0011": {
+   "result": "pass"
+  },
+  "maths.cf-draw.0010": {
+   "result": "pass"
+  },
+  "maths.cf-read.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "graph not visible in text; MS values internally consistent"
+  },
+  "maths.cf-read.0013": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "graph not visible in text; MS values internally consistent"
+  },
+  "maths.circle-theorem.0004": {
+   "result": "pass"
+  },
+  "maths.circle-theorem.0001": {
+   "result": "pass"
+  },
+  "maths.column-vectors.0003": {
+   "result": "pass"
+  },
+  "maths.column-vectors.0004": {
+   "result": "pass"
+  },
+  "maths.combined-struct.0009": {
+   "result": "pass"
+  },
+  "maths.combined-struct.0016": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,272 @@
+{
+ "batch": "physics-recheck-5",
+ "answers": {
+  "physics.matter-state-recall-kb.0001": {
+   "all": "energy needed to raise the temperature of 1 kg of a substance by 1 \u00b0C"
+  },
+  "physics.radioactivity-atoms-describe-kb.0007": {
+   "a": "small dense positive nucleus of protons and neutrons; electrons orbit in shells; mostly empty space",
+   "b": "place GM tube near source connected to counter; count over measured time, count rate = counts/time; subtract background"
+  },
+  "physics.radioactivity-atoms-explain-kb.0014": {
+   "a": "gamma weakly ionising (EM wave, no charge/mass) so loses energy slowly; alpha strongly ionising so loses energy quickly",
+   "b": "unstable; neutron changes to proton plus electron emitted, giving more stable n:p ratio",
+   "c": "same number of protons (same element); different number of neutrons"
+  },
+  "physics.radioactivity-atoms-mcq-kb.0014": {
+   "a": "alpha",
+   "b": "a fast-moving electron from the nucleus",
+   "c": "Geiger-M\u00fcller tube"
+  },
+  "physics.radioactivity-atoms-recall-kb.0001": {
+   "all": "atoms of same element with same number of protons but different number of neutrons"
+  },
+  "physics.radioactivity-halflife-explain-kb.0010": {
+   "a": "beta partly absorbed by foil; change in thickness changes count rate detectably (alpha all absorbed, gamma all passes)",
+   "b": "background radiation always present; subtract background count rate",
+   "c": "contaminated source stays in/on body, keeps irradiating; alpha inside body very ionising"
+  },
+  "physics.radioactivity-halflife-extended-kb.0009": {
+   "a": "contamination: radioactive material gets onto/into object; irradiation: exposed to radiation from outside source, does not become radioactive",
+   "b": "half-life: time for activity/count rate (or number of nuclei) to halve. Measure background with no source; place source near GM tube; record count rate at regular intervals; subtract background; plot corrected count rate vs time; read time to halve, repeat for several halvings and average"
+  },
+  "physics.radioactivity-halflife-mcq-kb.0006": {
+   "all": "does not become radioactive"
+  },
+  "physics.radioactivity-halflife-recall-kb.0008": {
+   "a": "number of decays per second (Bq)",
+   "b": "contamination: radioactive atoms on/in object; irradiation: exposed to radiation, not made radioactive",
+   "c": "thickness gauging / sterilising equipment / leak tracing / smoke alarms"
+  },
+  "physics.radioactivity-nuclear-describe-kb.0011": {
+   "a": "U-235 absorbs neutron, splits into two daughter nuclei, releasing 2-3 neutrons and energy; those neutrons cause further fissions",
+   "b": "fission releases thermal energy; heats coolant/water to steam; steam turns turbine which drives generator"
+  },
+  "physics.radioactivity-nuclear-explain-kb.0011": {
+   "a": "fewer neutrons absorbed; chain reaction uncontrolled, rate increases, overheating/meltdown/explosion",
+   "b": "requires extremely high temperature and pressure; hard to achieve/contain, more energy input than output"
+  },
+  "physics.radioactivity-nuclear-extended-kb.0003": {
+   "a": "absorb radiation (gamma/neutrons) to protect workers",
+   "b": "fission: large nucleus splits, needs neutron, used in power stations, radioactive waste; fusion: light nuclei join, in stars, needs very high T and P, little waste; both release energy and mass converted to energy"
+  },
+  "physics.radioactivity-nuclear-mcq-kb.0010": {
+   "a": "absorbing a neutron",
+   "b": "absorb neutrons"
+  },
+  "physics.radioactivity-nuclear-recall-kb.0014": {
+   "a": "two light nuclei join to form heavier nucleus, releasing energy",
+   "b": "two daughter nuclei; 2 or 3 neutrons (and energy/gamma)",
+   "c": "boron (or cadmium)"
+  },
+  "physics.tf-power.0007": {
+   "all": "P = 230 x 0.07 = 16.1 W; I = 16.1/5 = 3.22 A"
+  },
+  "physics.waves-em-explain-kb.0010": {
+   "a": "gamma kills bacteria/microorganisms that cause decay",
+   "b": "X-rays ionising, damage cells/cause cancer; lead absorbs X-rays; repeated exposure"
+  },
+  "physics.waves-em-extended-kb.0013": {
+   "a": "travel at same speed in vacuum; transverse; transfer energy; can travel through vacuum",
+   "b": "radio waves: broadcasting, long wavelength, diffract/reflect; microwaves: satellite and mobile phones, pass through atmosphere; also cooking - absorbed by water molecules, heating them; infrared: grills/toasters, heats surface, TV remotes; visible/infrared in optical fibres"
+  },
+  "physics.waves-em-mcq-kb.0008": {
+   "all": "infrared"
+  },
+  "physics.waves-em-recall-kb.0014": {
+   "a": "microwaves",
+   "b": "transverse; same speed in vacuum",
+   "c": "sunscreen / sunglasses / cover skin / stay in shade"
+  },
+  "physics.waves-light-explain-kb.0003": {
+   "all": "light hits the inner surface at angle greater than critical angle; total internal reflection occurs; repeated reflections carry light along fibre"
+  },
+  "physics.waves-light-mcq-kb.0006": {
+   "all": "total internal reflection"
+  },
+  "physics.waves-light-recall-kb.0008": {
+   "a": "optical fibres (communication/endoscope); prisms in periscopes/binoculars/reflectors",
+   "b": "sin c = 1/n"
+  },
+  "physics.waves-properties-describe-kb.0002": {
+   "all": "float a cork/object on water; as wave passes it bobs up and down but does not travel along with wave"
+  },
+  "physics.waves-properties-explain-kb.0007": {
+   "a": "source moves towards observer between emitting waves; wavefronts bunched up; wavelength shorter so frequency higher (Doppler)",
+   "b": "v = f \u03bb; f constant so \u03bb proportional to v, so \u03bb decreases"
+  },
+  "physics.waves-properties-mcq-kb.0002": {
+   "all": "the maximum displacement from the rest position"
+  },
+  "physics.waves-properties-recall-kb.0007": {
+   "a": "v = f \u00d7 \u03bb",
+   "b": "Doppler effect"
+  },
+  "physics.waves-sound-explain-kb.0004": {
+   "all": "larger amplitude of vibration; sound louder (pitch unchanged)"
+  },
+  "physics.waves-sound-mcq-kb.0004": {
+   "all": "longitudinal"
+  },
+  "physics.waves-sound-recall-kb.0012": {
+   "a": "higher frequency of vibration gives higher pitch",
+   "b": "microphone and oscilloscope"
+  },
+  "physics.wo-cons.0003": {
+   "a": "GPE = mgh = 54 x 10 x 4 = 2160 J",
+   "b": "KE = 2160 = 0.5 x 54 x v\u00b2; v = sqrt(80) = 8.94 m/s"
+  }
+ },
+ "verdicts": {
+  "physics.matter-state-recall-kb.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-atoms-describe-kb.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-atoms-explain-kb.0014": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-atoms-mcq-kb.0014": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-atoms-recall-kb.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-halflife-explain-kb.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-halflife-extended-kb.0009": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-halflife-mcq-kb.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-halflife-recall-kb.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-nuclear-describe-kb.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-nuclear-explain-kb.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-nuclear-extended-kb.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-nuclear-mcq-kb.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.radioactivity-nuclear-recall-kb.0014": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.tf-power.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-em-explain-kb.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-em-extended-kb.0013": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-em-mcq-kb.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-em-recall-kb.0014": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-light-explain-kb.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-light-mcq-kb.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-light-recall-kb.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-properties-describe-kb.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-properties-explain-kb.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-properties-mcq-kb.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-properties-recall-kb.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-sound-explain-kb.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-sound-mcq-kb.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.waves-sound-recall-kb.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.wo-cons.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

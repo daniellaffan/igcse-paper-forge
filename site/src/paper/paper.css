@@ -1,0 +1,192 @@
+/* A4 exam-paper layout. Pages are always black on white, like real paper. */
+.doc-holder { padding: 20px 0 60px; display: flex; justify-content: center; overflow-x: auto; }
+.doc-holder.offscreen { position: absolute; left: -20000px; top: 0; width: 210mm; height: 0; overflow: hidden; padding: 0; }
+.doc { display: flex; flex-direction: column; gap: 18px; align-items: center; }
+.measure { position: absolute; left: -30000px; top: 0; visibility: hidden; width: 210mm; }
+.measure > div { width: 170mm; }
+
+.page {
+  position: relative; width: 210mm; height: 297mm; background: #fff; color: #000; overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0,0,0,.25); flex: none;
+  font-family: "Times New Roman", Times, "Liberation Serif", serif; font-size: 11.5pt; line-height: 1.38;
+}
+.page-inner { position: absolute; left: 20mm; right: 20mm; top: 18mm; bottom: 25mm; }
+.page-content, .measure > div { font-family: "Times New Roman", Times, "Liberation Serif", serif; font-size: 11.5pt; line-height: 1.38; color: #000; }
+.page-foot {
+  position: absolute; left: 20mm; right: 20mm; bottom: 9mm; display: grid; grid-template-columns: 1fr auto 1fr;
+  font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt; color: #000; align-items: end;
+}
+.pf-left { font-size: 6.8pt; color: #333; }
+.pf-mid { font-weight: 700; font-size: 9pt; }
+.pf-right { text-align: right; font-weight: 700; font-size: 9pt; }
+.dnw {
+  position: absolute; top: 30mm; bottom: 30mm; width: 9mm; display: flex; align-items: center; justify-content: center;
+  writing-mode: vertical-rl; font: 700 6.5pt Arial, sans-serif; letter-spacing: .25em; color: #b8b8b8;
+  background: repeating-linear-gradient(45deg, #f1f1f1 0 2px, #fff 2px 5px);
+}
+.dnw-l { left: 5mm; transform: rotate(180deg); }
+.dnw-r { right: 5mm; }
+.blk { padding-bottom: 2.2mm; }
+.rich p { margin: 0 0 1.6mm; }
+.rich p:last-child { margin-bottom: 0; }
+.katex { font-size: 1.05em; }
+
+/* question layout */
+.answer-all { font-weight: 700; font-family: Arial, sans-serif; font-size: 10.5pt; text-align: center; padding: 1mm 0 3mm; }
+.sec-head { border-top: 1.4px solid #000; border-bottom: 1.4px solid #000; padding: 2mm 0; margin-bottom: 2mm; text-align: center; font-family: Arial, sans-serif; }
+.sec-title { font-weight: 700; font-size: 12pt; text-transform: uppercase; }
+.sec-instr { font-size: 10pt; margin-top: 1mm; }
+.qhead { display: grid; grid-template-columns: 9mm 1fr; }
+.qnum { font-family: Arial, sans-serif; font-weight: 700; font-size: 12.5pt; line-height: 1.2; }
+.qbody { margin-left: 9mm; }
+.part-row { display: grid; grid-template-columns: 8mm 1fr; }
+.part-row .plabel { font-weight: 700; }
+.nest .part-row + .part-row, .depth1 .part-row:last-child { margin-left: 8mm; }
+.qpart.depth1 > .part-row:not(:first-child) { margin-left: 8mm; }
+.ans-indent { margin-left: 8mm; }
+.qbody.single .part-row { grid-template-columns: 0 1fr; }
+.qbody.single .ans-indent { margin-left: 0; }
+.insert-ref { font-style: italic; }
+.marks-row { text-align: right; font-weight: 700; padding-top: .6mm; }
+.marks { font-family: Arial, sans-serif; font-size: 10pt; }
+.ans-lines { padding-top: 1mm; }
+.dotline { height: 8.2mm; border-bottom: 1.2px dotted #333; }
+.prefix-line { margin-top: 2mm; }
+.working { position: relative; }
+.work-space { width: 100%; }
+.final-ans { display: flex; justify-content: flex-end; align-items: baseline; gap: 2mm; }
+.final-dots { display: inline-block; width: 55mm; border-bottom: 1.2px dotted #333; height: 5mm; }
+.ans-boxed { border: 1px solid #000; margin-top: 2mm; }
+.graph-grid {
+  height: 95mm; margin: 2mm auto; width: 140mm;
+  background-color: #fff;
+  background-image: linear-gradient(#9fb7c9 0.6px, transparent 0.6px), linear-gradient(90deg, #9fb7c9 0.6px, transparent 0.6px),
+    linear-gradient(#d4e0e9 0.3px, transparent 0.3px), linear-gradient(90deg, #d4e0e9 0.3px, transparent 0.3px);
+  background-size: 10mm 10mm, 10mm 10mm, 2mm 2mm, 2mm 2mm; border: 1px solid #7d99ad;
+}
+.ans-box { display: inline-block; width: 22mm; height: 7mm; border: 1px solid #000; vertical-align: middle; }
+.ans-dots { display: inline-block; width: 32mm; border-bottom: 1.2px dotted #333; }
+.mcq { padding: 1mm 0; }
+.mcq-opt { display: grid; grid-template-columns: 9mm 7mm 1fr; align-items: center; margin: 2mm 0; min-height: 6mm; }
+.mcq-box { width: 5mm; height: 5mm; border: 1.1px solid #000; display: inline-block; }
+.mcq-letter { font-weight: 700; font-family: Arial, sans-serif; }
+.qtotal { text-align: right; font-weight: 700; font-family: Arial, sans-serif; font-size: 10pt; border-bottom: 1.4px solid #000; padding: 1.5mm 0 2mm; margin-bottom: 2mm; }
+.paper-end { text-align: center; font-family: Arial, sans-serif; font-weight: 700; font-size: 11pt; padding-top: 6mm; }
+.end-small { font-size: 10pt; margin-top: 2mm; }
+
+/* figures */
+.fig { margin: 2mm 0; }
+.fig-svg { text-align: center; }
+.svg-wrap { display: inline-block; max-width: 100%; }
+.svg-wrap svg { max-width: 100%; height: auto; display: block; margin: 0 auto; color: #000; }
+.fig-note { font-size: 9pt; font-weight: 700; text-align: right; font-family: Arial, sans-serif; }
+.fig figcaption { font-size: 10pt; }
+.cap-top { text-align: center; font-weight: 700; margin-bottom: 1mm; }
+table.data { border-collapse: collapse; margin: 0 auto; font-size: 10.5pt; }
+table.data th, table.data td { border: 1px solid #000; padding: 1.2mm 2.5mm; text-align: center; vertical-align: middle; }
+table.data th { font-weight: 700; background: #f2f2f2; }
+.fig-source { border: 1px solid #000; padding: 2.5mm 3.5mm; }
+.src-label { font-weight: 700; font-family: Arial, sans-serif; }
+.src-prov { font-style: italic; font-size: 10pt; margin-bottom: 1.5mm; }
+.fig-passage .psg-title { font-weight: 700; font-family: Arial, sans-serif; font-size: 11.5pt; margin-bottom: 1mm; }
+.numbered .nl { display: grid; grid-template-columns: 9mm 1fr; }
+.numbered .ln { font-size: 8.5pt; color: #333; font-family: Arial, sans-serif; text-align: left; padding-top: .7mm; }
+.poem .numbered .lt { white-space: pre-wrap; }
+.fig-audio { border: 1px dashed #000; padding: 2mm 3mm; font-family: Arial, sans-serif; font-size: 10pt; }
+.audio-ctl { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 1.5mm; }
+.audio-ctl button { font: 600 10pt Arial, sans-serif; padding: 1.5mm 3mm; border: 1px solid #1d4f7a; background: #1d4f7a; color: #fff; border-radius: 4px; cursor: pointer; }
+.audio-ctl button + button { background: #fff; color: #1d4f7a; }
+.transcript { margin-top: 2mm; background: #f6f6f6; padding: 2mm; font-family: "Times New Roman", serif; font-size: 11pt; }
+.exporting .no-print { display: none !important; }
+
+/* cover pages */
+.cover-page .page-inner { top: 12mm; bottom: 12mm; left: 15mm; right: 15mm; }
+.cover { font-family: Arial, Helvetica, sans-serif; color: #000; height: 100%; display: flex; flex-direction: column; }
+.disclaimer-banner { border: 2px solid #000; text-align: center; font-weight: 700; font-size: 10.5pt; padding: 1.5mm; margin-bottom: 4mm; letter-spacing: .02em; }
+.pe-check { font-size: 8.5pt; text-align: center; margin-bottom: 1mm; }
+.cand-table { width: 100%; border-collapse: collapse; font-size: 9pt; margin-bottom: 6mm; }
+.cand-table td { border: 1px solid #000; padding: 2mm; height: 12mm; vertical-align: middle; }
+.cand-table td.lab { width: 20%; font-weight: 700; background: #f0f0f0; }
+.cand-table td.line { width: 30%; }
+.digit-boxes { display: inline-flex; gap: 0; }
+.digit-boxes span { width: 7mm; height: 8mm; border: 1px solid #000; margin-left: -1px; display: inline-block; }
+.pe-quals { font-size: 16pt; font-weight: 700; margin-top: 6mm; }
+.pe-subject { font-size: 22pt; font-weight: 700; margin-top: 3mm; }
+.pe-paper { font-size: 15pt; font-weight: 700; margin-top: 2mm; }
+.pe-sub { font-size: 11pt; margin-top: 1mm; }
+.pe-row { display: flex; justify-content: space-between; align-items: stretch; gap: 6mm; margin-top: 6mm; }
+.pe-time, .pe-ref { border: 1.4px solid #000; padding: 2mm 3mm; font-size: 11pt; flex: 1; }
+.pe-time span, .pe-ref span { display: block; font-size: 8pt; font-weight: 700; }
+.pe-must { border: 1.4px solid #000; padding: 2mm 3mm; font-size: 10pt; flex: 2; }
+.pe-total { border: 1.4px solid #000; padding: 2mm 3mm; font-size: 9pt; font-weight: 700; width: 38mm; }
+.tm-box { border: 1px solid #000; height: 12mm; margin-top: 1mm; }
+.pe-box { margin-top: 7mm; font-size: 10pt; }
+.pe-h { font-weight: 700; font-size: 12pt; margin: 3mm 0 1mm; }
+.pe-box ul, .cam-box ul { margin: 0; padding-left: 5mm; }
+.pe-box li, .cam-box li { margin: .8mm 0; }
+.pe-secnote { margin-top: 4mm; font-size: 10pt; }
+.cover-foot { margin-top: auto; font-size: 8.5pt; text-align: right; font-weight: 700; border-top: 1px solid #000; padding-top: 2mm; }
+.cam .cam-brand { font-size: 14pt; font-weight: 700; margin-bottom: 4mm; }
+.cam-title { display: flex; justify-content: space-between; font-size: 13pt; margin-top: 4mm; }
+.cam-paper { font-size: 11.5pt; display: flex; justify-content: space-between; margin-top: 2mm; border-bottom: 1px solid #000; padding-bottom: 2mm; }
+.cam-mat { font-size: 10pt; margin-top: 3mm; }
+.cam-box { margin-top: 6mm; font-size: 10.5pt; }
+.cam-h { font-weight: 700; margin: 3mm 0 1mm; }
+.cam .page-content, .cam ~ * { font-family: Arial, sans-serif; }
+.ms-cover { justify-content: flex-start; }
+.ms-title { font-size: 26pt; font-weight: 700; margin-top: 20mm; }
+.ms-sub { font-size: 14pt; margin-top: 4mm; }
+.ms-paper { font-size: 14pt; font-weight: 700; margin-top: 3mm; }
+.ms-code, .ms-meta { font-size: 11pt; margin-top: 3mm; }
+.ms-note { margin-top: 14mm; font-size: 10.5pt; border: 1px solid #000; padding: 4mm; line-height: 1.45; }
+
+/* reference sheet / insert */
+.ref-sheet { font-size: 10.5pt; }
+.ref-title { text-align: center; font: 700 13pt Arial, sans-serif; margin-bottom: 4mm; }
+.ref-foot { text-align: center; font-weight: 700; margin-top: 4mm; font-family: Arial, sans-serif; font-size: 9pt; }
+.insert-page .page-inner { left: 18mm; right: 18mm; }
+.insert-head { text-align: center; font-family: Arial, sans-serif; border-bottom: 1.4px solid #000; padding-bottom: 2mm; margin-bottom: 3mm; font-size: 10pt; }
+.ins-title { font-size: 15pt; font-weight: 700; }
+.insert-page .muted { color: #444; }
+
+/* mark scheme */
+.page-content.ms, .measure .ms { font-family: Arial, Helvetica, sans-serif; font-size: 9.5pt; line-height: 1.35; }
+.ms-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.ms-table td, .ms-table th { border: 1px solid #000; padding: 1.4mm 2mm; vertical-align: top; text-align: left; font-family: Arial, sans-serif; font-size: 9.5pt; }
+.ms-table.cont td { border-top: 0; }
+.ms-head th { background: #e8e8e8; font-weight: 700; }
+.ms-head { margin-bottom: -1px; }
+.c-m { text-align: center !important; font-weight: 700; }
+.ms-table .rich p { margin: 0 0 1mm; }
+.ms-qtotal { text-align: right; font-weight: 700; padding: 1mm 0 3mm; }
+.ms-guidance { font-size: 9.5pt; border: 1px solid #000; padding: 3mm 4mm; margin-bottom: 4mm; }
+.ms-g-title { font-weight: 700; font-size: 11pt; margin-bottom: 1mm; }
+.ms-guidance ul { margin: 0; padding-left: 5mm; }
+.ms-transcript { border: 1px solid #000; padding: 2mm; margin-bottom: 2mm; }
+.ms-transcript .fig-source { border: 0; padding: 0; }
+.lv-block { border: 1px solid #000; padding: 2mm; margin: 1mm 0; }
+.lv-head { margin-bottom: 1.5mm; }
+.lv-ind ul { margin: 1mm 0 2mm; padding-left: 5mm; }
+.lv-table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+.lv-table th, .lv-table td { border: 1px solid #000; padding: 1.2mm 2mm; vertical-align: top; text-align: left; }
+.lv-table th { background: #e8e8e8; }
+.lv-credit { font-style: italic; margin-top: 1.5mm; }
+.ms-general { font-size: 9pt; font-style: italic; padding: 1mm 0; }
+
+/* phones: scale pages to fit the screen (measurement happens unscaled) */
+@media (max-width: 840px) {
+  .doc-holder:not(.offscreen) .page { zoom: calc((100vw - 16px) / 210mm); }
+  .doc-holder:not(.offscreen) .page { zoom: 0.46; }
+}
+@media (min-width: 560px) and (max-width: 840px) { .doc-holder:not(.offscreen) .page { zoom: 0.68; } }
+.exporting .page { zoom: 1 !important; box-shadow: none; }
+@media print {
+  .no-print, .topbar, .paper-bar, .sitefoot { display: none !important; }
+  .doc-holder.offscreen { display: none; }
+  .doc { gap: 0; }
+  .page { box-shadow: none; page-break-after: always; }
+  @page { size: A4; margin: 0; }
+}
+
+.either-or { font-family: Arial, sans-serif; font-weight: 700; font-size: 11pt; margin: 3mm 0 1mm; }
+.final-ans .suffix { margin-left: 2mm; white-space: nowrap; }

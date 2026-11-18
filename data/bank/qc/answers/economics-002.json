@@ -1,0 +1,190 @@
+{
+ "batch": "economics-002",
+ "note": "Questions file was regenerated mid-check; these answers cover the regenerated items and were written after the mark scheme had already been opened, so they are not fully cold.",
+ "answers": {
+  "economics.costs-mcq-auth.0004": {
+   "all": "a loss"
+  },
+  "economics.costs-mcq-class.0005": {
+   "all": "Food ingredients"
+  },
+  "economics.costs-mcq-def.0002": {
+   "all": "Costs that change directly with the level of output, such as raw materials"
+  },
+  "economics.demand-analyse-1.0006": {
+   "all": "Income +5%: plant-based milk normal good, demand shifts right. Cheaper own-brand substitute: switching, demand for Meridian falls. Health campaigns: tastes shift towards it, demand rises. Net depends on strongest factor."
+  },
+  "economics.demand-analyse-2.0001": {
+   "all": "Larger population = more consumers, demand shifts right. Young families: schools, childcare, children's goods, housing. New estates: transport, local shops. Prices may rise where supply slow to respond."
+  },
+  "economics.demand-calc.0013": {
+   "all": "(1075-1180)/1180 x100 = -8.90%"
+  },
+  "economics.demand-define1.0001": {
+   "all": "The amount of a product consumers are willing and able to buy at each price over a period of time."
+  },
+  "economics.demand-define2.0008": {
+   "all": "A good for which demand falls when incomes rise (1), as consumers switch to better alternatives (1)."
+  },
+  "economics.demand-describe.0006": {
+   "all": "As price falls the product is more affordable (1) so consumers are willing and able to buy more (1)."
+  },
+  "economics.demand-diagram.0012": {
+   "all": "Complement cheaper, so demand for hot dogs shifts right to D1; P1 > Pe, Q1 > Qe."
+  },
+  "economics.demand-explain.0015": {
+   "all": "Demand falls (1); higher income tax cuts disposable income (1); Halvoria households eat out less as restaurant meals are normal goods (1)."
+  },
+  "economics.demand-mcq-auth.0003": {
+   "all": "A change in the price of tea"
+  },
+  "economics.demand-mcq-class.0003": {
+   "all": "A rise in consumers' incomes"
+  },
+  "economics.demand-mcq-def.0008": {
+   "all": "A good for which demand falls when incomes rise, as consumers switch to better alternatives"
+  },
+  "economics.demand-state.0009": {
+   "all": "Train / taxi / cycling"
+  },
+  "economics.demand-state-class.0001": {
+   "all": "A rise in consumers' incomes / a rise in the price of petrol"
+  },
+  "economics.demand-state-id.0008": {
+   "all": "a leftward shift of the demand curve for fizzy drinks"
+  },
+  "economics.economic-problem-analyse-1.0002": {
+   "all": "Finite tax revenue vs unlimited wants (healthcare, education, roads), so government must prioritise; opportunity cost of each choice; growing 37m population makes scarcity worse; may raise taxes or borrow."
+  },
+  "economics.economic-problem-analyse-2.0005": {
+   "all": "Skilled labour shortage limits expansion and pushes up wages; raw materials +12% raise costs; lower margins or higher prices; may automate."
+  },
+  "economics.economic-problem-analyse-3.0005": {
+   "all": "Opportunity cost = next best alternative forgone: the job at EUR449/week (~EUR23,000/yr) over 3-4 years, plus work experience; fees and living costs add to sacrifice; future higher earnings may outweigh it."
+  },
+  "economics.economic-problem-define1.0007": {
+   "all": "Natural resources used in production, e.g. minerals, soil, water."
+  },
+  "economics.economic-problem-define2.0002": {
+   "all": "How to allocate finite/scarce resources (1) to satisfy unlimited wants (1)."
+  },
+  "economics.economic-problem-describe.0001": {
+   "all": "Resources are finite (1) so using them for one good means they cannot be used for another (1)."
+  },
+  "economics.economic-problem-explain.0015": {
+   "all": "Land is scarce (1); the field can grow only one crop at a time (1), so if Lucia grows maize she gives up the flowers (1)."
+  },
+  "economics.economic-problem-mcq-auth.0006": {
+   "all": "the game of football given up"
+  },
+  "economics.economic-problem-mcq-class.0017": {
+   "all": "Rent"
+  },
+  "economics.economic-problem-mcq-def.0008": {
+   "all": "The human effort, physical and mental, used in the production of goods and services"
+  },
+  "economics.economic-problem-state.0017": {
+   "all": "Capital (machinery/robots)"
+  },
+  "economics.economic-problem-state-class.0002": {
+   "all": "A factory worker / bus driver"
+  },
+  "economics.economic-problem-state-id.0019": {
+   "all": "capital"
+  }
+ },
+ "verdicts": {
+  "economics.costs-mcq-auth.0004": {
+   "result": "pass"
+  },
+  "economics.costs-mcq-class.0005": {
+   "result": "pass"
+  },
+  "economics.costs-mcq-def.0002": {
+   "result": "pass"
+  },
+  "economics.demand-analyse-1.0006": {
+   "result": "pass"
+  },
+  "economics.demand-analyse-2.0001": {
+   "result": "pass"
+  },
+  "economics.demand-calc.0013": {
+   "result": "fail",
+   "problem": "Answer -8.90% is correct, but the context is illogical: sales fall after a rival shop closed (a rival closing should raise sales).",
+   "fix": "Change context to 'after a rival shop opened nearby'."
+  },
+  "economics.demand-define1.0001": {
+   "result": "pass"
+  },
+  "economics.demand-define2.0008": {
+   "result": "pass"
+  },
+  "economics.demand-describe.0006": {
+   "result": "pass"
+  },
+  "economics.demand-diagram.0012": {
+   "result": "pass"
+  },
+  "economics.demand-explain.0015": {
+   "result": "pass"
+  },
+  "economics.demand-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.demand-mcq-class.0003": {
+   "result": "pass"
+  },
+  "economics.demand-mcq-def.0008": {
+   "result": "pass"
+  },
+  "economics.demand-state.0009": {
+   "result": "pass"
+  },
+  "economics.demand-state-class.0001": {
+   "result": "pass"
+  },
+  "economics.demand-state-id.0008": {
+   "result": "pass"
+  },
+  "economics.economic-problem-analyse-1.0002": {
+   "result": "pass"
+  },
+  "economics.economic-problem-analyse-2.0005": {
+   "result": "pass"
+  },
+  "economics.economic-problem-analyse-3.0005": {
+   "result": "pass"
+  },
+  "economics.economic-problem-define1.0007": {
+   "result": "pass"
+  },
+  "economics.economic-problem-define2.0002": {
+   "result": "pass"
+  },
+  "economics.economic-problem-describe.0001": {
+   "result": "pass"
+  },
+  "economics.economic-problem-explain.0015": {
+   "result": "pass"
+  },
+  "economics.economic-problem-mcq-auth.0006": {
+   "result": "pass"
+  },
+  "economics.economic-problem-mcq-class.0017": {
+   "result": "pass"
+  },
+  "economics.economic-problem-mcq-def.0008": {
+   "result": "pass"
+  },
+  "economics.economic-problem-state.0017": {
+   "result": "pass"
+  },
+  "economics.economic-problem-state-class.0002": {
+   "result": "pass"
+  },
+  "economics.economic-problem-state-id.0019": {
+   "result": "pass"
+  }
+ }
+}

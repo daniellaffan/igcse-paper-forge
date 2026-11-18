@@ -1,0 +1,31 @@
+{
+ "batch": "english-language-004",
+ "answers": {
+  "english-language.q5.afterwater": {
+   "all": "Plan: Both writers meet local people while reporting. Text One: photographer reflective, self-critical, sees Issa as a person (camera bag, helped) vs earlier seeing flood victims as subjects; Alagiah: sees individuals behind the suffering, shame/guilt, humanity. Compare perspectives with quotes, methods (first-person reflection, details), AO1 selection + AO3 comparison."
+  },
+  "english-language.q5.whiteout": {
+   "all": "Plan: Danger in remote places. Text One: whiteout, disorientation, cold, similes; Ralston: trapped, extreme, life-threatening, matter-of-fact tone. Compare scale/immediacy of danger, tone, language (AO3), choose supporting quotes (AO1)."
+  },
+  "english-language.q5.stammer": {
+   "all": "Plan: Growing up with misunderstood difficulty. Text One Danny: stammer, teachers/classmates misjudge, bright-but-lazy report; Zephaniah: dyslexia, teachers misunderstood, success despite school. Compare experiences, attitudes (resilience, humour), tone and structure; quotes."
+  },
+  "english-language.q5.sump": {
+   "all": "Plan: Dangers faced. Text One caver: rising floodwater, Letterbox passage, confined, cold, panic; Ralston: trapped by boulder, isolation, desperate action. Compare nature of danger, tension, language/structure; quotes."
+  }
+ },
+ "verdicts": {
+  "english-language.q5.afterwater": {
+   "result": "pass"
+  },
+  "english-language.q5.whiteout": {
+   "result": "pass"
+  },
+  "english-language.q5.stammer": {
+   "result": "pass"
+  },
+  "english-language.q5.sump": {
+   "result": "pass"
+  }
+ }
+}

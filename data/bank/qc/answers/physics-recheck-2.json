@@ -1,0 +1,216 @@
+{
+ "batch": "physics-recheck-2",
+ "answers": {
+  "physics.astrophysics-cosmology-explain-kb.0004": {
+   "all": "Galaxy moving away stretches wavelength (Doppler effect); greater change in wavelength = greater speed, v = c*dlambda/lambda0"
+  },
+  "physics.astrophysics-cosmology-extended-kb.0004": {
+   "a": "Universe began from a single very small, very hot, dense point/ region and has been expanding since",
+   "b": "Plan: universe began ~13.8 bn yr ago from tiny hot dense point, expanded and cooled. Evidence: red-shift of distant galaxies - all receding; further galaxies greater red-shift so faster (expanding). CMB radiation - remnant of early hot universe, red-shifted to microwaves, uniform in all directions."
+  },
+  "physics.astrophysics-cosmology-mcq-kb.0005": {
+   "all": "increase"
+  },
+  "physics.astrophysics-cosmology-recall-kb.0009": {
+   "a": "dlambda/lambda0 = v/c",
+   "b": "Universe began from a single small, hot, dense point and has expanded since",
+   "c": "Further galaxies have greater red-shift (proportional)"
+  },
+  "physics.astrophysics-stars-describe-kb.0003": {
+   "all": "Main sequence: diagonal band top-left (hot, bright) to bottom-right (cool, dim); red giants: top right (cool, bright); white dwarfs: bottom left (hot, dim)"
+  },
+  "physics.astrophysics-stars-explain-kb.0013": {
+   "a": "High surface temperature but very small surface area so low luminosity / emits little total light",
+   "b": "Surface is relatively cool (~3000-4000 K); so peak emission at red end/ emits mostly red light"
+  },
+  "physics.astrophysics-stars-mcq-kb.0009": {
+   "a": "a white dwarf",
+   "b": "brightness at a standard distance",
+   "c": "main sequence star"
+  },
+  "physics.astrophysics-stars-recall-kb.0002": {
+   "all": "Absolute magnitude (or luminosity) and surface temperature (or colour/spectral class)"
+  },
+  "physics.astrophysics-universe-describe-kb.0010": {
+   "a": "Moon orbits a planet, planet orbits the Sun (star); moon orbit smaller radius/ shorter period",
+   "b": "Weight decreases (to about 1/6) because gravitational field strength smaller on the Moon; mass unchanged"
+  },
+  "physics.astrophysics-universe-explain-kb.0007": {
+   "a": "Direction of velocity continually changes so velocity changes; acceleration towards centre due to gravity",
+   "b": "Gravitational field strength smaller on Moon so smaller weight/ smaller downward force/deceleration; same take-off speed reaches greater height",
+   "c": "Larger orbit so greater distance to travel per orbit; and weaker gravity so lower orbital speed"
+  },
+  "physics.astrophysics-universe-mcq-kb.0001": {
+   "all": "the Milky Way"
+  },
+  "physics.astrophysics-universe-recall-kb.0003": {
+   "a": "v = 2*pi*r/T",
+   "b": "gravity (gravitational force)"
+  },
+  "physics.co-redshift.0012": {
+   "all": "dlambda=103.7 nm; v = 3e8*103.7/518.4 = 6.0e7 m/s"
+  },
+  "physics.electricity-charge-explain-kb.0011": {
+   "a": "Current is rate of flow of electrons/charge; electrons not used up and only one path so same number pass each point per second",
+   "b": "1.5 J of energy transferred per coulomb of charge (passing through the cell)"
+  },
+  "physics.electricity-charge-mcq-kb.0011": {
+   "a": "60 C",
+   "b": "1.8 A",
+   "c": "60 J"
+  },
+  "physics.electricity-charge-recall-kb.0007": {
+   "a": "E = Q x V",
+   "b": "coulomb (C)"
+  },
+  "physics.electricity-circuits-describe-kb.0010": {
+   "a": "No current in reverse direction (very high resistance); in forward direction little current until ~0.6-0.7 V threshold, then current rises steeply",
+   "b": "Straight line through origin; I proportional to V so V/I constant",
+   "c": "Slider changes length of wire/resistance in circuit; increasing resistance decreases current (and vice versa)"
+  },
+  "physics.electricity-circuits-explain-kb.0010": {
+   "a": "Thermistor resistance decreases as temperature rises; so current increases / voltage changes to trigger switch for fan",
+   "b": "LDR resistance increases as light level falls (dark); this change triggers the circuit to switch lights on",
+   "c": "Larger current heats the filament; atoms/ions vibrate more; more collisions with electrons so higher resistance"
+  },
+  "physics.electricity-circuits-extended-kb.0004": {
+   "a": "If one lamp breaks the others stay on (or each gets full voltage / switched independently)",
+   "b": "Plan: LDR in potential divider; in dark LDR resistance rises so its voltage share rises, triggering switch/relay to turn lamps on. Thermistor (NTC) in second potential divider; when cold its resistance rises so voltage across it rises, triggering switch for heater. Fixed/variable resistor sets threshold; reverse when bright/warm."
+  },
+  "physics.electricity-circuits-mcq-kb.0012": {
+   "a": "each lamp can be switched on and off independently",
+   "b": "2.0 A",
+   "c": "it decreases"
+  },
+  "physics.electricity-circuits-recall-kb.0004": {
+   "a": "V = I x R",
+   "b": "Resistance decreases"
+  },
+  "physics.electricity-mains-describe-kb.0009": {
+   "a": "Fuse in live wire; if current exceeds rating the wire heats and melts; breaks circuit, stopping current (preventing fire/overheating)",
+   "b": "Plastic/insulating case so live parts cannot touch accessible parts; user cannot get electric shock even if a wire comes loose"
+  },
+  "physics.electricity-mains-explain-kb.0008": {
+   "a": "Electrons collide with ions/atoms in the resistor; transferring energy, making ions vibrate more so temperature rises",
+   "b": "Plastic is an insulator; case cannot become live so no shock risk (earth not needed)"
+  },
+  "physics.electricity-mains-extended-kb.0011": {
+   "a": "P = I x V",
+   "b": "Plan: I = P/V = 2000/230 = 8.7 A; choose fuse just above normal current: 13 A (3 A and 5 A would blow in normal use). Too large a fuse: fault current may not melt it, wires overheat, fire risk/shock. Fuse in live wire."
+  },
+  "physics.electricity-mains-mcq-kb.0005": {
+   "all": "has a plastic case and does not need an earth wire"
+  },
+  "physics.electricity-mains-recall-kb.0003": {
+   "a": "P = I x V",
+   "b": "Current that repeatedly changes direction"
+  },
+  "physics.electricity-static-explain-kb.0001": {
+   "all": "Friction transfers electrons; electrons move from jumper to balloon so balloon has excess electrons"
+  },
+  "physics.electricity-static-extended-kb.0012": {
+   "a": "They attract",
+   "b": "Plan: rub two polythene rods with cloth, suspend one; bring other close - repel. Rub acetate rod, bring to polythene - attract. So two types. Polythene gains electrons (negative); acetate loses electrons (positive). Like charges repel, unlike attract."
+  },
+  "physics.electricity-static-mcq-kb.0004": {
+   "all": "charge flows through the metal and the person to earth"
+  },
+  "physics.electricity-static-recall-kb.0011": {
+   "a": "They attract",
+   "b": "e.g. polythene, rubber (plastic, glass, wood)",
+   "c": "electrons"
+  }
+ },
+ "verdicts": {
+  "physics.astrophysics-cosmology-explain-kb.0004": {
+   "result": "pass"
+  },
+  "physics.astrophysics-cosmology-extended-kb.0004": {
+   "result": "pass"
+  },
+  "physics.astrophysics-cosmology-mcq-kb.0005": {
+   "result": "pass"
+  },
+  "physics.astrophysics-cosmology-recall-kb.0009": {
+   "result": "pass"
+  },
+  "physics.astrophysics-stars-describe-kb.0003": {
+   "result": "pass"
+  },
+  "physics.astrophysics-stars-explain-kb.0013": {
+   "result": "pass"
+  },
+  "physics.astrophysics-stars-mcq-kb.0009": {
+   "result": "pass"
+  },
+  "physics.astrophysics-stars-recall-kb.0002": {
+   "result": "pass"
+  },
+  "physics.astrophysics-universe-describe-kb.0010": {
+   "result": "pass"
+  },
+  "physics.astrophysics-universe-explain-kb.0007": {
+   "result": "pass"
+  },
+  "physics.astrophysics-universe-mcq-kb.0001": {
+   "result": "pass"
+  },
+  "physics.astrophysics-universe-recall-kb.0003": {
+   "result": "pass"
+  },
+  "physics.co-redshift.0012": {
+   "result": "pass"
+  },
+  "physics.electricity-charge-explain-kb.0011": {
+   "result": "pass"
+  },
+  "physics.electricity-charge-mcq-kb.0011": {
+   "result": "pass"
+  },
+  "physics.electricity-charge-recall-kb.0007": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-describe-kb.0010": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-explain-kb.0010": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-extended-kb.0004": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-mcq-kb.0012": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-recall-kb.0004": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-describe-kb.0009": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-explain-kb.0008": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-extended-kb.0011": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-mcq-kb.0005": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-recall-kb.0003": {
+   "result": "pass"
+  },
+  "physics.electricity-static-explain-kb.0001": {
+   "result": "pass"
+  },
+  "physics.electricity-static-extended-kb.0012": {
+   "result": "pass"
+  },
+  "physics.electricity-static-mcq-kb.0004": {
+   "result": "pass"
+  },
+  "physics.electricity-static-recall-kb.0011": {
+   "result": "pass"
+  }
+ }
+}

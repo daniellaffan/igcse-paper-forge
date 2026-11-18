@@ -1,0 +1,191 @@
+{
+ "batch": "economics-005",
+ "answers": {
+  "economics.fiscal-assess-3.0001": {
+   "all": "Direct: progressive, raise large sums, fair; but disincentive to work (conflicts with aim), avoidance. Indirect: no direct work disincentive, hard to avoid, can target demerit goods; but regressive, raise prices/inflation. Judgement: indirect/mix fits aim, depends on equity concerns."
+  },
+  "economics.fiscal-calc.0014": {
+   "all": "Direct = income tax + corporation tax = 27.2 + 9.8 = G\u00a337.0bn"
+  },
+  "economics.fiscal-data.0013": {
+   "a": "40.381 - 37.391 = O\u00a32.99bn surplus",
+   "b": "Indirect taxes do not reduce reward from work, hard to evade, broad base, target demerit goods, raise revenue quickly.",
+   "c": "As assess-3: direct progressive but disincentive; indirect no work disincentive but regressive/inflationary; judgement."
+  },
+  "economics.fiscal-define1.0006": {
+   "all": "The total amount of money the government owes from past borrowing (accumulated deficits)."
+  },
+  "economics.fiscal-define2.0006": {
+   "all": "The total accumulated debt owed by the government (1) built up from past budget deficits / borrowing (1)."
+  },
+  "economics.fiscal-describe.0013": {
+   "all": "A direct tax is levied on income/wealth and paid directly to government by the person (e.g. income tax) (1); an indirect tax is on spending on goods and services, collected via sellers (e.g. VAT) (1)."
+  },
+  "economics.fiscal-evaluate-1.0005": {
+   "all": "For: debt 102% high, interest costs, confidence. Against: cuts reduce AD/growth, unemployment, worse services, regressive sales tax, lower revenue. Judgement on timing/state of economy."
+  },
+  "economics.fiscal-evaluate-2.0003": {
+   "all": "Benefits: jobs, growth, investment, lower pollution, competitiveness. Costs: opportunity cost of G\u00a342bn, retaliation, inefficiency, time lag. Judgement."
+  },
+  "economics.fiscal-evaluate-3.0003": {
+   "all": "As assess-3 for Kaleda with supported judgement."
+  },
+  "economics.fiscal-explain.0014": {
+   "all": "Bonds let the council raise a large sum now (1) without raising local taxes, spreading cost over the life of the asset (1); funds the \u20ab79m public transport project immediately (1)."
+  },
+  "economics.fiscal-mcq-auth.0003": {
+   "all": "borrow to cover the gap"
+  },
+  "economics.fiscal-mcq-class.0003": {
+   "all": "Inheritance tax"
+  },
+  "economics.fiscal-mcq-def.0007": {
+   "all": "Increasing government spending and/or cutting taxes to increase total demand"
+  },
+  "economics.fiscal-state.0006": {
+   "all": "Raise taxes (or cut government spending)"
+  },
+  "economics.fiscal-state-class.0003": {
+   "all": "Cutting income tax / increasing government spending"
+  },
+  "economics.fiscal-state-id.0007": {
+   "all": "expansionary fiscal policy"
+  },
+  "economics.globalisation-analyse-1.0005": {
+   "all": "More choice, lower prices from competition and economies of scale, better quality, access online; Porto stores; but slowing trade growth."
+  },
+  "economics.globalisation-analyse-2.0003": {
+   "all": "Jobs, incomes, multiplier, tax revenue (after tax breaks), technology/skills transfer, exports, growth from O\u00a3948m investment."
+  },
+  "economics.globalisation-analyse-3.0001": {
+   "all": "Low wages, poor conditions, exploitation, profits repatriated, dependence on MNCs (footloose), environmental damage, little skills transfer."
+  },
+  "economics.globalisation-assess-1.0004": {
+   "all": "Benefits: choice, lower prices, quality. Against: domestic firms close/job losses, loss of culture, exchange-rate risk, unequal gains. Judgement."
+  },
+  "economics.globalisation-assess-2.0006": {
+   "all": "For: attracts FDI M$1301m, jobs, technology, growth. Against: lost revenue, race to bottom, footloose MNCs, profits repatriated, unfair to domestic firms. Judgement."
+  },
+  "economics.globalisation-assess-3.0006": {
+   "all": "For: 3m jobs, mainly women, incomes, exports. Against: low wages, conditions, dependence, profits leave. Judgement."
+  },
+  "economics.globalisation-calc.0015": {
+   "all": "(9.1-6.3)/6.3 x 100 = 44.44%"
+  },
+  "economics.globalisation-define1.0002": {
+   "all": "A firm that has its headquarters in one country and operates/produces in more than one country."
+  },
+  "economics.globalisation-define2.0004": {
+   "all": "A country in which a multinational corporation sets up operations (1), that is not its home country where it is headquartered (1)."
+  },
+  "economics.globalisation-describe.0006": {
+   "all": "Profits are sent back to the home country (1) so less income stays in the host economy (1). (Or domestic firms forced out.)"
+  },
+  "economics.globalisation-evaluate-1.0002": {
+   "all": "As assess-1 for Oman with supported judgement."
+  },
+  "economics.globalisation-evaluate-2.0003": {
+   "all": "As assess-2 for Zentara, Z\u00a31389m, with judgement."
+  },
+  "economics.globalisation-evaluate-3.0003": {
+   "all": "As assess-3 for Portugal, 1m jobs, with judgement."
+  },
+  "economics.globalisation-explain.0005": {
+   "all": "Creates 3,000 jobs (1) so incomes rise, more spending and multiplier (1), reducing unemployment in Bangladesh (1)."
+  }
+ },
+ "verdicts": {
+  "economics.fiscal-assess-3.0001": {
+   "result": "pass"
+  },
+  "economics.fiscal-calc.0014": {
+   "result": "pass"
+  },
+  "economics.fiscal-data.0013": {
+   "result": "pass"
+  },
+  "economics.fiscal-define1.0006": {
+   "result": "pass"
+  },
+  "economics.fiscal-define2.0006": {
+   "result": "pass"
+  },
+  "economics.fiscal-describe.0013": {
+   "result": "pass"
+  },
+  "economics.fiscal-evaluate-1.0005": {
+   "result": "pass"
+  },
+  "economics.fiscal-evaluate-2.0003": {
+   "result": "pass"
+  },
+  "economics.fiscal-evaluate-3.0003": {
+   "result": "pass"
+  },
+  "economics.fiscal-explain.0014": {
+   "result": "pass"
+  },
+  "economics.fiscal-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.fiscal-mcq-class.0003": {
+   "result": "pass"
+  },
+  "economics.fiscal-mcq-def.0007": {
+   "result": "pass"
+  },
+  "economics.fiscal-state.0006": {
+   "result": "pass"
+  },
+  "economics.fiscal-state-class.0003": {
+   "result": "pass"
+  },
+  "economics.fiscal-state-id.0007": {
+   "result": "pass"
+  },
+  "economics.globalisation-analyse-1.0005": {
+   "result": "pass"
+  },
+  "economics.globalisation-analyse-2.0003": {
+   "result": "pass"
+  },
+  "economics.globalisation-analyse-3.0001": {
+   "result": "fail",
+   "problem": "Question asks for costs of producing for MNCs, but the indicative content lists only benefits (jobs, export earnings, incomes, skills).",
+   "fix": "Indicative content: low wages and poor conditions; dependence on footloose MNCs; profits repatriated to foreign owners; environmental damage; limited skills transfer, applied to Uganda's 4 million workers."
+  },
+  "economics.globalisation-assess-1.0004": {
+   "result": "pass"
+  },
+  "economics.globalisation-assess-2.0006": {
+   "result": "pass"
+  },
+  "economics.globalisation-assess-3.0006": {
+   "result": "pass"
+  },
+  "economics.globalisation-calc.0015": {
+   "result": "pass"
+  },
+  "economics.globalisation-define1.0002": {
+   "result": "pass"
+  },
+  "economics.globalisation-define2.0004": {
+   "result": "pass"
+  },
+  "economics.globalisation-describe.0006": {
+   "result": "pass"
+  },
+  "economics.globalisation-evaluate-1.0002": {
+   "result": "pass"
+  },
+  "economics.globalisation-evaluate-2.0003": {
+   "result": "pass"
+  },
+  "economics.globalisation-evaluate-3.0003": {
+   "result": "pass"
+  },
+  "economics.globalisation-explain.0005": {
+   "result": "pass"
+  }
+ }
+}

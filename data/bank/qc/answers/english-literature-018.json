@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-018",
+ "answers": {
+  "english-literature.unseen-storm-estuary.0003": {
+   "all": "Plan (Storm over Estuary (original); landscape changed by weather): Weather transforming land/water, colour, verbs."
+  },
+  "english-literature.unseen-storm-estuary.0002": {
+   "all": "Plan (Storm over Estuary (original); fear and excitement): Mixed emotions, power of storm, structure building."
+  },
+  "english-literature.unseen-street-cricket.0002": {
+   "all": "Plan (Street Cricket (original); childhood games): Improvised pitch, energy, rules, nostalgia."
+  },
+  "english-literature.unseen-street-cricket.0001": {
+   "all": "Plan (Street Cricket (original); a community): Neighbours, shared space, collective voice."
+  },
+  "english-literature.unseen-suitcase.0002": {
+   "all": "Plan (Suitcase (original); home and belonging): Packed life, migration, displacement."
+  },
+  "english-literature.unseen-suitcase.0003": {
+   "all": "Plan (Suitcase (original); family history): Object carrying past generations, inheritance."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.unseen-storm-estuary.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-storm-estuary.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-street-cricket.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-street-cricket.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-suitcase.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-suitcase.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

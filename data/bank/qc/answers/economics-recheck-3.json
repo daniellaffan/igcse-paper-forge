@@ -1,0 +1,193 @@
+{
+ "batch": "economics-recheck-3",
+ "answers": {
+  "economics.economic-problem-explain.0020": {
+   "all": "Reduces quantity of labour (working-age, young workers) -> fewer workers, skills shortages, lower productive capacity / PPF shifts inward; possibly less enterprise too."
+  },
+  "economics.economic-problem-mcq-auth.0006": {
+   "all": "the game of football given up"
+  },
+  "economics.economic-problem-mcq-class.0010": {
+   "all": "A delivery van"
+  },
+  "economics.economic-problem-mcq-def.0001": {
+   "all": "Resources limited while wants unlimited, so choices must be made"
+  },
+  "economics.economic-problem-state.0008": {
+   "all": "What to produce (or how to produce / for whom to produce)"
+  },
+  "economics.economic-problem-state-class.0004": {
+   "all": "An entrepreneur taking the risk of opening a new shop / organising the other factors"
+  },
+  "economics.economic-problem-state-id.0003": {
+   "all": "land"
+  },
+  "economics.exchange-data.0014": {
+   "a": "(142.51-134.44)/134.44 x100 = 6.00%",
+   "b": "Uncertain export revenue/import costs in rand; hard to set prices and plan investment; profit margins squeezed; may need hedging costs; reduces investment and trade; link to 9% monthly change.",
+   "c": "For: stability aids planning, investment, exports, inflation control. Against: costly use of reserves, interest rate changes harm growth, may fail against market forces, loses monetary independence. Depends on cause and reserves."
+  },
+  "economics.globalisation-analyse-3.0004": {
+   "all": "Low wages/poor conditions, exploitation; profits repatriated; reliance on MNCs which may relocate (footloose) causing unemployment; dependence on low-value manufacturing; environmental costs. NB context implausible for Singapore (high-wage economy)."
+  },
+  "economics.globalisation-mcq-auth.0002": {
+   "all": "more international trade"
+  },
+  "economics.globalisation-mcq-class.0012": {
+   "all": "Growth of multinational corporations"
+  },
+  "economics.globalisation-mcq-def.0001": {
+   "all": "The growing integration and interdependence of the world's economies..."
+  },
+  "economics.globalisation-state.0001": {
+   "all": "Access to cheaper labour / new markets / avoid tariffs"
+  },
+  "economics.globalisation-state-class.0002": {
+   "all": "Profits sent back to the home country"
+  },
+  "economics.globalisation-state-id.0010": {
+   "all": "a cause of globalisation"
+  },
+  "economics.government-analyse-1.0008": {
+   "all": "Job losses as private owner cuts costs to raise profit; wage/condition changes; possible higher pay/training via investment as passenger numbers rise; union conflict/strikes; loss of job security."
+  },
+  "economics.government-analyse-2.0007": {
+   "all": "Lower fares (prices rising faster than inflation) as not profit-driven; improved service via government investment; integrated network; protect jobs; social objectives over profit."
+  },
+  "economics.government-assess-1.0004": {
+   "all": "Benefit: efficiency, investment, competition, better service given rising demand. Against: private monopoly raises prices, safety cuts without subsidies. Depends on regulation and competition."
+  },
+  "economics.government-assess-2.0002": {
+   "all": "For: prices rising, poor service, natural monopoly, essential good. Against: cost to taxpayer, government inefficiency, lack of profit incentive; alternative stronger regulation."
+  },
+  "economics.government-define1.0004": {
+   "all": "Removal of rules/regulations restricting firms, to increase competition"
+  },
+  "economics.government-define2.0002": {
+   "all": "Transfer of a firm/industry from private sector into public sector (state) ownership"
+  },
+  "economics.government-describe.0013": {
+   "all": "Raises revenue from the sale, which can fund spending or reduce borrowing; also removes need for subsidies"
+  },
+  "economics.government-evaluate-1.0007": {
+   "all": "As assess-1 with judgement: depends on regulator, competition from other airports, use of rising passenger revenue; short vs long run."
+  },
+  "economics.government-evaluate-2.0007": {
+   "all": "For: prices, service, natural monopoly/essential. Against: cost, inefficiency; alternatives regulation/price caps. Judgement depends on cause of poor service."
+  },
+  "economics.government-explain.0011": {
+   "all": "To protect 18,000 jobs; avoiding unemployment and multiplier effects on local economy and lost tax revenue/benefit costs; also strategic energy supply."
+  },
+  "economics.government-mcq-auth.0002": {
+   "all": "protect a strategic industry"
+  },
+  "economics.government-mcq-class.0001": {
+   "all": "The government selling its national airline to private investors"
+  },
+  "economics.government-mcq-def.0001": {
+   "all": "Transfer from public sector to private sector"
+  },
+  "economics.growth-analyse-1.0003": {
+   "all": "Higher incomes/living standards, more jobs, higher tax revenue for public services, firm profits and investment; benefits from new factories and mines."
+  },
+  "economics.growth-analyse-2.0001": {
+   "all": "Falling demand/sales and revenue, lower profits, reduced investment, redundancies, possible closures; high energy costs raise costs; inferior-good firms may gain."
+  }
+ },
+ "verdicts": {
+  "economics.economic-problem-explain.0020": {
+   "result": "pass"
+  },
+  "economics.economic-problem-mcq-auth.0006": {
+   "result": "pass"
+  },
+  "economics.economic-problem-mcq-class.0010": {
+   "result": "pass"
+  },
+  "economics.economic-problem-mcq-def.0001": {
+   "result": "pass"
+  },
+  "economics.economic-problem-state.0008": {
+   "result": "pass"
+  },
+  "economics.economic-problem-state-class.0004": {
+   "result": "pass"
+  },
+  "economics.economic-problem-state-id.0003": {
+   "result": "pass"
+  },
+  "economics.exchange-data.0014": {
+   "result": "pass"
+  },
+  "economics.globalisation-analyse-3.0004": {
+   "result": "fail",
+   "problem": "Context is factually implausible: Singapore is a high-wage economy and does not have over 1 million low-wage garment workers (about a quarter of its workforce).",
+   "fix": "Use a low-wage garment-exporting country (e.g. Bangladesh or Cambodia) or a fictional country name."
+  },
+  "economics.globalisation-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.globalisation-mcq-class.0012": {
+   "result": "pass"
+  },
+  "economics.globalisation-mcq-def.0001": {
+   "result": "pass"
+  },
+  "economics.globalisation-state.0001": {
+   "result": "pass"
+  },
+  "economics.globalisation-state-class.0002": {
+   "result": "fail",
+   "problem": "Grammatical error in stem: 'State one a drawback'.",
+   "fix": "State one drawback for a host country when multinational corporations set up there."
+  },
+  "economics.globalisation-state-id.0010": {
+   "result": "pass"
+  },
+  "economics.government-analyse-1.0008": {
+   "result": "pass"
+  },
+  "economics.government-analyse-2.0007": {
+   "result": "pass"
+  },
+  "economics.government-assess-1.0004": {
+   "result": "pass"
+  },
+  "economics.government-assess-2.0002": {
+   "result": "pass"
+  },
+  "economics.government-define1.0004": {
+   "result": "pass"
+  },
+  "economics.government-define2.0002": {
+   "result": "pass"
+  },
+  "economics.government-describe.0013": {
+   "result": "pass"
+  },
+  "economics.government-evaluate-1.0007": {
+   "result": "pass"
+  },
+  "economics.government-evaluate-2.0007": {
+   "result": "pass"
+  },
+  "economics.government-explain.0011": {
+   "result": "pass"
+  },
+  "economics.government-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.government-mcq-class.0001": {
+   "result": "pass"
+  },
+  "economics.government-mcq-def.0001": {
+   "result": "pass"
+  },
+  "economics.growth-analyse-1.0003": {
+   "result": "pass"
+  },
+  "economics.growth-analyse-2.0001": {
+   "result": "pass"
+  }
+ }
+}

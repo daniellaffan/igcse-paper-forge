@@ -1,0 +1,226 @@
+{
+ "batch": "further-maths-003",
+ "answers": {
+  "further-maths.ll-solve.0012": {
+   "all": "u-6/u=-1: u^2+u-6=0, u=2 or -3: x=16, x=1/64"
+  },
+  "further-maths.ll-solve.0021": {
+   "all": "(x+3)ln3=(2x+3)ln7: x=3ln(7/3)/(ln3-2ln7)=-0.910"
+  },
+  "further-maths.ll-solve.0009": {
+   "all": "4x-3=log3 500: x=2.16"
+  },
+  "further-maths.ll-solve.0005": {
+   "all": "u^2-136u+1375=0: u=125,11: x=3, x=1.49"
+  },
+  "further-maths.qd-short.0004": {
+   "all": "9-4k(k+4)=0: 4k^2+16k-9=0: k=1/2, -9/2"
+  },
+  "further-maths.qd-short.0011": {
+   "all": "disc=25-4k^2<0: k<-5/2 or k>5/2"
+  },
+  "further-maths.qd-short.0021": {
+   "all": "(k+5)^2-4(k+1)^2>0: (3-k)(3k+7)>0: -7/3<k<3, k\u2260-1"
+  },
+  "further-maths.qd-show.0006": {
+   "all": "disc=k^2+8k+40=(k+4)^2+24>0 for all k"
+  },
+  "further-maths.qd-show.0018": {
+   "a": "x^2+2x+1=0, disc 0 so tangent",
+   "b": "(-1,2)"
+  },
+  "further-maths.qm-multi.0015": {
+   "a": "p=-3, q=2",
+   "b": "2(x-3/4)^2+7/8",
+   "c": "2x^2-3x-8<0: (3-\u221a73)/4<x<(3+\u221a73)/4"
+  },
+  "further-maths.qm-multi.0017": {
+   "a": "2(x+3/2)^2+13/2: A=2,B=3/2,C=13/2",
+   "b": "(-3/2,13/2)",
+   "c": "U-shape, min (-3/2,13/2), y-int (0,11)",
+   "d": "k>13/2"
+  },
+  "further-maths.qm-short.0009": {
+   "a": "(x-2)^2+1: a=1,b=-2,c=1",
+   "b": "min 1 at x=2"
+  },
+  "further-maths.qm-short.0007": {
+   "a": "0-3(x+1)^2: a=3,b=1,c=0",
+   "b": "max 0 at x=-1"
+  },
+  "further-maths.qm-short.0006": {
+   "a": "(2y-5)(y-2)",
+   "b": "x=1, x=log2(5/2)"
+  },
+  "further-maths.qr-multi.0022": {
+   "a": "-9, -1",
+   "b": "85",
+   "c": "sum -9, product 5\u03b1\u03b2-2(\u03b1\u00b2+\u03b2\u00b2)=-171: x^2+9x-171=0"
+  },
+  "further-maths.qr-short.0022": {
+   "i": "61/10",
+   "ii": "31/2"
+  },
+  "further-maths.qr-show.0005": {
+   "a": "expand",
+   "b": "64/27-20/3=-116/27",
+   "c": "-14/9"
+  },
+  "further-maths.qr-show.0008": {
+   "a": "\u03b1\u03b2=3\u03b2^2=3 so \u03b2^2=1",
+   "b": "\u03b1+\u03b2=4\u03b2=-p/2: p=-8 or 8"
+  },
+  "further-maths.sa-applied.0001": {
+   "a": "18",
+   "b": "242",
+   "c": "2"
+  },
+  "further-maths.sa-applied.0012": {
+   "a": "6.25 km",
+   "b": "162.75 km",
+   "c": "37 days"
+  },
+  "further-maths.sa-applied.0021": {
+   "a": "$94",
+   "b": "$1824",
+   "c": "32 months"
+  },
+  "further-maths.sa-applied.0018": {
+   "a": "103",
+   "b": "2147",
+   "c": "23 rows"
+  },
+  "further-maths.sa-multi.0005": {
+   "a": "a=6, d=6",
+   "b": "n/2(12+6(n-1))=3n^2+3n",
+   "c": "n=29"
+  },
+  "further-maths.sa-short.0015": {
+   "a": "35",
+   "b": "1085"
+  },
+  "further-maths.sa-short.0012": {
+   "all": "4n^2-3n-5365=0: n=37"
+  },
+  "further-maths.sa-short.0010": {
+   "all": "d=8, a=19: S43=8041"
+  },
+  "further-maths.sg-applied.0018": {
+   "a": "1.58 m",
+   "b": "35 m"
+  },
+  "further-maths.sg-applied.0019": {
+   "a": "$352850",
+   "b": "year 6"
+  },
+  "further-maths.sg-applied.0010": {
+   "a": "$2991",
+   "b": "7 years"
+  },
+  "further-maths.sg-multi.0012": {
+   "a": "a=120(1-r), ar=30 gives 120r^2-120r+30=0",
+   "b": "4r^2-4r+1=0: r=1/2 repeated root; no other value to reject",
+   "c": "120(1/2)^n<1/2: n=8"
+  }
+ },
+ "verdicts": {
+  "further-maths.ll-solve.0012": {
+   "result": "pass"
+  },
+  "further-maths.ll-solve.0021": {
+   "result": "pass"
+  },
+  "further-maths.ll-solve.0009": {
+   "result": "pass"
+  },
+  "further-maths.ll-solve.0005": {
+   "result": "pass"
+  },
+  "further-maths.qd-short.0004": {
+   "result": "pass"
+  },
+  "further-maths.qd-short.0011": {
+   "result": "pass"
+  },
+  "further-maths.qd-short.0021": {
+   "result": "fail",
+   "problem": "Final answer -7/3<k<3 does not exclude k=-1, where the x^2 coefficient is zero and the equation is linear (-4x=0, one root).",
+   "fix": "-7/3<k<3, k\u2260-1"
+  },
+  "further-maths.qd-show.0006": {
+   "result": "pass"
+  },
+  "further-maths.qd-show.0018": {
+   "result": "pass"
+  },
+  "further-maths.qm-multi.0015": {
+   "result": "fail",
+   "problem": "Mark scheme (c) guidance contains an unfilled template placeholder '[M1 solves ${ex} = {lim}$]'.",
+   "fix": "[M1 solves 2x^2-3x+2=10, i.e. 2x^2-3x-8=0]"
+  },
+  "further-maths.qm-multi.0017": {
+   "result": "pass"
+  },
+  "further-maths.qm-short.0009": {
+   "result": "pass"
+  },
+  "further-maths.qm-short.0007": {
+   "result": "pass"
+  },
+  "further-maths.qm-short.0006": {
+   "result": "pass"
+  },
+  "further-maths.qr-multi.0022": {
+   "result": "pass"
+  },
+  "further-maths.qr-short.0022": {
+   "result": "pass"
+  },
+  "further-maths.qr-show.0005": {
+   "result": "pass"
+  },
+  "further-maths.qr-show.0008": {
+   "result": "pass"
+  },
+  "further-maths.sa-applied.0001": {
+   "result": "pass"
+  },
+  "further-maths.sa-applied.0012": {
+   "result": "pass"
+  },
+  "further-maths.sa-applied.0021": {
+   "result": "pass"
+  },
+  "further-maths.sa-applied.0018": {
+   "result": "pass"
+  },
+  "further-maths.sa-multi.0005": {
+   "result": "fail",
+   "problem": "Typo in stem: 'The 3th term'.",
+   "fix": "'The 3rd term'"
+  },
+  "further-maths.sa-short.0015": {
+   "result": "pass"
+  },
+  "further-maths.sa-short.0012": {
+   "result": "pass"
+  },
+  "further-maths.sa-short.0010": {
+   "result": "pass"
+  },
+  "further-maths.sg-applied.0018": {
+   "result": "pass"
+  },
+  "further-maths.sg-applied.0019": {
+   "result": "pass"
+  },
+  "further-maths.sg-applied.0010": {
+   "result": "pass"
+  },
+  "further-maths.sg-multi.0012": {
+   "result": "fail",
+   "problem": "120r^2-120r+30=0 has a repeated root r=1/2, so (b) 'explaining why any other value is rejected' is impossible, and (c) 'for the value of r equal to 1/2' is redundant.",
+   "fix": "Change (b) to 'Find the value of r' (repeated root), or alter the data so there are two roots and one fails |r|<1."
+  }
+ }
+}

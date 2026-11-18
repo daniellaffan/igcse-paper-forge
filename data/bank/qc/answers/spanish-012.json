@@ -1,0 +1,142 @@
+{
+ "batch": "spanish-012",
+ "answers": {
+  "spanish.r-text-mcq.c2.0007": {
+   "a": "B",
+   "b": "B",
+   "c": "A",
+   "d": "B",
+   "e": "B",
+   "f": "A",
+   "g": "A"
+  },
+  "spanish.r-text-mcq.c3.0010": {
+   "a": "C",
+   "b": "A",
+   "c": "A",
+   "d": "C",
+   "e": "A",
+   "f": "A",
+   "g": "A"
+  },
+  "spanish.r-text-mcq.c4.0012": {
+   "a": "A",
+   "b": "A",
+   "c": "A",
+   "d": "C",
+   "e": "A",
+   "f": "C",
+   "g": "A"
+  },
+  "spanish.r-text-mcq.d1.0002": {
+   "a": "B",
+   "b": "A",
+   "c": "A",
+   "d": "B",
+   "e": "B",
+   "f": "B",
+   "g": "B"
+  },
+  "spanish.r-text-mcq.d2.0005": {
+   "a": "A",
+   "b": "C",
+   "c": "B",
+   "d": "A",
+   "e": "A",
+   "f": "A",
+   "g": "B"
+  },
+  "spanish.r-text-mcq.e1.0009": {
+   "a": "B",
+   "b": "B",
+   "c": "C",
+   "d": "C",
+   "e": "B",
+   "f": "B",
+   "g": "C"
+  },
+  "spanish.r-text-mcq.e2.0003": {
+   "a": "B",
+   "b": "C",
+   "c": "C",
+   "d": "B",
+   "e": "A",
+   "f": "C",
+   "g": "C"
+  },
+  "spanish.s-conversation.a2.0012": {
+   "all": "Examiner script: 5 questions per topic covering present, opinion+justification (Q3), past (Q4), future/conditional (Q5); candidate answers developed with reasons and range of tenses; marked on communication/language criteria."
+  },
+  "spanish.s-conversation.a3.0013": {
+   "all": "Examiner script: 5 questions per topic covering present, opinion+justification (Q3), past (Q4), future/conditional (Q5); candidate answers developed with reasons and range of tenses; marked on communication/language criteria.",
+   "note": "raw template 'enferm<o|a>' / 'san<o|a>' left unrendered"
+  },
+  "spanish.s-conversation.a4.0008": {
+   "all": "Examiner script: 5 questions per topic covering present, opinion+justification (Q3), past (Q4), future/conditional (Q5); candidate answers developed with reasons and range of tenses; marked on communication/language criteria."
+  },
+  "spanish.s-conversation.b1.0007": {
+   "all": "Examiner script: 5 questions per topic covering present, opinion+justification (Q3), past (Q4), future/conditional (Q5); candidate answers developed with reasons and range of tenses; marked on communication/language criteria."
+  },
+  "spanish.s-conversation.b2.0009": {
+   "all": "Examiner script: 5 questions per topic covering present, opinion+justification (Q3), past (Q4), future/conditional (Q5); candidate answers developed with reasons and range of tenses; marked on communication/language criteria."
+  },
+  "spanish.s-conversation.b4.0002": {
+   "all": "Examiner script: 5 questions per topic covering present, opinion+justification (Q3), past (Q4), future/conditional (Q5); candidate answers developed with reasons and range of tenses; marked on communication/language criteria."
+  },
+  "spanish.s-conversation.b5.0005": {
+   "all": "Examiner script: 5 questions per topic covering present, opinion+justification (Q3), past (Q4), future/conditional (Q5); candidate answers developed with reasons and range of tenses; marked on communication/language criteria."
+  },
+  "spanish.s-conversation.c1.0008": {
+   "all": "Examiner script: 5 questions per topic covering present, opinion+justification (Q3), past (Q4), future/conditional (Q5); candidate answers developed with reasons and range of tenses; marked on communication/language criteria."
+  }
+ },
+ "verdicts": {
+  "spanish.r-text-mcq.c2.0007": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.c3.0010": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.c4.0012": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.d1.0002": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.d2.0005": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.e1.0009": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.e2.0003": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.a2.0012": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.a3.0013": {
+   "result": "fail",
+   "problem": "Examiner questions contain unrendered gender template text ('enferm<o|a>', 'san<o|a>') in C1 Q1, Q4 and Q5.",
+   "fix": "Render as 'enfermo/enferma' and 'sano/sana' (as done with 'pequeño/pequeña' elsewhere)."
+  },
+  "spanish.s-conversation.a4.0008": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.b1.0007": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.b2.0009": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.b4.0002": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.b5.0005": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.c1.0008": {
+   "result": "pass"
+  }
+ }
+}

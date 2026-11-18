@@ -1,0 +1,208 @@
+{
+ "batch": "biology-018",
+ "answers": {
+  "biology.respiration-mcq-rev.0003": {
+   "all": "Produces ethanol and carbon dioxide without using oxygen"
+  },
+  "biology.respiration-prac-method.0003": {
+   "all": "mix yeast with glucose solution in tube; cover with oil layer (anaerobic); delivery tube into limewater; warm water bath ~35 C; control with boiled yeast; observe limewater turning cloudy over time"
+  },
+  "biology.respiration-prac-plan.0001": {
+   "all": "plan: germinating seeds in vacuum flask vs boiled (dead) seeds disinfected; thermometer through cotton wool plug; same mass seeds, same starting temp, same flask type; record temp daily for several days; repeat"
+  },
+  "biology.respiration-prac-reliab.0002": {
+   "a": "identify anomalies, calculate mean; biological variation, more reliable",
+   "b": "respirometer with glass beads (same volume/mass) instead of woodlice; shows drop movement is due to woodlice respiration, not temperature/pressure changes"
+  },
+  "biology.respiration-prac-risk.0001": {
+   "a": "glass thermometer/flask breaking - handle with care / microbes on peas - wash hands",
+   "b": "read thermometer at eye level / use digital temperature probe / leave to equilibrate"
+  },
+  "biology.respiration-prac-step.0005": {
+   "all": "to allow woodlice/air in respirometer to reach the temperature of the water bath (equilibrate) so readings are at the stated temperature; and woodlice to acclimatise / pressure to stabilise"
+  },
+  "biology.respiration-prac-vars.0003": {
+   "a": "presence of yeast/whether yeast is living (or temperature)",
+   "b": "whether limewater turns cloudy / time to turn cloudy",
+   "c": "temperature; glucose concentration/volume; mass of yeast; volume of limewater"
+  },
+  "biology.respiration-recall.0002": {
+   "all": "glucose -> lactic acid"
+  },
+  "biology.respiration-recall-fact.0005": {
+   "all": "glucose"
+  },
+  "biology.respiration-recall-multi.0003": {
+   "a": "glucose -> ethanol + carbon dioxide",
+   "b": "anaerobic respiration (fermentation)",
+   "c": "lactic acid"
+  },
+  "biology.respirometer.0006": {
+   "all": "(26-24)/24 x100 = 8.3%"
+  },
+  "biology.transport-plants-data-graph.0003": {
+   "a": "as humidity increases, rate of transpiration decreases (negative correlation); quote values",
+   "b": "higher humidity, more water vapour in air; smaller concentration gradient between air spaces and air; slower diffusion out of stomata"
+  },
+  "biology.transport-plants-data-pct.0004": {
+   "a": "(37-9)/37 x100 = 76%",
+   "b": "higher humidity reduces water vapour concentration gradient between leaf and air; less diffusion of water vapour out through stomata; slower transpiration"
+  },
+  "biology.transport-plants-data-plot.0002": {
+   "a": "axes labelled, scale, points correct, smooth curve",
+   "b": "rate increases from 3 to 14 mm/min between 0 and 3 m/s, then levels off at 14 mm/min"
+  },
+  "biology.transport-plants-data-read.0002": {
+   "a": "about 8 mm per minute (graph)",
+   "b": "(R4-R1)/3 e.g. (14-8)/3 = 2 mm/min per m/s",
+   "c": "wind removes water vapour from around leaf; maintains steep concentration gradient; faster diffusion out of stomata so more water uptake"
+  },
+  "biology.transport-plants-describe.0002": {
+   "all": "water leaves xylem into mesophyll cells by osmosis; evaporates from mesophyll cell surfaces into air spaces; water vapour diffuses out through stomata"
+  },
+  "biology.transport-plants-describe-multi.0006": {
+   "a": "high humidity",
+   "b": "xylem transports water and mineral ions from roots up to leaves; phloem transports sucrose and amino acids (translocation) from leaves to other parts, both directions"
+  },
+  "biology.transport-plants-explain.0004": {
+   "all": "tree has small SA:V ratio; diffusion too slow over long distances to supply all cells; alga has large SA:V and short diffusion distance so diffusion is enough"
+  },
+  "biology.transport-plants-explain-multi.0006": {
+   "a": "root hair cells",
+   "b": "long extension gives large surface area; thin cell wall/short diffusion distance; many mitochondria for active transport of mineral ions; concentrated cell sap for osmosis"
+  },
+  "biology.transport-plants-mcq.0003": {
+   "all": "the rate of water uptake by a shoot"
+  },
+  "biology.transport-plants-mcq-fwd.0006": {
+   "all": "wind"
+  },
+  "biology.transport-plants-mcq-rev.0005": {
+   "all": "Reduces transpiration by lowering the water vapour gradient"
+  },
+  "biology.transport-plants-prac-method.0001": {
+   "all": "cut shoot under water, assemble potometer underwater, seal with vaseline; introduce air bubble; place fan at set distance, leave to acclimatise; measure distance bubble moves in set time; repeat at different distances; same temperature/light"
+  },
+  "biology.transport-plants-prac-plan.0002": {
+   "all": "plan: potometer with leafy shoot (or weigh plants) at range of 5 temperatures; same plant/leaf area, light intensity, humidity, air movement; acclimatise, measure bubble distance in fixed time; repeat 3x, mean"
+  },
+  "biology.transport-plants-prac-reliab.0001": {
+   "a": "identify anomalies, calculate mean; more reliable",
+   "b": "potometer with no fan (still air) as control; shows effect of fan / baseline rate"
+  },
+  "biology.transport-plants-prac-risk.0002": {
+   "a": "heavy pots/electrical heaters or hot surfaces - handle carefully; soil microbes - wash hands",
+   "b": "use a more precise balance (0.01 g) / zero balance before each weighing"
+  },
+  "biology.transport-plants-prac-step.0004": {
+   "all": "prevents water evaporating from the soil; so mass loss is only due to transpiration from leaves"
+  },
+  "biology.transport-plants-prac-vars.0001": {
+   "a": "distance of fan (air movement/wind speed)",
+   "b": "distance moved by air bubble in set time",
+   "c": "temperature; light intensity; same shoot/leaf area; humidity; time"
+  },
+  "biology.transport-plants-recall.0001": {
+   "all": "loss of water vapour from the leaves (by evaporation and diffusion through stomata)"
+  },
+  "biology.transport-plants-recall-fact.0001": {
+   "all": "xylem"
+  }
+ },
+ "verdicts": {
+  "biology.respiration-mcq-rev.0003": {
+   "result": "pass"
+  },
+  "biology.respiration-prac-method.0003": {
+   "result": "pass"
+  },
+  "biology.respiration-prac-plan.0001": {
+   "result": "fail",
+   "problem": "C point is garbled ('change the whether the peas are alive') and demands 'at least five values' for a two-level live/dead variable.",
+   "fix": "C \u2013 compare living germinating peas with boiled (dead) peas that have been disinfected."
+  },
+  "biology.respiration-prac-reliab.0002": {
+   "result": "pass"
+  },
+  "biology.respiration-prac-risk.0001": {
+   "result": "pass"
+  },
+  "biology.respiration-prac-step.0005": {
+   "result": "pass"
+  },
+  "biology.respiration-prac-vars.0003": {
+   "result": "pass"
+  },
+  "biology.respiration-recall.0002": {
+   "result": "pass"
+  },
+  "biology.respiration-recall-fact.0005": {
+   "result": "pass"
+  },
+  "biology.respiration-recall-multi.0003": {
+   "result": "pass"
+  },
+  "biology.respirometer.0006": {
+   "result": "pass"
+  },
+  "biology.transport-plants-data-graph.0003": {
+   "result": "pass",
+   "problem": "Graph not visible; MS data consistent with axis labels."
+  },
+  "biology.transport-plants-data-pct.0004": {
+   "result": "pass"
+  },
+  "biology.transport-plants-data-plot.0002": {
+   "result": "pass"
+  },
+  "biology.transport-plants-data-read.0002": {
+   "result": "pass",
+   "problem": "Graph not visible; MS readings 9 and 16 mm/min give 2.33 consistently (passed on consistency)."
+  },
+  "biology.transport-plants-describe.0002": {
+   "result": "pass"
+  },
+  "biology.transport-plants-describe-multi.0006": {
+   "result": "pass"
+  },
+  "biology.transport-plants-explain.0004": {
+   "result": "pass"
+  },
+  "biology.transport-plants-explain-multi.0006": {
+   "result": "pass"
+  },
+  "biology.transport-plants-mcq.0003": {
+   "result": "pass"
+  },
+  "biology.transport-plants-mcq-fwd.0006": {
+   "result": "pass"
+  },
+  "biology.transport-plants-mcq-rev.0005": {
+   "result": "pass"
+  },
+  "biology.transport-plants-prac-method.0001": {
+   "result": "pass"
+  },
+  "biology.transport-plants-prac-plan.0002": {
+   "result": "pass"
+  },
+  "biology.transport-plants-prac-reliab.0001": {
+   "result": "pass"
+  },
+  "biology.transport-plants-prac-risk.0002": {
+   "result": "pass"
+  },
+  "biology.transport-plants-prac-step.0004": {
+   "result": "pass"
+  },
+  "biology.transport-plants-prac-vars.0001": {
+   "result": "pass"
+  },
+  "biology.transport-plants-recall.0001": {
+   "result": "pass"
+  },
+  "biology.transport-plants-recall-fact.0001": {
+   "result": "pass"
+  }
+ }
+}

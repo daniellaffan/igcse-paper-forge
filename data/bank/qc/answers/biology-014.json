@@ -1,0 +1,267 @@
+{
+ "batch": "biology-014",
+ "answers": {
+  "biology.movement-explain.0003": {
+   "all": "active transport against concentration gradient; uses energy (ATP) from respiration; carrier proteins in membrane"
+  },
+  "biology.movement-explain-multi.0003": {
+   "a": "active transport",
+   "b": "biconcave disc gives large surface area to volume ratio; thin so short diffusion distance"
+  },
+  "biology.movement-mcq.0004": {
+   "all": "it decreases because water leaves by osmosis"
+  },
+  "biology.movement-mcq-fwd.0003": {
+   "all": "active transport"
+  },
+  "biology.movement-mcq-rev.0002": {
+   "all": "The net movement of water through a partially permeable membrane from a dilute to a concentrated solution"
+  },
+  "biology.movement-prac-method.0002": {
+   "all": "cut agar cubes of different sizes (e.g. 1,2,3 cm) with scalpel; place in same volume/conc acid; start timer; record time to go colourless; calculate SA:V; same temp; repeat"
+  },
+  "biology.movement-prac-plan.0002": {
+   "all": "Plan: IV cube size/SA:V (at least 5); DV time to colourless; control acid conc/volume, temperature, agar/indicator; repeats + means; same source of agar"
+  },
+  "biology.movement-prac-reliab.0003": {
+   "a": "calculate a mean, identify anomalies, more reliable",
+   "b": "volume of water / size or mass of crystal / stirring; use same volume measured with measuring cylinder / same mass crystals / do not stir"
+  },
+  "biology.movement-prac-risk.0002": {
+   "a": "acid irritant to eyes/skin - goggles; sharp scalpel - cut away from body on tile",
+   "b": "use white background to judge end point / same person judges / use stopwatch"
+  },
+  "biology.movement-prac-step.0003": {
+   "all": "so cubes are accurate/precise sizes (straight edges) so SA:V is known/correct; makes it a fair comparison"
+  },
+  "biology.movement-prac-vars.0003": {
+   "a": "temperature of water",
+   "b": "time for colour to spread evenly",
+   "c": "volume of water; mass/size of crystal or type of tea bag; no stirring/shape of beaker"
+  },
+  "biology.movement-recall.0003": {
+   "all": "uptake of mineral ions (e.g. nitrate) by root hair cells"
+  },
+  "biology.movement-recall-fact.0003": {
+   "all": "active transport"
+  },
+  "biology.movement-recall-multi.0002": {
+   "a": "net movement of water molecules; from a dilute solution (high water potential) to a more concentrated solution; through a partially permeable membrane",
+   "b": "osmosis"
+  },
+  "biology.nervous-data-graph.0002": {
+   "a": "as light intensity increases pupil diameter decreases; decrease slows/levels off at high intensity; quote values",
+   "b": "receptors in retina detect light; reflex via brain; circular muscles of iris contract, radial muscles relax; pupil constricts"
+  },
+  "biology.nervous-data-pct.0002": {
+   "a": "(7.1-3)/7.1 x100 = 58%",
+   "b": "retina detects light intensity; impulses to brain; reflex: circular muscles of iris contract, radial relax, pupil smaller"
+  },
+  "biology.nervous-data-plot.0003": {
+   "a": "trial number x, reaction time y, points plotted, smooth curve (note: stem says ten trials, table has 8)",
+   "b": "reaction time decreases with trial number, rapidly at first then levels off at about 240 ms"
+  },
+  "biology.nervous-data-read.0003": {
+   "a": "read from graph (trial 1, cannot see)",
+   "b": "trial 1 minus trial 5 reading",
+   "c": "learning/practice; becomes familiar with the test; anticipates stimulus; improved concentration"
+  },
+  "biology.nervous-describe.0005": {
+   "all": "nervous uses electrical impulses, hormonal chemicals in blood; nervous faster; nervous short-lasting, hormonal longer; nervous targeted, hormonal widespread"
+  },
+  "biology.nervous-describe-multi.0007": {
+   "a": "cornea",
+   "b": "light refracted by cornea; further refracted/focused by lens; inverted image on retina; lens shape adjusted by ciliary muscles"
+  },
+  "biology.nervous-diag-desc.0002": {
+   "a": "cannot judge without diagram",
+   "b": "cannot judge without diagram"
+  },
+  "biology.nervous-diag-func.0002": {
+   "a": "letter of suspensory ligaments (diagram)",
+   "b": "suspensory ligament"
+  },
+  "biology.nervous-diag-mcq.0003": {
+   "all": "cannot judge without diagram"
+  },
+  "biology.nervous-diag-name.0002": {
+   "all": "cannot judge without diagram"
+  },
+  "biology.nervous-explain.0006": {
+   "all": "optic nerve carries impulses from retina to brain; if damaged impulses cannot reach brain so no image interpreted"
+  },
+  "biology.nervous-explain-multi.0007": {
+   "a": "lens",
+   "b": "reflex to protect retina from damage by bright light; circular muscles contract, radial relax"
+  },
+  "biology.nervous-mcq.0001": {
+   "all": "brain and spinal cord"
+  },
+  "biology.nervous-mcq-fwd.0006": {
+   "all": "cornea"
+  },
+  "biology.nervous-mcq-rev.0010": {
+   "all": "Focuses light onto the retina"
+  },
+  "biology.nervous-prac-method.0002": {
+   "all": "partner in dim room for set time to adjust; measure pupil diameter with ruler held near eye (or photograph with scale); then bright light (same lamp distance) for set time and measure again; repeat and mean; do not shine light directly in eye"
+  }
+ },
+ "verdicts": {
+  "biology.movement-explain.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-explain-multi.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-mcq.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-mcq-fwd.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-mcq-rev.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-prac-method.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-prac-plan.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-prac-reliab.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-prac-risk.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-prac-step.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-prac-vars.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-recall.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-recall-fact.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-recall-multi.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-data-graph.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Graph not visible; MS values consistent with axis labels."
+  },
+  "biology.nervous-data-pct.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-data-plot.0003": {
+   "result": "fail",
+   "problem": "Stem says reaction time was measured in ten trials but the table gives only eight trials.",
+   "fix": "Change stem to 'in eight trials' (or add data for trials 9 and 10)."
+  },
+  "biology.nervous-data-read.0003": {
+   "result": "fail",
+   "problem": "Stem says ten trials but graph x-axis only runs to 8; also 'at 1'/'between 1 and 5' should say 'trial 1'/'trials 1 and 5', and MS (c) points 'reached a minimum'/'impulses cannot travel faster' explain levelling off, not the decrease asked about.",
+   "fix": "Stem 'eight trials'; reword to 'at trial 1' and 'between trial 1 and trial 5'; replace those (c) points with e.g. 'brain becomes familiar with the task / improved concentration'."
+  },
+  "biology.nervous-describe.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-describe-multi.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-diag-desc.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across eye questions (A iris, D suspensory ligament, E ciliary muscle, F retina, H fovea)."
+  },
+  "biology.nervous-diag-func.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across eye questions (A iris, D suspensory ligament, E ciliary muscle, F retina, H fovea)."
+  },
+  "biology.nervous-diag-mcq.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across eye questions (A iris, D suspensory ligament, E ciliary muscle, F retina, H fovea)."
+  },
+  "biology.nervous-diag-name.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across eye questions (A iris, D suspensory ligament, E ciliary muscle, F retina, H fovea)."
+  },
+  "biology.nervous-explain.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-explain-multi.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-mcq.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-mcq-fwd.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-mcq-rev.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-prac-method.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

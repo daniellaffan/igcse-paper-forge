@@ -1,0 +1,228 @@
+{
+ "batch": "spanish-006",
+ "answers": {
+  "spanish.l-short.c2.0010": {
+   "a": "B river",
+   "b": "C sheep",
+   "c": "C wind",
+   "d": "D thunderstorm",
+   "e": "D island",
+   "f": "A cat",
+   "g": "C old newspapers",
+   "h": "A old clothes"
+  },
+  "spanish.l-short.c3.0012": {
+   "a": "D photo uploaded",
+   "b": "C charger",
+   "c": "B search engine",
+   "d": "B video player",
+   "e": "D tablet",
+   "f": "B headphones",
+   "g": "A online game",
+   "h": "D charger"
+  },
+  "spanish.l-short.c4.0011": {
+   "a": "D kiosk",
+   "b": "D swimming pool",
+   "c": "B butcher's",
+   "d": "A 20.00",
+   "e": "D library",
+   "f": "C gift voucher",
+   "g": "D railway station",
+   "h": "B straight ahead"
+  },
+  "spanish.l-short.c5.0008": {
+   "a": "B 1/2 litre",
+   "b": "B 3 kg",
+   "c": "D 30 cm",
+   "d": "C 5 km",
+   "e": "B 10 km",
+   "f": "B narrow",
+   "g": "D 2 m",
+   "h": "A 1/2 litre"
+  },
+  "spanish.l-short.c6.0003": {
+   "a": "C glass",
+   "b": "A metal",
+   "c": "D metal",
+   "d": "A recycled plastic",
+   "e": "A leather",
+   "f": "C silk",
+   "g": "A gold",
+   "h": "B wood"
+  },
+  "spanish.l-short.d1.0001": {
+   "a": "A dictionary",
+   "b": "C English",
+   "c": "B computer room",
+   "d": "A ruler",
+   "e": "D exercise book",
+   "f": "C library",
+   "g": "C history",
+   "h": "D PE"
+  },
+  "spanish.l-short.d2.0008": {
+   "a": "D chef",
+   "b": "C restaurant",
+   "c": "C farm",
+   "d": "C architect",
+   "e": "D teacher",
+   "f": "C journalist",
+   "g": "D airport",
+   "h": "A factory"
+  },
+  "spanish.l-short.e1.0005": {
+   "a": "B hotel",
+   "b": "A Arabic",
+   "c": "B Greece",
+   "d": "D Japanese",
+   "e": "D Japan",
+   "f": "B map",
+   "g": "D Japanese flag",
+   "h": "B French flag"
+  },
+  "spanish.l-short.e2.0007": {
+   "a": "C invitations",
+   "b": "D fireworks",
+   "c": "B New Year fireworks",
+   "d": "A video game",
+   "e": "A watch",
+   "f": "B altar with marigolds",
+   "g": "B birthday cake",
+   "h": "D New Year fireworks"
+  },
+  "spanish.r-long.a1.0013": {
+   "a": "Colombia",
+   "b": "ya es de noche",
+   "c": "media hora",
+   "d": "se aburría un poco",
+   "e": "solo llega cinco minutos tarde de vez en cuando",
+   "f": "estudiar dos horas",
+   "g": "quince minutos",
+   "h": "los sábados por la mañana (en la cama)",
+   "i": "un horario flexible",
+   "j": "perdió el tren de las ocho",
+   "k": "dormir hasta las diez todos los días"
+  },
+  "spanish.r-long.a2.0009": {
+   "a": "Colombia",
+   "b": "quiere proteger a los animales",
+   "c": "beber más agua",
+   "d": "se le quemó un poco",
+   "e": "dos",
+   "f": "las espinacas",
+   "g": "la fruta es más fresca que en el supermercado",
+   "h": "a hacer tortilla de patatas",
+   "i": "comida de otros países / japonesa",
+   "j": "que no es muy sana",
+   "k": "en casa de sus tíos"
+  },
+  "spanish.r-long.a3.0004": {
+   "a": "México",
+   "b": "se rompió la pierna (jugando al fútbol)",
+   "c": "sale a caminar con su perro",
+   "d": "su abuelo estuvo muy enfermo por el tabaco",
+   "e": "fiebre / dolor de garganta",
+   "f": "dos días",
+   "g": "tenía asma",
+   "h": "es una buena idea",
+   "i": "para trabajar en la piscina",
+   "j": "toma mucha fruta con vitamina C",
+   "k": "iría al gimnasio todos los días"
+  },
+  "spanish.r-long.a4.0008": {
+   "a": "España",
+   "b": "en hora punta está lleno de gente",
+   "c": "muy nerviosa",
+   "d": "hay un carril bici nuevo",
+   "e": "para proteger el medio ambiente",
+   "f": "andando",
+   "g": "dos trenes y un autobús",
+   "h": "un señor muy amable",
+   "i": "se marea (un poco)",
+   "j": "es demasiado caro",
+   "k": "para no necesitar coche"
+  },
+  "spanish.r-long.b1.0010": {
+   "a": "Uruguay",
+   "b": "entra en su habitación sin permiso / coge sus cosas",
+   "c": "a veces es un poco impaciente",
+   "d": "en la guardería",
+   "e": "siempre dice la verdad",
+   "f": "un mes",
+   "g": "saber escuchar (y no criticar)",
+   "h": "a jugar al ajedrez",
+   "i": "antes de las diez",
+   "j": "una familia grande, con tres o cuatro hijos",
+   "k": "para poder ayudarlos"
+  },
+  "spanish.r-long.b2.0004": {
+   "a": "Perú",
+   "b": "planchar",
+   "c": "tiene razón",
+   "d": "su padre encontró trabajo aquí",
+   "e": "el jardín de la otra casa",
+   "f": "el ruido de los coches por la noche",
+   "g": "para que tenga más luz",
+   "h": "cerca del mar",
+   "i": "riegan sus plantas",
+   "j": "la lavadora",
+   "k": "un gato"
+  }
+ },
+ "verdicts": {
+  "spanish.l-short.c2.0010": {
+   "result": "fail",
+   "problem": "Transcript Q8 has a grammatical error: '¿Dónde se tiran la ropa vieja?' (singular subject).",
+   "fix": "Javier: ¿Dónde se tira la ropa vieja?"
+  },
+  "spanish.l-short.c3.0012": {
+   "result": "pass"
+  },
+  "spanish.l-short.c4.0011": {
+   "result": "fail",
+   "problem": "Set in Ciudad de México but prices are in euros (should be pesos), and buying a gift at a carnicería is implausible.",
+   "fix": "Use 'veinte pesos' with peso options (e.g. $20.00) and change Q3 to a plausible gift shop (e.g. la librería / la pastelería) or change 'a comprar un regalo' to 'a comprar carne'."
+  },
+  "spanish.l-short.c5.0008": {
+   "result": "pass"
+  },
+  "spanish.l-short.c6.0003": {
+   "result": "pass"
+  },
+  "spanish.l-short.d1.0001": {
+   "result": "pass"
+  },
+  "spanish.l-short.d2.0008": {
+   "result": "pass"
+  },
+  "spanish.l-short.e1.0005": {
+   "result": "pass"
+  },
+  "spanish.l-short.e2.0007": {
+   "result": "pass"
+  },
+  "spanish.r-long.a1.0013": {
+   "result": "pass"
+  },
+  "spanish.r-long.a2.0009": {
+   "result": "pass"
+  },
+  "spanish.r-long.a3.0004": {
+   "result": "fail",
+   "problem": "Mark scheme (k) contradicts itself: accepts 'Iría al gimnasio' but refuses 'iría al gimnasio tc in first person', though the form is identical for 1st/3rd person.",
+   "fix": "(k) Iría al gimnasio (todos los días) — 1; delete the refuse note."
+  },
+  "spanish.r-long.a4.0008": {
+   "result": "fail",
+   "problem": "Mark scheme (c) contains an unresolved draft note ('Refuse estaba nervioso tc in first person? accept') that gives no clear guidance.",
+   "fix": "(c) (Estaba) (muy) nerviosa — 1; Refuse tranquila."
+  },
+  "spanish.r-long.b1.0010": {
+   "result": "pass"
+  },
+  "spanish.r-long.b2.0004": {
+   "result": "pass"
+  }
+ }
+}

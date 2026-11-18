@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-008",
+ "answers": {
+  "english-literature.unseen-adlestrop.0002": {
+   "all": "Adlestrop: late June afternoon, willows, willow-herb, meadowsweet, haycocks; birds of Oxfordshire and Gloucestershire; four quatrains; simple, still; ends in expanding birdsong."
+  },
+  "english-literature.unseen-adlestrop.0001": {
+   "all": "Moment: express train stops unexpectedly; steam hissed, throat cleared, nothing happens; silence then blackbird; memory; 'Yes. I remember' conversational; widening focus."
+  },
+  "english-literature.unseen-blake-london.0002": {
+   "all": "London: chartered streets, Thames, midnight streets; cries and curses heard rather than seen; repetition of 'every', 'charter'd'; ABAB quatrains; streets of misery and oppression."
+  },
+  "english-literature.unseen-blake-london.0001": {
+   "all": "City life: poverty, institutional oppression; chimney sweeper, soldier, harlot; 'mind-forg'd manacles'; sound imagery; quatrains with regular ABAB, iambic tetrameter."
+  },
+  "english-literature.unseen-break-break.0002": {
+   "all": "Plan (Tennyson Break, Break, Break; the sea): Sea breaking on cold grey stones; speaker cannot utter thoughts; contrast of children/sailors' happiness with lost 'vanish'd hand'; 4 quatrains, refrain, short irregular lines mimic waves."
+  },
+  "english-literature.unseen-break-break.0001": {
+   "all": "Plan (Tennyson Break, Break, Break; grief): Opening imperative, inability to speak, envy of others' joy, 'tender grace of a day that is dead', refrain returns; elegy for Hallam; sound of waves as grief."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "unseen-adlestrop.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "unseen-adlestrop.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "unseen-blake-london.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "unseen-blake-london.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "unseen-break-break.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "unseen-break-break.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

@@ -1,0 +1,270 @@
+{
+ "batch": "biology-015",
+ "answers": {
+  "biology.nervous-prac-plan.0002": {
+   "all": "Plan: vary light intensity (lamp distance / light meter, 5 values); measure pupil diameter with ruler/photo with scale; wait set time to adjust; same person, same eye, same distance; repeat + mean; safety: no direct bright light"
+  },
+  "biology.nervous-prac-reliab.0002": {
+   "a": "calculate a mean; identify anomalies; more reliable as pupil size varies",
+   "b": "measure pupil in normal room light with no change / keep other eye conditions same; shows change is due to light intensity"
+  },
+  "biology.nervous-prac-risk.0001": {
+   "a": "ruler could hit/poke eye or fingers - keep face away, drop from set height; spilled drink/allergies - check",
+   "b": "repeat and take mean / read the ruler at eye level at the top of the thumb / use same starting point at 0 cm"
+  },
+  "biology.nervous-prac-step.0003": {
+   "all": "pupil reflex takes time to respond/adjust; so pupil has reached its final (steady) diameter before measurement"
+  },
+  "biology.nervous-prac-vars.0001": {
+   "a": "drinking cola (caffeine) before vs after",
+   "b": "distance ruler falls before caught (reaction time)",
+   "c": "same hand; same starting height/position of ruler; same person dropping; same volume of cola; time after drinking"
+  },
+  "biology.nervous-recall.0003": {
+   "all": "it gets smaller (constricts)"
+  },
+  "biology.nervous-recall-fact.0002": {
+   "all": "relay neurone"
+  },
+  "biology.nervous-recall-multi.0002": {
+   "a": "stimulus - receptor - sensory neurone - relay neurone - motor neurone - effector - response",
+   "b": "relay neurone"
+  },
+  "biology.osmosis_pc.0009": {
+   "all": "(3.96-4.05)/4.05 x100 = -2.2%"
+  },
+  "biology.plant-nutrition-data-graph.0002": {
+   "a": "rate increases as light intensity increases, rapidly at first then slows and levels off (~37 bubbles/min from ~50 au); quote data",
+   "b": "at low intensity light is limiting factor so rate rises with light; at high intensity another factor (CO2 conc or temperature) limits so plateau"
+  },
+  "biology.plant-nutrition-data-pct.0004": {
+   "a": "(25-10)/10 x100 = 150%",
+   "b": "above 30 C (optimum) enzymes controlling photosynthesis denature; active site shape changes; rate falls"
+  },
+  "biology.plant-nutrition-data-plot.0001": {
+   "a": "light intensity x, rate y, points plotted, smooth curve",
+   "b": "rate increases with light intensity, increase slows, levels off at 37 bubbles per minute from 50 au"
+  },
+  "biology.plant-nutrition-data-read.0004": {
+   "a": "read from graph (likely 10 au)",
+   "b": "(25-10)/(35-10) = 0.6 au per C (if graph matches table)",
+   "c": "above optimum 30 C enzymes denature, active site changes shape, rate falls"
+  },
+  "biology.plant-nutrition-describe.0005": {
+   "all": "pondweed in water under funnel with inverted test tube of water; place in light; collect gas; test with glowing splint which relights = oxygen"
+  },
+  "biology.plant-nutrition-describe-multi.0007": {
+   "a": "waxy cuticle",
+   "b": "CO2 diffuses in through stomata; through air spaces in spongy mesophyll to cells; O2 diffuses out through stomata, down concentration gradients"
+  },
+  "biology.plant-nutrition-diag-desc.0001": {
+   "a": "cannot judge without diagram",
+   "b": "cannot judge without diagram"
+  },
+  "biology.plant-nutrition-diag-func.0003": {
+   "a": "letter of guard cell (diagram)",
+   "b": "guard cell"
+  },
+  "biology.plant-nutrition-diag-mcq.0001": {
+   "all": "cannot judge without diagram"
+  },
+  "biology.plant-nutrition-diag-name.0007": {
+   "all": "cannot judge without diagram"
+  },
+  "biology.plant-nutrition-explain.0002": {
+   "all": "large surface area to absorb more light and for gas exchange; thin so short diffusion distance for CO2 to reach cells / light reaches all cells"
+  },
+  "biology.plant-nutrition-explain-multi.0005": {
+   "a": "chlorophyll",
+   "b": "remove existing starch so any starch found later must have been made during the experiment; otherwise false positive"
+  },
+  "biology.plant-nutrition-ext.0010": {
+   "all": "Plan: photosynthesis enzyme-controlled; rising temp increases KE, collisions, ES complexes, rate up to optimum; above optimum enzymes denature, active site changes, rate falls rapidly; low temp limiting factor; link to graph shape"
+  },
+  "biology.plant-nutrition-mcq.0001": {
+   "all": "6CO2 + 6H2O -> C6H12O6 + 6O2"
+  },
+  "biology.plant-nutrition-mcq-fwd.0001": {
+   "all": "palisade mesophyll"
+  },
+  "biology.plant-nutrition-mcq-rev.0005": {
+   "all": "Brings water to the leaf for photosynthesis"
+  },
+  "biology.plant-nutrition-prac-method.0002": {
+   "all": "destarch plant in dark 48 h; place in light for some hours; draw/record green and white areas; boil leaf in water, then hot ethanol to remove chlorophyll, rinse; add iodine; green areas blue-black, white areas orange-brown"
+  },
+  "biology.plant-nutrition-prac-plan.0001": {
+   "all": "Plan: pondweed in water with NaHCO3; vary lamp distance (5 values) or light meter; count bubbles / collect O2 in set time; acclimatise; control temp (heat shield/water bath), CO2 conc, same plant; repeat + mean"
+  },
+  "biology.plant-nutrition-prac-reliab.0002": {
+   "a": "calculate a mean, identify anomalies, more reliable",
+   "b": "test a leaf from a destarched plant kept in the dark (or all-green leaf) - shows starch is due to photosynthesis in light / green areas"
+  },
+  "biology.plant-nutrition-prac-risk.0003": {
+   "a": "lamp gets hot - do not touch/allow to cool; water near electrics - keep apart",
+   "b": "collect gas in gas syringe or capillary tube (photosynthometer) instead of counting bubbles"
+  },
+  "biology.plant-nutrition-prac-step.0001": {
+   "all": "water absorbs heat from lamp; keeps temperature constant so only light intensity affects the rate"
+  }
+ },
+ "verdicts": {
+  "biology.nervous-prac-plan.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-prac-reliab.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-prac-risk.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-prac-step.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-prac-vars.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-recall.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-recall-fact.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.nervous-recall-multi.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.osmosis_pc.0009": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-data-graph.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Graph not visible; MS values consistent with axis labels."
+  },
+  "biology.plant-nutrition-data-pct.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-data-plot.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-data-read.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Graph not visible; MS readings (9, 21) consistent with axis labels."
+  },
+  "biology.plant-nutrition-describe.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-describe-multi.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-diag-desc.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across leaf questions (D spongy mesophyll, E xylem, F air space, G guard cell)."
+  },
+  "biology.plant-nutrition-diag-func.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across leaf questions (D spongy mesophyll, E xylem, F air space, G guard cell)."
+  },
+  "biology.plant-nutrition-diag-mcq.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across leaf questions (D spongy mesophyll, E xylem, F air space, G guard cell)."
+  },
+  "biology.plant-nutrition-diag-name.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across leaf questions (D spongy mesophyll, E xylem, F air space, G guard cell)."
+  },
+  "biology.plant-nutrition-explain.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-explain-multi.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-ext.0010": {
+   "result": "fail",
+   "problem": "Indicative content is a generic limiting-factor template (more energy/raw material, graph levels off) that does not fit temperature; omits kinetic energy/collisions and optimum, and temperature does not cause levelling off.",
+   "fix": "Points: photosynthesis is enzyme-controlled; rising temperature increases kinetic energy and enzyme-substrate collisions so rate rises; temperature limiting at low values; optimum temperature (~25-35 C); above optimum enzymes denature, active site changes shape, rate falls rapidly; at high temperature stomata may close reducing CO2 uptake."
+  },
+  "biology.plant-nutrition-mcq.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-mcq-fwd.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-mcq-rev.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-prac-method.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-prac-plan.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "O and S points both 'same piece of pondweed' - duplicate; minor."
+  },
+  "biology.plant-nutrition-prac-reliab.0002": {
+   "result": "fail",
+   "problem": "Part (b) asks the student to describe a control and explain why it is needed, but the mark scheme says a control is 'not needed', contradicting the question.",
+   "fix": "MS: the white (non-green) areas of the same leaf act as the control (1); shows starch is only made where chlorophyll is present / any difference is due to chlorophyll (1)."
+  },
+  "biology.plant-nutrition-prac-risk.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.plant-nutrition-prac-step.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

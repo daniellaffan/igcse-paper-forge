@@ -1,0 +1,200 @@
+{
+ "batch": "biology-001",
+ "answers": {
+  "biology.cells-describe.0003": {
+   "all": "Stem cells (embryonic/adult) are undifferentiated; treated/stimulated to differentiate into nerve cells; transplanted/injected into damaged area to replace damaged cells; use patient's own cells to avoid rejection"
+  },
+  "biology.cells-describe-multi.0004": {
+   "a": "organ",
+   "b": "Chloroplast: oval, contains stacks/grana/green, larger; mitochondrion: smaller, folded inner membrane (cristae)"
+  },
+  "biology.cells-diag-desc.0002": {
+   "a": "Cannot see diagram - name structure E from labels",
+   "b": "Depends on G (e.g. cell wall: strengthens/supports cell, prevents bursting)"
+  },
+  "biology.cells-diag-func.0002": {
+   "a": "Letter of chloroplast",
+   "b": "chloroplast"
+  },
+  "biology.cells-diag-mcq.0002": {
+   "all": "Cannot see diagram - choose option matching F"
+  },
+  "biology.cells-diag-name.0005": {
+   "all": "Names of B and A from diagram (e.g. nucleus, cell membrane)"
+  },
+  "biology.cells-explain.0007": {
+   "all": "Enzymes are proteins; ribosomes are site of protein synthesis so many ribosomes make large amounts of protein"
+  },
+  "biology.cells-explain-multi.0002": {
+   "a": "Process by which a cell becomes specialised for a particular function",
+   "b": "Water enters both by osmosis; plant cell has cell wall which is strong/rigid and resists expansion so cell becomes turgid; animal cell has no cell wall so membrane bursts (lysis)"
+  },
+  "biology.cells-ext.0008": {
+   "all": "Benefits: stem cells can differentiate into heart muscle cells, replace damaged tissue, restore function, avoid transplant waiting/rejection if own cells. Problems: embryonic ethical issues, rejection by immune system, risk of uncontrolled division/tumours, infection/viral transfer, expensive, uncertain success"
+  },
+  "biology.cells-mcq.0002": {
+   "all": "nucleus, ribosomes and mitochondria"
+  },
+  "biology.cells-mcq-fwd.0001": {
+   "all": "nucleus"
+  },
+  "biology.cells-mcq-rev.0001": {
+   "all": "Contains the genetic material that controls the activities of the cell"
+  },
+  "biology.cells-recall.0001": {
+   "all": "A group of similar cells working together to carry out a particular function"
+  },
+  "biology.cells-recall-fact.0005": {
+   "all": "ribosome"
+  },
+  "biology.cells-recall-multi.0004": {
+   "a": "Process by which cells become specialised",
+   "b": "chloroplast"
+  },
+  "biology.characteristics-explain.0003": {
+   "all": "Metabolic reactions produce waste products (e.g. CO2, urea); these are toxic and would build up/poison cells if not removed"
+  },
+  "biology.characteristics-explain-multi.0006": {
+   "a": "respiration",
+   "b": "Enzymes work best within narrow range of temperature/pH; to keep cells/reactions working properly / prevent damage to cells (e.g. osmosis)"
+  },
+  "biology.characteristics-mcq.0002": {
+   "all": "excretion, growth, respiration"
+  },
+  "biology.characteristics-mcq-fwd.0003": {
+   "all": "excretion"
+  },
+  "biology.characteristics-mcq-rev.0001": {
+   "all": "Involves taking in or making the food an organism needs"
+  },
+  "biology.characteristics-recall.0004": {
+   "all": "respiration"
+  },
+  "biology.characteristics-recall-fact.0001": {
+   "all": "nutrition"
+  },
+  "biology.characteristics-recall-multi.0002": {
+   "a": "excretion",
+   "b": "respiration"
+  },
+  "biology.cloning-describe.0004": {
+   "all": "Many plants produced quickly; in small space; all genetically identical with desired features; can be done any time of year; disease-free plants"
+  },
+  "biology.cloning-describe-multi.0004": {
+   "a": "explant",
+   "b": "Small pieces (explants) cut from parent tip; sterilised; placed on agar with nutrients and hormones (auxin); grow into small plantlets; transferred to compost; aseptic conditions"
+  },
+  "biology.cloning-explain.0003": {
+   "all": "Genetic material/DNA is in the nucleus; lamb's nucleus came from donor so it has donor's genes/alleles; surrogate contributed no DNA"
+  },
+  "biology.cloning-explain-multi.0004": {
+   "a": "transgenic clone",
+   "b": "Nucleus contains the genes; donor nucleus so genetically identical to donor; surrogate gives no genes"
+  },
+  "biology.cloning-mcq.0004": {
+   "all": "every clone carries the human gene and makes the protein"
+  },
+  "biology.cloning-mcq-fwd.0004": {
+   "all": "agar"
+  },
+  "biology.cloning-mcq-rev.0003": {
+   "all": "Carries a cloned embryo to birth"
+  }
+ },
+ "verdicts": {
+  "biology.cells-describe.0003": {
+   "result": "pass"
+  },
+  "biology.cells-describe-multi.0004": {
+   "result": "pass"
+  },
+  "biology.cells-diag-desc.0002": {
+   "result": "pass",
+   "problem": "Diagram shows only letter labels; passed as the mark scheme is consistent with the labels, but letter assignments could not be verified."
+  },
+  "biology.cells-diag-func.0002": {
+   "result": "pass",
+   "problem": "Diagram shows only letter labels; passed as the mark scheme is consistent with the labels, but letter assignments could not be verified."
+  },
+  "biology.cells-diag-mcq.0002": {
+   "result": "pass",
+   "problem": "Diagram shows only letter labels; passed as the mark scheme is consistent with the labels, but letter assignments could not be verified."
+  },
+  "biology.cells-diag-name.0005": {
+   "result": "pass",
+   "problem": "Diagram shows only letter labels; passed as the mark scheme is consistent with the labels, but letter assignments could not be verified."
+  },
+  "biology.cells-explain.0007": {
+   "result": "pass"
+  },
+  "biology.cells-explain-multi.0002": {
+   "result": "pass"
+  },
+  "biology.cells-ext.0008": {
+   "result": "pass"
+  },
+  "biology.cells-mcq.0002": {
+   "result": "pass"
+  },
+  "biology.cells-mcq-fwd.0001": {
+   "result": "pass"
+  },
+  "biology.cells-mcq-rev.0001": {
+   "result": "pass"
+  },
+  "biology.cells-recall.0001": {
+   "result": "pass"
+  },
+  "biology.cells-recall-fact.0005": {
+   "result": "pass"
+  },
+  "biology.cells-recall-multi.0004": {
+   "result": "pass"
+  },
+  "biology.characteristics-explain.0003": {
+   "result": "pass"
+  },
+  "biology.characteristics-explain-multi.0006": {
+   "result": "pass"
+  },
+  "biology.characteristics-mcq.0002": {
+   "result": "pass"
+  },
+  "biology.characteristics-mcq-fwd.0003": {
+   "result": "pass"
+  },
+  "biology.characteristics-mcq-rev.0001": {
+   "result": "pass"
+  },
+  "biology.characteristics-recall.0004": {
+   "result": "pass"
+  },
+  "biology.characteristics-recall-fact.0001": {
+   "result": "pass"
+  },
+  "biology.characteristics-recall-multi.0002": {
+   "result": "pass"
+  },
+  "biology.cloning-describe.0004": {
+   "result": "pass"
+  },
+  "biology.cloning-describe-multi.0004": {
+   "result": "pass"
+  },
+  "biology.cloning-explain.0003": {
+   "result": "pass"
+  },
+  "biology.cloning-explain-multi.0004": {
+   "result": "pass"
+  },
+  "biology.cloning-mcq.0004": {
+   "result": "pass"
+  },
+  "biology.cloning-mcq-fwd.0004": {
+   "result": "pass"
+  },
+  "biology.cloning-mcq-rev.0003": {
+   "result": "pass"
+  }
+ }
+}

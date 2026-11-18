@@ -1,0 +1,271 @@
+{
+ "batch": "biology-013",
+ "answers": {
+  "biology.microorganisms-recall.0004": {
+   "all": "remove waste (filter/clean water); aerate / maintain oxygen levels (also monitor temperature, limit stocking density)"
+  },
+  "biology.microorganisms-recall-fact.0001": {
+   "all": "water jacket"
+  },
+  "biology.microorganisms-recall-multi.0004": {
+   "a": "filter/remove waste; aerate water to keep oxygen high",
+   "b": "pH probe"
+  },
+  "biology.molecules-data-graph.0004": {
+   "a": "volume increases with pH to an optimum around pH 8 then decreases at higher pH; quote values from graph",
+   "b": "pH 4 far from optimum; H+ ions disrupt bonds in enzyme so active site changes shape (denatures); fewer enzyme-substrate complexes form; pH 8 is optimum, active site fits substrate"
+  },
+  "biology.molecules-data-pct.0002": {
+   "a": "(34.5-20.7)/20.7 x100 = 67%",
+   "b": "rate increases to optimum at 40 C as more kinetic energy, more collisions/ES complexes; above 40 C enzyme denatures, active site changes shape; at 70 C fully denatured, rate 0"
+  },
+  "biology.molecules-data-plot.0001": {
+   "a": "temp on x, rate on y labelled, linear scale, points plotted, smooth curve",
+   "b": "rate increases from 10 C to maximum 46.8 at 40 C, then decreases rapidly to 0 at 70 C"
+  },
+  "biology.molecules-data-read.0004": {
+   "a": "read from graph at pH 5 (cannot see)",
+   "b": "difference between readings at pH 5 and 9 (cannot see)",
+   "c": "pH 4 away from optimum; active site changes shape/denatured; substrate cannot fit, fewer ES complexes"
+  },
+  "biology.molecules-describe.0002": {
+   "all": "add biuret reagent (or sodium hydroxide then copper sulfate) to food sample in solution; purple/lilac colour indicates protein (stays blue if none)"
+  },
+  "biology.molecules-describe-multi.0008": {
+   "a": "biuret reagent",
+   "b": "starch: chain of many glucose molecules joined; protein: chain of amino acids joined together"
+  },
+  "biology.molecules-explain.0004": {
+   "all": "active site has a specific shape; only one substrate is complementary/fits to form enzyme-substrate complex"
+  },
+  "biology.molecules-explain-multi.0001": {
+   "a": "a protein that acts as a biological catalyst, speeding up reactions without being used up",
+   "b": "Benedict's tests for reducing sugar not starch; orange shows reducing sugar (glucose); starch must be tested with iodine (blue-black)"
+  },
+  "biology.molecules-ext.0010": {
+   "all": "Plan: equal-size potato discs/same mass in H2O2 at same conc/volume; water baths at range of temps (e.g. 10-60 C), equilibrate; measure O2 volume (gas syringe/upturned cylinder) in fixed time; control pH via buffer, surface area; repeat and mean; plot rate vs temperature"
+  },
+  "biology.molecules-mcq.0002": {
+   "all": "fatty acids and glycerol"
+  },
+  "biology.molecules-mcq-fwd.0006": {
+   "all": "Benedict's solution"
+  },
+  "biology.molecules-mcq-rev.0005": {
+   "all": "Turns blue-black in the presence of starch"
+  },
+  "biology.molecules-prac-method.0001": {
+   "all": "drops of iodine on spotting tile; same volumes/conc of amylase and starch equilibrated in water baths at several temps; mix, start timer; every 30 s add drop to iodine; record time until iodine stays orange-brown; control pH with buffer; repeat"
+  },
+  "biology.molecules-prac-plan.0001": {
+   "all": "Plan: range of 5 temps; same vol/conc of amylase and starch, buffer pH; sample every 30 s to iodine, time to no blue-black; repeats + mean; equilibrate before mixing"
+  },
+  "biology.molecules-prac-reliab.0003": {
+   "a": "to calculate a mean, identify anomalies, make results more reliable",
+   "b": "boiled (denatured) protease with milk, or water instead of protease; shows clearing is caused by enzyme"
+  },
+  "biology.molecules-prac-risk.0001": {
+   "a": "iodine is irritant/stains - wear goggles/gloves; hot water - care",
+   "b": "test more frequently (e.g. every 10 s) / use colorimeter"
+  },
+  "biology.molecules-prac-step.0002": {
+   "all": "to keep the pH constant; so pH is a controlled variable and only temperature affects enzyme activity (enzyme activity depends on pH)"
+  },
+  "biology.molecules-prac-vars.0002": {
+   "a": "pH",
+   "b": "volume of oxygen produced (in a set time)",
+   "c": "temperature; size/mass/surface area of potato discs; volume and concentration of hydrogen peroxide"
+  },
+  "biology.molecules-recall.0002": {
+   "all": "amino acids"
+  },
+  "biology.molecules-recall-fact.0002": {
+   "all": "protease"
+  },
+  "biology.molecules-recall-multi.0004": {
+   "a": "starch, glycogen (cellulose)",
+   "b": "maltase"
+  },
+  "biology.movement-data-graph.0001": {
+   "a": "as concentration increases, percentage change in mass decreases (from gain to loss); no change at ~0.4 mol dm-3",
+   "b": "0.0: water potential higher outside, water enters cells by osmosis, mass increases; 1.0: solution more concentrated, water leaves cells by osmosis through partially permeable membrane, mass decreases"
+  },
+  "biology.movement-data-pct.0002": {
+   "a": "(20.7-1.1)/20.7 x100 = 95%",
+   "b": "0.0: water moves into cells by osmosis from dilute solution, mass increases; 1.0: water moves out of cells by osmosis to more concentrated solution, mass decreases, through partially permeable membrane"
+  },
+  "biology.movement-data-plot.0002": {
+   "a": "conc on x, % change on y incl negative values, points plotted, smooth curve",
+   "b": "% change in mass decreases as concentration increases; crosses zero ~0.4 mol dm-3"
+  },
+  "biology.movement-data-read.0003": {
+   "a": "read from graph (cannot see)",
+   "b": "(t1.5 - t0.5)/1.0 s per cm (cannot see)",
+   "c": "larger cube has smaller surface area to volume ratio; acid has further distance to diffuse to centre; takes longer"
+  },
+  "biology.movement-describe.0001": {
+   "all": "diffusion is down a concentration gradient, active transport against it; diffusion passive, no energy, active transport needs energy from respiration (ATP); active transport needs carrier proteins"
+  },
+  "biology.movement-describe-multi.0005": {
+   "a": "Visking tubing (dialysis tubing)",
+   "b": "cut equal potato cylinders, blot, weigh; place in range of sucrose concs for set time; blot and reweigh; calculate % change in mass; plot against conc, where line crosses x-axis (0% change) is the concentration"
+  }
+ },
+ "verdicts": {
+  "biology.microorganisms-recall.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-recall-fact.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-recall-multi.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-data-graph.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Graph not visible; MS values consistent with axis labels."
+  },
+  "biology.molecules-data-pct.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-data-plot.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-data-read.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Graph not visible; MS readings consistent with axis labels. Wording 'at 5'/'between 5 and 9' should say 'at pH 5'."
+  },
+  "biology.molecules-describe.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-describe-multi.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-explain.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-explain-multi.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-ext.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-mcq.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-mcq-fwd.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-mcq-rev.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-prac-method.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-prac-plan.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-prac-reliab.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-prac-risk.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-prac-step.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-prac-vars.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-recall.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-recall-fact.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.molecules-recall-multi.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-data-graph.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Graph not visible; MS data consistent with axis labels."
+  },
+  "biology.movement-data-pct.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Wording 'percentage decrease in percentage change in mass' is awkward but answerable."
+  },
+  "biology.movement-data-plot.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-data-read.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.movement-describe.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.movement-describe-multi.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

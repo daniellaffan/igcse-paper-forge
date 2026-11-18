@@ -1,0 +1,189 @@
+{
+ "batch": "economics-010",
+ "answers": {
+  "economics.exchange-mcq-auth.0003": {
+   "all": "D the demand for and supply of the currency"
+  },
+  "economics.exchange-mcq-class.0008": {
+   "all": "A fall in demand for its exports"
+  },
+  "economics.exchange-mcq-def.0006": {
+   "all": "D holdings of foreign currencies by a central bank"
+  },
+  "economics.externalities-analyse-1.0003": {
+   "all": "Plan: ban cuts negative externality of consumption (litter, harm to wildlife, cleanup costs); cleaner beaches/rivers raise tourism and fishing incomes, lower clean-up spending; moves output toward socially optimal level; limited by illegal use and enforcement cost."
+  },
+  "economics.externalities-analyse-2.0004": {
+   "all": "Plan: negative externality of production; third parties (fishermen) lose income from reduced fish stocks; social cost > private cost so overproduction; possible health/environment costs; market failure, firm ignores external cost."
+  },
+  "economics.externalities-analyse-3.0006": {
+   "all": "Plan: vaccinated people reduce spread to third parties (herd immunity, rate 61->88%); fewer sick days so higher productivity; lower healthcare costs for government; social benefit > private benefit so underconsumed without subsidy."
+  },
+  "economics.externalities-assess-1.0006": {
+   "all": "Plan: ban effective (cleaner beaches/rivers), simple, certain; but illegal use, costly enforcement, substitutes may also pollute, no revenue; compare with tax; conclusion depends on enforcement."
+  },
+  "economics.externalities-assess-2.0001": {
+   "all": "Plan: tax internalises external cost, raises revenue, incentive to cut pollution; but hard to value external cost, may cut output/jobs (1351 workers), inelastic demand; alternatives regulation/permits; judgement."
+  },
+  "economics.externalities-assess-3.0002": {
+   "all": "Plan: positive externalities, higher uptake 63->85%, lower health costs; but opportunity cost, may have happened anyway, cost per extra child; judgement."
+  },
+  "economics.externalities-calc.0012": {
+   "all": "External benefit = social - private = 157-118 = T$39m"
+  },
+  "economics.externalities-data.0016": {
+   "a": "Social cost = 305,000+176,000 = NZ$481,000 per week",
+   "b": "Plan: herd immunity protects non-vaccinated third parties; fewer sick days, higher productivity; lower healthcare costs; 64->87% uptake.",
+   "c": "Plan: for - positive externalities, underconsumption corrected, equity; against - opportunity cost, tax burden, information failure better addressed by education; judgement depends on cost vs benefits."
+  },
+  "economics.externalities-define1.0002": {
+   "all": "A cost to a third party not involved in the production or consumption of a good (social cost > private cost)"
+  },
+  "economics.externalities-define2.0001": {
+   "all": "A cost or benefit (spillover) affecting third parties not involved in the transaction, not reflected in price"
+  },
+  "economics.externalities-describe.0002": {
+   "all": "Vaccination creates positive externalities (protects others from infection) so it is underconsumed in free market; subsidy lowers price, raises consumption to social optimum"
+  },
+  "economics.externalities-diagram.0017": {
+   "all": "Shift S right to S1; new lower price P1 and higher quantity Q1"
+  },
+  "economics.externalities-evaluate-1.0002": {
+   "all": "Plan: ban effective/certain, cleaner environment; but enforcement costs, illegal supply, loss of convenience/jobs; alternatives tax on bags; conclusion."
+  },
+  "economics.externalities-evaluate-2.0003": {
+   "all": "Plan: tax internalises cost, polluter pays, revenue; but valuation difficulty, job losses (2338), inelastic demand, firm relocation; alternatives regulation, permits; conclusion."
+  },
+  "economics.externalities-evaluate-3.0006": {
+   "all": "Plan: herd immunity, 72->94%, lower healthcare cost, productivity; opportunity cost, inefficiency, some would vaccinate anyway; conclusion."
+  },
+  "economics.externalities-explain.0012": {
+   "all": "Passers-by/drivers enjoy attractive view (third parties benefit); they do not pay; so social benefit exceeds private benefit"
+  },
+  "economics.externalities-mcq-auth.0003": {
+   "all": "C positive externalities"
+  },
+  "economics.externalities-mcq-class.0003": {
+   "all": "D dust from a quarry damaging crops"
+  },
+  "economics.externalities-mcq-def.0001": {
+   "all": "C a cost or benefit to a third party"
+  },
+  "economics.externalities-state.0004": {
+   "all": "Vaccination protecting others"
+  },
+  "economics.externalities-state-class.0002": {
+   "all": "Passive smoking"
+  },
+  "economics.externalities-state-id.0005": {
+   "all": "a negative externality of consumption"
+  },
+  "economics.fiscal-analyse-1.0002": {
+   "all": "Plan: higher sales tax raises prices, lowers real incomes and spending; regressive burden on poor; cuts to public services reduce quality/access, consumers may pay privately; possible lower confidence."
+  },
+  "economics.fiscal-analyse-2.0004": {
+   "all": "Plan: green jobs cut unemployment, multiplier; investment boosts growth/productivity; lower pollution externalities; export opportunities, energy security."
+  },
+  "economics.fiscal-analyse-3.0001": {
+   "all": "Plan: indirect taxes don't directly reduce reward for work; broad base, hard to evade; can target demerit goods; quick to change; raise revenue for healthcare."
+  },
+  "economics.fiscal-assess-1.0005": {
+   "all": "Plan: deficit 6.7% and debt 89% high - interest costs, confidence; but cuts reduce AD, growth, unemployment, regressive sales tax; timing matters; judgement."
+  },
+  "economics.fiscal-assess-2.0004": {
+   "all": "Plan: jobs, growth, environment, competitiveness; but opportunity cost N\u20ac49bn, retaliation/trade disputes, inefficiency; judgement."
+  }
+ },
+ "verdicts": {
+  "economics.exchange-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.exchange-mcq-class.0008": {
+   "result": "pass"
+  },
+  "economics.exchange-mcq-def.0006": {
+   "result": "pass"
+  },
+  "economics.externalities-analyse-1.0003": {
+   "result": "pass"
+  },
+  "economics.externalities-analyse-2.0004": {
+   "result": "pass"
+  },
+  "economics.externalities-analyse-3.0006": {
+   "result": "pass"
+  },
+  "economics.externalities-assess-1.0006": {
+   "result": "pass"
+  },
+  "economics.externalities-assess-2.0001": {
+   "result": "pass"
+  },
+  "economics.externalities-assess-3.0002": {
+   "result": "pass"
+  },
+  "economics.externalities-calc.0012": {
+   "result": "pass"
+  },
+  "economics.externalities-data.0016": {
+   "result": "pass"
+  },
+  "economics.externalities-define1.0002": {
+   "result": "pass"
+  },
+  "economics.externalities-define2.0001": {
+   "result": "pass"
+  },
+  "economics.externalities-describe.0002": {
+   "result": "pass"
+  },
+  "economics.externalities-diagram.0017": {
+   "result": "pass"
+  },
+  "economics.externalities-evaluate-1.0002": {
+   "result": "pass"
+  },
+  "economics.externalities-evaluate-2.0003": {
+   "result": "pass"
+  },
+  "economics.externalities-evaluate-3.0006": {
+   "result": "pass"
+  },
+  "economics.externalities-explain.0012": {
+   "result": "pass"
+  },
+  "economics.externalities-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.externalities-mcq-class.0003": {
+   "result": "pass"
+  },
+  "economics.externalities-mcq-def.0001": {
+   "result": "pass"
+  },
+  "economics.externalities-state.0004": {
+   "result": "pass"
+  },
+  "economics.externalities-state-class.0002": {
+   "result": "pass"
+  },
+  "economics.externalities-state-id.0005": {
+   "result": "pass"
+  },
+  "economics.fiscal-analyse-1.0002": {
+   "result": "pass"
+  },
+  "economics.fiscal-analyse-2.0004": {
+   "result": "pass"
+  },
+  "economics.fiscal-analyse-3.0001": {
+   "result": "pass"
+  },
+  "economics.fiscal-assess-1.0005": {
+   "result": "pass"
+  },
+  "economics.fiscal-assess-2.0004": {
+   "result": "pass"
+  }
+ }
+}

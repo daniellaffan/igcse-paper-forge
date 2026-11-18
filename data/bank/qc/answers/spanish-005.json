@@ -1,0 +1,179 @@
+{
+ "batch": "spanish-005",
+ "answers": {
+  "spanish.l-multi.c4.0006": {
+   "a": "C,E",
+   "b": "B,D",
+   "c": "A,D"
+  },
+  "spanish.l-multi.d1.0005": {
+   "a": "A,E",
+   "b": "A,E",
+   "c": "B,E"
+  },
+  "spanish.l-multi.d2.0011": {
+   "a": "B,D",
+   "b": "B,D",
+   "c": "A,B"
+  },
+  "spanish.l-multi.e1.0004": {
+   "a": "A,D",
+   "b": "A,E",
+   "c": "C,D"
+  },
+  "spanish.l-multi.e2.0006": {
+   "a": "A,B",
+   "b": "D,E",
+   "c": "C,D"
+  },
+  "spanish.l-short.a1.0006": {
+   "a": "D",
+   "b": "C",
+   "c": "A",
+   "d": "A",
+   "e": "D",
+   "f": "D",
+   "g": "B",
+   "h": "B"
+  },
+  "spanish.l-short.a2.0013": {
+   "a": "C",
+   "b": "B",
+   "c": "B",
+   "d": "C",
+   "e": "A",
+   "f": "A",
+   "g": "B",
+   "h": "D"
+  },
+  "spanish.l-short.a3.0012": {
+   "a": "B",
+   "b": "C",
+   "c": "C",
+   "d": "C",
+   "e": "D",
+   "f": "B",
+   "g": "B",
+   "h": "B"
+  },
+  "spanish.l-short.a4.0008": {
+   "a": "B",
+   "b": "B",
+   "c": "D",
+   "d": "C",
+   "e": "A",
+   "f": "B",
+   "g": "B",
+   "h": "D"
+  },
+  "spanish.l-short.b1.0001": {
+   "a": "D",
+   "b": "C",
+   "c": "B",
+   "d": "A",
+   "e": "C",
+   "f": "B",
+   "g": "D",
+   "h": "D"
+  },
+  "spanish.l-short.b2.0006": {
+   "a": "B",
+   "b": "C",
+   "c": "B",
+   "d": "D",
+   "e": "C",
+   "f": "A",
+   "g": "A",
+   "h": "A"
+  },
+  "spanish.l-short.b3.0002": {
+   "a": "C",
+   "b": "D",
+   "c": "A",
+   "d": "C",
+   "e": "A",
+   "f": "C",
+   "g": "B",
+   "h": "A"
+  },
+  "spanish.l-short.b4.0003": {
+   "a": "B",
+   "b": "A",
+   "c": "A",
+   "d": "A",
+   "e": "A",
+   "f": "C",
+   "g": "B",
+   "h": "A"
+  },
+  "spanish.l-short.b5.0006": {
+   "a": "B",
+   "b": "A",
+   "c": "D",
+   "d": "B",
+   "e": "C",
+   "f": "C",
+   "g": "B",
+   "h": "D"
+  },
+  "spanish.l-short.c1.0009": {
+   "a": "D",
+   "b": "B",
+   "c": "A",
+   "d": "D",
+   "e": "D",
+   "f": "A",
+   "g": "C",
+   "h": "B"
+  }
+ },
+ "verdicts": {
+  "spanish.l-multi.c4.0006": {
+   "result": "pass"
+  },
+  "spanish.l-multi.d1.0005": {
+   "result": "pass"
+  },
+  "spanish.l-multi.d2.0011": {
+   "result": "pass"
+  },
+  "spanish.l-multi.e1.0004": {
+   "result": "pass"
+  },
+  "spanish.l-multi.e2.0006": {
+   "result": "pass"
+  },
+  "spanish.l-short.a1.0006": {
+   "result": "pass"
+  },
+  "spanish.l-short.a2.0013": {
+   "result": "fail",
+   "problem": "Transcript contradicts itself: Q6 'Nunca como guisantes' then Q7 'Para la ensalada necesito guisantes', so (f) and (g) both key peas; (f) also asks what he dislikes when he only says he never eats them.",
+   "fix": "Change Q7 to another vegetable, e.g. 'Para la ensalada necesito tomates' with (g) key C (tomatoes); optionally make Q6 'No me gustan nada los guisantes'."
+  },
+  "spanish.l-short.a3.0012": {
+   "result": "pass"
+  },
+  "spanish.l-short.a4.0008": {
+   "result": "pass"
+  },
+  "spanish.l-short.b1.0001": {
+   "result": "pass"
+  },
+  "spanish.l-short.b2.0006": {
+   "result": "pass"
+  },
+  "spanish.l-short.b3.0002": {
+   "result": "pass"
+  },
+  "spanish.l-short.b4.0003": {
+   "result": "pass"
+  },
+  "spanish.l-short.b5.0006": {
+   "result": "pass"
+  },
+  "spanish.l-short.c1.0009": {
+   "result": "pass"
+  }
+ }
+}

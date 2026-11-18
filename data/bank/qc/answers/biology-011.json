@@ -1,0 +1,220 @@
+{
+ "batch": "biology-011",
+ "answers": {
+  "biology.human-nutrition-recall-multi.0003": {
+   "a": "peristalsis",
+   "b": "colon (large intestine)",
+   "c": "vitamin C"
+  },
+  "biology.human-reproduction-data-graph.0004": {
+   "a": "low/constant in first half of cycle up to ~day 13; rises after ovulation to peak about day 21; then falls to day 28; quote data",
+   "b": "no fertilisation/pregnancy; corpus luteum breaks down; progesterone falls, uterus lining no longer maintained, menstruation"
+  },
+  "biology.human-reproduction-data-pct.0002": {
+   "a": "(10-2)/2*100 = 400%",
+   "b": "egg not fertilised; corpus luteum degenerates so less progesterone secreted; lining breaks down -> menstruation"
+  },
+  "biology.human-reproduction-data-plot.0002": {
+   "a": "axes labelled, scale, points, smooth curve",
+   "b": "low (2-3) until day 13; rises to peak 17 at day 21; falls to 3 at day 28"
+  },
+  "biology.human-reproduction-data-read.0003": {
+   "a": "read from graph (~3)",
+   "b": "C17 - C1 from graph (~12 au if table-like data)",
+   "c": "corpus luteum breaks down when no pregnancy; less progesterone; lining shed"
+  },
+  "biology.human-reproduction-describe.0003": {
+   "all": "made in testes; stored/matured in epididymis; travel through sperm duct; mixed with fluid from prostate/seminal vesicles; urethra and out of penis; deposited in vagina; through cervix into uterus; into oviduct"
+  },
+  "biology.human-reproduction-describe-multi.0009": {
+   "a": "carbon dioxide (or urea)",
+   "b": "testis -> sperm duct -> urethra -> vagina -> cervix -> uterus -> oviduct"
+  },
+  "biology.human-reproduction-diag-desc.0003": {
+   "a": "depends on diagram",
+   "b": "depends on diagram"
+  },
+  "biology.human-reproduction-diag-func.0001": {
+   "a": "letter of uterus lining",
+   "b": "uterus lining (endometrium)"
+  },
+  "biology.human-reproduction-diag-mcq.0001": {
+   "all": "depends on diagram"
+  },
+  "biology.human-reproduction-diag-name.0001": {
+   "all": "depends on diagram"
+  },
+  "biology.human-reproduction-explain.0001": {
+   "all": "villi give large surface area; thin walls / short diffusion distance; good blood supply in both maternal and fetal blood maintains concentration gradient"
+  },
+  "biology.human-reproduction-explain-multi.0008": {
+   "a": "sperm duct",
+   "b": "progesterone levels remain high (placenta/corpus luteum); uterus lining maintained so not shed"
+  },
+  "biology.human-reproduction-mcq.0001": {
+   "all": "progesterone"
+  },
+  "biology.human-reproduction-mcq-fwd.0003": {
+   "all": "prostate gland"
+  },
+  "biology.human-reproduction-mcq-rev.0008": {
+   "all": "Allows exchange of substances between mother and fetus"
+  },
+  "biology.human-reproduction-recall.0005": {
+   "all": "connects fetus to placenta; carries blood (oxygen/nutrients to fetus, wastes away)"
+  },
+  "biology.human-reproduction-recall-fact.0002": {
+   "all": "sperm duct"
+  },
+  "biology.human-reproduction-recall-multi.0001": {
+   "a": "oxygen; glucose (amino acids, antibodies)",
+   "b": "testis",
+   "c": "oviduct"
+  },
+  "biology.inheritance-explain.0007": {
+   "all": "homozygous recessive parent only gives recessive alleles; if all offspring dominant phenotype organism is homozygous dominant; if any (about half) recessive, organism is heterozygous"
+  },
+  "biology.inheritance-explain-multi.0003": {
+   "a": "homozygous",
+   "b": "controlled by many genes (polygenic) and environment (diet); gives a range of values with no distinct categories"
+  },
+  "biology.inheritance-gen-backcross.0009": {
+   "a": "73/23 = 3.2 : 1",
+   "b": "both Rr; wrinkled offspring rr need r from each parent; 3:1 ratio matches Rr x Rr",
+   "c": "fertilisation is random / small sample"
+  },
+  "biology.inheritance-gen-codom.0004": {
+   "a": "both alleles expressed in the phenotype of heterozygote",
+   "b": "CRCW x CRCW; gametes CR,CW x CR,CW; offspring CRCR, CRCW, CRCW, CWCW; 1 red : 2 pink : 1 white",
+   "c": "0.5"
+  },
+  "biology.inheritance-gen-mcq.0006": {
+   "all": "50%"
+  },
+  "biology.inheritance-gen-pedigree.0008": {
+   "a": "depends on diagram (likely Ff and ff)",
+   "b": "if 1 and 2 are Ff x Ff: 0.25",
+   "c": "2/3 if child of two carriers"
+  },
+  "biology.inheritance-gen-punnett.0009": {
+   "a": "D and d; D and d",
+   "b": "DD, Dd, Dd, dd",
+   "c": "3:1",
+   "d": "0.25"
+  },
+  "biology.inheritance-gen-sex.0001": {
+   "a": "male XY, female XX",
+   "b": "XX, XX, XY, XY",
+   "c": "0.5"
+  },
+  "biology.inheritance-gen-sexmulti.0002": {
+   "all": "0.5^3 = 0.125"
+  },
+  "biology.inheritance-gen-sexprob.0002": {
+   "all": "0.5; each fertilisation is independent; sperm equally likely X or Y"
+  },
+  "biology.inheritance-gen-testcross.0007": {
+   "a": "SS or Ss",
+   "b": "cross with long-haired ss cat; if SS all offspring Ss short; if Ss gametes S,s x s -> 1 Ss short : 1 ss long; any long-haired offspring means Ss"
+  }
+ },
+ "verdicts": {
+  "biology.human-nutrition-recall-multi.0003": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-data-graph.0004": {
+   "result": "pass",
+   "note": "Graph not visible; MS values consistent with axis labels."
+  },
+  "biology.human-reproduction-data-pct.0002": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-data-plot.0002": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-data-read.0003": {
+   "result": "pass",
+   "note": "Graph not visible; MS values consistent with axis labels."
+  },
+  "biology.human-reproduction-describe.0003": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-describe-multi.0009": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-diag-desc.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items (B ovary, D vagina, E uterus lining, F uterus)."
+  },
+  "biology.human-reproduction-diag-func.0001": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items (B ovary, D vagina, E uterus lining, F uterus)."
+  },
+  "biology.human-reproduction-diag-mcq.0001": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items (B ovary, D vagina, E uterus lining, F uterus)."
+  },
+  "biology.human-reproduction-diag-name.0001": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items (B ovary, D vagina, E uterus lining, F uterus)."
+  },
+  "biology.human-reproduction-explain.0001": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-explain-multi.0008": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-mcq.0001": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-mcq-fwd.0003": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-mcq-rev.0008": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-recall.0005": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-recall-fact.0002": {
+   "result": "pass"
+  },
+  "biology.human-reproduction-recall-multi.0001": {
+   "result": "pass"
+  },
+  "biology.inheritance-explain.0007": {
+   "result": "pass"
+  },
+  "biology.inheritance-explain-multi.0003": {
+   "result": "pass"
+  },
+  "biology.inheritance-gen-backcross.0009": {
+   "result": "pass"
+  },
+  "biology.inheritance-gen-codom.0004": {
+   "result": "pass"
+  },
+  "biology.inheritance-gen-mcq.0006": {
+   "result": "pass"
+  },
+  "biology.inheritance-gen-pedigree.0008": {
+   "result": "pass",
+   "note": "Pedigree not visible; answers consistent with labels (affected 3 and 5, parents 1 and 2 carriers)."
+  },
+  "biology.inheritance-gen-punnett.0009": {
+   "result": "pass"
+  },
+  "biology.inheritance-gen-sex.0001": {
+   "result": "pass"
+  },
+  "biology.inheritance-gen-sexmulti.0002": {
+   "result": "pass"
+  },
+  "biology.inheritance-gen-sexprob.0002": {
+   "result": "pass"
+  },
+  "biology.inheritance-gen-testcross.0007": {
+   "result": "pass"
+  }
+ }
+}

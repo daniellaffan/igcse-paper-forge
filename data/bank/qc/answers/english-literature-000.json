@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-000",
+ "answers": {
+  "english-literature.anth-open-advice.0004": {
+   "all": "Prayer Before Birth (MacNeice): unborn child's fearful prayers; imperatives, 'I am not yet born', litany of threats, mechanised/totalitarian world, ends with plea for life; irregular rhymed stanzas. Pair with e.g. Do not go gentle (Thomas) - defiant attitude to life vs fear; villanelle vs incantatory stanzas."
+  },
+  "english-literature.anth-open-advice.0015": {
+   "all": "Half-caste (Agard): speaker protests at the term; phonetic dialect, mock-polite tone 'explain yuself', rhetorical questions, painting/music metaphors, no punctuation, irregular form. Compare e.g. Search For My Tongue or Do not go gentle for strongly held opinions, and passionate address."
+  },
+  "english-literature.anth-open-death.0015": {
+   "all": "Do not go gentle (Thomas): son's grief at dying father; villanelle, refrains 'Do not go gentle', 'Rage, rage', four types of man; grief shown as anger. Compare with Remember (Rossetti) - sonnet, gentle acceptance of loss, 'Better by far you should forget and smile'."
+  },
+  "english-literature.anth-open-death.0002": {
+   "all": "Remember (Rossetti): Petrarchan sonnet, dying speaker's address to beloved, imperatives, shift at volta from remembering to permitting forgetting; muted grief. Compare with Do not go gentle (rage) or Poem at Thirty-Nine (grief for father)."
+  },
+  "english-literature.anth-open-experience.0001": {
+   "all": "Blessing (Dharker): water bursts from pipe in a drought; single intense moment; free verse, sensory imagery 'skin cracks like a pod', religious/'blessing' lexis, the 'roar' of silver; compare with e.g. Half-past Two or Hide and Seek for intense moment; structure of one long moment."
+  },
+  "english-literature.anth-open-experience.0011": {
+   "all": "Half-past Two (Fanthorpe? actually U A Fanthorpe): adult retelling a child's detention; child's time-ignorance; 'Once upon a'; capitalised 'Schoolroom', 'Little Timetable'; free verse; childhood episode. Compare with War Photographer or Hide and Seek for retelling a dramatic event."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.anth-open-advice.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-advice.0015": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-death.0015": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-death.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-experience.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-experience.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

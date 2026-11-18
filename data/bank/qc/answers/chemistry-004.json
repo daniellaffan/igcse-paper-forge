@@ -1,0 +1,183 @@
+{
+ "batch": "chemistry-004",
+ "answers": {
+  "chemistry.rates-practical-items.0011": {
+   "all": "Handle hot tubes with tongs / wear eye protection / take care not to scald (keep bath stable)."
+  },
+  "chemistry.rates-recall-facts.0012": {
+   "a": "Particles must collide; with energy at least equal to the activation energy.",
+   "b": "Rate decreases (fastest at the start) as reactants are used up.",
+   "c": "Oxygen"
+  },
+  "chemistry.reactivity-displacement-eq.0006": {
+   "all": "Zn(s) + FeSO4(aq) -> ZnSO4(aq) + Fe(s)"
+  },
+  "chemistry.reactivity-explain-items.0014": {
+   "all": "Aluminium gains oxygen / loses electrons so is oxidised; iron(III) oxide loses oxygen / Fe3+ gains electrons so is reduced; both occur together."
+  },
+  "chemistry.reactivity-extended-items.0003": {
+   "all": "Add pieces of each metal to solutions of salts of the other metals (e.g. sulfates) in spotting tile/test tubes; same concentration/volume; observe for coating/colour change/temperature rise; a metal that displaces another is more reactive; count displacements per metal; Mg displaces all, Cu none; place X by which salts it displaces. Safety, fair test."
+  },
+  "chemistry.reactivity-mcq-facts.0011": {
+   "all": "attaching blocks of magnesium to a steel hull"
+  },
+  "chemistry.reactivity-practical-items.0012": {
+   "all": "Repeat the experiment and calculate a mean (discard anomalies)."
+  },
+  "chemistry.reactivity-recall-facts.0008": {
+   "all": "Zinc sulfate and copper."
+  },
+  "chemistry.reactivity-temp-data.0012": {
+   "a": "17.9",
+   "b": "zinc > nickel > tin > copper",
+   "c": "All metals are more reactive than silver, so all displace silver; displacement is exothermic."
+  },
+  "chemistry.reactivity2-extended-items.0001": {
+   "all": "Reacts with acid so above hydrogen; no reaction with cold water so below Ca/Mg; displaces Cu so more reactive than Cu; doesn't displace Zn so less reactive than Zn: X between zinc and copper (e.g. iron/tin/lead region). Further tests: react X with steam; compare rate with acid vs iron/zinc (same conc, size); test whether X displaces iron/lead from their salt solutions; temperature rise in displacement."
+  },
+  "chemistry.salts-equations.0005": {
+   "all": "MgCO3(s) + 2HCl(aq) -> MgCl2(aq) + H2O(l) + CO2(g)"
+  },
+  "chemistry.salts-extended-items.0006": {
+   "all": "Barium sulfate is insoluble so use precipitation: mix solutions of barium chloride (or barium nitrate) and sodium sulfate (or dilute sulfuric acid); stir; precipitate of BaSO4 forms; filter; wash residue with distilled water; dry in a warm oven / between filter papers."
+  },
+  "chemistry.salts-mcq-facts.0005": {
+   "all": "sodium hydroxide"
+  },
+  "chemistry.salts-practical-items.0008": {
+   "all": "NaOH and H2SO4 are both soluble solutions so excess cannot be removed by filtering; titration (with indicator) finds exact volumes for neutralisation, then repeat without indicator. CuO is an insoluble solid base, so add excess and filter off the unreacted solid."
+  },
+  "chemistry.salts-recall-facts.0008": {
+   "all": "A base that is soluble in water (forms OH- ions in solution)."
+  },
+  "chemistry.states-explain-items.0008": {
+   "all": "Energy supplied is used to overcome the intermolecular forces between water molecules (change of state), not to increase kinetic energy, so temperature does not rise."
+  },
+  "chemistry.states-mcq-facts.0001": {
+   "all": "solid to gas"
+  },
+  "chemistry.states-practical-items.0006": {
+   "all": "Record the temperature at which crystals first appear; saturated when the first crystals form."
+  },
+  "chemistry.states-recall-facts.0012": {
+   "all": "Particles far apart, randomly arranged; move rapidly in random directions (constant random motion)."
+  },
+  "chemistry.states-sol-calc.0006": {
+   "a": "61.98 - 46.44 = 15.54 g",
+   "b": "mass salt 8.55 g; 8.55/15.54 x 100 = 55.0 g per 100 g water"
+  },
+  "chemistry.states-sol-curve.0007": {
+   "a": "Points plotted correctly; smooth curve.",
+   "b": "~101 g per 100 g water",
+   "c": "~50 C",
+   "d": "91 - 54 = 37 g"
+  },
+  "chemistry.states-state-mcq.0005": {
+   "all": "liquid"
+  },
+  "chemistry.tests-describe-items.0004": {
+   "all": "Add dilute hydrochloric acid; effervescence; bubble gas through limewater which turns milky (CO2)."
+  },
+  "chemistry.tests-extended-items.0010": {
+   "all": "Flame test with clean nichrome wire dipped in conc HCl: lilac flame = K+. Add dilute HCl to solid: fizzing; gas through limewater turns milky = CO3 2-. Optional: dissolve, NaOH gives no precipitate; no ppt with acidified AgNO3/BaCl2 (rules out halide/sulfate)."
+  },
+  "chemistry.tests-identify-data.0015": {
+   "a": "Lithium bromide (red flame Li+, cream ppt Br-)",
+   "b": "Iron(III) carbonate (brown ppt Fe3+, fizz/limewater CO3 2-) - but this compound is not realistic and would not dissolve in water.",
+   "c": "Calcium chloride (orange-red flame Ca2+, white ppt Cl-)"
+  },
+  "chemistry.tests-mcq-facts.0011": {
+   "all": "white to blue"
+  },
+  "chemistry.tests-recall-facts.0007": {
+   "all": "Yellow (orange-yellow)"
+  }
+ },
+ "verdicts": {
+  "chemistry.rates-practical-items.0011": {
+   "result": "pass"
+  },
+  "chemistry.rates-recall-facts.0012": {
+   "result": "pass"
+  },
+  "chemistry.reactivity-displacement-eq.0006": {
+   "result": "pass"
+  },
+  "chemistry.reactivity-explain-items.0014": {
+   "result": "pass"
+  },
+  "chemistry.reactivity-extended-items.0003": {
+   "result": "pass"
+  },
+  "chemistry.reactivity-mcq-facts.0011": {
+   "result": "pass"
+  },
+  "chemistry.reactivity-practical-items.0012": {
+   "result": "pass"
+  },
+  "chemistry.reactivity-recall-facts.0008": {
+   "result": "pass"
+  },
+  "chemistry.reactivity-temp-data.0012": {
+   "result": "pass"
+  },
+  "chemistry.reactivity2-extended-items.0001": {
+   "result": "pass"
+  },
+  "chemistry.salts-equations.0005": {
+   "result": "pass"
+  },
+  "chemistry.salts-extended-items.0006": {
+   "result": "pass"
+  },
+  "chemistry.salts-mcq-facts.0005": {
+   "result": "pass"
+  },
+  "chemistry.salts-practical-items.0008": {
+   "result": "pass"
+  },
+  "chemistry.salts-recall-facts.0008": {
+   "result": "pass"
+  },
+  "chemistry.states-explain-items.0008": {
+   "result": "pass"
+  },
+  "chemistry.states-mcq-facts.0001": {
+   "result": "pass"
+  },
+  "chemistry.states-practical-items.0006": {
+   "result": "pass"
+  },
+  "chemistry.states-recall-facts.0012": {
+   "result": "pass"
+  },
+  "chemistry.states-sol-calc.0006": {
+   "result": "pass"
+  },
+  "chemistry.states-sol-curve.0007": {
+   "result": "fail",
+   "problem": "(b) tolerance 'ALLOW 99 to 100' does not include the computed value 100.9; a correct curve reading of 101 would be rejected.",
+   "fix": "(b) 101 g per 100 g water, ALLOW 99 to 103."
+  },
+  "chemistry.states-state-mcq.0005": {
+   "result": "pass"
+  },
+  "chemistry.tests-describe-items.0004": {
+   "result": "pass"
+  },
+  "chemistry.tests-extended-items.0010": {
+   "result": "pass"
+  },
+  "chemistry.tests-identify-data.0015": {
+   "result": "fail",
+   "problem": "Q is meant to be iron(III) carbonate, which is not a stable real compound and would be insoluble anyway, contradicting 'each solid is dissolved in water first'.",
+   "fix": "Make Q iron(II) sulfate (green precipitate with NaOH; white precipitate with BaCl2) or iron(III) chloride, or make Q a Group 1 carbonate with a matching flame test."
+  },
+  "chemistry.tests-mcq-facts.0011": {
+   "result": "pass"
+  },
+  "chemistry.tests-recall-facts.0007": {
+   "result": "pass"
+  }
+ }
+}

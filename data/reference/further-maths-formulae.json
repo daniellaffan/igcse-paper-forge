@@ -1,0 +1,41 @@
+{
+ "id": "further-maths-formulae",
+ "title": "Formulae page – Further Pure Mathematics",
+ "blocks": [
+  {
+   "type": "source",
+   "label": "Mensuration",
+   "text": "Surface area of a sphere $= 4\\pi r^2$\n\nCurved surface area of a cone $= \\pi r \\times \\text{slant height}$\n\nVolume of a sphere $= \\dfrac{4}{3}\\pi r^3$"
+  },
+  {
+   "type": "source",
+   "label": "Series: arithmetic",
+   "text": "Sum of the first $n$ terms: $S_n = \\dfrac{n}{2}\\left[2a + (n - 1)d\\right]$"
+  },
+  {
+   "type": "source",
+   "label": "Series: geometric",
+   "text": "Sum of the first $n$ terms: $S_n = \\dfrac{a(1 - r^n)}{1 - r}$\n\nSum to infinity: $S_\\infty = \\dfrac{a}{1 - r}$, valid for $|r| < 1$"
+  },
+  {
+   "type": "source",
+   "label": "Binomial series",
+   "text": "$(1 + x)^n = 1 + nx + \\dfrac{n(n-1)}{2!}x^2 + \\dots + \\dfrac{n(n-1)\\dots(n-r+1)}{r!}x^r + \\dots$ for $|x| < 1$, $n \\in \\mathbb{Q}$"
+  },
+  {
+   "type": "source",
+   "label": "Calculus: quotient rule",
+   "text": "$\\dfrac{\\mathrm{d}}{\\mathrm{d}x}\\left(\\dfrac{\\mathrm{f}(x)}{\\mathrm{g}(x)}\\right) = \\dfrac{\\mathrm{f}'(x)\\mathrm{g}(x) - \\mathrm{f}(x)\\mathrm{g}'(x)}{[\\mathrm{g}(x)]^2}$"
+  },
+  {
+   "type": "source",
+   "label": "Trigonometry",
+   "text": "Cosine rule, triangle $ABC$: $a^2 = b^2 + c^2 - 2bc\\cos A$\n\n$\\tan\\theta = \\dfrac{\\sin\\theta}{\\cos\\theta}$\n\n$\\sin(A \\pm B) = \\sin A\\cos B \\pm \\cos A\\sin B$\n\n$\\cos(A \\pm B) = \\cos A\\cos B \\mp \\sin A\\sin B$\n\n$\\tan(A \\pm B) = \\dfrac{\\tan A \\pm \\tan B}{1 \\mp \\tan A\\tan B}$"
+  },
+  {
+   "type": "source",
+   "label": "Logarithms",
+   "text": "Change of base: $\\log_a x = \\dfrac{\\log_b x}{\\log_b a}$"
+  }
+ ]
+}

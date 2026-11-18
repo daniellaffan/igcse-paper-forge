@@ -1,0 +1,182 @@
+{
+ "batch": "spanish-002",
+ "answers": {
+  "spanish.l-interview-3.e1.0006": {
+   "a": "B",
+   "b": "C",
+   "c": "A",
+   "d": "A",
+   "e": "C",
+   "f": "B",
+   "g": "A",
+   "h": "B",
+   "i": "C"
+  },
+  "spanish.l-interview-3.e2.0009": {
+   "a": "A",
+   "b": "B",
+   "c": "A",
+   "d": "C",
+   "e": "C",
+   "f": "B",
+   "g": "B",
+   "h": "A",
+   "i": "C"
+  },
+  "spanish.l-interview-4.a1.0008": {
+   "a": "A",
+   "b": "A",
+   "c": "C",
+   "d": "A",
+   "e": "B",
+   "f": "C"
+  },
+  "spanish.l-interview-4.a2.0008": {
+   "a": "C",
+   "b": "A",
+   "c": "B",
+   "d": "A",
+   "e": "D",
+   "f": "B"
+  },
+  "spanish.l-interview-4.a3.0012": {
+   "a": "A",
+   "b": "B",
+   "c": "D",
+   "d": "C",
+   "e": "A",
+   "f": "A"
+  },
+  "spanish.l-interview-4.a4.0010": {
+   "a": "D",
+   "b": "D",
+   "c": "D",
+   "d": "B",
+   "e": "B",
+   "f": "C"
+  },
+  "spanish.l-interview-4.b1.0004": {
+   "a": "C",
+   "b": "C",
+   "c": "C",
+   "d": "C",
+   "e": "D",
+   "f": "B"
+  },
+  "spanish.l-interview-4.b2.0012": {
+   "a": "C",
+   "b": "B",
+   "c": "D",
+   "d": "A",
+   "e": "C",
+   "f": "B"
+  },
+  "spanish.l-interview-4.b4.0008": {
+   "a": "D",
+   "b": "A",
+   "c": "D",
+   "d": "B",
+   "e": "B",
+   "f": "A"
+  },
+  "spanish.l-interview-4.b5.0010": {
+   "a": "C",
+   "b": "C",
+   "c": "B",
+   "d": "B",
+   "e": "A",
+   "f": "B"
+  },
+  "spanish.l-interview-4.c1.0007": {
+   "a": "B",
+   "b": "B",
+   "c": "D",
+   "d": "A",
+   "e": "D",
+   "f": "B"
+  },
+  "spanish.l-interview-4.c2.0001": {
+   "a": "D",
+   "b": "D",
+   "c": "C",
+   "d": "A",
+   "e": "A",
+   "f": "D"
+  },
+  "spanish.l-interview-4.c3.0006": {
+   "a": "B",
+   "b": "D",
+   "c": "D",
+   "d": "C",
+   "e": "C",
+   "f": "A"
+  },
+  "spanish.l-interview-4.c4.0003": {
+   "a": "D",
+   "b": "D",
+   "c": "D",
+   "d": "A",
+   "e": "A",
+   "f": "B"
+  },
+  "spanish.l-interview-4.d1.0003": {
+   "a": "A",
+   "b": "A",
+   "c": "A",
+   "d": "A",
+   "e": "B",
+   "f": "B"
+  }
+ },
+ "verdicts": {
+  "spanish.l-interview-3.e1.0006": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.e2.0009": {
+   "result": "fail",
+   "problem": "Transcript for (d) says 'me invitó a una cena con su familia' with no subject; the friend (amiga) the question refers to is never mentioned.",
+   "fix": "Change line to 'Al final del Ramadán mi amiga Aisha me invitó a una cena con su familia y probé muchos platos nuevos.'"
+  },
+  "spanish.l-interview-4.a1.0008": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.a2.0008": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.a3.0012": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.a4.0010": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.b1.0004": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.b2.0012": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.b4.0008": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.b5.0010": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.c1.0007": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.c2.0001": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.c3.0006": {
+   "result": "fail",
+   "problem": "(a) Option C 'en el instituto' is also supported by the transcript (phone banned in class), so two options are defensible.",
+   "fix": "Replace option C with a distractor such as 'en el autobús'."
+  },
+  "spanish.l-interview-4.c4.0003": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.d1.0003": {
+   "result": "pass"
+  }
+ }
+}

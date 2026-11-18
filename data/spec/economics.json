@@ -1,0 +1,1676 @@
+{
+ "subject": "economics",
+ "code": "4EC1",
+ "board": "Pearson Edexcel International GCSE",
+ "title": "Economics",
+ "short": "Economics",
+ "official_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-economics-2017.html",
+ "spec_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-economics-2017.html",
+ "papers": [
+  {
+   "id": "p1",
+   "name": "Paper 1: Microeconomics and Business Economics",
+   "paper_code": "4EC1/01",
+   "minutes": 90,
+   "marks": 80,
+   "calculator": true,
+   "materials": "You do not need any other materials.",
+   "answer_style": "in-booklet",
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Answer the questions in the spaces provided - there may be more space than you need.",
+    "Calculators may be used.",
+    "Show all your working, with your final answer clearly identified."
+   ],
+   "information": [
+    "The total mark for this paper is 80.",
+    "The marks for each question are shown in brackets - use them as a guide to how long to spend on each question."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Try to answer every question.",
+    "Check your answers if you have time at the end."
+   ],
+   "sections": [
+    {
+     "id": "q1",
+     "title": "Question 1",
+     "marks": 20,
+     "instructions": "Answer ALL questions. Write your answers in the spaces provided. Some questions must be answered with a cross in a box. If you change your mind, put a line through the box and mark your new answer with a cross.",
+     "slots": [
+      {
+       "label": "1(a)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "1(b)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "1(c)",
+       "qtypes": [
+        "define"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "1(d)",
+       "qtypes": [
+        "state"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "1(e)",
+       "qtypes": [
+        "define"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "1(f)",
+       "qtypes": [
+        "calculate"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "1(g)",
+       "qtypes": [
+        "diagram"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "1(h)",
+       "qtypes": [
+        "explain"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "1(i)",
+       "qtypes": [
+        "analyse"
+       ],
+       "marks": 6
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "title": "Question 2",
+     "marks": 20,
+     "slots": [
+      {
+       "label": "2(a)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "2(b)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "2(c)",
+       "qtypes": [
+        "calculate"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "2(d)",
+       "qtypes": [
+        "define"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "2(e)",
+       "qtypes": [
+        "describe"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "2(f)",
+       "qtypes": [
+        "explain"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "2(g)",
+       "qtypes": [
+        "assess"
+       ],
+       "marks": 9
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "title": "Question 3",
+     "marks": 20,
+     "slots": [
+      {
+       "label": "3(a)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "3(b)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "3(c)",
+       "qtypes": [
+        "diagram"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "3(d)",
+       "qtypes": [
+        "analyse"
+       ],
+       "marks": 6
+      },
+      {
+       "label": "3(e)",
+       "qtypes": [
+        "assess"
+       ],
+       "marks": 9
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "title": "Question 4",
+     "marks": 20,
+     "slots": [
+      {
+       "label": "4(a)-(c)",
+       "qtypes": [
+        "data-response"
+       ],
+       "marks": 20
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "name": "Paper 2: Macroeconomics and the Global Economy",
+   "paper_code": "4EC1/02",
+   "minutes": 90,
+   "marks": 80,
+   "calculator": true,
+   "materials": "You do not need any other materials.",
+   "answer_style": "in-booklet",
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Answer the questions in the spaces provided - there may be more space than you need.",
+    "Calculators may be used.",
+    "Show all your working, with your final answer clearly identified."
+   ],
+   "information": [
+    "The total mark for this paper is 80.",
+    "The marks for each question are shown in brackets - use them as a guide to how long to spend on each question."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Try to answer every question.",
+    "Check your answers if you have time at the end."
+   ],
+   "sections": [
+    {
+     "id": "q1",
+     "title": "Question 1",
+     "marks": 20,
+     "instructions": "Answer ALL questions. Write your answers in the spaces provided. Some questions must be answered with a cross in a box. If you change your mind, put a line through the box and mark your new answer with a cross.",
+     "slots": [
+      {
+       "label": "1(a)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "1(b)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "1(c)",
+       "qtypes": [
+        "define"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "1(d)",
+       "qtypes": [
+        "describe"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "1(e)",
+       "qtypes": [
+        "calculate"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "1(f)",
+       "qtypes": [
+        "diagram"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "1(g)",
+       "qtypes": [
+        "explain"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "1(h)",
+       "qtypes": [
+        "analyse"
+       ],
+       "marks": 6
+      }
+     ]
+    },
+    {
+     "id": "q2",
+     "title": "Question 2",
+     "marks": 20,
+     "slots": [
+      {
+       "label": "2(a)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "2(b)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "2(c)",
+       "qtypes": [
+        "state"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "2(d)",
+       "qtypes": [
+        "define"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "2(e)",
+       "qtypes": [
+        "explain"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "2(f)",
+       "qtypes": [
+        "diagram"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "2(g)",
+       "qtypes": [
+        "assess"
+       ],
+       "marks": 9
+      }
+     ]
+    },
+    {
+     "id": "q3",
+     "title": "Question 3",
+     "marks": 20,
+     "slots": [
+      {
+       "label": "3(a)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "3(b)",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "3(c)",
+       "qtypes": [
+        "diagram"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "3(d)",
+       "qtypes": [
+        "analyse"
+       ],
+       "marks": 6
+      },
+      {
+       "label": "3(e)",
+       "qtypes": [
+        "assess"
+       ],
+       "marks": 9
+      }
+     ]
+    },
+    {
+     "id": "q4",
+     "title": "Question 4",
+     "marks": 20,
+     "slots": [
+      {
+       "label": "4(a)-(c)",
+       "qtypes": [
+        "data-response"
+       ],
+       "marks": 20
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "qtypes": [
+  {
+   "id": "mcq",
+   "label": "Multiple choice",
+   "marks": "1",
+   "description": "One correct answer from four options (A-D)."
+  },
+  {
+   "id": "state",
+   "label": "State / identify",
+   "marks": "1",
+   "description": "Give one fact, example or feature; no development needed."
+  },
+  {
+   "id": "define",
+   "label": "Define / What is meant by",
+   "marks": "1-2",
+   "description": "Precise definition of a key term (1 mark Define, 2 marks What is meant by)."
+  },
+  {
+   "id": "describe",
+   "label": "Describe",
+   "marks": "2",
+   "description": "One point plus one linked development."
+  },
+  {
+   "id": "calculate",
+   "label": "Calculate",
+   "marks": "2",
+   "description": "Numerical answer with working and correct units."
+  },
+  {
+   "id": "diagram",
+   "label": "Draw / label a diagram",
+   "marks": "3",
+   "description": "Draw a shift or curve on the axes given, or label a diagram."
+  },
+  {
+   "id": "explain",
+   "label": "Explain",
+   "marks": "3",
+   "description": "Identify, develop and apply one reason, effect or advantage to the context."
+  },
+  {
+   "id": "analyse",
+   "label": "Analyse (6 marks)",
+   "marks": "6",
+   "description": "One-sided developed chains of reasoning using the data; levels marked AO2/AO3."
+  },
+  {
+   "id": "assess",
+   "label": "Assess (9 marks)",
+   "marks": "9",
+   "description": "Analysis plus counter-argument; levels marked AO2/AO3/AO4."
+  },
+  {
+   "id": "evaluate",
+   "label": "Evaluate (12 marks)",
+   "marks": "12",
+   "description": "Balanced argument with a supported judgement; levels marked AO2/AO3/AO4."
+  },
+  {
+   "id": "data-response",
+   "label": "Data response (Question 4 style)",
+   "marks": "20",
+   "description": "Data table and extract with a calculation, a 6-mark analyse and a 12-mark evaluate."
+  }
+ ],
+ "topics": [
+  {
+   "id": "market-system",
+   "ref": "1.1",
+   "title": "The market system",
+   "papers": [
+    "p1"
+   ],
+   "subtopics": [
+    {
+     "id": "economics.market-system.economic-problem",
+     "ref": "1.1.1",
+     "title": "The economic problem",
+     "summary": "Why scarcity forces choices, the four factors of production and their rewards, and opportunity cost.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "explain",
+      "analyse"
+     ],
+     "points": [
+      {
+       "ref": "1.1.1(a)",
+       "summary": "Scarcity: unlimited wants and finite resources force choices."
+      },
+      {
+       "ref": "1.1.1(b)",
+       "summary": "Opportunity cost for consumers, producers and government."
+      },
+      {
+       "ref": "1.2.1(a)",
+       "summary": "The four factors of production."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.ppc",
+     "ref": "1.1.1",
+     "title": "Production possibility curves",
+     "summary": "Drawing and interpreting PPCs: efficiency, opportunity cost, and shifts caused by growth or loss of resources.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "calculate",
+      "diagram",
+      "explain"
+     ],
+     "points": [
+      {
+       "ref": "1.1.1(c)",
+       "summary": "Drawing production possibility curves."
+      },
+      {
+       "ref": "1.1.1(d)",
+       "summary": "Using the PPC to show potential output, unused resources, opportunity cost, shifts and unattainable points."
+      },
+      {
+       "ref": "1.1.1(e)",
+       "summary": "What causes an economy to grow or shrink."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.assumptions",
+     "ref": "1.1.2",
+     "title": "Economic assumptions",
+     "summary": "What economists assume each economic agent is trying to achieve.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "describe",
+      "explain"
+     ],
+     "points": [
+      {
+       "ref": "1.1.2(a)",
+       "summary": "The assumed aims of consumers and businesses."
+      },
+      {
+       "ref": "1.1.2(b)",
+       "summary": "Why consumers may not get the most benefit from their choices."
+      },
+      {
+       "ref": "1.1.2(c)",
+       "summary": "Why producers may not aim purely for maximum profit."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.demand",
+     "ref": "1.1.3",
+     "title": "Demand",
+     "summary": "The demand curve, movements along it and the factors that shift it.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse"
+     ],
+     "points": [
+      {
+       "ref": "1.1.3(a)",
+       "summary": "What demand means."
+      },
+      {
+       "ref": "1.1.3(b)",
+       "summary": "Movements along and shifts of the demand curve."
+      },
+      {
+       "ref": "1.1.3(c)",
+       "summary": "Non-price factors that shift demand."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.supply",
+     "ref": "1.1.3",
+     "title": "Supply",
+     "summary": "The supply curve, movements along it and the factors that shift it.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse"
+     ],
+     "points": [
+      {
+       "ref": "1.1.3(d)",
+       "summary": "What supply means."
+      },
+      {
+       "ref": "1.1.3(e)",
+       "summary": "Movements along and shifts of the supply curve."
+      },
+      {
+       "ref": "1.1.3(f)",
+       "summary": "Non-price factors that shift supply."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.price",
+     "ref": "1.1.3",
+     "title": "Price and market equilibrium",
+     "summary": "How the interaction of demand and supply sets the equilibrium price and how it changes.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "1.1.3(g)",
+       "summary": "How equilibrium price and quantity are set."
+      },
+      {
+       "ref": "1.1.3(h)",
+       "summary": "Diagrams of shifts, excess demand and excess supply."
+      },
+      {
+       "ref": "1.1.3(i)",
+       "summary": "Defining, calculating and drawing excess demand and supply."
+      },
+      {
+       "ref": "1.1.3(j)",
+       "summary": "How market forces clear a shortage or surplus."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.ped",
+     "ref": "1.1.4",
+     "title": "Price and income elasticity of demand",
+     "summary": "Measuring how responsive demand is to price and income changes, what affects it and why firms and governments care.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "1.1.4(a)",
+       "summary": "Meaning of PED."
+      },
+      {
+       "ref": "1.1.4(b)",
+       "summary": "The PED formula."
+      },
+      {
+       "ref": "1.1.4(c)",
+       "summary": "Calculating PED from percentage changes."
+      },
+      {
+       "ref": "1.1.4(d)",
+       "summary": "Diagrams of elastic and inelastic demand."
+      },
+      {
+       "ref": "1.1.4(e)",
+       "summary": "Interpreting PED values."
+      },
+      {
+       "ref": "1.1.4(f)",
+       "summary": "What makes demand more or less price elastic."
+      },
+      {
+       "ref": "1.1.4(g)",
+       "summary": "PED and total revenue."
+      },
+      {
+       "ref": "1.1.4(o)",
+       "summary": "Meaning of YED."
+      },
+      {
+       "ref": "1.1.4(p)",
+       "summary": "The YED formula."
+      },
+      {
+       "ref": "1.1.4(q)",
+       "summary": "Calculating YED."
+      },
+      {
+       "ref": "1.1.4(r)",
+       "summary": "Interpreting YED for luxury, normal and inferior goods."
+      },
+      {
+       "ref": "1.1.4(s)",
+       "summary": "Why elasticities matter to firms and government."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.pes",
+     "ref": "1.1.4",
+     "title": "Price elasticity of supply",
+     "summary": "Measuring how responsive supply is to a price change and why it differs between products.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess"
+     ],
+     "points": [
+      {
+       "ref": "1.1.4(h)",
+       "summary": "Meaning of PES."
+      },
+      {
+       "ref": "1.1.4(i)",
+       "summary": "The PES formula."
+      },
+      {
+       "ref": "1.1.4(j)",
+       "summary": "Calculating PES."
+      },
+      {
+       "ref": "1.1.4(k)",
+       "summary": "Diagrams of elastic and inelastic supply."
+      },
+      {
+       "ref": "1.1.4(l)",
+       "summary": "Interpreting PES values."
+      },
+      {
+       "ref": "1.1.4(m)",
+       "summary": "What makes supply more or less price elastic."
+      },
+      {
+       "ref": "1.1.4(n)",
+       "summary": "Likely PES of manufactured versus primary goods."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.mixed",
+     "ref": "1.1.5",
+     "title": "The mixed economy",
+     "summary": "How markets and the state share the job of allocating resources, and public goods.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate"
+     ],
+     "points": [
+      {
+       "ref": "1.1.5(a)",
+       "summary": "Meaning of a mixed economy."
+      },
+      {
+       "ref": "1.1.5(b)",
+       "summary": "Public and private sectors."
+      },
+      {
+       "ref": "1.1.5(c)",
+       "summary": "How the two sectors differ in ownership, control and aims."
+      },
+      {
+       "ref": "1.1.5(d)",
+       "summary": "How a mixed economy answers what, how and for whom."
+      },
+      {
+       "ref": "1.1.5(e)",
+       "summary": "Market failure as a misallocation of resources."
+      },
+      {
+       "ref": "1.1.5(f)",
+       "summary": "Why market failure may justify intervention."
+      },
+      {
+       "ref": "1.1.5(g)",
+       "summary": "Public goods and the free-rider problem."
+      },
+      {
+       "ref": "1.1.5(h)",
+       "summary": "Roles of each sector in production."
+      },
+      {
+       "ref": "1.1.5(i)",
+       "summary": "How the balance between sectors varies across economies."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.intervention",
+     "ref": "1.2.6",
+     "title": "Government intervention in markets",
+     "summary": "How taxes, subsidies, maximum and minimum prices and state provision change market outcomes.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate"
+     ],
+     "points": [
+      {
+       "ref": "1.2.6(a)",
+       "summary": "Policies to correct externalities (taxes, subsidies, fines, regulation, permits)."
+      },
+      {
+       "ref": "1.2.6(b)",
+       "summary": "Strengths and weaknesses of each policy."
+      }
+     ]
+    },
+    {
+     "id": "economics.market-system.externalities",
+     "ref": "1.1.6",
+     "title": "Externalities",
+     "summary": "Costs and benefits that spill over to third parties and how governments respond.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "1.1.6(a)",
+       "summary": "Meaning of external costs."
+      },
+      {
+       "ref": "1.1.6(b)",
+       "summary": "Examples of external costs."
+      },
+      {
+       "ref": "1.1.6(c)",
+       "summary": "Meaning of external benefits."
+      },
+      {
+       "ref": "1.1.6(d)",
+       "summary": "Examples of external benefits."
+      },
+      {
+       "ref": "1.1.6(e)",
+       "summary": "Social cost and social benefit formulae."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "ref": "1.2",
+   "title": "Business economics",
+   "papers": [
+    "p1"
+   ],
+   "subtopics": [
+    {
+     "id": "economics.business.production",
+     "ref": "1.2.1",
+     "title": "Production and the sectors of the economy",
+     "summary": "What production means and how output and jobs are split between primary, secondary and tertiary sectors.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "explain",
+      "analyse"
+     ],
+     "points": [
+      {
+       "ref": "1.2.1(a)",
+       "summary": "The four factors of production."
+      },
+      {
+       "ref": "1.2.1(b)",
+       "summary": "Primary, secondary and tertiary sectors."
+      },
+      {
+       "ref": "1.2.1(c)",
+       "summary": "How the sectors' shares of jobs and output change as economies develop."
+      }
+     ]
+    },
+    {
+     "id": "economics.business.productivity",
+     "ref": "1.2.2",
+     "title": "Productivity and division of labour",
+     "summary": "Output per input, what raises it, and the gains and costs of specialisation.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "describe",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess"
+     ],
+     "points": [
+      {
+       "ref": "1.2.2(a)",
+       "summary": "Meaning of productivity."
+      },
+      {
+       "ref": "1.2.2(b)",
+       "summary": "What raises the productivity of land, labour and capital."
+      },
+      {
+       "ref": "1.2.2(c)",
+       "summary": "Meaning of division of labour."
+      },
+      {
+       "ref": "1.2.2(d)",
+       "summary": "Gains and drawbacks of division of labour."
+      }
+     ]
+    },
+    {
+     "id": "economics.business.costs",
+     "ref": "1.2.3",
+     "title": "Business costs, revenue and profit",
+     "summary": "Fixed, variable, total and average costs, revenue and profit calculations and what they mean for firms.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "1.2.3(a)",
+       "summary": "Revenue, cost and profit formulae and calculations."
+      }
+     ]
+    },
+    {
+     "id": "economics.business.objectives",
+     "ref": "1.2.4",
+     "title": "Business objectives and the growth of firms",
+     "summary": "Why firms have different aims, why some grow and others stay small, and the ways they grow.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate"
+     ],
+     "points": [
+      {
+       "ref": "1.2.4(b)",
+       "summary": "Pros and cons of large and small firms."
+      },
+      {
+       "ref": "1.2.4(c)",
+       "summary": "What drives firms to grow."
+      },
+      {
+       "ref": "1.2.4(d)",
+       "summary": "Why some firms stay small."
+      }
+     ]
+    },
+    {
+     "id": "economics.business.scale",
+     "ref": "1.2.3",
+     "title": "Economies and diseconomies of scale",
+     "summary": "Why average costs fall and then rise as a firm grows.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess"
+     ],
+     "points": [
+      {
+       "ref": "1.2.3(b)",
+       "summary": "Internal and external economies of scale."
+      },
+      {
+       "ref": "1.2.3(c)",
+       "summary": "Diseconomies of scale and the LRAC curve."
+      }
+     ]
+    },
+    {
+     "id": "economics.business.competition",
+     "ref": "1.2.4",
+     "title": "Business competition and market structure",
+     "summary": "Competitive markets, monopoly and oligopoly and what each means for consumers.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate"
+     ],
+     "points": [
+      {
+       "ref": "1.2.4(a)",
+       "summary": "Effects of competition on firms, consumers and the economy."
+      },
+      {
+       "ref": "1.2.4(e)",
+       "summary": "Meaning of monopoly."
+      },
+      {
+       "ref": "1.2.4(f)",
+       "summary": "Features of monopoly, including barriers to entry."
+      },
+      {
+       "ref": "1.2.4(g)",
+       "summary": "Pros and cons of monopoly."
+      },
+      {
+       "ref": "1.2.4(h)",
+       "summary": "Meaning of oligopoly."
+      },
+      {
+       "ref": "1.2.4(i)",
+       "summary": "Features of oligopoly."
+      },
+      {
+       "ref": "1.2.4(j)",
+       "summary": "Pros and cons of oligopoly."
+      }
+     ]
+    },
+    {
+     "id": "economics.business.labour",
+     "ref": "1.2.5",
+     "title": "The labour market",
+     "summary": "How wages are set by the demand for and supply of labour and how unions and minimum wages affect them.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "1.2.5(a)",
+       "summary": "What affects the demand for labour."
+      },
+      {
+       "ref": "1.2.5(b)",
+       "summary": "What affects the supply of labour."
+      },
+      {
+       "ref": "1.2.5(c)",
+       "summary": "Why labour quantity and quality matter to firms."
+      },
+      {
+       "ref": "1.2.5(d)",
+       "summary": "Education, training and human capital."
+      },
+      {
+       "ref": "1.2.5(e)",
+       "summary": "Labour market diagrams and shifts."
+      },
+      {
+       "ref": "1.2.5(f)",
+       "summary": "The role of trade unions."
+      },
+      {
+       "ref": "1.2.6(d)",
+       "summary": "Minimum wages and their effects."
+      }
+     ]
+    },
+    {
+     "id": "economics.business.government",
+     "ref": "1.2.6",
+     "title": "Government and firms",
+     "summary": "Privatisation, nationalisation and the regulation of business behaviour.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "describe",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate"
+     ],
+     "points": [
+      {
+       "ref": "1.1.5(j)",
+       "summary": "Meaning of privatisation."
+      },
+      {
+       "ref": "1.1.5(k)",
+       "summary": "Who gains and loses from privatisation."
+      },
+      {
+       "ref": "1.2.6(c)",
+       "summary": "Regulating competition, monopoly power and mergers."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "government",
+   "ref": "2.1",
+   "title": "Government and the economy",
+   "papers": [
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "economics.government.growth",
+     "ref": "2.1.1",
+     "title": "Economic growth",
+     "summary": "Measuring growth with GDP, the economic cycle, and the causes, benefits and costs of growth.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "2.1.1(a)",
+       "summary": "Economic growth: GDP, its limits, the economic cycle and the effects of growth."
+      }
+     ]
+    },
+    {
+     "id": "economics.government.unemployment",
+     "ref": "2.1.1",
+     "title": "Employment and unemployment",
+     "summary": "Measuring unemployment, its types and causes, and its costs.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "2.1.1(c)",
+       "summary": "Unemployment: measurement, types and effects."
+      }
+     ]
+    },
+    {
+     "id": "economics.government.inflation",
+     "ref": "2.1.1",
+     "title": "Inflation",
+     "summary": "Measuring changes in the price level, the causes of inflation and who gains or loses.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "2.1.1(b)",
+       "summary": "Inflation and deflation: CPI, causes, links to interest rates and effects."
+      }
+     ]
+    },
+    {
+     "id": "economics.government.bop",
+     "ref": "2.1.1",
+     "title": "Balance of payments",
+     "summary": "The current account, why a country may have a deficit or surplus and the consequences.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess"
+     ],
+     "points": [
+      {
+       "ref": "2.1.1(d)",
+       "summary": "The current account: deficits, surpluses, their causes and effects."
+      }
+     ]
+    },
+    {
+     "id": "economics.government.redistribution",
+     "ref": "2.1.1",
+     "title": "Redistribution of income",
+     "summary": "Why incomes are unequal, absolute and relative poverty, and how governments redistribute.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess"
+     ],
+     "points": [
+      {
+       "ref": "2.1.1(f)",
+       "summary": "Inequality, absolute and relative poverty, and policies to reduce them."
+      }
+     ]
+    },
+    {
+     "id": "economics.government.environment",
+     "ref": "2.1.1",
+     "title": "Protection of the environment",
+     "summary": "How economic activity damages the environment and why protecting it is a government objective.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "explain",
+      "analyse",
+      "assess"
+     ],
+     "points": [
+      {
+       "ref": "2.1.1(e)",
+       "summary": "Environmental damage from business and government responses."
+      },
+      {
+       "ref": "2.1.2(d)",
+       "summary": "Pros and cons of regulation, legislation, fines and permits."
+      }
+     ]
+    },
+    {
+     "id": "economics.government.fiscal",
+     "ref": "2.1.2",
+     "title": "Fiscal policy",
+     "summary": "Using taxation and government spending to influence the economy, and the government budget.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "2.1.2(a)",
+       "summary": "Fiscal policy: taxes, spending, deficits, surpluses and effects on objectives."
+      }
+     ]
+    },
+    {
+     "id": "economics.government.monetary",
+     "ref": "2.1.2",
+     "title": "Monetary policy",
+     "summary": "How the central bank uses interest rates and the money supply to meet macroeconomic objectives.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate"
+     ],
+     "points": [
+      {
+       "ref": "2.1.2(b)",
+       "summary": "Monetary policy: interest rates, the central bank and transmission to households and firms."
+      }
+     ]
+    },
+    {
+     "id": "economics.government.supply-side",
+     "ref": "2.1.2",
+     "title": "Supply-side policies",
+     "summary": "Policies that raise the productive capacity of the economy.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate"
+     ],
+     "points": [
+      {
+       "ref": "2.1.2(c)",
+       "summary": "Supply-side policies and their effects on output and objectives."
+      }
+     ]
+    },
+    {
+     "id": "economics.government.conflicts",
+     "ref": "2.1.3",
+     "title": "Relationships between objectives",
+     "summary": "Why governments face trade-offs between macroeconomic objectives.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "describe",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate"
+     ],
+     "points": [
+      {
+       "ref": "2.1.3(a)",
+       "summary": "Trade-offs between macroeconomic objectives."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "global",
+   "ref": "2.2",
+   "title": "The global economy",
+   "papers": [
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "economics.global.globalisation",
+     "ref": "2.2.1",
+     "title": "Globalisation",
+     "summary": "The growing interconnection of economies, multinational corporations and foreign direct investment.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate"
+     ],
+     "points": [
+      {
+       "ref": "2.2.1(a)",
+       "summary": "Meaning of globalisation."
+      },
+      {
+       "ref": "2.2.1(b)",
+       "summary": "Why globalisation has happened."
+      },
+      {
+       "ref": "2.2.1(c)",
+       "summary": "Effects of globalisation on different groups."
+      },
+      {
+       "ref": "2.2.1(d)",
+       "summary": "Multinational corporations and their effects on host countries."
+      }
+     ]
+    },
+    {
+     "id": "economics.global.trade",
+     "ref": "2.2.2",
+     "title": "International trade",
+     "summary": "Why countries specialise and trade, and the gains and risks of free trade.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "explain",
+      "analyse",
+      "assess"
+     ],
+     "points": [
+      {
+       "ref": "2.2.2(a)",
+       "summary": "Pros and cons of free trade."
+      },
+      {
+       "ref": "2.2.2(f)",
+       "summary": "Trade patterns of developed and developing countries."
+      }
+     ]
+    },
+    {
+     "id": "economics.global.protection",
+     "ref": "2.2.2",
+     "title": "Protectionism and trading blocs",
+     "summary": "Tariffs, quotas and subsidies, free trade areas, customs unions and the WTO.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "state",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "2.2.2(b)",
+       "summary": "Why countries protect industries."
+      },
+      {
+       "ref": "2.2.2(c)",
+       "summary": "Tariffs, quotas, subsidies and other methods."
+      },
+      {
+       "ref": "2.2.2(d)",
+       "summary": "Trading blocs."
+      },
+      {
+       "ref": "2.2.2(e)",
+       "summary": "The role of the WTO."
+      }
+     ]
+    },
+    {
+     "id": "economics.global.exchange",
+     "ref": "2.2.3",
+     "title": "Exchange rates",
+     "summary": "How floating exchange rates are set, why they change and the effects of appreciation and depreciation.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "mcq",
+      "define",
+      "describe",
+      "calculate",
+      "diagram",
+      "explain",
+      "analyse",
+      "assess",
+      "evaluate",
+      "data-response"
+     ],
+     "points": [
+      {
+       "ref": "2.2.3(a)",
+       "summary": "Meaning of an exchange rate."
+      },
+      {
+       "ref": "2.2.3(b)",
+       "summary": "What shifts currency demand and supply."
+      },
+      {
+       "ref": "2.2.3(c)",
+       "summary": "Appreciation and its effects."
+      },
+      {
+       "ref": "2.2.3(d)",
+       "summary": "Depreciation and its effects."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

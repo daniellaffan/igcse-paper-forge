@@ -1,0 +1,55 @@
+{
+ "batch": "history-003",
+ "answers": {
+  "history.germany-impression.0033": {
+   "all": "Impression: devastating, universal, desperate. Six million unemployed by 1932 plus short-time workers; no country hit harder; business collapse after US loans recalled; queues at soup kitchens; Bruning's cuts made him 'hunger Chancellor'; people turned to radical answers."
+  },
+  "history.germany-impression.0055": {
+   "all": "Impression: systematic, brutal mass murder on a vast scale. Special SS units with orders to kill Jews and communists; shot beside pits; Babi Yar 30,000 in two days; about half a million killed by end of 1941."
+  },
+  "history.germany-impression.0030": {
+   "all": "Impression: a chaotic failure/humiliating fiasco. Hitler's theatrical shot, Bavarian leaders slipped away, police fired and 16 died, Hitler fled and was arrested hiding in an attic."
+  },
+  "history.germany-impression.0011": {
+   "all": "Impression: chaos and loss of value of money, with devastating effects on savers/pensioners but benefits for debtors and speculators. Paid twice a day, bread billions of marks, savings worthless, debts paid off cheaply."
+  },
+  "history.germany-impression.0047": {
+   "all": "Impression: initially attractive and popular but became compulsory, militaristic and regimented, provoking some boredom and rebellion. Camping/sport, compulsory from 1939, tough soldiers/motherhood, rebellious gangs."
+  },
+  "history.germany-impression.0057": {
+   "all": "Impression: war initially barely affected civilians, then hardship after Stalingrad. Surprisingly normal, rationing but plunder, cinemas open; only 1943 rations cut and total war."
+  },
+  "history.germany-judgement.0044": {
+   "all": "Plan: Night of the Long Knives June 1934 removed SA/Rohm, won army support, Hitler's reward oath; but also Reichstag Fire Decree, Enabling Act March 1933, banning parties/unions, Gleichschaltung, Hindenburg's death Aug 1934 and merging of offices, oath to Hitler. Judgement: NLK important for army loyalty but Enabling Act more foundational."
+  },
+  "history.germany-judgement.0045": {
+   "all": "Plan: Hindenburg's death 2 Aug 1934 allowed Fuhrer combination and army oath, removing last check; but Enabling Act, terror in March 1933 election, Reichstag Fire, banning parties/unions, NLK were earlier and more decisive. Judgement: final step, not decisive."
+  }
+ },
+ "verdicts": {
+  "history.germany-impression.0033": {
+   "result": "pass"
+  },
+  "history.germany-impression.0055": {
+   "result": "pass"
+  },
+  "history.germany-impression.0030": {
+   "result": "pass"
+  },
+  "history.germany-impression.0011": {
+   "result": "pass"
+  },
+  "history.germany-impression.0047": {
+   "result": "pass"
+  },
+  "history.germany-impression.0057": {
+   "result": "pass"
+  },
+  "history.germany-judgement.0044": {
+   "result": "pass"
+  },
+  "history.germany-judgement.0045": {
+   "result": "pass"
+  }
+ }
+}

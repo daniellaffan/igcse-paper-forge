@@ -1,0 +1,216 @@
+{
+ "batch": "biology-016",
+ "answers": {
+  "biology.plant-nutrition-prac-vars.0001": {
+   "a": "distance of lamp (light intensity)",
+   "b": "number of bubbles per minute",
+   "c": "temperature of water; same pondweed/length; CO2/hydrogencarbonate concentration; same lamp/bulb"
+  },
+  "biology.plant-nutrition-recall.0002": {
+   "all": "light intensity; carbon dioxide concentration; temperature"
+  },
+  "biology.plant-nutrition-recall-fact.0002": {
+   "all": "spongy mesophyll"
+  },
+  "biology.plant-nutrition-recall-multi.0001": {
+   "a": "carbon dioxide + water -> glucose + oxygen (light/chlorophyll)",
+   "b": "palisade mesophyll",
+   "c": "waxy cuticle"
+  },
+  "biology.plant-reproduction-data-graph.0002": {
+   "a": "germination increases with temperature to an optimum (~25-30 C) then decreases; quote values",
+   "b": "enzymes more kinetic energy so faster reactions up to optimum; above optimum enzymes denature; low temp enzymes inactive"
+  },
+  "biology.plant-reproduction-data-pct.0004": {
+   "a": "(4.3-3.2)/4.3 x100 = 26%",
+   "b": "seed respires stored food (starch) to release energy; CO2 lost; no photosynthesis in dark so food not replaced"
+  },
+  "biology.plant-reproduction-data-plot.0001": {
+   "a": "axes labelled with units, temperature on x, suitable scale, points plotted correctly, smooth curve",
+   "b": "increases to peak 81% at 25 C, then decreases to 7% at 40 C"
+  },
+  "biology.plant-reproduction-data-read.0004": {
+   "a": "about 4.3 g (read from graph)",
+   "b": "(3.2-4.3)/6 = -0.18 g per day (decrease)",
+   "c": "respiration of stored food releases energy, mass lost as CO2; no photosynthesis in dark"
+  },
+  "biology.plant-reproduction-describe.0005": {
+   "all": "stored food (starch in cotyledons/endosperm) digested by enzymes (amylase) to glucose; glucose used in respiration to release energy"
+  },
+  "biology.plant-reproduction-describe-multi.0006": {
+   "a": "fusion of male and female gamete nuclei to form zygote",
+   "b": "stored starch digested by amylase to sugars; transported to growing regions; respired to release energy"
+  },
+  "biology.plant-reproduction-diag-desc.0001": {
+   "a": "cannot see diagram - depends on labels",
+   "b": "depends on diagram"
+  },
+  "biology.plant-reproduction-diag-func.0001": {
+   "a": "letter of anther (diagram)",
+   "b": "anther"
+  },
+  "biology.plant-reproduction-diag-mcq.0002": {
+   "all": "depends on diagram"
+  },
+  "biology.plant-reproduction-diag-name.0004": {
+   "all": "depends on diagram"
+  },
+  "biology.plant-reproduction-explain.0006": {
+   "all": "at first stored food respired, mass lost as CO2, no photosynthesis yet; later leaves photosynthesise faster than respiration so glucose made, dry mass increases"
+  },
+  "biology.plant-reproduction-explain-multi.0003": {
+   "a": "fusion of male and female gamete nuclei forming zygote",
+   "b": "advantage: quick/only one parent/offspring suited to same environment; disadvantage: no variation so all susceptible to disease/environmental change"
+  },
+  "biology.plant-reproduction-mcq.0002": {
+   "all": "water, oxygen and a suitable temperature"
+  },
+  "biology.plant-reproduction-mcq-fwd.0002": {
+   "all": "stigma"
+  },
+  "biology.plant-reproduction-mcq-rev.0008": {
+   "all": "Connects the stigma to the ovary"
+  },
+  "biology.plant-reproduction-prac-method.0001": {
+   "all": "same number/type of seeds on cotton wool; dry tube for no water; boiled cooled water with oil / pyrogallol for no O2; fridge for no warmth; leave several days, count germinated"
+  },
+  "biology.plant-reproduction-prac-plan.0002": {
+   "all": "plan: same number of seeds on damp filter paper in dishes at range of 5+ temperatures (incubators/water baths); control water volume, seed type, light; count germinated after set days, % germinated; repeat, mean"
+  },
+  "biology.plant-reproduction-prac-reliab.0002": {
+   "a": "to identify anomalies and calculate a mean, making results more reliable",
+   "b": "volume of water - add same volume each day / light - keep all in dark / seed type - same species and age"
+  },
+  "biology.plant-reproduction-prac-risk.0001": {
+   "a": "seeds may be toxic/allergens - wash hands/don't eat; or mould - keep covered",
+   "b": "use more seeds / define clearly what counts as germinated (radicle visible)"
+  },
+  "biology.plant-reproduction-prac-step.0001": {
+   "all": "boiling removes dissolved oxygen; oil stops oxygen redissolving from air"
+  },
+  "biology.plant-reproduction-prac-vars.0002": {
+   "a": "temperature",
+   "b": "number/percentage of seeds germinated",
+   "c": "volume of water; type/number of seeds; light; time"
+  },
+  "biology.plant-reproduction-recall.0001": {
+   "all": "fusion of male and female gamete nuclei to form a zygote"
+  },
+  "biology.plant-reproduction-recall-fact.0004": {
+   "all": "petal"
+  },
+  "biology.plant-reproduction-recall-multi.0004": {
+   "a": "starch",
+   "b": "petal"
+  },
+  "biology.plant-responses-data-graph.0002": {
+   "a": "curvature increases with auxin concentration up to an optimum then decreases (or levels off); quote values",
+   "b": "auxin moves to shaded side; stimulates cell elongation there; shaded side grows faster so shoot bends"
+  },
+  "biology.plant-responses-data-pct.0003": {
+   "a": "(54-14)/14 x100 = 286%",
+   "b": "auxin produced in tip moves to shaded side; causes cell elongation on shaded side; shoot bends towards light (positive phototropism)"
+  }
+ },
+ "verdicts": {
+  "biology.plant-nutrition-prac-vars.0001": {
+   "result": "pass"
+  },
+  "biology.plant-nutrition-recall.0002": {
+   "result": "pass"
+  },
+  "biology.plant-nutrition-recall-fact.0002": {
+   "result": "pass"
+  },
+  "biology.plant-nutrition-recall-multi.0001": {
+   "result": "fail",
+   "problem": "(c) asks for a 'tissue'; the waxy cuticle is not a tissue and upper epidermis (which secretes it) is also defensible, so two options arguably correct.",
+   "fix": "Reword to 'Which structure reduces water loss from the upper surface of the leaf?' or replace the upper epidermis distractor."
+  },
+  "biology.plant-reproduction-data-graph.0002": {
+   "result": "fail",
+   "problem": "Graph data/mark scheme give a maximum of 112% seeds germinated (y-axis to 125%), which is impossible for a percentage.",
+   "fix": "Rescale data so maximum is <=100% (e.g. use 4,20,52,74,81,68,36,7) and y-axis to 100%; update quoted values."
+  },
+  "biology.plant-reproduction-data-pct.0004": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-data-plot.0001": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-data-read.0004": {
+   "result": "pass",
+   "problem": "Graph values not visible; MS readings 3.5 g and 2.7 g give -0.133 g/day consistently (passed on consistency)."
+  },
+  "biology.plant-reproduction-describe.0005": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-describe-multi.0006": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-diag-desc.0001": {
+   "result": "pass",
+   "problem": "Diagram not visible; letter assignments (A petal, B anther, E stigma, F style) consistent across questions."
+  },
+  "biology.plant-reproduction-diag-func.0001": {
+   "result": "pass",
+   "problem": "Diagram not visible; letter assignments (A petal, B anther, E stigma, F style) consistent across questions."
+  },
+  "biology.plant-reproduction-diag-mcq.0002": {
+   "result": "pass",
+   "problem": "Diagram not visible; letter assignments (A petal, B anther, E stigma, F style) consistent across questions."
+  },
+  "biology.plant-reproduction-diag-name.0004": {
+   "result": "pass",
+   "problem": "Diagram not visible; letter assignments (A petal, B anther, E stigma, F style) consistent across questions."
+  },
+  "biology.plant-reproduction-explain.0006": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-explain-multi.0003": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-mcq.0002": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-mcq-fwd.0002": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-mcq-rev.0008": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-prac-method.0001": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-prac-plan.0002": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-prac-reliab.0002": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-prac-risk.0001": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-prac-step.0001": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-prac-vars.0002": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-recall.0001": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-recall-fact.0004": {
+   "result": "pass"
+  },
+  "biology.plant-reproduction-recall-multi.0004": {
+   "result": "pass"
+  },
+  "biology.plant-responses-data-graph.0002": {
+   "result": "pass"
+  },
+  "biology.plant-responses-data-pct.0003": {
+   "result": "pass"
+  }
+ }
+}

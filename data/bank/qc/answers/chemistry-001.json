@@ -1,0 +1,262 @@
+{
+ "batch": "chemistry-001",
+ "answers": {
+  "chemistry.covalent-structure-table.0015": {
+   "a": "Y",
+   "b": "X and Q are both gases (boiling points -162 and -34 below 20 C) - question says 'the substance' singular, ambiguous",
+   "c": "Giant covalent: very high mp/bp (strong covalent bonds, lots of energy), does not conduct solid or molten (no free electrons/ions), insoluble"
+  },
+  "chemistry.crude-equations.0007": {
+   "i": "C2H4",
+   "ii": "alkenes"
+  },
+  "chemistry.crude-extended-items.0012": {
+   "all": "Plan: burning fossil fuels releases CO2 (and CH4 from extraction); greenhouse gases absorb IR re-emitted from Earth, enhanced greenhouse effect, global warming -> climate change. Reduce: renewables/nuclear, efficiency, carbon capture, biofuels/hydrogen, less travel."
+  },
+  "chemistry.electrolysis-explain-items.0008": {
+   "all": "Cu2+ ions (cause blue colour) are discharged at cathode as copper (Cu2+ + 2e- -> Cu); concentration of Cu2+ falls and they are not replaced (inert anode)."
+  },
+  "chemistry.electrolysis-extended-items.0002": {
+   "all": "Plan: ions free to move when molten; Na+ to cathode, Na+ + e- -> Na, sodium metal (silvery liquid); Cl- to anode, 2Cl- -> Cl2 + 2e-, chlorine gas, green, bleaches damp blue litmus. Cathode reduction, anode oxidation."
+  },
+  "chemistry.electrolysis-half-eq.0011": {
+   "a": "2H+ + 2e- -> H2 (or 2H2O + 2e- -> H2 + 2OH-)",
+   "b": "Reduction; gain of electrons"
+  },
+  "chemistry.electrolysis-mcq-facts.0004": {
+   "all": "oxidation"
+  },
+  "chemistry.electrolysis-practical-items.0002": {
+   "all": "Collect gas in a test tube over cathode; hold lit splint at mouth - squeaky pop."
+  },
+  "chemistry.electrolysis-product-mcq.0003": {
+   "all": "hydrogen"
+  },
+  "chemistry.electrolysis-products-recall.0016": {
+   "a": "hydrogen",
+   "b": "oxygen"
+  },
+  "chemistry.energetics-calc.0037": {
+   "all": "Q=100x4.2x3.3=1386 J; n=4/101=0.0396 mol; dH=+1386/0.0396=+35000 J/mol = +35 kJ/mol"
+  },
+  "chemistry.energetics-explain-items.0003": {
+   "all": "Dissolving is exothermic; energy released (more energy released forming bonds/ion-water attraction than taken in) transfers heat to surroundings/water."
+  },
+  "chemistry.energetics-mcq-facts.0012": {
+   "all": "thermal decomposition of calcium carbonate"
+  },
+  "chemistry.energetics-practical-items.0009": {
+   "all": "Measure fixed volume (e.g. 25 cm3) CuSO4 into polystyrene cup (with lid, in beaker); record initial temperature; add excess zinc powder (weighed), stir; record highest temperature; change = max - initial."
+  },
+  "chemistry.energetics-temp-graph.0016": {
+   "a": "Plot points; rising line through 0-15 cm3, falling line through 20-50 cm3",
+   "b": "About 13-15 cm3 (intersection ~13.4 cm3)",
+   "c": "Reaction complete/all alkali neutralised so no more heat released; excess cold acid added absorbs heat and cools the mixture, plus heat lost to surroundings."
+  },
+  "chemistry.equilibria-explain-items.0003": {
+   "all": "Yield decreases; forward reaction exothermic so equilibrium shifts left (endothermic direction) to oppose the rise in temperature."
+  },
+  "chemistry.equilibria-mcq-facts.0007": {
+   "all": "it increases"
+  },
+  "chemistry.equilibria-recall-facts.0004": {
+   "all": "Rates of forward and reverse reactions are equal; concentrations of reactants and products stay constant (closed system)."
+  },
+  "chemistry.equilibria-yield-data.0002": {
+   "a": "77%",
+   "b": "Yield decreases as temperature increases; yield increases as pressure increases",
+   "c": "Exothermic; yield falls when temperature rises so equilibrium shifts in endothermic (backward) direction at higher T",
+   "d": "Low temperature gives a slow rate; moderate temperature is a compromise giving acceptable yield at faster rate (and catalyst works)"
+  },
+  "chemistry.esters-eq.0015": {
+   "all": "methanol and propanoic acid; CH3CH2COOCH3"
+  },
+  "chemistry.esters-name-recall.0002": {
+   "a": "propyl ethanoate",
+   "b": "CH3COOCH2CH2CH3"
+  },
+  "chemistry.extraction-data.0003": {
+   "a": "aluminium; lowest density (2.7 g/cm3)",
+   "b": "aluminium; very good resistance to corrosion (also low density)",
+   "c": "Steel (iron) corrodes/rusts in air and water, paint is a barrier; gold is very unreactive so does not corrode"
+  },
+  "chemistry.extraction-explain-items.0008": {
+   "all": "Aluminium has a much lower density so cables are lighter (fewer pylons) and it is cheaper; also resists corrosion; still a good conductor."
+  },
+  "chemistry.extraction-mcq-facts.0008": {
+   "all": "it does not react with water"
+  },
+  "chemistry.extraction-recall-facts.0004": {
+   "all": "Aircraft bodies - low density and strong (or saucepans - good conductor of heat, resists corrosion)"
+  },
+  "chemistry.formulae-calcs.0042": {
+   "all": "0.05 x 25/1000 = 0.00125 mol"
+  },
+  "chemistry.formulae-equations.0006": {
+   "all": "4Al(s) + 3O2(g) -> 2Al2O3(s)"
+  },
+  "chemistry.formulae-mgo-data.0004": {
+   "a": "Plot points; straight line through origin with gradient ~0.25",
+   "b": "0.25 g, 0.047 g; not heated long enough so not all copper reacted (or lid not lifted)",
+   "c": "Cu 0.35/63.5=0.00551; O 0.088/16=0.0055; ratio 1:1, CuO"
+  },
+  "chemistry.formulae-mr-mcq.0012": {
+   "all": "7"
+  },
+  "chemistry.energetics-recall-facts.0003": {
+   "all": "positive (+)"
+  }
+ },
+ "verdicts": {
+  "chemistry.covalent-structure-table.0015": {
+   "result": "fail",
+   "problem": "Part (b) asks for 'the substance' that is a gas at 20 C, but both X (bp -162 C) and Q (bp -34 C) are gases; mark scheme credits only X.",
+   "fix": "Accept X and Q (both have boiling points below 20 C), or change Q's boiling point to above 20 C (e.g. 65 C), or ask 'Give the letters of the substances...'."
+  },
+  "chemistry.crude-equations.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.crude-extended-items.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.electrolysis-explain-items.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.electrolysis-extended-items.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.electrolysis-half-eq.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.electrolysis-mcq-facts.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.electrolysis-practical-items.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.electrolysis-product-mcq.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.electrolysis-products-recall.0016": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.energetics-calc.0037": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.energetics-explain-items.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.energetics-mcq-facts.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.energetics-practical-items.0009": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.energetics-temp-graph.0016": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.equilibria-explain-items.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.equilibria-mcq-facts.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.equilibria-recall-facts.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.equilibria-yield-data.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.esters-eq.0015": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.esters-name-recall.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.extraction-data.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.extraction-explain-items.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.extraction-mcq-facts.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.extraction-recall-facts.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.formulae-calcs.0042": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.formulae-equations.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.formulae-mgo-data.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.formulae-mr-mcq.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "chemistry.energetics-recall-facts.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

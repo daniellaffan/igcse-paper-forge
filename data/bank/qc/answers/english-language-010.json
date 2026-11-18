@@ -1,0 +1,39 @@
+{
+  "batch": "english-language-010",
+  "answers": {
+    "english-language.w.letter.shopping": {
+      "all": "Formal letter, Dear Editor/Yours faithfully; consumerism, advertising pressure; waste, debt, environment; balanced view, conclusion."
+    },
+    "english-language.w.letter.jobs": {
+      "all": "Formal letter; skills, independence, money vs tiredness, grades; balanced, recommend limited hours."
+    },
+    "english-language.w.letter.adventure": {
+      "all": "Formal letter to headteacher (Dear Mr/Ms, Yours sincerely); value of trips; risk assessment alternative."
+    },
+    "english-language.w.letter.advertising": {
+      "all": "Formal letter; pester power, vulnerability; ban vs regulation/practicality; argued stance."
+    }
+  },
+  "verdicts": {
+    "english-language.w.letter.shopping": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.letter.jobs": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.letter.adventure": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.letter.advertising": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

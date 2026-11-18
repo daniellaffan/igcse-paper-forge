@@ -1,0 +1,218 @@
+{
+ "batch": "spanish-001",
+ "answers": {
+  "spanish.l-announce.e2.0012": {
+   "a": "B",
+   "b": "A",
+   "c": "D",
+   "d": "C",
+   "e": "C",
+   "f": "B"
+  },
+  "spanish.l-interview-3.a1.0002": {
+   "a": "B",
+   "b": "A",
+   "c": "A",
+   "d": "B",
+   "e": "B",
+   "f": "A",
+   "g": "A",
+   "h": "A",
+   "i": "A"
+  },
+  "spanish.l-interview-3.a2.0010": {
+   "a": "C",
+   "b": "B",
+   "c": "B",
+   "d": "B",
+   "e": "A",
+   "f": "C",
+   "g": "B",
+   "h": "B",
+   "i": "B"
+  },
+  "spanish.l-interview-3.a3.0012": {
+   "a": "C",
+   "b": "A",
+   "c": "B",
+   "d": "B",
+   "e": "C",
+   "f": "A",
+   "g": "B",
+   "h": "A",
+   "i": "C"
+  },
+  "spanish.l-interview-3.a4.0012": {
+   "a": "A",
+   "b": "A",
+   "c": "B",
+   "d": "B",
+   "e": "C",
+   "f": "C",
+   "g": "A",
+   "h": "B",
+   "i": "C"
+  },
+  "spanish.l-interview-3.b1.0006": {
+   "a": "A",
+   "b": "A",
+   "c": "C",
+   "d": "C",
+   "e": "A",
+   "f": "C",
+   "g": "C",
+   "h": "A",
+   "i": "A"
+  },
+  "spanish.l-interview-3.b2.0013": {
+   "a": "B",
+   "b": "B",
+   "c": "B",
+   "d": "A",
+   "e": "A",
+   "f": "B",
+   "g": "B",
+   "h": "A",
+   "i": "C"
+  },
+  "spanish.l-interview-3.b4.0012": {
+   "a": "B",
+   "b": "C",
+   "c": "B",
+   "d": "C",
+   "e": "B",
+   "f": "A",
+   "g": "C",
+   "h": "B",
+   "i": "A"
+  },
+  "spanish.l-interview-3.b5.0011": {
+   "a": "C",
+   "b": "C",
+   "c": "A",
+   "d": "C",
+   "e": "A",
+   "f": "B",
+   "g": "B",
+   "h": "A",
+   "i": "B"
+  },
+  "spanish.l-interview-3.c1.0011": {
+   "a": "C",
+   "b": "B",
+   "c": "C",
+   "d": "A",
+   "e": "A",
+   "f": "B",
+   "g": "C",
+   "h": "A",
+   "i": "C"
+  },
+  "spanish.l-interview-3.c2.0006": {
+   "a": "A",
+   "b": "A",
+   "c": "B",
+   "d": "C",
+   "e": "A",
+   "f": "A",
+   "g": "C",
+   "h": "A",
+   "i": "B"
+  },
+  "spanish.l-interview-3.c3.0008": {
+   "a": "A",
+   "b": "B",
+   "c": "A",
+   "d": "C",
+   "e": "B",
+   "f": "B",
+   "g": "B",
+   "h": "B",
+   "i": "C"
+  },
+  "spanish.l-interview-3.c4.0011": {
+   "a": "A",
+   "b": "B",
+   "c": "B",
+   "d": "C",
+   "e": "C",
+   "f": "A",
+   "g": "A",
+   "h": "B",
+   "i": "A"
+  },
+  "spanish.l-interview-3.d1.0009": {
+   "a": "A",
+   "b": "C",
+   "c": "B",
+   "d": "B",
+   "e": "B",
+   "f": "C",
+   "g": "B",
+   "h": "C",
+   "i": "A"
+  },
+  "spanish.l-interview-3.d2.0011": {
+   "a": "A",
+   "b": "A",
+   "c": "A",
+   "d": "C",
+   "e": "C",
+   "f": "C",
+   "g": "A",
+   "h": "A",
+   "i": "C"
+  }
+ },
+ "verdicts": {
+  "spanish.l-announce.e2.0012": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.a1.0002": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.a2.0010": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.a3.0012": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.a4.0012": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.b1.0006": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.b2.0013": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.b4.0012": {
+   "result": "fail",
+   "problem": "Grammar error in transcript: female speaker Natalia says 'Si fuera rico' (should be 'rica'); interviewer's question 'si fueras rico' likewise.",
+   "fix": "Use 'Si fuera rica' / '¿Qué harías si fueras rica?'"
+  },
+  "spanish.l-interview-3.b5.0011": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.c1.0011": {
+   "result": "fail",
+   "problem": "Transcript contradicts itself: Carmen lives in 'un pueblo pequeño en el sur del país' but later says 'Mi ciudad está en el centro del país'; (a) and (i) rest on incompatible facts.",
+   "fix": "Change the last answer to e.g. 'Mi pueblo está bien comunicado y es fácil viajar a todas partes' and the question to '¿Por qué es buena la situación del pueblo de Carmen?'"
+  },
+  "spanish.l-interview-3.c2.0006": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.c3.0008": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.c4.0011": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.d1.0009": {
+   "result": "pass"
+  },
+  "spanish.l-interview-3.d2.0011": {
+   "result": "pass"
+  }
+ }
+}

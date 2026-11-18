@@ -1,0 +1,777 @@
+{
+ "subject": "english-literature",
+ "code": "4ET1",
+ "board": "Pearson Edexcel",
+ "title": "Pearson Edexcel International GCSE (9-1) English Literature 4ET1",
+ "short": "English Literature",
+ "official_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-english-literature-2016.coursematerials.html",
+ "spec_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-english-literature-2016.html",
+ "papers": [
+  {
+   "id": "p1",
+   "name": "Paper 1: Poetry and Modern Prose",
+   "paper_code": "4ET1/01",
+   "minutes": 120,
+   "marks": 90,
+   "calculator": null,
+   "answer_style": "separate-booklet",
+   "materials": "A clean copy of the anthology poems is provided for use with Section B.",
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Answer THREE questions: the question in Section A, ONE question from Section B and ONE question from Section C.",
+    "Write your answers in the spaces provided; you may not need all the space.",
+    "Copies of the set texts and of the anthology may not be brought into the examination."
+   ],
+   "information": [
+    "The total mark for this paper is 90.",
+    "The number of marks for each question is shown in brackets: use it as a guide to timing.",
+    "Section A is worth 20 marks, Section B 30 marks and Section C 40 marks."
+   ],
+   "advice": [
+    "Read each question carefully before you start to write.",
+    "Plan your time: about 35 minutes for Section A, 40 for Section B and 45 for Section C.",
+    "Check your answers if you have time at the end."
+   ],
+   "sections": [
+    {
+     "id": "A",
+     "title": "SECTION A: Unseen Poetry",
+     "marks": 20,
+     "instructions": "Answer the question in this section. You should spend 35 minutes on this question.",
+     "slots": [
+      {
+       "label": "Question 1",
+       "qtypes": [
+        "unseen-poem"
+       ],
+       "marks": 20
+      }
+     ]
+    },
+    {
+     "id": "B",
+     "title": "SECTION B: Anthology Poetry",
+     "marks": 30,
+     "instructions": "Answer ONE question from this section. You should spend 40 minutes on your chosen question.",
+     "slots": [
+      {
+       "label": "Question 2 (EITHER)",
+       "qtypes": [
+        "anthology-pair"
+       ],
+       "marks": 30
+      },
+      {
+       "label": "Question 3 (OR)",
+       "qtypes": [
+        "anthology-open"
+       ],
+       "marks": 30
+      }
+     ]
+    },
+    {
+     "id": "C",
+     "title": "SECTION C: Modern Prose - Of Mice and Men, John Steinbeck",
+     "marks": 40,
+     "instructions": "Answer ONE question from this section. You should spend 45 minutes on this section.",
+     "slots": [
+      {
+       "label": "Question 6 (EITHER)",
+       "qtypes": [
+        "prose-character"
+       ],
+       "marks": 40
+      },
+      {
+       "label": "Question 7 (OR)",
+       "qtypes": [
+        "prose-theme"
+       ],
+       "marks": 40
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "qtypes": [
+  {
+   "id": "unseen-poem",
+   "label": "Unseen poem essay",
+   "marks": "20",
+   "description": "Explore how the writer presents a given focus in a poem printed on the paper (AO2)."
+  },
+  {
+   "id": "anthology-pair",
+   "label": "Anthology comparison: two named poems",
+   "marks": "30",
+   "description": "Compare how two named anthology poems present a theme (AO2 + AO3)."
+  },
+  {
+   "id": "anthology-open",
+   "label": "Anthology comparison: one named poem + one of your choice",
+   "marks": "30",
+   "description": "Compare a named anthology poem with another poem you choose (AO2 + AO3)."
+  },
+  {
+   "id": "prose-character",
+   "label": "Of Mice and Men: character essay",
+   "marks": "40",
+   "description": "Essay on a character or relationship, with context (AO1 + AO4)."
+  },
+  {
+   "id": "prose-theme",
+   "label": "Of Mice and Men: theme or methods essay",
+   "marks": "40",
+   "description": "Essay on a theme, setting or Steinbeck's methods, with context (AO1 + AO4)."
+  }
+ ],
+ "topics": [
+  {
+   "id": "unseen",
+   "ref": "1A",
+   "title": "Section A: Unseen poetry",
+   "papers": [
+    "p1"
+   ],
+   "subtopics": [
+    {
+     "id": "unseen.nature",
+     "ref": "1A.1",
+     "title": "Nature, seasons and the natural world",
+     "summary": "Unseen poems about landscapes, weather, plants, animals and the seasons.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "unseen-poem"
+     ],
+     "points": [
+      {
+       "ref": "1A.1.a",
+       "summary": "Explain how imagery and description bring a natural scene to life."
+      },
+      {
+       "ref": "1A.1.b",
+       "summary": "Show how a poet uses nature to suggest feelings or ideas."
+      }
+     ]
+    },
+    {
+     "id": "unseen.family",
+     "ref": "1A.2",
+     "title": "Family, childhood and growing up",
+     "summary": "Unseen poems about parents, grandparents, siblings and childhood experiences.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "unseen-poem"
+     ],
+     "points": [
+      {
+       "ref": "1A.2.a",
+       "summary": "Analyse how a poet presents a relationship between family members."
+      },
+      {
+       "ref": "1A.2.b",
+       "summary": "Comment on how a child's point of view or growing up is shown."
+      }
+     ]
+    },
+    {
+     "id": "unseen.memory",
+     "ref": "1A.3",
+     "title": "Memory, time and change",
+     "summary": "Unseen poems that look back, reflect on ageing or show how time changes things.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "unseen-poem"
+     ],
+     "points": [
+      {
+       "ref": "1A.3.a",
+       "summary": "Explain how structure and tense shifts move between past and present."
+      },
+      {
+       "ref": "1A.3.b",
+       "summary": "Analyse how a poet presents the effects of time."
+      }
+     ]
+    },
+    {
+     "id": "unseen.place",
+     "ref": "1A.4",
+     "title": "Places, journeys and home",
+     "summary": "Unseen poems about cities, homes, journeys and being away from home.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "unseen-poem"
+     ],
+     "points": [
+      {
+       "ref": "1A.4.a",
+       "summary": "Analyse how a poet creates a sense of place."
+      },
+      {
+       "ref": "1A.4.b",
+       "summary": "Comment on how a journey or a home is given wider meaning."
+      }
+     ]
+    },
+    {
+     "id": "unseen.feelings",
+     "ref": "1A.5",
+     "title": "Love, loss and strong feelings",
+     "summary": "Unseen poems expressing joy, grief, fear, hope, loneliness or love.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "unseen-poem"
+     ],
+     "points": [
+      {
+       "ref": "1A.5.a",
+       "summary": "Explain how language choices convey strong emotion."
+      },
+      {
+       "ref": "1A.5.b",
+       "summary": "Analyse how form and structure shape a poem's emotional effect."
+      }
+     ]
+    },
+    {
+     "id": "unseen.society",
+     "ref": "1A.6",
+     "title": "People, society and the wider world",
+     "summary": "Unseen poems about communities, work, war, power and freedom.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "unseen-poem"
+     ],
+     "points": [
+      {
+       "ref": "1A.6.a",
+       "summary": "Analyse how a poet presents a community or a social issue."
+      },
+      {
+       "ref": "1A.6.b",
+       "summary": "Comment on the poet's attitude and how it is conveyed."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anthology",
+   "ref": "1B",
+   "title": "Section B: Anthology poetry (comparison)",
+   "papers": [
+    "p1"
+   ],
+   "subtopics": [
+    {
+     "id": "anth.identity",
+     "ref": "1B.1",
+     "title": "Identity, culture and language",
+     "summary": "Comparing poems about who we are: culture, language, heritage and belonging.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "anthology-pair",
+      "anthology-open"
+     ],
+     "points": [
+      {
+       "ref": "P3.04",
+       "summary": "Search For My Tongue (Sujata Bhatt)"
+      },
+      {
+       "ref": "P3.14",
+       "summary": "Half-caste (John Agard)"
+      },
+      {
+       "ref": "P3.03",
+       "summary": "Blessing (Imtiaz Dharker)"
+      },
+      {
+       "ref": "P3.10",
+       "summary": "Poem at Thirty-Nine (Alice Walker)"
+      },
+      {
+       "ref": "P3.02",
+       "summary": "Prayer Before Birth (Louis MacNeice)"
+      }
+     ]
+    },
+    {
+     "id": "anth.love",
+     "ref": "1B.2",
+     "title": "Love and relationships",
+     "summary": "Comparing poems about love, marriage, family bonds and controlling relationships.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "anthology-pair",
+      "anthology-open"
+     ],
+     "points": [
+      {
+       "ref": "P3.08",
+       "summary": "Sonnet 116 (William Shakespeare)"
+      },
+      {
+       "ref": "P3.16",
+       "summary": "Remember (Christina Rossetti)"
+      },
+      {
+       "ref": "P3.13",
+       "summary": "My Last Duchess (Robert Browning)"
+      },
+      {
+       "ref": "P3.09",
+       "summary": "La Belle Dame sans Merci (John Keats)"
+      },
+      {
+       "ref": "P3.06",
+       "summary": "Piano (D H Lawrence)"
+      },
+      {
+       "ref": "P3.10",
+       "summary": "Poem at Thirty-Nine (Alice Walker)"
+      },
+      {
+       "ref": "P3.15",
+       "summary": "Do not go gentle into that good night (Dylan Thomas)"
+      }
+     ]
+    },
+    {
+     "id": "anth.death",
+     "ref": "1B.3",
+     "title": "Death, loss and grief",
+     "summary": "Comparing poems about dying, mourning, loss and how people respond to death.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "anthology-pair",
+      "anthology-open"
+     ],
+     "points": [
+      {
+       "ref": "P3.15",
+       "summary": "Do not go gentle into that good night (Dylan Thomas)"
+      },
+      {
+       "ref": "P3.16",
+       "summary": "Remember (Christina Rossetti)"
+      },
+      {
+       "ref": "P3.11",
+       "summary": "War Photographer (Carol Ann Duffy)"
+      },
+      {
+       "ref": "P3.13",
+       "summary": "My Last Duchess (Robert Browning)"
+      },
+      {
+       "ref": "P3.06",
+       "summary": "Piano (D H Lawrence)"
+      },
+      {
+       "ref": "P3.10",
+       "summary": "Poem at Thirty-Nine (Alice Walker)"
+      },
+      {
+       "ref": "P3.09",
+       "summary": "La Belle Dame sans Merci (John Keats)"
+      }
+     ]
+    },
+    {
+     "id": "anth.memory",
+     "ref": "1B.4",
+     "title": "Childhood, memory and time",
+     "summary": "Comparing poems that look back to childhood or reflect on the passing of time.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "anthology-pair",
+      "anthology-open"
+     ],
+     "points": [
+      {
+       "ref": "P3.06",
+       "summary": "Piano (D H Lawrence)"
+      },
+      {
+       "ref": "P3.05",
+       "summary": "Half-past Two (U A Fanthorpe)"
+      },
+      {
+       "ref": "P3.07",
+       "summary": "Hide and Seek (Vernon Scannell)"
+      },
+      {
+       "ref": "P3.10",
+       "summary": "Poem at Thirty-Nine (Alice Walker)"
+      },
+      {
+       "ref": "P3.08",
+       "summary": "Sonnet 116 (William Shakespeare)"
+      },
+      {
+       "ref": "P3.04",
+       "summary": "Search For My Tongue (Sujata Bhatt)"
+      }
+     ]
+    },
+    {
+     "id": "anth.power",
+     "ref": "1B.5",
+     "title": "Power, control and conflict",
+     "summary": "Comparing poems about power, control, conflict and those who hold or resist it.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "anthology-pair",
+      "anthology-open"
+     ],
+     "points": [
+      {
+       "ref": "P3.13",
+       "summary": "My Last Duchess (Robert Browning)"
+      },
+      {
+       "ref": "P3.12",
+       "summary": "The Tyger (William Blake)"
+      },
+      {
+       "ref": "P3.09",
+       "summary": "La Belle Dame sans Merci (John Keats)"
+      },
+      {
+       "ref": "P3.02",
+       "summary": "Prayer Before Birth (Louis MacNeice)"
+      },
+      {
+       "ref": "P3.11",
+       "summary": "War Photographer (Carol Ann Duffy)"
+      },
+      {
+       "ref": "P3.14",
+       "summary": "Half-caste (John Agard)"
+      },
+      {
+       "ref": "P3.01",
+       "summary": "If– (Rudyard Kipling)"
+      }
+     ]
+    },
+    {
+     "id": "anth.advice",
+     "ref": "1B.6",
+     "title": "Advice, attitudes and strong points of view",
+     "summary": "Comparing poems with a strong persuasive voice giving advice or arguing a view.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "anthology-pair",
+      "anthology-open"
+     ],
+     "points": [
+      {
+       "ref": "P3.01",
+       "summary": "If– (Rudyard Kipling)"
+      },
+      {
+       "ref": "P3.15",
+       "summary": "Do not go gentle into that good night (Dylan Thomas)"
+      },
+      {
+       "ref": "P3.14",
+       "summary": "Half-caste (John Agard)"
+      },
+      {
+       "ref": "P3.02",
+       "summary": "Prayer Before Birth (Louis MacNeice)"
+      },
+      {
+       "ref": "P3.16",
+       "summary": "Remember (Christina Rossetti)"
+      },
+      {
+       "ref": "P3.08",
+       "summary": "Sonnet 116 (William Shakespeare)"
+      }
+     ]
+    },
+    {
+     "id": "anth.experience",
+     "ref": "1B.7",
+     "title": "Experience, suffering and the wider world",
+     "summary": "Comparing poems that capture a vivid event, a moment, or the experience of suffering.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "anthology-pair",
+      "anthology-open"
+     ],
+     "points": [
+      {
+       "ref": "P3.03",
+       "summary": "Blessing (Imtiaz Dharker)"
+      },
+      {
+       "ref": "P3.11",
+       "summary": "War Photographer (Carol Ann Duffy)"
+      },
+      {
+       "ref": "P3.07",
+       "summary": "Hide and Seek (Vernon Scannell)"
+      },
+      {
+       "ref": "P3.05",
+       "summary": "Half-past Two (U A Fanthorpe)"
+      },
+      {
+       "ref": "P3.12",
+       "summary": "The Tyger (William Blake)"
+      },
+      {
+       "ref": "P3.09",
+       "summary": "La Belle Dame sans Merci (John Keats)"
+      },
+      {
+       "ref": "P3.02",
+       "summary": "Prayer Before Birth (Louis MacNeice)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prose",
+   "ref": "1C",
+   "title": "Section C: Modern prose - Of Mice and Men",
+   "papers": [
+    "p1"
+   ],
+   "subtopics": [
+    {
+     "id": "omam.george-lennie",
+     "ref": "1C.1",
+     "title": "George, Lennie and their friendship",
+     "summary": "The two central characters and the bond that sets them apart from other ranch workers.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "prose-character"
+     ],
+     "points": [
+      {
+       "ref": "1C.1.a",
+       "summary": "Know how George and Lennie are presented and how they change."
+      },
+      {
+       "ref": "1C.1.b",
+       "summary": "Explain why their friendship is unusual and how it ends."
+      }
+     ]
+    },
+    {
+     "id": "omam.curley-wife",
+     "ref": "1C.2",
+     "title": "Curley and Curley's wife",
+     "summary": "The boss's son, his unnamed wife and their unhappy marriage.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "prose-character"
+     ],
+     "points": [
+      {
+       "ref": "1C.2.a",
+       "summary": "Explain how Curley's insecurity and aggression drive events."
+      },
+      {
+       "ref": "1C.2.b",
+       "summary": "Discuss how Curley's wife is presented as both threat and victim."
+      }
+     ]
+    },
+    {
+     "id": "omam.outsiders",
+     "ref": "1C.3",
+     "title": "Candy, Crooks and the outsiders",
+     "summary": "Characters pushed to the edge of ranch life by age, injury, race or gender.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "prose-character"
+     ],
+     "points": [
+      {
+       "ref": "1C.3.a",
+       "summary": "Know the roles of Candy and Crooks and the scene in Crooks's room."
+      },
+      {
+       "ref": "1C.3.b",
+       "summary": "Link each outsider to attitudes of the 1930s."
+      }
+     ]
+    },
+    {
+     "id": "omam.ranch",
+     "ref": "1C.4",
+     "title": "Slim, Carlson and choosing a character",
+     "summary": "Other ranch workers and the 'which one character' style of question.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "prose-character"
+     ],
+     "points": [
+      {
+       "ref": "1C.4.a",
+       "summary": "Know the roles of Slim, Carlson, the boss and Whit."
+      },
+      {
+       "ref": "1C.4.b",
+       "summary": "Choose and justify one character against others."
+      }
+     ]
+    },
+    {
+     "id": "omam.dreams",
+     "ref": "1C.5",
+     "title": "Dreams, money and happiness",
+     "summary": "The dream farm, other characters' hopes, wages and the American Dream.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "prose-theme"
+     ],
+     "points": [
+      {
+       "ref": "1C.5.a",
+       "summary": "Explain how the dream is presented and why it fails."
+      },
+      {
+       "ref": "1C.5.b",
+       "summary": "Link the dream to the Depression and the American Dream."
+      }
+     ]
+    },
+    {
+     "id": "omam.loneliness",
+     "ref": "1C.6",
+     "title": "Loneliness, friendship and love",
+     "summary": "Isolation on the ranch and the rare relationships that resist it.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "prose-theme"
+     ],
+     "points": [
+      {
+       "ref": "1C.6.a",
+       "summary": "Show how most characters are lonely and why."
+      },
+      {
+       "ref": "1C.6.b",
+       "summary": "Discuss the forms of friendship, loyalty and love in the novel."
+      }
+     ]
+    },
+    {
+     "id": "omam.power",
+     "ref": "1C.7",
+     "title": "Power, prejudice and violence",
+     "summary": "Who holds power on the ranch, how outsiders are treated, and the novel's violence.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "prose-theme"
+     ],
+     "points": [
+      {
+       "ref": "1C.7.a",
+       "summary": "Explain how power and respect work in the ranch hierarchy."
+      },
+      {
+       "ref": "1C.7.b",
+       "summary": "Discuss prejudice (race, gender, age, disability) and violence."
+      }
+     ]
+    },
+    {
+     "id": "omam.death",
+     "ref": "1C.8",
+     "title": "Death, loss and fate",
+     "summary": "The chain of deaths, what characters lose, and the sense that the ending is inevitable.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "prose-theme"
+     ],
+     "points": [
+      {
+       "ref": "1C.8.a",
+       "summary": "Trace the deaths and how each foreshadows the next."
+      },
+      {
+       "ref": "1C.8.b",
+       "summary": "Discuss fate, responsibility, guilt and memory."
+      }
+     ]
+    },
+    {
+     "id": "omam.setting",
+     "ref": "1C.9",
+     "title": "Setting, nature and structure",
+     "summary": "Steinbeck's methods: locations, animals, foreshadowing and the circular, play-like structure.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "prose-theme"
+     ],
+     "points": [
+      {
+       "ref": "1C.9.a",
+       "summary": "Explain the importance of the pool, bunkhouse, Crooks's room and barn."
+      },
+      {
+       "ref": "1C.9.b",
+       "summary": "Analyse the use of animals, foreshadowing and structure."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

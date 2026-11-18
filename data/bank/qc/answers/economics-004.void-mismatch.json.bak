@@ -1,0 +1,241 @@
+{
+ "batch": "economics-004",
+ "answers": {
+  "economics.exchange-mcq-auth.0001": {
+   "all": "make its imports cheaper"
+  },
+  "economics.exchange-mcq-class.0008": {
+   "all": "A fall in demand for its exports"
+  },
+  "economics.exchange-mcq-def.0006": {
+   "all": "Holdings of foreign currencies by a central bank used to influence the exchange rate"
+  },
+  "economics.externalities-analyse-1.0006": {
+   "all": "Fewer bags -> less litter in beaches/rivers -> reduced external costs (wildlife, clean-up, tourism, fishing); output moves toward social optimum; shifts behaviour to reusable bags. Limited by illegal use and costly enforcement (opportunity cost)."
+  },
+  "economics.externalities-analyse-2.0006": {
+   "all": "Waste discharge harms third parties (fishermen) -> lower fish stocks, lower incomes/jobs in fishing; health and environmental damage; social cost > private cost so overproduction; possible clean-up costs to government; despite 1212 jobs (private benefit)."
+  },
+  "economics.externalities-analyse-3.0004": {
+   "all": "Vaccination gives external benefits to third parties: herd immunity, less disease spread, fewer sick days -> higher productivity, lower healthcare costs; social benefit > private benefit so underconsumed without subsidy; rise 66% to 86% shows more consumption toward social optimum."
+  },
+  "economics.externalities-assess-1.0002": {
+   "all": "For: bans directly cut quantity, cleaner beaches/rivers, simple and clear. Against: illegal use, costly enforcement, no revenue raised, substitutes may also pollute; compare with taxes/levies. Judgement depends on enforcement and fines."
+  },
+  "economics.externalities-assess-2.0004": {
+   "all": "For: internalises externality, polluter pays, raises revenue (compensate fishermen), incentive to cut waste. Against: hard to value damage, may raise prices/cut jobs (1477), firm may relocate, inelastic demand; alternatives regulation/permits. Judgement."
+  },
+  "economics.externalities-assess-3.0006": {
+   "all": "For: positive externalities, herd immunity, healthcare savings, rise 67%->91%, productivity. Against: opportunity cost, some would vaccinate anyway (deadweight), cost to taxpayers, funding source. Judgement: likely good use."
+  },
+  "economics.externalities-calc.0006": {
+   "all": "278 - 227 = P$51m"
+  },
+  "economics.externalities-data.0006": {
+   "a": "181 - 152 = M$29m",
+   "b": "Less litter, cleaner beaches/rivers, lower external costs, benefits to tourism/fishing/wildlife; limited by illegal bags.",
+   "c": "For: direct cut in plastic use, clear rule, visible results. Against: illegal giving out of bags, costly enforcement/opportunity cost, no revenue, substitutes. Compare with tax/levy and education; judgement depends on enforcement."
+  },
+  "economics.externalities-define1.0005": {
+   "all": "Total benefit to society of an activity = private benefit + external benefit."
+  },
+  "economics.externalities-define2.0005": {
+   "all": "The total benefit to society from production/consumption of a good, equal to private benefits plus external benefits to third parties."
+  },
+  "economics.externalities-describe.0005": {
+   "all": "Hard to set the right tax because external cost is hard to measure; so tax may be too high/low and not reach social optimum. (Or: inelastic demand means quantity falls little.)"
+  },
+  "economics.externalities-diagram.0005": {
+   "all": "Demand shifts right D to D1; new equilibrium P1 higher than Pe, Q1 higher than Qe."
+  },
+  "economics.externalities-evaluate-1.0005": {
+   "all": "As assess-1: bans cut use directly, cleaner environment; but illegal use, enforcement costs, no revenue, substitutes; alternatives taxes/education; judgement on enforcement, fines and short vs long run."
+  },
+  "economics.externalities-evaluate-2.0003": {
+   "all": "Tax internalises externality, polluter pays, revenue to compensate; but valuation hard, job losses (1446), price rises, relocation, inelastic; alternatives regulation, permits; judgement."
+  },
+  "economics.externalities-evaluate-3.0002": {
+   "all": "Positive externalities, herd immunity, rise 69%->85%, healthcare savings; vs opportunity cost, deadweight, taxpayer burden; judgement."
+  },
+  "economics.externalities-explain.0001": {
+   "all": "Dust from the cement works -> air pollution harming residents' health (third parties) -> higher medical costs / lower quality of life, not paid for by the firm. Or lorry traffic -> congestion/noise."
+  },
+  "economics.externalities-mcq-auth.0003": {
+   "all": "positive externalities"
+  },
+  "economics.externalities-mcq-class.0010": {
+   "all": "A firm training workers who later join other firms"
+  },
+  "economics.externalities-mcq-def.0004": {
+   "all": "The total cost to society of an activity equal to private cost plus external cost"
+  },
+  "economics.externalities-state.0002": {
+   "all": "Tax (or regulation/ban, tradable permits)"
+  },
+  "economics.externalities-state-class.0001": {
+   "all": "Air pollution from a factory"
+  },
+  "economics.externalities-state-id.0003": {
+   "all": "a negative externality of production"
+  },
+  "economics.fiscal-analyse-1.0006": {
+   "all": "Higher sales tax raises prices -> lower real incomes/purchasing power, falls in consumption, regressive effect on poor; cuts to public services reduce quality/access (health, education), may need to pay privately; possible slower growth, job losses."
+  },
+  "economics.fiscal-analyse-2.0005": {
+   "all": "New factories create green jobs -> lower unemployment, higher incomes, multiplier; investment and economic growth; lower pollution (positive externalities); comparative advantage/exports in green tech; energy security."
+  },
+  "economics.fiscal-analyse-3.0002": {
+   "all": "Indirect taxes do not directly reduce incentive to work (unlike income tax); broad base, hard to evade, raise large revenue; can target demerit goods; flexible to change."
+  },
+  "economics.fiscal-assess-1.0003": {
+   "all": "For: debt 95% high, interest payments, confidence/credit rating, opportunity cost. Against: cuts reduce AD, growth, unemployment, worse public services, regressive sales tax; maybe could fall via growth. Judgement on timing/state of economy."
+  },
+  "economics.fiscal-assess-2.0006": {
+   "all": "Benefits: jobs, growth, investment, lower pollution, exports. But opportunity cost of T$84bn, retaliation/trade disputes, firms dependent, may not be efficient. Judgement."
+  }
+ },
+ "verdicts": {
+  "economics.exchange-mcq-auth.0001": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for exchange-mcq-auth.0003 (key D, demand and supply of currency), a different item.",
+   "fix": "D: make its imports cheaper"
+  },
+  "economics.exchange-mcq-class.0008": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for exchange-mcq-class.0001 (key B, rise in interest rates - an appreciation item), a different item.",
+   "fix": "D: A fall in demand for its exports"
+  },
+  "economics.exchange-mcq-def.0006": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for exchange-mcq-def.0004 (key D, floating exchange rate), a different item.",
+   "fix": "D: holdings of foreign currencies by a central bank"
+  },
+  "economics.externalities-analyse-1.0006": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-analyse-1.0005, a different item.",
+   "fix": "Use the plastic-bag indicative content keyed to Corvana"
+  },
+  "economics.externalities-analyse-2.0006": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-analyse-2.0005 (names Pinecrest Furniture), a different item.",
+   "fix": "Indicative content naming Amberline Beverages and its 1212 jobs"
+  },
+  "economics.externalities-analyse-3.0004": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-analyse-3.0002 (rates 65% to 85%), a different item.",
+   "fix": "Indicative content with rates 66% to 86%"
+  },
+  "economics.externalities-assess-1.0002": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-assess-1.0005, a different item.",
+   "fix": "Plastic-bag assess scheme keyed to Zentara"
+  },
+  "economics.externalities-assess-2.0004": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-assess-2.0001 (names Kora Energy, 897 jobs), a different item.",
+   "fix": "Scheme naming Lumo Pharma and 1477 jobs"
+  },
+  "economics.externalities-assess-3.0006": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-assess-3.0005 (rates 74% to 90%), a different item.",
+   "fix": "Scheme with rates 67% to 91%"
+  },
+  "economics.externalities-calc.0006": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-calc.0001 (social cost 98,000+56,000=154,000), a different item.",
+   "fix": "278 - 227 = P$51m (1 method, 1 answer)"
+  },
+  "economics.externalities-data.0006": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-data.0013 (AED 158,000 social cost; vaccination b/c), a different item.",
+   "fix": "(a) 181-152 = M$29m; (b)/(c) plastic-bag indicative content for Marrenia. Also part (a) is about vaccination while Extract A is about plastic bags."
+  },
+  "economics.externalities-define1.0005": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-define1.0002 (defines external cost/negative externality, not social benefit), a different item.",
+   "fix": "Social benefit = private benefit + external benefit (total benefit to society)"
+  },
+  "economics.externalities-define2.0005": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-define2.0002 (external cost definition), a different item.",
+   "fix": "Total benefit to society (1) = private benefit plus external benefit (1)"
+  },
+  "economics.externalities-describe.0005": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-describe.0010 (private vs social cost), a different item.",
+   "fix": "e.g. hard to measure external cost so tax set at wrong level (1) so output not at social optimum (1)"
+  },
+  "economics.externalities-diagram.0005": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-diagram.0017 (supply shifts left, Q falls), a different item.",
+   "fix": "Demand shifts right to D1 (1), higher price P1 (1), higher quantity Q1 (1)"
+  },
+  "economics.externalities-evaluate-1.0005": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-evaluate-1.0002, a different item.",
+   "fix": "Plastic-bag evaluate scheme keyed to Valdoria (content would fit)"
+  },
+  "economics.externalities-evaluate-2.0003": {
+   "result": "pass"
+  },
+  "economics.externalities-evaluate-3.0002": {
+   "result": "pass"
+  },
+  "economics.externalities-explain.0001": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-explain.0009 (fines, Sundara, S$3182), a different item.",
+   "fix": "Dust/lorry traffic from Juniper Textiles' cement works harming Karachi residents as third parties"
+  },
+  "economics.externalities-mcq-auth.0003": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-mcq-auth.0002 (key C, tax on pollution), a different item.",
+   "fix": "C: positive externalities"
+  },
+  "economics.externalities-mcq-class.0010": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-mcq-class.0004 (key D litter, negative externality of consumption), a different item.",
+   "fix": "D: A firm training workers who later join other firms"
+  },
+  "economics.externalities-mcq-def.0004": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-mcq-def.0008 (key D, fine), a different item.",
+   "fix": "D: private cost plus external cost"
+  },
+  "economics.externalities-state.0002": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-state.0005 (lists positive externalities), a different item.",
+   "fix": "Any one of: tax, regulation/ban, fines, tradable permits"
+  },
+  "economics.externalities-state-class.0001": {
+   "result": "pass"
+  },
+  "economics.externalities-state-id.0003": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for externalities-state-id.0004 (negative externality of consumption), a different item.",
+   "fix": "A negative externality of production"
+  },
+  "economics.fiscal-analyse-1.0006": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for fiscal-analyse-1.0003 (debt 75% of GDP), a different item.",
+   "fix": "Same content with debt 83% of GDP"
+  },
+  "economics.fiscal-analyse-2.0005": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for fiscal-analyse-2.0002, a different item.",
+   "fix": "Green-subsidy content keyed to Gallendra G\u00a359bn (content would fit)"
+  },
+  "economics.fiscal-analyse-3.0002": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for fiscal-analyse-3.0001, a different item.",
+   "fix": "Indirect-tax content (would fit)"
+  },
+  "economics.fiscal-assess-1.0003": {
+   "result": "pass"
+  },
+  "economics.fiscal-assess-2.0006": {
+   "result": "fail",
+   "problem": "No mark scheme for this id; the scheme in its slot is for fiscal-assess-2.0003 (H\u20ac63bn), a different item.",
+   "fix": "Same content with T$84bn"
+  }
+ }
+}

@@ -1,0 +1,213 @@
+{
+ "batch": "biology-010",
+ "answers": {
+  "biology.human-impact-mcq.0001": {
+   "all": "algae grow, algae die, bacteria decompose them, oxygen falls"
+  },
+  "biology.human-impact-mcq-fwd.0003": {
+   "all": "carbon dioxide"
+  },
+  "biology.human-impact-mcq-rev.0003": {
+   "all": "Released by burning fossil fuels"
+  },
+  "biology.human-impact-recall.0001": {
+   "all": "carbon dioxide; methane"
+  },
+  "biology.human-impact-recall-fact.0008": {
+   "all": "untreated sewage"
+  },
+  "biology.human-impact-recall-multi.0003": {
+   "a": "kills trees/leaves damaged; lakes acidified, fish die",
+   "b": "carbon dioxide",
+   "c": "carbon monoxide"
+  },
+  "biology.human-nutrition-data-graph.0003": {
+   "a": "energy requirement increases with age up to ~18, then levels off / slightly decreases to 30; quote data",
+   "b": "growth; more body mass/cells; more respiration; more active"
+  },
+  "biology.human-nutrition-data-pct.0002": {
+   "a": "(7.8-0.7)/7.8*100 = 91%",
+   "b": "amylase digests starch to maltose; starch decreases; rate slows as substrate used up; levels off when all starch digested (0.7 remains)"
+  },
+  "biology.human-nutrition-data-plot.0004": {
+   "a": "axes labelled, scale, points, smooth curve",
+   "b": "increases with age up to 18 years; peak 10200 kJ at 18; then slight decrease to 9775 kJ at 30"
+  },
+  "biology.human-nutrition-data-read.0002": {
+   "a": "~7.8 g/dm3 (from graph)",
+   "b": "(0.7-7.8)/8 = -0.89 g/dm3 per min",
+   "c": "amylase breaks down starch into maltose; rate slows as less substrate"
+  },
+  "biology.human-nutrition-describe.0001": {
+   "all": "circular and longitudinal muscles in wall contract and relax alternately; circular muscle contracts behind food bolus, squeezing it forward; wave of contraction"
+  },
+  "biology.human-nutrition-describe-multi.0005": {
+   "a": "vitamin C",
+   "b": "circular/longitudinal muscles antagonistic; contract behind bolus; wave pushes food along"
+  },
+  "biology.human-nutrition-diag-desc.0002": {
+   "a": "depends on diagram",
+   "b": "depends on diagram"
+  },
+  "biology.human-nutrition-diag-func.0003": {
+   "a": "letter of small intestine/ileum",
+   "b": "small intestine (ileum)"
+  },
+  "biology.human-nutrition-diag-mcq.0003": {
+   "all": "depends on diagram"
+  },
+  "biology.human-nutrition-diag-name.0005": {
+   "all": "depends on diagram"
+  },
+  "biology.human-nutrition-explain.0007": {
+   "all": "adds bulk to food/faeces; muscles of gut can push it along by peristalsis, preventing constipation"
+  },
+  "biology.human-nutrition-explain-multi.0003": {
+   "a": "stomach",
+   "b": "neutralises stomach acid giving alkaline/optimum pH for enzymes in small intestine; emulsifies fats increasing surface area for lipase"
+  },
+  "biology.human-nutrition-ext.0011": {
+   "all": "bile made in liver, stored in gall bladder, released into duodenum via bile duct; alkaline, neutralises stomach acid -> optimum pH for lipase; emulsifies fat into small droplets -> larger surface area; faster lipase digestion to fatty acids and glycerol; absorbed in ileum (lacteals)"
+  },
+  "biology.human-nutrition-mcq.0003": {
+   "all": "it emulsifies lipids and neutralises stomach acid"
+  },
+  "biology.human-nutrition-mcq-fwd.0004": {
+   "all": "oesophagus"
+  },
+  "biology.human-nutrition-mcq-rev.0009": {
+   "all": "Helps food move through the gut and prevents constipation"
+  },
+  "biology.human-nutrition-prac-method.0002": {
+   "all": "set up tubes with same volume milk + indicator, with and without bile salts (same volume, water instead); equilibrate in water bath at same temp; add same volume lipase; start timer; time how long for colour change; repeat"
+  },
+  "biology.human-nutrition-prac-plan.0002": {
+   "all": "IV bile salts present/absent (or concentration); same volume milk, indicator, lipase concentration, temp in water bath, pH start; measure time for indicator colour change (fatty acids lower pH); repeat 3 times and calculate mean; control with no lipase/boiled lipase"
+  },
+  "biology.human-nutrition-prac-reliab.0002": {
+   "a": "identify anomalous results; calculate mean so results more reliable",
+   "b": "tube with boiled (denatured) lipase or water instead of lipase; shows that colour change is due to lipase activity"
+  },
+  "biology.human-nutrition-prac-risk.0001": {
+   "a": "burning food/hot water could burn; use tongs/heatproof mat, stand away, wear goggles; or allergy to nuts - avoid handling",
+   "b": "insulate/shield tube to reduce heat loss; stir water; make sure food burns completely; use thermometer of higher resolution"
+  },
+  "biology.human-nutrition-prac-step.0004": {
+   "all": "keeps temperature constant (control variable) so only bile salts affect rate; 35 \u00b0C near optimum for lipase so reaction fast enough"
+  },
+  "biology.human-nutrition-prac-vars.0001": {
+   "a": "type of food",
+   "b": "temperature rise of the water (energy per gram)",
+   "c": "volume of water; mass of food; distance of food from tube; starting temperature"
+  },
+  "biology.human-nutrition-recall.0006": {
+   "all": "gall bladder"
+  },
+  "biology.human-nutrition-recall-fact.0005": {
+   "all": "rectum"
+  }
+ },
+ "verdicts": {
+  "biology.human-impact-mcq.0001": {
+   "result": "pass"
+  },
+  "biology.human-impact-mcq-fwd.0003": {
+   "result": "pass"
+  },
+  "biology.human-impact-mcq-rev.0003": {
+   "result": "pass"
+  },
+  "biology.human-impact-recall.0001": {
+   "result": "pass"
+  },
+  "biology.human-impact-recall-fact.0008": {
+   "result": "pass"
+  },
+  "biology.human-impact-recall-multi.0003": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-data-graph.0003": {
+   "result": "fail",
+   "problem": "MS says requirement 'levels off / stays constant from about 30 years', but data peak at 18 years (12000 kJ) then fall slightly to 11500 kJ at 30; also stem says 'The table shows' for a graph.",
+   "fix": "Replace bullet with 'peaks at about 18 years then decreases slightly'; change stem to 'The graph shows'."
+  },
+  "biology.human-nutrition-data-pct.0002": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-data-plot.0004": {
+   "result": "fail",
+   "problem": "MS says requirement 'levels off / stays constant from about 30 years', but data peak at 18 years (10200 kJ) then decrease to 9775 kJ at 30.",
+   "fix": "Replace bullet with 'peaks at 18 years / 10200 kJ then decreases slightly'."
+  },
+  "biology.human-nutrition-data-read.0002": {
+   "result": "pass",
+   "note": "Graph not visible; readings plausible and arithmetic correct (-5.9/8=-0.738); unit typo 'per minutes'."
+  },
+  "biology.human-nutrition-describe.0001": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-describe-multi.0005": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-diag-desc.0002": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items (A oesophagus, G small intestine)."
+  },
+  "biology.human-nutrition-diag-func.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items (A oesophagus, G small intestine)."
+  },
+  "biology.human-nutrition-diag-mcq.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items (A oesophagus, G small intestine)."
+  },
+  "biology.human-nutrition-diag-name.0005": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items (A oesophagus, G small intestine)."
+  },
+  "biology.human-nutrition-explain.0007": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-explain-multi.0003": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-ext.0011": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-mcq.0003": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-mcq-fwd.0004": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-mcq-rev.0009": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-prac-method.0002": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-prac-plan.0002": {
+   "result": "fail",
+   "problem": "C point demands 'at least five values' for the presence of bile salts, which is a two-level (present/absent) variable, so a correct with/without design would lose the mark.",
+   "fix": "C: compare tubes with and without bile salts (or use a range of at least five bile salt concentrations)."
+  },
+  "biology.human-nutrition-prac-reliab.0002": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-prac-risk.0001": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-prac-step.0004": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-prac-vars.0001": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-recall.0006": {
+   "result": "pass"
+  },
+  "biology.human-nutrition-recall-fact.0005": {
+   "result": "pass"
+  }
+ }
+}

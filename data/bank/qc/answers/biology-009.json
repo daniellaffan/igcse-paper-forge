@@ -1,0 +1,210 @@
+{
+ "batch": "biology-009",
+ "answers": {
+  "biology.heart-mcq-fwd.0008": {
+   "all": "aorta"
+  },
+  "biology.heart-mcq-rev.0005": {
+   "all": "Stops blood flowing back from a ventricle into an atrium"
+  },
+  "biology.heart-recall.0003": {
+   "all": "heart rate increases"
+  },
+  "biology.heart-recall-fact.0003": {
+   "all": "septum"
+  },
+  "biology.heart-recall-multi.0001": {
+   "a": "coronary artery",
+   "b": "left ventricle",
+   "c": "semilunar valve"
+  },
+  "biology.heart_rate.0002": {
+   "all": "(160-70)/70*100 = 129%"
+  },
+  "biology.homeostasis-data-graph.0002": {
+   "a": "glucose rises after meal to a peak (~30 min) then falls back to original level, levels off; quote data",
+   "b": "high glucose detected by pancreas; insulin secreted; liver/muscles take up glucose and convert to glycogen; concentration falls back to normal"
+  },
+  "biology.homeostasis-data-pct.0001": {
+   "a": "(126-108)/108*100 = 17%",
+   "b": "pancreas detects rise; secretes insulin; glucose converted to glycogen in liver/muscle; glucose taken into cells; returns to normal"
+  },
+  "biology.homeostasis-data-plot.0003": {
+   "a": "axes labelled with units, scale, points, line",
+   "b": "as air temperature increases rate of sweating increases; increase gets steeper"
+  },
+  "biology.homeostasis-data-read.0003": {
+   "a": "read from graph (~18 cm3/h)",
+   "b": "(R35-R20)/15, about 16.8 cm3 per hour per \u00b0C",
+   "c": "sweat secreted onto skin; water evaporates; uses heat energy from skin, cooling body"
+  },
+  "biology.homeostasis-describe.0001": {
+   "all": "sweat glands secrete more sweat; evaporation removes heat; vasodilation of arterioles supplying skin capillaries; more blood near surface, more heat lost by radiation; hairs lie flat"
+  },
+  "biology.homeostasis-describe-multi.0004": {
+   "a": "LH",
+   "b": "vasoconstriction of skin arterioles; less blood to surface, less heat lost by radiation; hair erector muscles contract, hairs stand up trap air insulation; shivering generates heat; less sweating"
+  },
+  "biology.homeostasis-explain.0003": {
+   "all": "vasodilation of arterioles; more blood flows through capillaries near skin surface"
+  },
+  "biology.homeostasis-explain-multi.0006": {
+   "a": "progesterone",
+   "b": "vasodilation; more blood flows near skin surface"
+  },
+  "biology.homeostasis-ext.0007": {
+   "all": "Nervous: electrical impulses along neurones, very fast, short-lived, localised (pupil reflex: light -> retina -> sensory/relay/motor neurones -> iris muscles, fast). Hormonal: chemical in blood, slower, longer lasting, widespread targets (insulin from pancreas travels in blood to liver, slower, lasting). Both involve receptors/effectors and homeostasis/negative feedback."
+  },
+  "biology.homeostasis-mcq.0002": {
+   "all": "keeping body temperature close to 37 \u00b0C"
+  },
+  "biology.homeostasis-mcq-fwd.0008": {
+   "all": "oestrogen"
+  },
+  "biology.homeostasis-mcq-rev.0007": {
+   "all": "Stimulates ovulation"
+  },
+  "biology.homeostasis-recall.0004": {
+   "all": "vasoconstriction"
+  },
+  "biology.homeostasis-recall-fact.0002": {
+   "all": "adrenaline"
+  },
+  "biology.homeostasis-recall-multi.0002": {
+   "a": "body temperature; blood glucose concentration (also water content)",
+   "b": "adrenaline"
+  },
+  "biology.human-impact-data-graph.0003": {
+   "a": "oxygen falls sharply just downstream of outlet to a minimum, then rises again further downstream back towards original; quote data",
+   "b": "sewage provides organic matter/nutrients; bacteria decompose it and multiply; bacteria respire aerobically using oxygen"
+  },
+  "biology.human-impact-data-pct.0001": {
+   "a": "(413-317)/317*100 = 30%",
+   "b": "burning fossil fuels releases CO2; deforestation reduces photosynthesis/removal of CO2; burning trees releases CO2"
+  },
+  "biology.human-impact-data-plot.0001": {
+   "a": "axes labelled, scale, points, line",
+   "b": "CO2 increases over time; rate of increase gets faster; quote data"
+  },
+  "biology.human-impact-data-read.0006": {
+   "a": "read from graph",
+   "b": "(O5-O0)/5 mg per dm3 per km",
+   "c": "bacteria decompose sewage, multiply, respire aerobically using oxygen"
+  },
+  "biology.human-impact-describe.0005": {
+   "all": "cattle/livestock farming (digestion); rice paddy fields; landfill decomposition"
+  },
+  "biology.human-impact-describe-multi.0003": {
+   "a": "CFCs",
+   "b": "greenhouse gases absorb infrared radiation emitted from Earth's surface; re-radiate it back to Earth; less heat escapes; Earth's temperature increases / global warming"
+  },
+  "biology.human-impact-explain.0007": {
+   "all": "bacteria decompose sewage and respire aerobically; oxygen concentration falls; mayfly larvae need high oxygen so die/move away"
+  },
+  "biology.human-impact-explain-multi.0005": {
+   "a": "carbon dioxide; methane",
+   "b": "nitrates cause algal growth/bloom; blocks light so plants below die; bacteria decompose dead plants and respire using oxygen; oxygen falls, fish can't respire and die (eutrophication)"
+  },
+  "biology.human-impact-ext.0005": {
+   "all": "nitrates leach into lake; algal bloom; light blocked, plants die; algae die; decomposers multiply, respire aerobically; oxygen depleted; fish cannot respire aerobically and die - eutrophication"
+  }
+ },
+ "verdicts": {
+  "biology.heart-mcq-fwd.0008": {
+   "result": "pass"
+  },
+  "biology.heart-mcq-rev.0005": {
+   "result": "pass"
+  },
+  "biology.heart-recall.0003": {
+   "result": "pass"
+  },
+  "biology.heart-recall-fact.0003": {
+   "result": "pass"
+  },
+  "biology.heart-recall-multi.0001": {
+   "result": "pass"
+  },
+  "biology.heart_rate.0002": {
+   "result": "pass"
+  },
+  "biology.homeostasis-data-graph.0002": {
+   "result": "pass",
+   "note": "Graph values not visible; MS readings consistent with axis labels and working arithmetic correct."
+  },
+  "biology.homeostasis-data-pct.0001": {
+   "result": "pass"
+  },
+  "biology.homeostasis-data-plot.0003": {
+   "result": "pass"
+  },
+  "biology.homeostasis-data-read.0003": {
+   "result": "pass",
+   "note": "Graph values not visible; MS readings consistent with axis labels and working arithmetic correct."
+  },
+  "biology.homeostasis-describe.0001": {
+   "result": "pass"
+  },
+  "biology.homeostasis-describe-multi.0004": {
+   "result": "pass"
+  },
+  "biology.homeostasis-explain.0003": {
+   "result": "pass"
+  },
+  "biology.homeostasis-explain-multi.0006": {
+   "result": "pass"
+  },
+  "biology.homeostasis-ext.0007": {
+   "result": "fail",
+   "problem": "Question requires using the pupil reflex and insulin as examples, but the mark scheme gives no credit for either example and refers to 'Level 2' in a points-based scheme.",
+   "fix": "Add creditable points e.g. pupil reflex: light detected by retina, impulse via reflex arc to iris muscles, response in under a second; insulin: secreted by pancreas, carried in blood to liver, glucose converted to glycogen over minutes/hours; remove the Level 2 note or convert to a levels scheme."
+  },
+  "biology.homeostasis-mcq.0002": {
+   "result": "pass"
+  },
+  "biology.homeostasis-mcq-fwd.0008": {
+   "result": "pass"
+  },
+  "biology.homeostasis-mcq-rev.0007": {
+   "result": "pass"
+  },
+  "biology.homeostasis-recall.0004": {
+   "result": "pass"
+  },
+  "biology.homeostasis-recall-fact.0002": {
+   "result": "pass"
+  },
+  "biology.homeostasis-recall-multi.0002": {
+   "result": "pass"
+  },
+  "biology.human-impact-data-graph.0003": {
+   "result": "pass",
+   "note": "Graph values not visible; MS readings consistent with axis labels and working arithmetic correct."
+  },
+  "biology.human-impact-data-pct.0001": {
+   "result": "pass"
+  },
+  "biology.human-impact-data-plot.0001": {
+   "result": "pass"
+  },
+  "biology.human-impact-data-read.0006": {
+   "result": "pass",
+   "note": "Graph values not visible; MS readings consistent with axis labels and working arithmetic correct."
+  },
+  "biology.human-impact-describe.0005": {
+   "result": "pass"
+  },
+  "biology.human-impact-describe-multi.0003": {
+   "result": "pass"
+  },
+  "biology.human-impact-explain.0007": {
+   "result": "pass"
+  },
+  "biology.human-impact-explain-multi.0005": {
+   "result": "pass"
+  },
+  "biology.human-impact-ext.0005": {
+   "result": "pass"
+  }
+ }
+}

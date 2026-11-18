@@ -1,0 +1,71 @@
+{
+ "batch": "history-005",
+ "answers": {
+  "history.russia-describe.0024": {
+   "all": "Tsar: Sept 1915 Nicholas II dismissed Grand Duke Nicholas, went to Stavka at Mogilev; left Alexandra and Rasputin influence in Petrograd, tied him personally to defeats. Provisional Government: formed March 1917 from Duma committee, led by Prince Lvov, liberal/Kadet majority; shared dual power with Petrograd Soviet (Order No.1), continued the war."
+  },
+  "history.russia-describe.0048": {
+   "all": "Cheka: set up Dec 1917 under Dzerzhinsky; secret police, Red Terror, arrests/executions of enemies, labour camps. Red Army: formed Jan 1918 under Trotsky, conscription, ex-Tsarist officers with political commissars, discipline/executions, grew to ~5 million."
+  },
+  "history.russia-interpretation.0051": {
+   "all": "Plan: C supported by revolts (Kronstadt, Tambov) and empty cities; A shows requisitioning was harsh, B shows hardship but endurance not revolt (limits). Own knowledge: Tambov, Kronstadt, strikes 1921, famine, NEP. Judgement: largely agree but revolt partly also due to end of Civil War."
+  },
+  "history.russia-interpretation.0021": {
+   "all": "Plan: C: rapid - a week; A shows collapse of authority; B shows abdication easy; own knowledge 23 Feb - 2 Mar, but long-term causes (war, Rasputin, 1905-17) so rapid in outcome but not sudden; judgement agree."
+  },
+  "history.russia-interpretation.0040": {
+   "all": "Plan: C popular (land, peace, 8-hr day); B supports peasants; A shows opposition from SR (largest party) when Assembly dissolved; own knowledge: Decree on Land, Peace, Brest-Litovsk later unpopular; Oct 1917 not majority. Judgement: popular with peasants/soldiers, not all."
+  },
+  "history.russia-interpretation.0054": {
+   "all": "Plan: C Kronstadt shows unpopularity; B shows hardship; A shows justified by war; own knowledge Tambov, strikes, NEP; counter: Kronstadt were a specific group, some accepted it as necessary. Judgement: mostly agree."
+  },
+  "history.russia-interpretation.0008": {
+   "all": "Plan: C promises taken back; A Fundamental Laws April 1906, Duma dissolved; B government claims genuineness; own knowledge: Manifesto, Dumas dissolved 1906/07, Stolypin, 3 June coup; counter: Duma did exist, some reforms. Judgement mostly agree."
+  },
+  "history.russia-interpretation.0050": {
+   "all": "Plan: C yes helped win; A shows cost, peasant resentment; B shows sacrifice for front; own knowledge: Whites lacked unity; Red Army needed food; alternatives; Judgement: largely necessary for survival but excessive."
+  }
+ },
+ "verdicts": {
+  "history.russia-describe.0024": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-describe.0048": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-interpretation.0051": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-interpretation.0021": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-interpretation.0040": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-interpretation.0054": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-interpretation.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-interpretation.0050": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

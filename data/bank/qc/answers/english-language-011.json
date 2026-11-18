@@ -1,0 +1,39 @@
+{
+  "batch": "english-language-011",
+  "answers": {
+    "english-language.w.review.trip": {
+      "all": "Review: title, chronological details, evaluative judgement, recommendation, engaging voice."
+    },
+    "english-language.w.review.sportevent": {
+      "all": "Review with narrative of match, judgement of players/atmosphere, verdict."
+    },
+    "english-language.w.review.hotel": {
+      "all": "Review: rooms, facilities, service, value, rating/recommendation."
+    },
+    "english-language.w.review.product": {
+      "all": "Review: design, quality, value, pros/cons, verdict."
+    }
+  },
+  "verdicts": {
+    "english-language.w.review.trip": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.review.sportevent": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.review.hotel": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.review.product": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

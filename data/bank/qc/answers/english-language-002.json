@@ -1,0 +1,39 @@
+{
+  "batch": "english-language-002",
+  "answers": {
+    "english-language.q3.cartrace.1": {
+      "all": "Race is a hugely valued annual community event: real prizes (ham, trophy, right to start first), risk accepted lightly (Matteo's bandage 'Only a little bit'); tradition is long (over sixty years); people are proud, humorous, communal (shared meal, arguing about wheels again); race is their one day of triumph over the hill: 'The rest of the year, the hill wins. One day a year, we win.'"
+    },
+    "english-language.q3.cliffharvest.2": {
+      "all": "She has learned her distant sentimental view is too simple; she is unsure what she thinks ('still not sure'); has learned how dependent, brave and closely bound/respectful to place and creatures islanders are, after eating their bread and watching Eyrun risk her life; departure image shows lasting attachment and awareness of continuing danger."
+    },
+    "english-language.q3.stammer.2": {
+      "all": "Before: severe stammer until nineteen, could not say own name, 'Dan-Dan-Dan' nickname (some kind, most not), school a daily battle (register, swapping words, 'bright but lazy', forced reading aloud, longest twenty minutes). After: warm, quick, funny voice waking half a million listeners at six; dramatic reversal. Lines 1-15 give little on 'after' beyond the present success."
+    },
+    "english-language.q3.chess.2": {
+      "all": "Grandfather is strict and disciplined (hard work, cold baths, silence; railway engineer, flat run like timetable); intimidating, a soft knock worse than a shout; emotionally distant, rarely speaks except instructions; awkward with the child but provides practically (feeds her, pays school); plays chess against himself, face 'as still as a closed door'."
+    }
+  },
+  "verdicts": {
+    "english-language.q3.cartrace.1": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.q3.cliffharvest.2": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.q3.stammer.2": {
+      "result": "pass",
+      "problem": "Wording slightly loose (before/after becoming a presenter) but markscheme stays within lines 1-15.",
+      "fix": ""
+    },
+    "english-language.q3.chess.2": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+ "batch": "spanish-017",
+ "answers": {
+  "spanish.w-short.b4.0003": {
+   "all": "Plan: los fines de semana llevo vaqueros y camiseta; ropa de marca no es importante porque es cara; sí llevo uniforme: chaqueta azul, corbata + opinion; preterite: compré unas zapatillas."
+  },
+  "spanish.w-short.b5.0007": {
+   "all": "Plan: leo y juego al baloncesto; prefiero el cine porque la pantalla es grande; me gusta el pop/rock; conditional: me gustaría probar el surf porque..."
+  },
+  "spanish.w-short.c1.0006": {
+   "all": "Plan: mi región es montañosa y verde; sí, importante conocer otros países para aprender; mi ciudad está en el norte, cerca de...; future: voy a vivir en la capital."
+  },
+  "spanish.w-short.c2.0004": {
+   "all": "Plan: clima templado, llueve en invierno; prefiero el campo porque es tranquilo; reciclo y voy en bici; preterite: hizo sol y mucho calor."
+  },
+  "spanish.w-short.c3.0013": {
+   "all": "Plan: uso el móvil para hablar con amigos; redes sociales pueden ser peligrosas por desconocidos; paso dos horas al día; preterite: ayer hice los deberes en el ordenador."
+  },
+  "spanish.w-short.c4.0010": {
+   "all": "Plan: hago la compra en el supermercado; prefiero tiendas porque puedo ver los productos; mi barrio es tranquilo, hay parque; imperfect: hace diez años había menos tiendas."
+  },
+  "spanish.w-short.d1.0011": {
+   "all": "Plan: las clases empiezan a las ocho, hay seis clases; deberes son útiles para practicar; estudio matemáticas, inglés...; future: voy a viajar con amigos."
+  },
+  "spanish.w-short.d2.0012": {
+   "all": "Plan: mi madre es enfermera, mi padre trabaja en una oficina; dinero no es lo más importante; sí, trabajo en una tienda los sábados / no; conditional: mi trabajo ideal sería periodista porque..."
+  },
+  "spanish.w-short.e1.0008": {
+   "all": "Plan: hablo inglés y español; prefiero viajar al extranjero para conocer culturas; normalmente voy a la costa; conditional: elegiría Japón porque..."
+  },
+  "spanish.w-short.e2.0010": {
+   "all": "Plan: Navidad y Semana Santa; prefiero con amigos porque es más divertido; mi fiesta favorita es mi cumpleaños; future: voy a hacer una fiesta en casa."
+  }
+ },
+ "verdicts": {
+  "spanish.w-short.b4.0003": {
+   "result": "pass"
+  },
+  "spanish.w-short.b5.0007": {
+   "result": "pass"
+  },
+  "spanish.w-short.c1.0006": {
+   "result": "pass"
+  },
+  "spanish.w-short.c2.0004": {
+   "result": "pass"
+  },
+  "spanish.w-short.c3.0013": {
+   "result": "pass"
+  },
+  "spanish.w-short.c4.0010": {
+   "result": "pass"
+  },
+  "spanish.w-short.d1.0011": {
+   "result": "pass"
+  },
+  "spanish.w-short.d2.0012": {
+   "result": "pass"
+  },
+  "spanish.w-short.e1.0008": {
+   "result": "pass"
+  },
+  "spanish.w-short.e2.0010": {
+   "result": "pass"
+  }
+ }
+}

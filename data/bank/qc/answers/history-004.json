@@ -1,0 +1,71 @@
+{
+ "batch": "history-004",
+ "answers": {
+  "history.germany-judgement.0029": {
+   "all": "Plan: Propaganda (Goebbels, posters/films/rallies/radio, Hitler as saviour, Hindenburg election flights) important but not alone. Other: Depression/unemployment 6m, Weimar weakness, SA intimidation and violence, Papen/Hindenburg backroom deal Jan 1933, fear of communism, Hitler's appeal. Conclude propaganda amplified Depression-driven discontent; Depression and political deals more fundamental."
+  },
+  "history.germany-judgement.0051": {
+   "all": "Plan: Popular policies (jobs via RAD, rearmament, autobahns, KdF, Strength Through Joy, Beauty of Labour, recovery) won consent; but terror (Gestapo, SS, concentration camps, courts, informers), propaganda, Gleichschaltung, education/Hitler Youth. Conclude terror and propaganda enforced control, popular policies secured acquiescence; argue balance."
+  },
+  "history.germany-judgement.0059": {
+   "all": "Plan: Total war (Feb 1943 Sportpalast, conscription, closure of non-essential businesses, Speer production, 1944 mobilisation) major. Others: rationing, bombing and evacuation, shortages, propaganda/ censorship, terror/resistance (White Rose), persecution/Holocaust, falling morale. Conclude total war was significant but bombing/shortages equally impactful."
+  },
+  "history.germany-judgement.0049": {
+   "all": "Plan: Propaganda (Goebbels RMVP 1933, radio, film, press, rallies, book burning, Berlin Olympics) shaped opinion. Others: terror (SS/Gestapo/camps), popular economic policies, Gleichschaltung, Hitler Youth/education, Churches/ Concordat. Conclude propaganda important but works with terror and policies."
+  },
+  "history.russia-describe.0011": {
+   "all": "Dumas: First Duma 1906 dominated by Kadets, dissolved after ~72 days; Fundamental Laws gave tsar veto/power to dismiss Duma; Stolypin changed electoral law 1907 favouring nobles so Third Duma conservative and lasted full term; limited real power. Lena: April 1912 gold-mine workers striking over conditions/pay; troops fired killing ~170 striking workers; sparked wave of strikes."
+  },
+  "history.russia-describe.0056": {
+   "all": "Bolshevik state by 1924: one-party rule, Cheka/ban on other parties; Sovnarkom/Politburo; NEP replaced War Communism; USSR formed 1922; Lenin's death 1924. War Communism: grain requisitioning from peasants, nationalisation of industry, rationing, banning private trade, labour discipline."
+  },
+  "history.russia-describe.0051": {
+   "all": "War Communism: grain requisitioning, nationalisation of industry, banned private trade, rationing, labour conscription. Kronstadt: March 1921 sailors rebelled demanding free elections/soviets without Bolsheviks and end of requisitioning; crushed by Red Army under Tukhachevsky, many killed; led to NEP and ban on factions."
+  },
+  "history.russia-describe.0030": {
+   "all": "Kornilov: August 1917 Commander-in-Chief Kornilov sent troops towards Petrograd; Kerensky (Prime Minister) feared a coup, armed Bolsheviks/Red Guards; railway workers halted troops; Kornilov arrested. Strengthened Bolsheviks, discredited Kerensky. October seizure: 24-25 Oct (6-7 Nov) 1917 Red Guards under Military Revolutionary Committee (Trotsky) took bridges, stations, Winter Palace; Aurora; Provisional Government arrested; little bloodshed."
+  }
+ },
+ "verdicts": {
+  "history.germany-judgement.0029": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.germany-judgement.0051": {
+   "result": "pass",
+   "problem": "Minor: 'almost nothing' unemployment is loose but acceptable; indicative content accurate.",
+   "fix": ""
+  },
+  "history.germany-judgement.0059": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.germany-judgement.0049": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-describe.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-describe.0056": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-describe.0051": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-describe.0030": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

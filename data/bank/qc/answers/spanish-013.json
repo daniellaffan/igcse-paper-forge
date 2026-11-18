@@ -1,0 +1,135 @@
+{
+ "batch": "spanish-013",
+ "answers": {
+  "spanish.s-conversation.c2.0008": {
+   "all": "Topic conversation: present (Q1-2), opinion+reason (Q3), past/imperfect (Q4), future/conditional (Q5); developed answers with justification; levels-marked Communication /15 + Quality of Language /15."
+  },
+  "spanish.s-conversation.c3.0009": {
+   "all": "Topic conversation: present (Q1-2), opinion+reason (Q3), past/imperfect (Q4), future/conditional (Q5); developed answers with justification; levels-marked Communication /15 + Quality of Language /15."
+  },
+  "spanish.s-conversation.c4.0006": {
+   "all": "Topic conversation: present (Q1-2), opinion+reason (Q3), past/imperfect (Q4), future/conditional (Q5); developed answers with justification; levels-marked Communication /15 + Quality of Language /15."
+  },
+  "spanish.s-conversation.d1.0008": {
+   "all": "Topic conversation: present (Q1-2), opinion+reason (Q3), past/imperfect (Q4), future/conditional (Q5); developed answers with justification; levels-marked Communication /15 + Quality of Language /15."
+  },
+  "spanish.s-conversation.d2.0002": {
+   "all": "Topic conversation: present (Q1-2), opinion+reason (Q3), past/imperfect (Q4), future/conditional (Q5); developed answers with justification; levels-marked Communication /15 + Quality of Language /15."
+  },
+  "spanish.s-conversation.e1.0003": {
+   "all": "Topic conversation: present (Q1-2), opinion+reason (Q3), past/imperfect (Q4), future/conditional (Q5); developed answers with justification; levels-marked Communication /15 + Quality of Language /15."
+  },
+  "spanish.s-conversation.e2.0007": {
+   "all": "Topic conversation: present (Q1-2), opinion+reason (Q3), past/imperfect (Q4), future/conditional (Q5); developed answers with justification; levels-marked Communication /15 + Quality of Language /15."
+  },
+  "spanish.s-roleplay.a1.0001": {
+   "1": "Quiero ir el sábado.",
+   "2": "Quedamos a las ocho.",
+   "3": "En la puerta del teatro / en la plaza.",
+   "4": "Ayer por la tarde fui al cine con mi familia.",
+   "5": "Después me gustaría cenar en un restaurante."
+  },
+  "spanish.s-roleplay.a2.0011": {
+   "1": "Necesito pan, queso y tomates.",
+   "2": "Dos kilos de tomates, por favor.",
+   "3": "Sí, agua / zumo de naranja.",
+   "4": "Ayer comí paella.",
+   "5": "Me gustaría aprender a preparar tortilla."
+  },
+  "spanish.s-roleplay.a3.0003": {
+   "1": "Me duele la garganta / la cabeza.",
+   "2": "Sí, tengo un poco de fiebre.",
+   "3": "Sí, soy alérgico a la penicilina / No.",
+   "4": "Ayer fui a nadar, en la playa.",
+   "5": "Esta tarde voy a descansar en casa."
+  },
+  "spanish.s-roleplay.a4.0002": {
+   "1": "Quiero ir a San Sebastián.",
+   "2": "Para el sábado.",
+   "3": "Por la mañana, porque quiero pasar el día allí.",
+   "4": "Ayer visité el museo Guggenheim.",
+   "5": "Me gustaría visitar la playa."
+  },
+  "spanish.s-roleplay.b1.0012": {
+   "1": "Soy de Inglaterra.",
+   "2": "Sí, tengo un hermano.",
+   "3": "Sí, un perro; se llama Max.",
+   "4": "Fue largo pero cómodo; vine en avión.",
+   "5": "Mañana voy a visitar la catedral."
+  },
+  "spanish.s-roleplay.b2.0004": {
+   "1": "Me parece bonita y luminosa.",
+   "2": "Me levanto a las siete y media.",
+   "3": "Es una casa grande con jardín; mi habitación es pequeña.",
+   "4": "El verano pasado viví en casa de mis abuelos.",
+   "5": "Esta tarde voy a dar un paseo."
+  },
+  "spanish.s-roleplay.b4.0010": {
+   "1": "Busco una camiseta.",
+   "2": "Azul (but 'los' / 'pantalones' inconsistent with camiseta).",
+   "3": "Es para mi hermano, porque es su cumpleaños.",
+   "4": "?? (no trousers mentioned) - 'Los compré la semana pasada.'",
+   "5": "Voy a ir a la playa."
+  },
+  "spanish.s-roleplay.b5.0009": {
+   "1": "Me interesa la natación.",
+   "2": "A las diez.",
+   "3": "Me gustan las comedias porque son divertidas (off-context for sports centre).",
+   "4": "Jugué al baloncesto.",
+   "5": "Voy a tomar algo en la cafetería."
+  }
+ },
+ "verdicts": {
+  "spanish.s-conversation.c2.0008": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.c3.0009": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.c4.0006": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.d1.0008": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.d2.0002": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.e1.0003": {
+   "result": "pass"
+  },
+  "spanish.s-conversation.e2.0007": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.a1.0001": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.a2.0011": {
+   "result": "fail",
+   "problem": "Shop assistant switches register from usted (Q1-3 'necesita', 'quiere') to tú (Q4 'comiste', Q5 'te gustaría'); Q4/Q5 are also odd for a shop assistant.",
+   "fix": "Keep usted throughout: '¿Qué comió ayer?', '¿Qué plato le gustaría aprender a preparar?'."
+  },
+  "spanish.s-roleplay.a3.0003": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.a4.0002": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.b1.0012": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.b2.0004": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.b4.0010": {
+   "result": "fail",
+   "problem": "Scenario is buying a camiseta, but Q2 '¿De qué color los quiere?' and Q4 '¿Cuándo compró los pantalones?' refer to trousers never mentioned; scheme answers 'Negros' / 'Los compré ayer' follow the wrong item.",
+   "fix": "Q2 '¿De qué color la quiere?'; Q4 e.g. '¿Cuándo compró ropa por última vez?' with scheme 'Negra' / 'Compré ropa ayer'."
+  },
+  "spanish.s-roleplay.b5.0009": {
+   "result": "fail",
+   "problem": "Sports-centre receptionist asks '¿A qué hora quedamos?' (a friend's phrase) and '¿Qué tipo de película te gusta?', which is off-context for signing up for an activity.",
+   "fix": "Q2 '¿A qué hora prefieres la clase?'; Q3 '¿Has practicado este deporte antes? ‖ ¿Dónde?' (or similar on-context task)."
+  }
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "biology": {
+  "questions": 3217,
+  "topics": {
+   "ecology": 382,
+   "reproduction": 572,
+   "resources": 376,
+   "structures": 1738,
+   "variety": 149
+  }
+ },
+ "chemistry": {
+  "questions": 2141,
+  "topics": {
+   "inorganic": 651,
+   "organic": 472,
+   "physical": 263,
+   "principles": 755
+  }
+ },
+ "economics": {
+  "questions": 4957,
+  "topics": {
+   "business": 1184,
+   "global": 668,
+   "government": 1484,
+   "market-system": 1621
+  }
+ },
+ "english-language": {
+  "questions": 422,
+  "topics": {
+   "reading-comparison": 12,
+   "reading-language": 40,
+   "reading-retrieval": 84,
+   "reading-section": 34,
+   "writing": 252
+  }
+ },
+ "english-literature": {
+  "questions": 459,
+  "topics": {
+   "anthology": 224,
+   "prose": 124,
+   "unseen": 111
+  }
+ },
+ "further-maths": {
+  "questions": 1771,
+  "topics": {
+   "binomial": 110,
+   "calculus": 396,
+   "coordinates": 110,
+   "graphs": 88,
+   "identities": 198,
+   "logs": 165,
+   "quadratics": 154,
+   "series": 176,
+   "trigonometry": 286,
+   "vectors": 88
+  }
+ },
+ "history": {
+  "questions": 809,
+  "topics": {
+   "america": 181,
+   "germany": 201,
+   "russia": 242,
+   "world-divided": 185
+  }
+ },
+ "maths": {
+  "questions": 1854,
+  "topics": {
+   "algebra": 324,
+   "functions": 233,
+   "geometry": 606,
+   "number": 309,
+   "stats": 312,
+   "vectors": 70
+  }
+ },
+ "physics": {
+  "questions": 2313,
+  "topics": {
+   "physics.astrophysics": 211,
+   "physics.electricity": 330,
+   "physics.energy": 288,
+   "physics.forces": 385,
+   "physics.magnetism": 284,
+   "physics.matter": 251,
+   "physics.radioactivity": 238,
+   "physics.waves": 326
+  }
+ },
+ "spanish": {
+  "questions": 3445,
+  "topics": {
+   "spanish.a": 819,
+   "spanish.b": 897,
+   "spanish.c": 884,
+   "spanish.d": 429,
+   "spanish.e": 416
+  }
+ }
+}

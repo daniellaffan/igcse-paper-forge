@@ -1,0 +1,209 @@
+{
+ "batch": "chemistry-002",
+ "note": "Redone after batch files were regenerated; the earlier (stale) version of this file had different question ids. The checker had glimpsed an earlier mark scheme version before answering, so these answers are not fully cold.",
+ "answers": {
+  "chemistry.formulae-practical-items.0010": {
+   "all": "Mass of empty crucible + lid; mass of crucible + lid + metal; mass of crucible + lid + oxide after heating to constant mass."
+  },
+  "chemistry.group1-describe-items.0011": {
+   "all": "Lithium reacts less vigorously / slower fizzing; does not melt into a ball and no flame (potassium bursts into lilac flame)."
+  },
+  "chemistry.group1-equations.0010": {
+   "all": "2Rb(s) + 2H2O(l) -> 2RbOH(aq) + H2(g)"
+  },
+  "chemistry.group1-explain-items.0009": {
+   "all": "Atoms/ions get larger down the group; weaker attraction between the positive ions and delocalised electrons, so less energy needed to melt."
+  },
+  "chemistry.group1-mcq-facts.0002": {
+   "all": "13"
+  },
+  "chemistry.group1-recall-facts.0004": {
+   "all": "Sodium hydroxide is formed, which releases OH- ions."
+  },
+  "chemistry.group1-trend-data.0004": {
+   "a": "Melting point decreases down the group.",
+   "b": "~40 C (between 29 and 63)",
+   "c": "Potassium is less dense than sodium (density does not increase steadily).",
+   "d": "Caesium; density 1.93 g/cm3 > 1.0 g/cm3 (water)."
+  },
+  "chemistry.group7-displacement-eq.0019": {
+   "a": "Cl2 + 2Br- -> 2Cl- + Br2",
+   "b": "Chlorine (Cl2) is reduced; it gains electrons (forms Cl-)."
+  },
+  "chemistry.group7-explain-items.0011": {
+   "a": "Bromine is less reactive than chlorine, so it cannot displace chloride / chlorine from KCl.",
+   "b": "Not on spec to explain; would say colour pattern pale yellow (F) -> green -> red-brown -> grey-black as molecules get larger."
+  },
+  "chemistry.group7-mcq-facts.0008": {
+   "all": "sodium chloride and bromine"
+  },
+  "chemistry.group7-practical-items.0001": {
+   "all": "Add each halogen solution to solutions of the other halides (KCl, KBr, KI); look for colour change; colour change means the halogen is more reactive and has displaced the halide; chlorine displaces Br and I, bromine displaces I only, iodine none: Cl > Br > I."
+  },
+  "chemistry.group7-recall-facts.0003": {
+   "all": "Pale (yellow-)green."
+  },
+  "chemistry.group7-trend-data.0007": {
+   "a": "Boiling point increases down the group.",
+   "b": "~180 C (accept range)",
+   "c": "Solid; melting point increases down the group so astatine's mp is well above room temperature.",
+   "d": "Solid"
+  },
+  "chemistry.intro-formula-recall.0010": {
+   "a": "C5H10",
+   "b": "CnH2n",
+   "c": "CH2=CHCH2CH2CH3",
+   "d": "CH2"
+  },
+  "chemistry.ionic-describe-formation.0015": {
+   "all": "Each Li atom loses its 1 outer electron; each Br atom gains 1 electron; transfer from Li to Br; forming Li+ and Br- ions with full outer shells (held by electrostatic attraction)."
+  },
+  "chemistry.ionic-explain-items.0002": {
+   "all": "Giant ionic lattice; strong electrostatic attraction between oppositely charged Mg2+ and O2- ions; lots of energy needed to overcome."
+  },
+  "chemistry.ionic-formula-mcq.0007": {
+   "all": "AgI"
+  },
+  "chemistry.ionic-formula-recall.0013": {
+   "a": "Ag2O",
+   "b": "Cu(NO3)2",
+   "c": "MgF2",
+   "d": "F-"
+  },
+  "chemistry.ionic-mcq-facts.0011": {
+   "all": "Al3+"
+  },
+  "chemistry.metallic-explain-items.0003": {
+   "all": "Contains delocalised electrons, which can move through the structure carrying charge."
+  },
+  "chemistry.metallic-mcq-facts.0010": {
+   "all": "able to be drawn into wires"
+  },
+  "chemistry.metallic-recall-facts.0010": {
+   "all": "Strong electrostatic attraction between positive ions and delocalised electrons needs much energy to overcome."
+  },
+  "chemistry.mixtures-chromatogram.0007": {
+   "a": "Cannot read: chromatogram spot positions not given in text.",
+   "b": "Cannot read from text: dyes with spots at same heights as X's spots.",
+   "c": "3.6/8.0 = 0.45"
+  },
+  "chemistry.mixtures-describe-items.0005": {
+   "all": "Heat to evaporate some water until saturated (crystals on glass rod); leave to cool and crystallise; filter off crystals and dry between filter papers."
+  },
+  "chemistry.mixtures-explain-items.0002": {
+   "all": "Pencil (graphite) is insoluble in the solvent so does not move; ink would dissolve and separate, interfering with the results."
+  },
+  "chemistry.mixtures-extended-items.0005": {
+   "all": "Use a magnet to remove iron filings; add water and stir to dissolve salt; filter - sand is residue; wash and dry sand; evaporate/crystallise filtrate to get salt; dry salt crystals."
+  },
+  "chemistry.mixtures-mcq-facts.0001": {
+   "all": "sodium chloride"
+  },
+  "chemistry.mixtures-practical-items.0007": {
+   "all": "Measure from baseline to the centre of each spot; measure from baseline to the solvent front."
+  },
+  "chemistry.mixtures-recall-facts.0003": {
+   "all": "Fractional distillation"
+  },
+  "chemistry.mixtures-rf-calc.0009": {
+   "a": "D 0.45, J 0.75, E 0.85",
+   "b": "Dye E"
+  }
+ },
+ "verdicts": {
+  "chemistry.formulae-practical-items.0010": {
+   "result": "pass"
+  },
+  "chemistry.group1-describe-items.0011": {
+   "result": "pass"
+  },
+  "chemistry.group1-equations.0010": {
+   "result": "pass"
+  },
+  "chemistry.group1-explain-items.0009": {
+   "result": "pass"
+  },
+  "chemistry.group1-mcq-facts.0002": {
+   "result": "pass"
+  },
+  "chemistry.group1-recall-facts.0004": {
+   "result": "pass"
+  },
+  "chemistry.group1-trend-data.0004": {
+   "result": "pass"
+  },
+  "chemistry.group7-displacement-eq.0019": {
+   "result": "pass"
+  },
+  "chemistry.group7-explain-items.0011": {
+   "result": "fail",
+   "problem": "Part (b) asks to explain why halogen colour darkens down the group: off-spec for 4CH1, and the MS reason ('larger molecules absorb more visible light') is not sound chemistry at this level.",
+   "fix": "Replace (b) with 'State the trend in colour down Group 7' (pale yellow/green to grey-black), or drop it."
+  },
+  "chemistry.group7-mcq-facts.0008": {
+   "result": "pass"
+  },
+  "chemistry.group7-practical-items.0001": {
+   "result": "pass"
+  },
+  "chemistry.group7-recall-facts.0003": {
+   "result": "pass"
+  },
+  "chemistry.group7-trend-data.0007": {
+   "result": "pass"
+  },
+  "chemistry.intro-formula-recall.0010": {
+   "result": "pass"
+  },
+  "chemistry.ionic-describe-formation.0015": {
+   "result": "pass"
+  },
+  "chemistry.ionic-explain-items.0002": {
+   "result": "pass"
+  },
+  "chemistry.ionic-formula-mcq.0007": {
+   "result": "pass"
+  },
+  "chemistry.ionic-formula-recall.0013": {
+   "result": "pass"
+  },
+  "chemistry.ionic-mcq-facts.0011": {
+   "result": "pass"
+  },
+  "chemistry.metallic-explain-items.0003": {
+   "result": "pass"
+  },
+  "chemistry.metallic-mcq-facts.0010": {
+   "result": "pass"
+  },
+  "chemistry.metallic-recall-facts.0010": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-chromatogram.0007": {
+   "result": "fail",
+   "problem": "Chromatogram spot positions are not available in the question text, so (a) '2' and (b) 'P and R' cannot be derived or checked.",
+   "fix": "Make sure the rendered diagram clearly shows X's two spots level with P and R, or describe the spot heights in text."
+  },
+  "chemistry.mixtures-describe-items.0005": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-explain-items.0002": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-extended-items.0005": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-mcq-facts.0001": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-practical-items.0007": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-recall-facts.0003": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-rf-calc.0009": {
+   "result": "pass"
+  }
+ }
+}

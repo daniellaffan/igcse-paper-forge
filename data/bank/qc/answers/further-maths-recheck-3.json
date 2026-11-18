@@ -1,0 +1,66 @@
+{
+ "batch": "further-maths-recheck-3",
+ "answers": {
+  "further-maths.lg-sketch.0017": {
+   "a": "Increasing exponential through (0,-5), crosses x-axis at (log2 6, 0) ~ (2.58, 0), asymptote y = -6",
+   "b": "Draw y = 2x - 3; it meets the curve twice (2^x = 2x+3 has roots in (-2,-1) and (3,4)), so 2 real solutions"
+  },
+  "further-maths.lg-sketch.0015": {
+   "a": "Increasing log curve, asymptote x = 3, crosses x-axis at (4, 0), does not meet y-axis",
+   "b": "x - 3 = 10^4 so x = 10003"
+  },
+  "further-maths.lg-table.0005": {
+   "a": "x=-2: 2.50; x=1: 3.41; x=3: 4.83",
+   "b": "smooth increasing curve through points",
+   "c": "2^(x/2)+2 = 5, read at y=5: x ~ 3.2 (exact 2log2 3 = 3.17)"
+  },
+  "further-maths.ll-multi.0019": {
+   "a": "3^(2x+1) = 3(3^x)^2 = 3u^2, so 3u^2 - 33u + 54 = 0",
+   "b": "u^2 - 11u + 18 = 0, u = 9 or 2; x = 2 or x = log3 2 = 0.631",
+   "c": "2 + log3 2 = log3 9 + log3 2 = log3 18"
+  },
+  "further-maths.ll-multi.0010": {
+   "a": "4",
+   "b": "log3(x^2/y) = log3 4 so x^2/y = 4, y = x^2/4",
+   "c": "x + x^2/4 = 80, x^2 + 4x - 320 = 0, (x+20)(x-16)=0, x = 16 (x>0), y = 64"
+  },
+  "further-maths.ll-show.0016": {
+   "a": "log125 x = log5 x / log5 125 = log5 x / 3",
+   "b": "(4/3)log5 x = 12, log5 x = 9, x = 5^9 = 1953125"
+  },
+  "further-maths.ll-show.0012": {
+   "a": "log2((x+2)/(x-3)) = 2, x+2 = 4(x-3), 3x = 14, x = 14/3",
+   "b": "x+2 = 20/3 so value = 0"
+  },
+  "further-maths.ll-show.0011": {
+   "a": "log_c 10 = log_c(5*2) = p + q",
+   "b": "p + q - 3"
+  }
+ },
+ "verdicts": {
+  "further-maths.lg-sketch.0017": {
+   "result": "pass"
+  },
+  "further-maths.lg-sketch.0015": {
+   "result": "pass"
+  },
+  "further-maths.lg-table.0005": {
+   "result": "pass"
+  },
+  "further-maths.ll-multi.0019": {
+   "result": "pass"
+  },
+  "further-maths.ll-multi.0010": {
+   "result": "pass"
+  },
+  "further-maths.ll-show.0016": {
+   "result": "pass"
+  },
+  "further-maths.ll-show.0012": {
+   "result": "pass"
+  },
+  "further-maths.ll-show.0011": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-013",
+ "answers": {
+  "english-literature.unseen-kite.0002": {
+   "all": "Plan (Kite (original); freedom): Rising string, wind, release, contrast with ground, form."
+  },
+  "english-literature.unseen-kite.0001": {
+   "all": "Plan (Kite (original); father and child): Shared activity, tenderness, instruction and letting go."
+  },
+  "english-literature.unseen-last-shift.0003": {
+   "all": "Plan (Last Shift (original); factory): Machines, noise, routine, workers, closing."
+  },
+  "english-literature.unseen-last-shift.0002": {
+   "all": "Plan (Last Shift (original); end of an era): Final day, elegiac tone, industrial imagery, silence ending."
+  },
+  "english-literature.unseen-lighthouse.0003": {
+   "all": "Plan (Lighthouse (original); childhood): Childhood fear/wonder, light as comfort, memory voice."
+  },
+  "english-literature.unseen-lighthouse.0002": {
+   "all": "Plan (Lighthouse (original); loneliness): Isolated structure, beam sweeping dark, repeated image."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.unseen-kite.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-kite.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-last-shift.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-last-shift.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-lighthouse.0003": {
+   "result": "fail",
+   "problem": "Indicative content misquotes the poem: 'that never go out' does not appear; the poem reads 'where the lights never go out'.",
+   "fix": "Change to: with lights that 'never go out' and that nobody notices."
+  },
+  "english-literature.unseen-lighthouse.0002": {
+   "result": "fail",
+   "problem": "Indicative content misquotes the poem: 'that never go out' does not appear; the poem reads 'where the lights never go out'.",
+   "fix": "Change to: with lights that 'never go out' and that nobody notices."
+  }
+ }
+}

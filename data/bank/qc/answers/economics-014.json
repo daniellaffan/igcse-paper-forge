@@ -1,0 +1,191 @@
+{
+ "batch": "economics-014",
+ "answers": {
+  "economics.price-define1.0004": {
+   "all": "Any place or arrangement where buyers and sellers come together to exchange goods or services."
+  },
+  "economics.price-define2.0002": {
+   "all": "When quantity demanded is greater than quantity supplied at a given price, i.e. at a price below equilibrium; creates a shortage."
+  },
+  "economics.price-diagram.0014": {
+   "all": "Demand shifts left (D1); new lower equilibrium price P1 and lower quantity Q1."
+  },
+  "economics.price-evaluate-1.0004": {
+   "all": "Plan: supply fall (poor harvests) + demand rise -> higher price. Stay high if harvests stay poor (weather, disease, long time for new trees), demand keeps growing with incomes. Evaluate: harvests may recover, high price encourages new planting/entry, substitutes and falling demand at high price; depends on PED/PES and time period."
+  },
+  "economics.price-evaluate-2.0003": {
+   "all": "Plan: demand rising (migration), supply inelastic (scarce land, high costs) -> rents rise. Keep rising if migration continues and supply stays inelastic. Evaluate: high rents encourage building over time, government housing/rent controls, people move elsewhere/commute, economic slowdown reduces demand."
+  },
+  "economics.price-evaluate-3.0004": {
+   "all": "Plan: excess demand at OMR 450 (stock-out, resale near double) suggests price below equilibrium; raising price increases revenue/profit and rations demand. Evaluate: may harm reputation/goodwill, competitors, demand may be a launch surge; alternatively raise supply; depends on PED and long-term strategy."
+  },
+  "economics.price-explain.0017": {
+   "all": "Demand for hotel rooms rises (shift right) while supply fixed/perfectly inelastic in short run; creates excess demand at old price, so price rises to new higher equilibrium; whole rise shows up as price, not quantity."
+  },
+  "economics.price-mcq-auth.0004": {
+   "all": "a higher equilibrium price and quantity"
+  },
+  "economics.price-mcq-class.0010": {
+   "all": "A fall in consumers' incomes"
+  },
+  "economics.price-mcq-def.0001": {
+   "all": "The price at which quantity demanded equals quantity supplied"
+  },
+  "economics.production-analyse-1.0005": {
+   "all": "Rising incomes -> demand for services (income-elastic) increases; mechanisation/higher productivity in agriculture frees labour; competition from cheaper manufacturing abroad / deindustrialisation; growth of tourism/finance; education/skills shift."
+  },
+  "economics.production-analyse-2.0004": {
+   "all": "Adding value -> higher export earnings, improves current account; job creation and multiplier effect; less reliance on volatile raw commodity prices; FDI brings technology/skills; tax revenue and economic growth."
+  },
+  "economics.production-define1.0007": {
+   "all": "The difference between the price of a finished product and the cost of the inputs used to make it."
+  },
+  "economics.production-define2.0002": {
+   "all": "The part of the economy that extracts or harvests natural resources, e.g. farming, fishing, mining."
+  },
+  "economics.production-describe.0015": {
+   "all": "To add value to raw materials such as cotton by processing into textiles, earning more export revenue / creating jobs."
+  },
+  "economics.production-explain.0010": {
+   "all": "Deindustrialisation: competition from lower-cost manufacturers abroad made factories uncompetitive so they closed; rising incomes increased demand for services, so employment shifted to tertiary sector."
+  },
+  "economics.production-mcq-auth.0001": {
+   "all": "increases"
+  },
+  "economics.production-mcq-class.0020": {
+   "all": "Selling petrol at a filling station"
+  },
+  "economics.production-mcq-def.0006": {
+   "all": "The decline of the secondary/manufacturing sector as a share of an economy's output and employment"
+  },
+  "economics.production-state.0007": {
+   "all": "Bread (wheat farmed, flour/bread baked, sold in shop)."
+  },
+  "economics.production-state-class.0003": {
+   "all": "Teacher / doctor / bank clerk."
+  },
+  "economics.production-state-id.0016": {
+   "all": "primary sector"
+  },
+  "economics.productivity-analyse-1.0007": {
+   "all": "Workers specialise and become skilled/faster -> higher output per worker; lower unit costs -> competitive prices/higher profit; less time lost switching tasks; easier to use specialist machinery; quicker training."
+  },
+  "economics.productivity-analyse-2.0006": {
+   "all": "Higher unit labour costs -> lower profit margins; less price competitive vs neighbouring firms, lose sales/exports; less able to invest, cycle of old machinery; may lose market share or close."
+  },
+  "economics.productivity-assess-1.0004": {
+   "all": "Benefits: higher productivity, lower unit costs, speed, skill. Costs: boredom/low motivation, absenteeism, lack of flexibility, one stoppage halts line, dependence. Judgement: depends on job rotation, wages, automation."
+  },
+  "economics.productivity-assess-2.0006": {
+   "all": "Options: subsidise training/education, investment allowances/subsidies for new machinery, improve infrastructure, R&D. Evaluate: cost/opportunity cost to government, time lags, firms may not take it up, depends on quality."
+  },
+  "economics.productivity-calc.0004": {
+   "all": "27,956 / 241 = 116 units per worker per month."
+  },
+  "economics.productivity-define1.0003": {
+   "all": "Where the production process is broken down into separate tasks, with workers specialising in a particular task."
+  },
+  "economics.productivity-define2.0001": {
+   "all": "A measure of output per unit of input (e.g. per worker per hour); how efficiently factors of production are used."
+  },
+  "economics.productivity-describe.0010": {
+   "all": "Lower costs per unit allow firms to cut prices, so consumers get cheaper goods / higher real incomes."
+  }
+ },
+ "verdicts": {
+  "economics.price-define1.0004": {
+   "result": "pass"
+  },
+  "economics.price-define2.0002": {
+   "result": "pass"
+  },
+  "economics.price-diagram.0014": {
+   "result": "pass"
+  },
+  "economics.price-evaluate-1.0004": {
+   "result": "pass"
+  },
+  "economics.price-evaluate-2.0003": {
+   "result": "pass"
+  },
+  "economics.price-evaluate-3.0004": {
+   "result": "pass"
+  },
+  "economics.price-explain.0017": {
+   "result": "pass"
+  },
+  "economics.price-mcq-auth.0004": {
+   "result": "pass"
+  },
+  "economics.price-mcq-class.0010": {
+   "result": "pass"
+  },
+  "economics.price-mcq-def.0001": {
+   "result": "pass"
+  },
+  "economics.production-analyse-1.0005": {
+   "result": "pass"
+  },
+  "economics.production-analyse-2.0004": {
+   "result": "pass"
+  },
+  "economics.production-define1.0007": {
+   "result": "pass"
+  },
+  "economics.production-define2.0002": {
+   "result": "fail",
+   "problem": "Second mark is awarded for examples (farming, fishing, mining) but the guidance says do not award marks for examples.",
+   "fix": "Second mark for a developed element, e.g. 'extraction of raw materials / natural resources from land or sea (1), producing raw materials for other sectors (1)'; or remove the 'no marks for examples' note."
+  },
+  "economics.production-describe.0015": {
+   "result": "pass"
+  },
+  "economics.production-explain.0010": {
+   "result": "pass"
+  },
+  "economics.production-mcq-auth.0001": {
+   "result": "pass"
+  },
+  "economics.production-mcq-class.0020": {
+   "result": "pass"
+  },
+  "economics.production-mcq-def.0006": {
+   "result": "pass"
+  },
+  "economics.production-state.0007": {
+   "result": "pass"
+  },
+  "economics.production-state-class.0003": {
+   "result": "pass"
+  },
+  "economics.production-state-id.0016": {
+   "result": "pass"
+  },
+  "economics.productivity-analyse-1.0007": {
+   "result": "pass"
+  },
+  "economics.productivity-analyse-2.0006": {
+   "result": "pass"
+  },
+  "economics.productivity-assess-1.0004": {
+   "result": "pass"
+  },
+  "economics.productivity-assess-2.0006": {
+   "result": "pass"
+  },
+  "economics.productivity-calc.0004": {
+   "result": "pass"
+  },
+  "economics.productivity-define1.0003": {
+   "result": "pass"
+  },
+  "economics.productivity-define2.0001": {
+   "result": "fail",
+   "problem": "Second mark is for an example (output per worker per hour) while the guidance says do not award marks for examples.",
+   "fix": "Output per unit of input (1), a measure of how efficiently factors of production are used (1); or drop the 'no marks for examples' note."
+  },
+  "economics.productivity-describe.0010": {
+   "result": "pass"
+  }
+ }
+}

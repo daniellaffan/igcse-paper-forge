@@ -1,0 +1,238 @@
+{
+ "batch": "physics-006",
+ "answers": {
+  "physics.st-cooling.0006": {
+   "a": "Time 0-12 min on x (assumed, no time row given), temp on y; points plotted; straight/curved falling line, horizontal section at 52 C (4-8 min), falling again",
+   "b": "52 C",
+   "c": "Substance is solidifying/changing state; energy released as bonds form (latent heat) balances energy lost to surroundings, so temperature constant"
+  },
+  "physics.st-mct.0014": {
+   "all": "E = m c dT = 2.2 x 880 x 79 = 152 944 J (~1.5 x 10^5 J)"
+  },
+  "physics.st-prac.0010": {
+   "a": "Rub acetate rod with a dry cloth; hang it from a thread/string in a paper stirrup so it can rotate freely",
+   "b": "Like charges repel, unlike attract; acetate and perspex have same (positive) charge so repel; ebonite has opposite (negative) charge so attracts; second acetate same charge so repels",
+   "c": "Water in moist air conducts charge away from the rods / charge leaks away",
+   "d": "Metal is a conductor, charge flows through the hand to earth"
+  },
+  "physics.st-prac-shc.0002": {
+   "a": "c = E/(m dT) = 36000/(2 x 16.1) = 1118 J/kg C (~1120)",
+   "b": "Energy lost to surroundings, so not all the joulemeter energy heats the block; temperature rise smaller than it should be, so c calculated too large",
+   "c": "Better insulation / lid; oil in thermometer hole for thermal contact; repeat and average; use data logger; measure max temperature after heater off"
+  },
+  "physics.st-prac-water.0005": {
+   "a": "Measure 0.25 kg water with balance into insulated beaker; record initial temperature; place immersion heater connected to joulemeter (or V, I and timer); switch on for set time, stir; record final temperature/energy supplied; c = E/(m dT)",
+   "b": "E = Pt = 60 x 360 = 21600 J; c = 21600/(0.25 x 18.4) = 4696 J/kg C (~4700)"
+  },
+  "physics.str-cycle.0004": {
+   "a": "main sequence (star)",
+   "b": "nuclear fusion (of hydrogen into helium)",
+   "c": "Hydrogen in core runs out; core contracts/outer layers expand and cool, so it becomes a red giant"
+  },
+  "physics.str-hr.0003": {
+   "a": "Main sequence: diagonal band top-left to bottom-right; red giants: top right; white dwarfs: bottom left",
+   "b": "X top right (cool, bright)",
+   "c": "Historical convention (based on spectral classes O B A F G K M ordered hot to cool)"
+  },
+  "physics.tf-power.0006": {
+   "a": "Vp x Ip = Vs x Is",
+   "b": "Is = 400 x 21.1 / 24 = 352 A (values unrealistic for a phone charger)"
+  },
+  "physics.tf-turns.0003": {
+   "a": "Vs = Vp x Ns/Np = 12 x 5000/4600 = 13.0 V",
+   "b": "Step-up: more turns on secondary (Vs > Vp)"
+  },
+  "physics.th-prac-cans.0007": {
+   "a": "Colour/type of surface of the can",
+   "b": "Starting temperature, volume of water, room temperature, time, size of can, lid",
+   "c": "A: 85-67 = 18 C; B: 85-70 = 15 C",
+   "d": "White (matt) is better emitter: its temperature fell more (18 vs 15 C)"
+  },
+  "physics.th-prac-insul.0003": {
+   "a": "Wrap equal thickness of each material around identical beakers; same volume of water at 65 C; thermometer, record temperature after same time; calculate drop; control lid, room temperature",
+   "b": "Ambiguous: table has no heading. If values are temperature drops, cotton wool is best (smallest drop 17 C)",
+   "c": "Repeat and average / use same thickness / use a lid / data logger"
+  },
+  "physics.tr-eff.0004": {
+   "all": "Wasted = 70% so total = 182/0.70 = 260 J"
+  },
+  "physics.tr-sankey.0014": {
+   "a": "Input arrow 10 squares (400 J); useful light 3 squares (120 J); wasted thermal 7 squares (280 J) bending away; labelled",
+   "b": "Width of input equals total width of output arrows (120 + 280 = 400 J)"
+  },
+  "physics.un-orbit.0002": {
+   "all": "v = 2 pi r / T = 2 pi x 7.80e11 / (11.9 x 3.156e7 s) = 1.31 x 10^4 m/s"
+  },
+  "physics.un-weight.0001": {
+   "all": "W = mg = 430 x 25 = 10 750 N"
+  },
+  "physics.waves-em-explain-kb.0004": {
+   "all": "Infrared is absorbed by surfaces/skin and transfers energy as heat, raising their temperature (stem says communications - mismatched)"
+  },
+  "physics.waves-em-extended-kb.0005": {
+   "a": "radio, microwaves, infrared, visible, ultraviolet, X-rays, gamma",
+   "b": "Radio: long distance broadcasting, diffract/reflect from ionosphere; microwaves: satellite and mobile comms, pass through atmosphere; infrared: remote controls, optical fibres; cooking: microwaves absorbed by water molecules in food; infrared grills/toasters heat surfaces"
+  },
+  "physics.waves-em-mcq-kb.0007": {
+   "all": "travel at the same speed in a vacuum"
+  },
+  "physics.waves-em-recall-kb.0002": {
+   "all": "radio, microwaves, infrared, visible light, ultraviolet, X-rays, gamma rays"
+  },
+  "physics.waves-light-explain-kb.0001": {
+   "all": "Light slows down in glass (denser medium); one side of wavefront enters first and slows first, so direction changes towards the normal"
+  },
+  "physics.waves-light-mcq-kb.0008": {
+   "a": "slows down and bends towards the normal",
+   "b": "total internal reflection",
+   "c": "the normal"
+  },
+  "physics.waves-light-recall-kb.0001": {
+   "all": "Light travels from denser to less dense medium (glass to air); angle of incidence greater than the critical angle"
+  },
+  "physics.waves-properties-describe-kb.0013": {
+   "a": "Transverse: oscillations perpendicular to direction of energy transfer; longitudinal: oscillations parallel",
+   "b": "Waves slow down, wavelength decreases, frequency unchanged, direction changes (refract) towards the normal"
+  },
+  "physics.waves-properties-explain-kb.0012": {
+   "a": "Doppler effect: source moves towards observer so wavefronts bunched in front; wavelength shorter; frequency observed higher (speed same)",
+   "b": "Vibrations of particles are parallel to direction of energy transfer; compressions and rarefactions"
+  },
+  "physics.waves-properties-mcq-kb.0003": {
+   "all": "0.020 s (T = 1/f)"
+  },
+  "physics.waves-properties-recall-kb.0001": {
+   "all": "Longitudinal: sound (or P-waves); transverse: light/water waves/EM/S-waves"
+  },
+  "physics.waves-sound-explain-kb.0007": {
+   "a": "Space is a vacuum; no particles to vibrate/pass on the vibrations, sound needs a medium",
+   "b": "Whistle frequency above 20 kHz (ultrasound), outside human range but within dog's range",
+   "c": "Tighter skin vibrates at higher frequency; higher frequency = higher pitch"
+  },
+  "physics.waves-sound-mcq-kb.0011": {
+   "a": "20 Hz to 20 000 Hz",
+   "b": "microphone"
+  },
+  "physics.waves-sound-recall-kb.0010": {
+   "a": "20 Hz to 20 000 Hz",
+   "b": "Higher frequency of vibration gives higher pitch",
+   "c": "Microphone and oscilloscope"
+  },
+  "physics.wo-cons.0002": {
+   "a": "GPE = mgh = 3.5 x 10 x 6.5 = 227.5 J",
+   "b": "1/2 m v^2 = 227.5, v = sqrt(2gh) = sqrt(130) = 11.4 m/s"
+  }
+ },
+ "verdicts": {
+  "physics.st-cooling.0006": {
+   "result": "void",
+   "fix": "Add row: time in min | 0 | 1 | ... | 12.",
+   "original_problem": "Results table has no time row, so the graph cannot be plotted from the data given.",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.st-mct.0014": {
+   "result": "pass"
+  },
+  "physics.st-prac.0010": {
+   "result": "pass"
+  },
+  "physics.st-prac-shc.0002": {
+   "result": "pass"
+  },
+  "physics.st-prac-water.0005": {
+   "result": "pass"
+  },
+  "physics.str-cycle.0004": {
+   "result": "pass"
+  },
+  "physics.str-hr.0003": {
+   "result": "pass"
+  },
+  "physics.tf-power.0006": {
+   "result": "fail",
+   "problem": "Implausible data: a phone charger with 400 V, 21.1 A input (8.4 kW) and a 352 A output.",
+   "fix": "Use e.g. input 230 V, 0.10 A, output 5 V, giving Is = 4.6 A."
+  },
+  "physics.tf-turns.0003": {
+   "result": "pass"
+  },
+  "physics.th-prac-cans.0007": {
+   "result": "pass"
+  },
+  "physics.th-prac-insul.0003": {
+   "result": "void",
+   "fix": "Add heading 'temperature drop in \u00b0C after 10 minutes'.",
+   "original_problem": "Results table has no column heading, so 17/23/25 could be final temperatures (wool best) or temperature drops (cotton wool best).",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.tr-eff.0004": {
+   "result": "pass"
+  },
+  "physics.tr-sankey.0014": {
+   "result": "pass"
+  },
+  "physics.un-orbit.0002": {
+   "result": "pass"
+  },
+  "physics.un-weight.0001": {
+   "result": "pass"
+  },
+  "physics.waves-em-explain-kb.0004": {
+   "result": "fail",
+   "problem": "Stem 'This question is about communications' contradicts the question about an infrared heater.",
+   "fix": "Change stem to 'This question is about uses of electromagnetic waves.'"
+  },
+  "physics.waves-em-extended-kb.0005": {
+   "result": "fail",
+   "problem": "Stem 'medical uses of radiation' contradicts part (b) on communications and cooking.",
+   "fix": "Change stem to 'This question is about uses of electromagnetic waves.'"
+  },
+  "physics.waves-em-mcq-kb.0007": {
+   "result": "pass"
+  },
+  "physics.waves-em-recall-kb.0002": {
+   "result": "pass"
+  },
+  "physics.waves-light-explain-kb.0001": {
+   "result": "fail",
+   "problem": "Stem says 'reflection of light' but the question is about refraction.",
+   "fix": "Change stem to 'This question is about refraction of light.'"
+  },
+  "physics.waves-light-mcq-kb.0008": {
+   "result": "pass"
+  },
+  "physics.waves-light-recall-kb.0001": {
+   "result": "pass"
+  },
+  "physics.waves-properties-describe-kb.0013": {
+   "result": "pass"
+  },
+  "physics.waves-properties-explain-kb.0012": {
+   "result": "fail",
+   "problem": "Stem says 'waves on a rope' but both parts are about sound waves.",
+   "fix": "Change stem to 'This question is about sound waves.'"
+  },
+  "physics.waves-properties-mcq-kb.0003": {
+   "result": "pass"
+  },
+  "physics.waves-properties-recall-kb.0001": {
+   "result": "pass"
+  },
+  "physics.waves-sound-explain-kb.0007": {
+   "result": "pass"
+  },
+  "physics.waves-sound-mcq-kb.0011": {
+   "result": "pass"
+  },
+  "physics.waves-sound-recall-kb.0010": {
+   "result": "fail",
+   "problem": "Stem says 'echoes' but no part is about echoes.",
+   "fix": "Change stem to 'This question is about sound waves.'"
+  },
+  "physics.wo-cons.0002": {
+   "result": "fail",
+   "problem": "A diver with mass 3.5 kg ('Its mass') is unrealistic; object/mass mismatch.",
+   "fix": "Use mass 55 kg (GPE 3575 J, v 11.4 m/s) or change object to a 3.5 kg ball."
+  }
+ }
+}

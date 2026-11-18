@@ -1,0 +1,329 @@
+{
+ "batch": "maths-006",
+ "answers": {
+  "sf-convert.0001": {
+   "a": "500000",
+   "b": "9.07x10^-2"
+  },
+  "sf-convert.0005": {
+   "a": "0.00068",
+   "b": "5.6x10^5"
+  },
+  "share-ratio.0007": {
+   "all": "243"
+  },
+  "share-ratio.0002": {
+   "all": "129"
+  },
+  "show-surface.0003": {
+   "all": "verified algebraically; shown"
+  },
+  "show-surface.0004": {
+   "all": "verified; shown"
+  },
+  "show-volume-relation.0002": {
+   "all": "verified; shown"
+  },
+  "show-volume-relation.0006": {
+   "all": "verified; shown"
+  },
+  "similar-area-short.0004": {
+   "all": "10"
+  },
+  "similar-area-short.0003": {
+   "all": "19.44"
+  },
+  "similar-lengths.0006": {
+   "a": "assuming UVW:PQR scale 21/14=1.5 -> x=7.5? (diagram labels only, pairing unclear)",
+   "b": "y=27 under same assumption"
+  },
+  "similar-lengths.0005": {
+   "a": "cannot determine: 18.667/14=1.333 but 14.667/5=2.933 inconsistent pairing",
+   "b": "unclear"
+  },
+  "similar-parallel.0002": {
+   "all": "8"
+  },
+  "similar-parallel.0003": {
+   "all": "344.36"
+  },
+  "similar-volume.0006": {
+   "all": "3398.625 (3400)"
+  },
+  "similar-volume.0007": {
+   "all": "1890"
+  },
+  "simult-context.0003": {
+   "all": "a=65, c=45"
+  },
+  "simult-context.0005": {
+   "all": "a=15, c=65"
+  },
+  "simult-solve.0013": {
+   "all": "p=8, q=4"
+  },
+  "simult-solve.0011": {
+   "all": "p=9, q=-5"
+  },
+  "sine-cosine-struct.0012": {
+   "a": "11.757 (11.8)",
+   "b": "32.4",
+   "c": "6.96"
+  },
+  "sine-cosine-struct.0008": {
+   "a": "9.40",
+   "b": "49.9",
+   "c": "9.95"
+  },
+  "sine-rule-side.0006": {
+   "all": "7.05 (assuming 11.2 opp 91, x opp 39; diagram labels only)"
+  },
+  "sine-rule-side.0001": {
+   "all": "cannot determine pairing from labels; 20.4 if 16 opp 47, 12.5 if 16 opp 69"
+  },
+  "speed-journey.0001": {
+   "all": "78.9 km/h"
+  },
+  "speed-journey.0003": {
+   "all": "49.5 km/h"
+  },
+  "speed-time.0003": {
+   "a": "cannot answer: graph values not given",
+   "b": "cannot answer"
+  },
+  "speed-time.0004": {
+   "a": "cannot answer: graph values not given",
+   "b": "cannot answer"
+  },
+  "substitute.0008": {
+   "all": "-95"
+  },
+  "substitute.0004": {
+   "all": "31"
+  },
+  "surd-expand.0001": {
+   "all": "10-13sqrt2"
+  },
+  "surd-expand.0003": {
+   "all": "5+2sqrt3"
+  },
+  "surd-show.0012": {
+   "all": "7+4sqrt3, shown"
+  },
+  "surd-show.0003": {
+   "all": "2sqrt7, shown"
+  },
+  "surface-area.0004": {
+   "all": "595 cm2 (3sf)"
+  },
+  "surface-area.0005": {
+   "all": "3630 cm2"
+  },
+  "time-rate-problem.0004": {
+   "all": "14:04"
+  },
+  "time-rate-problem.0005": {
+   "all": "14:06"
+  },
+  "transform-point.0004": {
+   "all": "(6,7)"
+  },
+  "transform-point.0006": {
+   "all": "(2,0)"
+  },
+  "trapezium-area.0014": {
+   "all": "108 assuming parallel 22,14 height 6 (labels only)"
+  },
+  "trapezium-area.0006": {
+   "all": "128 assuming parallel 21,11 height 8 (labels only)"
+  },
+  "tree-complete.0016": {
+   "a": "0.25 on not-win branches",
+   "b": "0.5625",
+   "c": "0.375"
+  },
+  "tree-complete.0008": {
+   "a": "0.20, 0.65",
+   "b": "0.28",
+   "c": "0.87"
+  },
+  "trig-angle.0009": {
+   "all": "20.7 if 6.5 opp and 18.4 hyp (labels only)"
+  },
+  "trig-angle.0012": {
+   "all": "37.7 if 4.4 opp and 7.2 hyp (labels only)"
+  },
+  "trig-side.0011": {
+   "all": "labels only; 8.87 if adj with hyp 14.1"
+  },
+  "trig-side.0004": {
+   "all": "labels only; unclear (e.g. 15 tan71=43.6)"
+  },
+  "turning-points.0006": {
+   "all": "(4,122) max, (-4,-134) min"
+  },
+  "turning-points.0001": {
+   "all": "(0,4) max, (4,-28) min"
+  }
+ },
+ "verdicts": {
+  "sf-convert.0001": {
+   "result": "pass"
+  },
+  "sf-convert.0005": {
+   "result": "pass"
+  },
+  "share-ratio.0007": {
+   "result": "pass"
+  },
+  "share-ratio.0002": {
+   "result": "pass"
+  },
+  "show-surface.0003": {
+   "result": "pass"
+  },
+  "show-surface.0004": {
+   "result": "pass"
+  },
+  "show-volume-relation.0002": {
+   "result": "pass"
+  },
+  "show-volume-relation.0006": {
+   "result": "pass"
+  },
+  "similar-area-short.0004": {
+   "result": "pass"
+  },
+  "similar-area-short.0003": {
+   "result": "pass"
+  },
+  "similar-lengths.0006": {
+   "result": "pass"
+  },
+  "similar-lengths.0005": {
+   "result": "pass"
+  },
+  "similar-parallel.0002": {
+   "result": "pass"
+  },
+  "similar-parallel.0003": {
+   "result": "pass"
+  },
+  "similar-volume.0006": {
+   "result": "pass"
+  },
+  "similar-volume.0007": {
+   "result": "pass"
+  },
+  "simult-context.0003": {
+   "result": "pass"
+  },
+  "simult-context.0005": {
+   "result": "pass"
+  },
+  "simult-solve.0013": {
+   "result": "pass"
+  },
+  "simult-solve.0011": {
+   "result": "pass"
+  },
+  "sine-cosine-struct.0012": {
+   "result": "pass"
+  },
+  "sine-cosine-struct.0008": {
+   "result": "pass"
+  },
+  "sine-rule-side.0006": {
+   "result": "pass"
+  },
+  "sine-rule-side.0001": {
+   "result": "pass"
+  },
+  "speed-journey.0001": {
+   "result": "pass"
+  },
+  "speed-journey.0003": {
+   "result": "pass"
+  },
+  "speed-time.0003": {
+   "result": "fail",
+   "problem": "Question text gives no speed/time values for the graph, so acceleration and distance cannot be found.",
+   "fix": "Give the graph data (e.g. max speed 8 m/s, times) in the text; mark scheme 0.8 m/s2 and 180 m."
+  },
+  "speed-time.0004": {
+   "result": "fail",
+   "problem": "Question text gives no speed/time values for the graph, so the answer cannot be found.",
+   "fix": "Give the graph data in the text; mark scheme 2 m/s2 and 160 m."
+  },
+  "substitute.0008": {
+   "result": "pass"
+  },
+  "substitute.0004": {
+   "result": "pass"
+  },
+  "surd-expand.0001": {
+   "result": "pass"
+  },
+  "surd-expand.0003": {
+   "result": "pass"
+  },
+  "surd-show.0012": {
+   "result": "pass"
+  },
+  "surd-show.0003": {
+   "result": "pass"
+  },
+  "surface-area.0004": {
+   "result": "pass"
+  },
+  "surface-area.0005": {
+   "result": "pass"
+  },
+  "time-rate-problem.0004": {
+   "result": "pass"
+  },
+  "time-rate-problem.0005": {
+   "result": "pass"
+  },
+  "transform-point.0004": {
+   "result": "pass"
+  },
+  "transform-point.0006": {
+   "result": "pass"
+  },
+  "trapezium-area.0014": {
+   "result": "fail",
+   "problem": "Label-only diagram does not say which sides are parallel or which is the height; 196 not verifiable.",
+   "fix": "State parallel sides 6 and 22 and height 14 explicitly (area 196)."
+  },
+  "trapezium-area.0006": {
+   "result": "fail",
+   "problem": "Label-only diagram does not say which sides are parallel or which is the height; 159.5 not verifiable.",
+   "fix": "State parallel sides 8 and 21 and height 11 explicitly (area 159.5)."
+  },
+  "tree-complete.0016": {
+   "result": "pass"
+  },
+  "tree-complete.0008": {
+   "result": "pass"
+  },
+  "trig-angle.0009": {
+   "result": "pass"
+  },
+  "trig-angle.0012": {
+   "result": "pass"
+  },
+  "trig-side.0011": {
+   "result": "pass"
+  },
+  "trig-side.0004": {
+   "result": "pass"
+  },
+  "turning-points.0006": {
+   "result": "pass"
+  },
+  "turning-points.0001": {
+   "result": "pass"
+  }
+ }
+}

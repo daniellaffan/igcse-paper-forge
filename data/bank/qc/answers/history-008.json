@@ -1,0 +1,71 @@
+{
+  "batch": "history-008",
+  "answers": {
+    "history.world-divided-effects.0006": {
+      "all": "Effect 1: Truman was more hostile/less trusting than Roosevelt; at Potsdam (July 1945) he was tougher with Stalin, and Stalin's suspicion grew, e.g. over Eastern Europe. Effect 2: Truman told Stalin of the atomic bomb / used it on Japan (Aug 1945) without consulting him, and later the Truman Doctrine (1947) / containment, which increased Soviet fear and the arms race."
+    },
+    "history.world-divided-effects.0061": {
+      "all": "Effect 1: tensions eased - SALT 1 (1972) limited ICBMs and ABMs, slowing the arms race. Effect 2: improved contact/trade and summits, e.g. Nixon visited Moscow 1972, Basic Principles Agreement, Ostpolitik/Berlin agreement 1971-72; but rivalry continued in the Third World."
+    },
+    "history.world-divided-impression.0012": {
+      "all": "Impression: Poland was the most bitter dispute, Stalin acted ruthlessly/cynically and the Allies were divided. Evidence: 'no issue caused more argument'; rival Lublin communists; Red Army halted at Warsaw and let the uprising be crushed."
+    },
+    "history.world-divided-impression.0018": {
+      "all": "Impression: Germany increasingly divided, USSR vs West with conflicting aims (exploitation vs recovery); West moved unilaterally towards a separate state. Evidence: factories taken as reparations; Bizonia 1947; Deutschmark 1948."
+    },
+    "history.world-divided-impression.0038": {
+      "all": "Impression: Wall built out of East German desperation to stop refugees/brain drain, with Ulbricht pushing Moscow; sudden and unilateral. Evidence: 'bleeding to death', 3 million fled, skilled workers, 30,000 in July, Ulbricht begged, barbed wire overnight."
+    },
+    "history.world-divided-impression.0005": {
+      "all": "Impression: Yalta looked successful and friendly on paper but there were hidden weaknesses/doubts, especially over Poland and Soviet power on the ground. Evidence: friendly atmosphere, zones/UN/war on Japan, vague Poland promises, Red Army occupying."
+    },
+    "history.world-divided-impression.0006": {
+      "all": "Impression: the Poland question was unresolved and vague, with Stalin holding the real power since the Red Army occupied it, so free elections were doubtful. Evidence: 'promises about Poland were vague', Red Army occupied, 'agreement on paper was one thing'."
+    },
+    "history.world-divided-impression.0052": {
+      "all": "Impression: NPT was a rare, genuine superpower cooperation and a reciprocal bargain, widely accepted. Evidence: 'rare example', both wanted to stop spread, non-nuclear states promise not to build / nuclear powers share technology and disarm, 60+ signed."
+    }
+  },
+  "verdicts": {
+    "history.world-divided-effects.0006": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-effects.0061": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-impression.0012": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-impression.0018": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-impression.0038": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-impression.0005": {
+      "result": "pass",
+      "problem": "Note only: identical extract to impression.0006 (different question, different mark scheme); not a fault.",
+      "fix": ""
+    },
+    "history.world-divided-impression.0006": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-impression.0052": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

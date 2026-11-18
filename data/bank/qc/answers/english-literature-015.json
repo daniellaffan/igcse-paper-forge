@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-015",
+ "answers": {
+  "english-literature.unseen-ninety-candles.0002": {
+   "all": "Plan (Ninety Candles (original); old age): Age as accumulated candles, frailty, dignity, tender tone."
+  },
+  "english-literature.unseen-ninety-candles.0003": {
+   "all": "Plan (Ninety Candles (original); love and tenderness): Family around cake, gentle imagery, warmth."
+  },
+  "english-literature.unseen-old-photograph.0001": {
+   "all": "Plan (Old Photograph (original); the past): Frozen moment, fading, speaker's reflection."
+  },
+  "english-literature.unseen-old-photograph.0003": {
+   "all": "Plan (Old Photograph (original); time and change): Then/now contrast, fading image, tense shifts."
+  },
+  "english-literature.unseen-ozymandias.0002": {
+   "all": "Plan (Shelley Ozymandias; time and its effects): Ruins, 'sands stretch far away', 'lone and level', decay; sonnet with irregular rhyme, volta."
+  },
+  "english-literature.unseen-ozymandias.0001": {
+   "all": "Plan (Shelley Ozymandias; power): 'Sneer of cold command', 'Look on my Works, ye Mighty, and despair!' irony, travellers tale, frame narrative, sonnet form, irony of 'nothing beside remains'."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.unseen-ninety-candles.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-ninety-candles.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-old-photograph.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-old-photograph.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-ozymandias.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-ozymandias.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

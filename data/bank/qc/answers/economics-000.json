@@ -1,0 +1,200 @@
+{
+ "batch": "economics-000",
+ "note": "Batch files were regenerated (13:42 -> 13:45) while checking; these answers are for the current version, written after the checker had already seen lines 1-200 of the new mark scheme, so not fully cold.",
+ "answers": {
+  "economics.assumptions-describe.0012": {
+   "all": "Workers also value non-wage benefits, e.g. job satisfaction, location/shorter commute, flexible hours, so a lower-paid job may give greater total reward."
+  },
+  "economics.assumptions-explain.0016": {
+   "all": "Rewards include non-financial benefits; staying close to home saves travel time and cost and gives more leisure/family time; so Marisol's total reward may be greater than the higher wage at Riverstone Apparel."
+  },
+  "economics.assumptions-mcq-auth.0008": {
+   "all": "Government"
+  },
+  "economics.assumptions-state.0009": {
+   "all": "To maximise social welfare."
+  },
+  "economics.bop-analyse-1.0006": {
+   "all": "High spending on imported electronics/cars raises outflows; falling manufactured exports cut inflows (uncompetitive: high costs, strong currency, low productivity); persistent 5 years at 6.8% GDP suggests structural causes."
+  },
+  "economics.bop-analyse-2.0006": {
+   "all": "Manufactured export revenue raises AD, GDP, jobs; surplus can build reserves/invest abroad; appreciation makes imports cheaper, lowering inflation and raising living standards."
+  },
+  "economics.bop-assess-1.0002": {
+   "all": "Consequences: pressure on currency, lost jobs in manufacturing, lower AD, borrowing/selling assets to finance. Evaluation: consumers gain imported goods, may be financed by FDI, capital imports may raise growth, depreciation may self-correct; 7 years at 6.8% is serious."
+  },
+  "economics.bop-assess-2.0002": {
+   "all": "Good: jobs, growth, reserves. Not always: reliance on gas risky, appreciation hurts other exporters, may reflect low domestic consumption, trade retaliation. Judgement."
+  },
+  "economics.bop-calc.0002": {
+   "all": "(86.9+34.7)-(57+83.1) = 121.6-140.1 = -S\u00a318.5bn (deficit)"
+  },
+  "economics.bop-define1.0001": {
+   "all": "A record of all financial transactions between a country and the rest of the world."
+  },
+  "economics.bop-define2.0001": {
+   "all": "A record of all financial transactions (1) between one country and the rest of the world (1)."
+  },
+  "economics.bop-describe.0015": {
+   "all": "It may be due to imports of capital goods that raise future productive capacity / exports; or small and short-term, financed by FDI inflows."
+  },
+  "economics.bop-explain.0015": {
+   "all": "Tourist spending is an export of services; money flows into Istrova; recorded as a credit (I$10bn) in trade in services on the current account, improving the balance."
+  },
+  "economics.bop-mcq-auth.0001": {
+   "all": "trade in services"
+  },
+  "economics.bop-mcq-class.0004": {
+   "all": "Buying foreign wheat"
+  },
+  "economics.bop-mcq-def.0004": {
+   "all": "When the value of money flowing in on the current account is greater than the money flowing out"
+  },
+  "economics.bop-state.0008": {
+   "all": "Trade in goods (or services, primary income, secondary income)."
+  },
+  "economics.bop-state-id.0001": {
+   "all": "an export of a service"
+  },
+  "economics.competition-analyse-1.0001": {
+   "all": "Interdependence: a price cut would be matched, causing price war and lower profits; so firms compete through advertising/branding to build loyalty and make demand less price elastic; 75% share means large budgets; raises barriers to entry."
+  },
+  "economics.competition-analyse-2.0005": {
+   "all": "Price maker so high prices; no alternative supplier for a necessity (inelastic demand); no incentive to improve poor service; large profits at consumers' expense; less innovation/choice."
+  },
+  "economics.competition-analyse-3.0002": {
+   "all": "Lower prices raise real incomes; more choice and convenience (next-day delivery); shops must improve service/quality; innovation."
+  },
+  "economics.competition-assess-1.0003": {
+   "all": "Benefits: scale economies, innovation funded by profits, quality from non-price competition. Costs: similar prices suggest collusion, higher prices, advertising costs passed on, limited choice. Judgement."
+  },
+  "economics.competition-assess-2.0005": {
+   "all": "For: lower fares, better service, efficiency. Against: natural monopoly, duplication of track, economies of scale, investment from profits; regulation alternative. Judgement."
+  },
+  "economics.competition-assess-3.0006": {
+   "all": "Negative: lower sales, profits, closures (14%), job losses. Positive: pressure to cut costs, innovate, go online, differentiate. Judgement depends on adaptability."
+  },
+  "economics.competition-define1.0005": {
+   "all": "A firm that can set the price of its product (has market power)."
+  },
+  "economics.competition-define2.0007": {
+   "all": "When firms agree with each other (1) to fix prices/output or share markets, reducing competition (1)."
+  },
+  "economics.competition-describe.0010": {
+   "all": "Advertising/branding: firms promote their product to build brand loyalty, so demand rises and becomes less price elastic."
+  },
+  "economics.competition-evaluate-1.0003": {
+   "all": "Plan: benefits (scale economies, innovation, quality) vs costs (similar prices suggest collusion, high prices, advertising costs, barriers); 81% share; judgement depends on regulation."
+  },
+  "economics.competition-evaluate-2.0004": {
+   "all": "Plan: competition lowers prices and improves service; but water is a natural monopoly, duplication wasteful, safety; regulation alternative; judgement."
+  },
+  "economics.competition-evaluate-3.0001": {
+   "all": "Plan: lost sales, closures 11%, job losses; but incentive to innovate, cut costs, go online, specialise; judgement on time frame and type of firm."
+  }
+ },
+ "verdicts": {
+  "economics.assumptions-describe.0012": {
+   "result": "pass"
+  },
+  "economics.assumptions-explain.0016": {
+   "result": "pass"
+  },
+  "economics.assumptions-mcq-auth.0008": {
+   "result": "pass"
+  },
+  "economics.assumptions-state.0009": {
+   "result": "pass"
+  },
+  "economics.bop-analyse-1.0006": {
+   "result": "fail",
+   "problem": "Question asks for causes but indicative content includes consequences (financing by borrowing/selling assets, job losses in export industries).",
+   "fix": "Replace last two bullets with causes, e.g. high incomes/consumer spending, strong currency, low productivity, high inflation relative to trading partners."
+  },
+  "economics.bop-analyse-2.0006": {
+   "result": "pass"
+  },
+  "economics.bop-assess-1.0002": {
+   "result": "pass"
+  },
+  "economics.bop-assess-2.0002": {
+   "result": "pass"
+  },
+  "economics.bop-calc.0002": {
+   "result": "pass"
+  },
+  "economics.bop-define1.0001": {
+   "result": "pass"
+  },
+  "economics.bop-define2.0001": {
+   "result": "pass"
+  },
+  "economics.bop-describe.0015": {
+   "result": "pass"
+  },
+  "economics.bop-explain.0015": {
+   "result": "pass"
+  },
+  "economics.bop-mcq-auth.0001": {
+   "result": "pass"
+  },
+  "economics.bop-mcq-class.0004": {
+   "result": "pass"
+  },
+  "economics.bop-mcq-def.0004": {
+   "result": "pass"
+  },
+  "economics.bop-state.0008": {
+   "result": "pass"
+  },
+  "economics.bop-state-id.0001": {
+   "result": "pass"
+  },
+  "economics.competition-analyse-1.0001": {
+   "result": "pass"
+  },
+  "economics.competition-analyse-2.0005": {
+   "result": "fail",
+   "problem": "Incoherent context: a firm called Northgate Textiles is the only supplier of electricity.",
+   "fix": "Rename the firm to fit the industry, e.g. Northgate Power."
+  },
+  "economics.competition-analyse-3.0002": {
+   "result": "pass"
+  },
+  "economics.competition-assess-1.0003": {
+   "result": "pass"
+  },
+  "economics.competition-assess-2.0005": {
+   "result": "fail",
+   "problem": "Incoherent context: Lumo Energy is the only supplier of rail travel.",
+   "fix": "Rename the firm to fit the industry, e.g. Lumo Rail."
+  },
+  "economics.competition-assess-3.0006": {
+   "result": "fail",
+   "problem": "Question asks impact on firms, but indicative content is about consumers (lower prices, convenience, choice, consumers unable to shop online).",
+   "fix": "Use firm-focused content: falling sales/profits, 14% closures, need to cut costs, innovate, go online or differentiate; efficient firms survive; online retailer gains market share/scale."
+  },
+  "economics.competition-define1.0005": {
+   "result": "pass"
+  },
+  "economics.competition-define2.0007": {
+   "result": "pass"
+  },
+  "economics.competition-describe.0010": {
+   "result": "pass"
+  },
+  "economics.competition-evaluate-1.0003": {
+   "result": "pass"
+  },
+  "economics.competition-evaluate-2.0004": {
+   "result": "fail",
+   "problem": "Incoherent context: Tamarind Retail is the only supplier of water.",
+   "fix": "Rename the firm to fit the industry, e.g. Tamarind Water."
+  },
+  "economics.competition-evaluate-3.0001": {
+   "result": "fail",
+   "problem": "Question asks impact on firms, but indicative content is about consumers (lower prices, convenience, choice, consumers unable to shop online).",
+   "fix": "Use firm-focused content: falling sales/profits, 11% closures, need to cut costs, innovate, go online or differentiate; online retailer gains; judgement on adaptability/time frame."
+  }
+ }
+}

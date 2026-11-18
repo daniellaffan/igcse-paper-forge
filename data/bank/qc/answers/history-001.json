@@ -1,0 +1,61 @@
+{
+ "batch": "history-001",
+ "answers": {
+  "history.america-difference.0041": {
+   "all": "1861: enslaved people legally property, no freedom, under owners' control, Fugitive slave laws; 1865: freed by 13th Amendment (Dec 1865)/Emancipation Proclamation 1863, Union advance, Freedmen's Bureau, could move/reunite families, serve as USCT soldiers."
+  },
+  "history.america-difference.0052": {
+   "all": "1865: freed but with little land/rights, Black Codes, Freedmen's Bureau just set up; 1870: 14th (1868) and 15th (1870) amendments gave citizenship and vote, Black men voting/holding office, sharecropping emerging, KKK violence."
+  },
+  "history.america-difference.0012": {
+   "all": "1783: slavery legal/entrenched in most Northern states, little organised opposition (only Vermont/Massachusetts/Pennsylvania starting); by 1804 all Northern states had abolished or begun gradual abolition (NJ 1804), abolition societies, Northwest Ordinance 1787 banned slavery; 1808 slave trade ban looming."
+  },
+  "history.america-difference.0059": {
+   "all": "1868: Treaty of Fort Laramie, army withdrew from Bozeman Trail forts, Sioux gained Black Hills/Great Sioux Reservation, relatively peaceful; 1876: gold in Black Hills (1874), army sent to force Sioux onto reservations, Great Sioux War, Little Bighorn June 1876, full conflict."
+  },
+  "history.america-judgement.0012": {
+   "all": "Plan: Yes significant: exposed weakness of Articles (no army, no taxes), alarmed elites -> Philadelphia Convention 1787 -> Constitution with stronger federal govt, standing army. But other factors: Northwest Ordinance, Hamilton's financial plan, Washington, Whiskey Rebellion 1794 showing federal power; Louisiana Purchase. Conclude significant catalyst but not sole factor."
+  },
+  "history.america-judgement.0023": {
+   "all": "Plan: Conflict: Mexico 1846-48, Texas annexation, Native American wars/removal, War of 1812 earlier, Oregon dispute with Britain. But other consequences: sectional tension over slavery (Missouri 1820, Wilmot Proviso, Compromise 1850, Kansas-Nebraska 1854), economic growth, Native removal, population shift. Argue slavery sectionalism arguably more important/long term."
+  },
+  "history.america-judgement.0039": {
+   "all": "Plan: Blockade (Anaconda Plan) cut cotton exports, shortages, inflation, but porous early and leaky; other factors: Northern industrial/population superiority, Grant/Sherman total war, Vicksburg/Gettysburg 1863, Emancipation and Black soldiers, Confederate poor finances/states' rights. Judge blockade important but contributory."
+  },
+  "history.america-judgement.0061": {
+   "all": "Plan: Sharecropping after 1865-ish gave some independence from gang labour but trapped in debt, crop lien, cycle of poverty; other changes: 13th-15th Amendments, Freedmen's Bureau schools, political participation, Black Codes, KKK, end of Reconstruction 1877. Conclude sharecropping important to economic life but political/legal changes also major."
+  }
+ },
+ "verdicts": {
+  "history.america-difference.0041": {
+   "result": "pass"
+  },
+  "history.america-difference.0052": {
+   "result": "pass"
+  },
+  "history.america-difference.0012": {
+   "result": "pass"
+  },
+  "history.america-difference.0059": {
+   "result": "pass"
+  },
+  "history.america-judgement.0023": {
+   "result": "pass"
+  },
+  "history.america-judgement.0012": {
+   "result": "pass",
+   "problem": "minor: 2nd stimulus bullet (stronger federal government) is really the Constitution, which the mark scheme also lists as an 'other factor'",
+   "fix": "optional: reword bullet to 'The Constitutional Convention of 1787'"
+  },
+  "history.america-judgement.0039": {
+   "result": "fail",
+   "problem": "Stimulus bullet 'He kept the border states in the Union' has no antecedent and is not about the blockade; the mark scheme treats it as the opposing factor 'leadership of Lincoln'.",
+   "fix": "Replace with a blockade-relevant bullet (e.g. 'The Anaconda Plan') and keep Lincoln's leadership as an own-knowledge factor."
+  },
+  "history.america-judgement.0061": {
+   "result": "fail",
+   "problem": "Stimulus bullet 'It abolished slavery in 1865' is not about sharecropping and 'It' is unclear (Thirteenth Amendment); mark scheme treats Thirteenth Amendment as an opposing factor.",
+   "fix": "Replace with a sharecropping-relevant bullet (e.g. 'Debt to landowners and merchants') and keep the Thirteenth Amendment as an own-knowledge factor."
+  }
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "batch": "further-maths-005",
+ "answers": {
+  "further-maths.ti-show.0006": {
+   "a": "2(sin^2+cos^2)=2",
+   "b": "2"
+  },
+  "further-maths.ti-show.0004": {
+   "a": "(s^2+c^2)/(sc)=1/(sc)",
+   "b": "sin2th=1, th=45.0"
+  },
+  "further-maths.tq-graph.0008": {
+   "a": "p=4, s=2 (max 6, min -2); q read from diagram (not visible in text)",
+   "b": "depends on q (2q solutions if q integer, curve through 4 = midline-ish... y=4 gives cos(qx)=1/2: 2q solutions)",
+   "c": "360/q"
+  },
+  "further-maths.tq-graph.0009": {
+   "a": "p=4, s=0; q read from diagram",
+   "b": "sin(qx)=1/2: 2q solutions",
+   "c": "360/q"
+  },
+  "further-maths.tq-short.0008": {
+   "i": "20/29",
+   "ii": "-20/21"
+  },
+  "further-maths.tq-short.0010": {
+   "i": "-20/29",
+   "ii": "21/20"
+  },
+  "further-maths.tq-short.0002": {
+   "i": "-4/5",
+   "ii": "-4/3"
+  },
+  "further-maths.tr-multi.0015": {
+   "a": "7.7 cm",
+   "b": "22sin0.35=7.54 cm",
+   "c": "15.2 cm",
+   "d": "0.5(121)(0.7-sin0.7)=3.37 cm^2"
+  },
+  "further-maths.tr-short.0001": {
+   "i": "6.3 cm",
+   "ii": "9.45 cm^2"
+  },
+  "further-maths.tr-short.0022": {
+   "all": "theta=1, arc=15 cm"
+  },
+  "further-maths.tr-short.0005": {
+   "all": "arc=30, theta=2, area=225 cm^2"
+  },
+  "further-maths.tr-show.0003": {
+   "a": "theta=2(64.8)/81=1.6",
+   "b": "32.4 cm",
+   "c": "0.5(81)sin1.6=40.5 cm^2"
+  },
+  "further-maths.tr-show.0014": {
+   "a": "2r+r th=5r th -> th=1/2",
+   "b": "16 cm^2"
+  },
+  "further-maths.tt-multi.0022": {
+   "a": "11.2 m",
+   "b": "27.6 m^2",
+   "c": "99.7 deg (obtuse; cos rule gives negative cos)",
+   "d": "2(27.56)/11.19=4.93 m"
+  },
+  "further-maths.tt-short.0017": {
+   "all": "cos=260/280, 21.8 deg"
+  },
+  "further-maths.tt-short.0015": {
+   "all": "35.2 cm^2"
+  },
+  "further-maths.tt-short.0014": {
+   "all": "14.4 cm"
+  },
+  "further-maths.tt-short.0008": {
+   "all": "8sin35/sin49=6.08 cm"
+  },
+  "further-maths.vb-multi.0011": {
+   "a": "(3,-3)",
+   "b": "3sqrt2",
+   "c": "(3sqrt2/2, -3sqrt2/2)",
+   "d": "OD=OA+OC-OB=(1,-1)"
+  },
+  "further-maths.vb-multi.0020": {
+   "a": "-4i-3j",
+   "b": "5",
+   "c": "-4i-3j",
+   "d": "4i+2j"
+  },
+  "further-maths.vb-short.0001": {
+   "all": "(k-4)^2=16, k=0 or 8"
+  },
+  "further-maths.vb-short.0011": {
+   "all": "k=-13"
+  },
+  "further-maths.vb-short.0018": {
+   "all": "-2i+15j"
+  },
+  "further-maths.vb-short.0008": {
+   "i": "sqrt65",
+   "ii": "(7i-4j)/sqrt65"
+  },
+  "further-maths.vg-multi.0009": {
+   "a": "AN=-a+b/5; BM=2a/3-b",
+   "b": "(1-l)a+(l/5)b",
+   "c": "(2m/3)a+(1-m)b",
+   "d": "l=5/13, m=12/13",
+   "e": "8a/13+b/13",
+   "f": "5:8"
+  },
+  "further-maths.vg-show.0003": {
+   "a": "b-a",
+   "b": "a+3/4(b-a)",
+   "c": "QP=-3a/20+3b/4; PR=-a/4+5b/4",
+   "d": "QP=3/5 PR, parallel with common point P",
+   "e": "3:5"
+  }
+ },
+ "verdicts": {
+  "further-maths.ti-show.0006": {
+   "result": "pass"
+  },
+  "further-maths.ti-show.0004": {
+   "result": "pass"
+  },
+  "further-maths.tq-graph.0008": {
+   "result": "pass"
+  },
+  "further-maths.tq-graph.0009": {
+   "result": "pass"
+  },
+  "further-maths.tq-short.0008": {
+   "result": "pass"
+  },
+  "further-maths.tq-short.0010": {
+   "result": "pass"
+  },
+  "further-maths.tq-short.0002": {
+   "result": "pass"
+  },
+  "further-maths.tr-multi.0015": {
+   "result": "pass"
+  },
+  "further-maths.tr-short.0001": {
+   "result": "pass"
+  },
+  "further-maths.tr-short.0022": {
+   "result": "pass"
+  },
+  "further-maths.tr-short.0005": {
+   "result": "pass"
+  },
+  "further-maths.tr-show.0003": {
+   "result": "pass"
+  },
+  "further-maths.tr-show.0014": {
+   "result": "pass"
+  },
+  "further-maths.tt-multi.0022": {
+   "result": "pass"
+  },
+  "further-maths.tt-short.0017": {
+   "result": "pass"
+  },
+  "further-maths.tt-short.0015": {
+   "result": "pass"
+  },
+  "further-maths.tt-short.0014": {
+   "result": "pass"
+  },
+  "further-maths.tt-short.0008": {
+   "result": "pass"
+  },
+  "further-maths.vb-multi.0011": {
+   "result": "pass"
+  },
+  "further-maths.vb-multi.0020": {
+   "result": "pass"
+  },
+  "further-maths.vb-short.0001": {
+   "result": "pass"
+  },
+  "further-maths.vb-short.0011": {
+   "result": "pass"
+  },
+  "further-maths.vb-short.0018": {
+   "result": "pass"
+  },
+  "further-maths.vb-short.0008": {
+   "result": "pass"
+  },
+  "further-maths.vg-multi.0009": {
+   "result": "pass"
+  },
+  "further-maths.vg-show.0003": {
+   "result": "pass"
+  }
+ }
+}

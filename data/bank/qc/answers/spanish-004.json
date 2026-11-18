@@ -1,0 +1,135 @@
+{
+ "batch": "spanish-004",
+ "answers": {
+  "spanish.l-match.d1.0006": {
+   "a": "E",
+   "b": "B",
+   "c": "C",
+   "d": "F",
+   "e": "A"
+  },
+  "spanish.l-match.d2.0005": {
+   "a": "E",
+   "b": "A",
+   "c": "D",
+   "d": "F",
+   "e": "C"
+  },
+  "spanish.l-match.e1.0003": {
+   "a": "B",
+   "b": "C",
+   "c": "E",
+   "d": "D",
+   "e": "F"
+  },
+  "spanish.l-match.e2.0004": {
+   "a": "C",
+   "b": "D",
+   "c": "A",
+   "d": "E",
+   "e": "B"
+  },
+  "spanish.l-multi.a1.0007": {
+   "a": "B,D",
+   "b": "A,D",
+   "c": "B,D"
+  },
+  "spanish.l-multi.a2.0004": {
+   "a": "B,C",
+   "b": "A,D",
+   "c": "B,D"
+  },
+  "spanish.l-multi.a3.0010": {
+   "a": "D,E",
+   "b": "A,B",
+   "c": "A,C"
+  },
+  "spanish.l-multi.a4.0005": {
+   "a": "B,C",
+   "b": "B,D",
+   "c": "B,C"
+  },
+  "spanish.l-multi.b1.0010": {
+   "a": "C,D",
+   "b": "A,E",
+   "c": "A,C"
+  },
+  "spanish.l-multi.b2.0005": {
+   "a": "B,E",
+   "b": "C,E",
+   "c": "D,E"
+  },
+  "spanish.l-multi.b4.0007": {
+   "a": "A,C",
+   "b": "A,B",
+   "c": "A,B"
+  },
+  "spanish.l-multi.b5.0005": {
+   "a": "A,E",
+   "b": "A,C",
+   "c": "C,D"
+  },
+  "spanish.l-multi.c1.0011": {
+   "a": "A,E",
+   "b": "B,D",
+   "c": "D,E"
+  },
+  "spanish.l-multi.c2.0003": {
+   "a": "D,E",
+   "b": "A,E",
+   "c": "A,C"
+  },
+  "spanish.l-multi.c3.0009": {
+   "a": "A,E",
+   "b": "A,C",
+   "c": "A,C"
+  }
+ },
+ "verdicts": {
+  "spanish.l-match.d1.0006": {
+   "result": "pass"
+  },
+  "spanish.l-match.d2.0005": {
+   "result": "pass"
+  },
+  "spanish.l-match.e1.0003": {
+   "result": "pass"
+  },
+  "spanish.l-match.e2.0004": {
+   "result": "pass"
+  },
+  "spanish.l-multi.a1.0007": {
+   "result": "pass"
+  },
+  "spanish.l-multi.a2.0004": {
+   "result": "pass"
+  },
+  "spanish.l-multi.a3.0010": {
+   "result": "pass"
+  },
+  "spanish.l-multi.a4.0005": {
+   "result": "pass"
+  },
+  "spanish.l-multi.b1.0010": {
+   "result": "pass"
+  },
+  "spanish.l-multi.b2.0005": {
+   "result": "pass"
+  },
+  "spanish.l-multi.b4.0007": {
+   "result": "pass"
+  },
+  "spanish.l-multi.b5.0005": {
+   "result": "pass"
+  },
+  "spanish.l-multi.c1.0011": {
+   "result": "pass"
+  },
+  "spanish.l-multi.c2.0003": {
+   "result": "pass"
+  },
+  "spanish.l-multi.c3.0009": {
+   "result": "pass"
+  }
+ }
+}

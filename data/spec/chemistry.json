@@ -1,0 +1,1491 @@
+{
+ "subject": "chemistry",
+ "code": "4CH1",
+ "board": "Pearson Edexcel International GCSE (9–1)",
+ "title": "Chemistry",
+ "short": "Chemistry 4CH1",
+ "official_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-chemistry-2017.html",
+ "spec_url": "https://qualifications.pearson.com/content/dam/pdf/International%20GCSE/Chemistry/2017/specification-and-sample-assessments/international-gcse-chemistry-2017-specification.pdf",
+ "papers": [
+  {
+   "id": "1C",
+   "name": "Paper 1C",
+   "paper_code": "4CH1/1C",
+   "minutes": 120,
+   "marks": 110,
+   "calculator": true,
+   "materials": "Calculator, ruler",
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Write your name, centre number and candidate number in the boxes at the top of the cover.",
+    "Answer all questions.",
+    "Write your answers in the spaces provided – there may be more room than you need.",
+    "Show every step of any calculation and give the units."
+   ],
+   "information": [
+    "The total mark for this paper is 110.",
+    "The marks for each question are shown in brackets – use them as a guide to how long to spend on each question.",
+    "Some questions are answered by putting a cross in a box. To change your mind, put a line through the box and then cross your new answer.",
+    "Paper 1 tests only the content that is not marked 'C' (Paper 2-only) in the specification."
+   ],
+   "advice": [
+    "Read each question carefully before you begin your answer.",
+    "Write neatly and in clear, good English.",
+    "Try to answer every question.",
+    "If you have time at the end, check your answers."
+   ],
+   "reference_sheet": "chemistry-periodic-table",
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "1C-all",
+     "title": "Answer ALL questions.",
+     "marks": 110
+    }
+   ]
+  },
+  {
+   "id": "2C",
+   "name": "Paper 2C",
+   "paper_code": "4CH1/2C",
+   "minutes": 75,
+   "marks": 70,
+   "calculator": true,
+   "materials": "Calculator, ruler",
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Write your name, centre number and candidate number in the boxes at the top of the cover.",
+    "Answer all questions.",
+    "Write your answers in the spaces provided – there may be more room than you need.",
+    "Show every step of any calculation and give the units."
+   ],
+   "information": [
+    "The total mark for this paper is 70.",
+    "The marks for each question are shown in brackets – use them as a guide to how long to spend on each question.",
+    "Some questions are answered by putting a cross in a box. To change your mind, put a line through the box and then cross your new answer.",
+    "Paper 2 can test any content, including the statements marked 'C'."
+   ],
+   "advice": [
+    "Read each question carefully before you begin your answer.",
+    "Write neatly and in clear, good English.",
+    "Try to answer every question.",
+    "If you have time at the end, check your answers."
+   ],
+   "reference_sheet": "chemistry-periodic-table",
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "2C-all",
+     "title": "Answer ALL questions.",
+     "marks": 70
+    }
+   ]
+  }
+ ],
+ "qtypes": [
+  {
+   "id": "mcq",
+   "label": "Multiple choice",
+   "marks": "1",
+   "description": "Choose one of four options A–D and mark it with a cross."
+  },
+  {
+   "id": "recall",
+   "label": "Recall: state / give / name",
+   "marks": "1-3",
+   "description": "Short factual answers: name a substance, give a formula, state a condition or colour."
+  },
+  {
+   "id": "describe",
+   "label": "Describe",
+   "marks": "2-4",
+   "description": "Give an account of observations, a process or a test, without needing reasons."
+  },
+  {
+   "id": "explain",
+   "label": "Explain",
+   "marks": "2-5",
+   "description": "Give reasons using structure, bonding, particles or electrons; linked marking points."
+  },
+  {
+   "id": "calculation",
+   "label": "Calculation",
+   "marks": "2-5",
+   "description": "Moles, masses, concentrations, gas volumes, yields, energy changes, Rf values; working shown."
+  },
+  {
+   "id": "equation",
+   "label": "Equations",
+   "marks": "1-3",
+   "description": "Word equations, balanced symbol equations with state symbols, ionic and half-equations."
+  },
+  {
+   "id": "practical",
+   "label": "Practical skills",
+   "marks": "2-6",
+   "description": "Methods, apparatus, variables, safety, sources of error and improvements for set practicals."
+  },
+  {
+   "id": "data",
+   "label": "Data and graphs",
+   "marks": "2-8",
+   "description": "Read, plot and interpret tables and graphs; spot trends, anomalies and draw conclusions."
+  },
+  {
+   "id": "extended",
+   "label": "Extended response (6 marks)",
+   "marks": "6",
+   "description": "A longer description or explanation, e.g. a full method or a linked chain of reasoning."
+  }
+ ],
+ "topics": [
+  {
+   "id": "chemistry.principles",
+   "ref": "1",
+   "title": "Principles of chemistry",
+   "papers": [
+    "1C",
+    "2C"
+   ],
+   "subtopics": [
+    {
+     "id": "chemistry.principles.states",
+     "ref": "1(a)",
+     "title": "States of matter and solutions",
+     "summary": "Particle model of solids, liquids and gases, changes of state, diffusion, solutions and solubility.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calculation",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "1.1",
+       "summary": "Describe solids, liquids and gases by how their particles are arranged, move and how much energy they have."
+      },
+      {
+       "ref": "1.2",
+       "summary": "Name the changes of state, say how each is brought about and what happens to the particles."
+      },
+      {
+       "ref": "1.3",
+       "summary": "Use moving particles to explain diffusion of gases and the dilution of coloured solutions."
+      },
+      {
+       "ref": "1.4",
+       "summary": "Know the meanings of solvent, solute, solution and saturated solution."
+      },
+      {
+       "ref": "1.5C",
+       "summary": "Solubility is the mass of solute in grams that dissolves in 100 g of solvent.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.6C",
+       "summary": "Draw solubility curves and read information from them.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.7C",
+       "summary": "Practical: find how much of a solid dissolves in water at a chosen temperature.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.principles.mixtures",
+     "ref": "1(b)",
+     "title": "Elements, compounds and mixtures",
+     "summary": "Telling elements, compounds and mixtures apart, purity, separation techniques and chromatography.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "1.8",
+       "summary": "Decide whether a substance is an element, a compound or a mixture."
+      },
+      {
+       "ref": "1.9",
+       "summary": "Pure substances melt and boil at one fixed temperature; mixtures change state over a range."
+      },
+      {
+       "ref": "1.10",
+       "summary": "Describe simple and fractional distillation, filtration, crystallisation and paper chromatography."
+      },
+      {
+       "ref": "1.11",
+       "summary": "Use a chromatogram to work out what a mixture contains."
+      },
+      {
+       "ref": "1.12",
+       "summary": "Calculate Rf values and use them to identify substances."
+      },
+      {
+       "ref": "1.13",
+       "summary": "Practical: separate inks or food colourings by paper chromatography."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.principles.atoms",
+     "ref": "1(c)",
+     "title": "Atomic structure",
+     "summary": "Protons, neutrons and electrons, atomic and mass numbers, isotopes and relative atomic mass.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calculation"
+     ],
+     "points": [
+      {
+       "ref": "1.14",
+       "summary": "Know what atoms and molecules are."
+      },
+      {
+       "ref": "1.15",
+       "summary": "Know where protons, neutrons and electrons are found and their relative masses and charges."
+      },
+      {
+       "ref": "1.16",
+       "summary": "Define atomic number, mass number, isotopes and relative atomic mass."
+      },
+      {
+       "ref": "1.17",
+       "summary": "Work out a relative atomic mass from isotope masses and their abundances."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.principles.periodic",
+     "ref": "1(d)",
+     "title": "The Periodic Table",
+     "summary": "How the table is arranged, electron configurations, metals and non-metals, and group properties.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain"
+     ],
+     "points": [
+      {
+       "ref": "1.18",
+       "summary": "Elements are placed in order of atomic number, in groups (columns) and periods (rows)."
+      },
+      {
+       "ref": "1.19",
+       "summary": "Work out the electronic configuration of elements 1 to 20 from their place in the table."
+      },
+      {
+       "ref": "1.20",
+       "summary": "Use electrical conductivity and whether the oxide is acidic or basic to sort metals from non-metals."
+      },
+      {
+       "ref": "1.21",
+       "summary": "Tell whether an element is a metal or non-metal from where it sits in the table."
+      },
+      {
+       "ref": "1.22",
+       "summary": "Link the group and period of a main-group element to its electron arrangement."
+      },
+      {
+       "ref": "1.23",
+       "summary": "Elements in the same group react similarly because they have the same number of outer electrons."
+      },
+      {
+       "ref": "1.24",
+       "summary": "Noble gases are unreactive because their outer shells are full."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.principles.formulae",
+     "ref": "1(e)",
+     "title": "Formulae, equations and calculations",
+     "summary": "Writing equations, relative formula mass, moles, reacting masses, yields, empirical formulae, solution concentrations and gas volumes.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "equation",
+      "calculation",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "1.25",
+       "summary": "Write word equations and balanced symbol equations with state symbols, including for unfamiliar reactions."
+      },
+      {
+       "ref": "1.26",
+       "summary": "Calculate relative formula mass (Mr) from relative atomic masses."
+      },
+      {
+       "ref": "1.27",
+       "summary": "The mole is the unit for amount of substance."
+      },
+      {
+       "ref": "1.28",
+       "summary": "Convert between mass, moles and Mr or Ar."
+      },
+      {
+       "ref": "1.29",
+       "summary": "Calculate reacting masses from an equation or experimental results."
+      },
+      {
+       "ref": "1.30",
+       "summary": "Calculate the percentage yield of a reaction."
+      },
+      {
+       "ref": "1.31",
+       "summary": "Find formulae by experiment, e.g. metal oxides and the water in hydrated salts."
+      },
+      {
+       "ref": "1.32",
+       "summary": "Know the difference between an empirical formula and a molecular formula."
+      },
+      {
+       "ref": "1.33",
+       "summary": "Calculate empirical and molecular formulae from experimental data."
+      },
+      {
+       "ref": "1.34C",
+       "summary": "Calculations linking moles, solution volume and concentration in mol/dm³.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.35C",
+       "summary": "Calculations using the molar gas volume: 24 dm³ (24 000 cm³) per mole at rtp.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.36",
+       "summary": "Practical: find the formula of a metal oxide by burning a metal or reducing an oxide."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.principles.ionic",
+     "ref": "1(f)",
+     "title": "Ionic bonding",
+     "summary": "How ions form, ion charges and formulae, dot-and-cross diagrams and properties of ionic compounds.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain"
+     ],
+     "points": [
+      {
+       "ref": "1.37",
+       "summary": "Ions form when atoms lose or gain electrons."
+      },
+      {
+       "ref": "1.38",
+       "summary": "Know the charges of ions from Groups 1, 2, 3, 5, 6, 7 and of common transition metal and compound ions."
+      },
+      {
+       "ref": "1.39",
+       "summary": "Write formulae of compounds made from these ions."
+      },
+      {
+       "ref": "1.40",
+       "summary": "Draw dot-and-cross diagrams showing electron transfer to form ionic compounds."
+      },
+      {
+       "ref": "1.41",
+       "summary": "Ionic bonding is strong electrostatic attraction between oppositely charged ions."
+      },
+      {
+       "ref": "1.42",
+       "summary": "Giant ionic lattices have high melting and boiling points because many strong attractions must be overcome."
+      },
+      {
+       "ref": "1.43",
+       "summary": "Ionic compounds conduct when molten or dissolved but not when solid."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.principles.covalent",
+     "ref": "1(g)",
+     "title": "Covalent bonding and structures",
+     "summary": "Shared electron pairs, dot-and-cross diagrams, simple molecular and giant covalent structures.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "1.44",
+       "summary": "A covalent bond is a shared pair of electrons between two atoms."
+      },
+      {
+       "ref": "1.45",
+       "summary": "Covalent bonds are attractions between the shared electrons and the nuclei."
+      },
+      {
+       "ref": "1.46",
+       "summary": "Draw dot-and-cross diagrams for simple molecules such as H₂, Cl₂, HCl, H₂O, NH₃, CO₂, CH₄ and C₂H₄."
+      },
+      {
+       "ref": "1.47",
+       "summary": "Simple molecular substances have low melting and boiling points: weak forces between molecules."
+      },
+      {
+       "ref": "1.48",
+       "summary": "Boiling points of simple molecular substances generally rise as molecules get bigger."
+      },
+      {
+       "ref": "1.49",
+       "summary": "Giant covalent substances have high melting points: many strong covalent bonds to break."
+      },
+      {
+       "ref": "1.50",
+       "summary": "Relate the structures of diamond, graphite and C₆₀ to hardness and conductivity."
+      },
+      {
+       "ref": "1.51",
+       "summary": "Covalent substances usually do not conduct electricity."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.principles.metallic",
+     "ref": "1(h)",
+     "title": "Metallic bonding",
+     "summary": "The metal lattice of positive ions in a sea of electrons and how it explains metal properties.",
+     "papers": [
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain"
+     ],
+     "points": [
+      {
+       "ref": "1.52C",
+       "summary": "Draw a 2-D diagram of a metallic lattice.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.53C",
+       "summary": "Metallic bonding is attraction between positive ions and delocalised electrons.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.54C",
+       "summary": "Explain why metals conduct electricity and are malleable.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.principles.electrolysis",
+     "ref": "1(i)",
+     "title": "Electrolysis",
+     "summary": "Why ionic substances conduct when molten or dissolved, products at each electrode and half-equations.",
+     "papers": [
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "equation",
+      "practical",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "1.55C",
+       "summary": "Covalent compounds do not conduct because they have no ions or free electrons.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.56C",
+       "summary": "Ionic compounds conduct only when molten or dissolved because the ions can then move.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.57C",
+       "summary": "Anions are negative ions; cations are positive ions.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.58C",
+       "summary": "Describe electrolysis of molten salts and of solutions with inert electrodes and predict the products.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.59C",
+       "summary": "Write half-equations at each electrode and say which is oxidation and which is reduction.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.60C",
+       "summary": "Practical: electrolyse aqueous solutions.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chemistry.inorganic",
+   "ref": "2",
+   "title": "Inorganic chemistry",
+   "papers": [
+    "1C",
+    "2C"
+   ],
+   "subtopics": [
+    {
+     "id": "chemistry.inorganic.group1",
+     "ref": "2(a)",
+     "title": "Group 1: the alkali metals",
+     "summary": "Reactions of lithium, sodium and potassium with water and air, the reactivity trend and predictions.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "equation",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "2.1",
+       "summary": "Similar reactions with water show lithium, sodium and potassium belong to one family."
+      },
+      {
+       "ref": "2.2",
+       "summary": "Differences in their reactions with air and water show reactivity increases down the group."
+      },
+      {
+       "ref": "2.3",
+       "summary": "Predict properties of other alkali metals from the group trends."
+      },
+      {
+       "ref": "2.4C",
+       "summary": "Explain the reactivity trend using electron shells and attraction for the outer electron.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.inorganic.group7",
+     "ref": "2(b)",
+     "title": "Group 7: the halogens",
+     "summary": "Colours, states and trends of chlorine, bromine and iodine, displacement reactions and reactivity.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "equation",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "2.5",
+       "summary": "Know the colours and states of chlorine, bromine and iodine and how their physical properties change down the group."
+      },
+      {
+       "ref": "2.6",
+       "summary": "Predict properties of other halogens from the trends."
+      },
+      {
+       "ref": "2.7",
+       "summary": "Use halogen/halide displacement reactions to show reactivity falls down the group."
+      },
+      {
+       "ref": "2.8C",
+       "summary": "Explain the reactivity trend using electron shells and attraction for an incoming electron.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.inorganic.air",
+     "ref": "2(c)",
+     "title": "Gases in the atmosphere",
+     "summary": "Composition of air, measuring the oxygen in air, burning elements in oxygen, carbon dioxide and climate.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "equation",
+      "calculation",
+      "practical"
+     ],
+     "points": [
+      {
+       "ref": "2.9",
+       "summary": "Know the rough percentages of nitrogen, oxygen, argon and carbon dioxide in dry air."
+      },
+      {
+       "ref": "2.10",
+       "summary": "Find the percentage of oxygen in air by reacting it with a metal or non-metal."
+      },
+      {
+       "ref": "2.11",
+       "summary": "Describe how magnesium, hydrogen and sulfur burn in oxygen."
+      },
+      {
+       "ref": "2.12",
+       "summary": "Metal carbonates such as copper(II) carbonate decompose on heating to give carbon dioxide."
+      },
+      {
+       "ref": "2.13",
+       "summary": "Carbon dioxide is a greenhouse gas; rising levels may contribute to climate change."
+      },
+      {
+       "ref": "2.14",
+       "summary": "Practical: find the approximate percentage by volume of oxygen in air."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.inorganic.reactivity",
+     "ref": "2(d)",
+     "title": "Reactivity series, rusting and redox",
+     "summary": "Ordering metals by their reactions and displacements, rusting and its prevention, oxidation and reduction.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "equation",
+      "practical",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.15",
+       "summary": "Put metals in a reactivity order from their reactions with water and dilute acids."
+      },
+      {
+       "ref": "2.16",
+       "summary": "Put metals in order using displacement from metal oxides and from salt solutions."
+      },
+      {
+       "ref": "2.17",
+       "summary": "Know the order: K, Na, Li, Ca, Mg, Al, Zn, Fe, Cu, Ag, Au."
+      },
+      {
+       "ref": "2.18",
+       "summary": "Iron rusts only when both water and oxygen are present."
+      },
+      {
+       "ref": "2.19",
+       "summary": "Prevent rusting by barriers, galvanising or sacrificial protection."
+      },
+      {
+       "ref": "2.20",
+       "summary": "Define oxidation, reduction, redox, oxidising agent and reducing agent by oxygen and by electrons."
+      },
+      {
+       "ref": "2.21",
+       "summary": "Practical: react metals such as magnesium, zinc and iron with dilute acids."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.inorganic.extraction",
+     "ref": "2(e)",
+     "title": "Extraction and uses of metals",
+     "summary": "Ores, choosing an extraction method from reactivity, uses of metals and why alloys are harder.",
+     "papers": [
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "2.22C",
+       "summary": "Most metals come from ores; very unreactive metals are found uncombined.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.23C",
+       "summary": "The extraction method depends on reactivity: carbon for iron, electrolysis for aluminium.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.24C",
+       "summary": "Comment on an unfamiliar extraction process from information given.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.25C",
+       "summary": "Explain uses of aluminium, copper, iron and steels from their properties.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.26C",
+       "summary": "An alloy is a mixture of a metal with other elements, usually metals or carbon.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.27C",
+       "summary": "Alloys are harder because different-sized atoms stop layers sliding.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.inorganic.acids",
+     "ref": "2(f)",
+     "title": "Acids, alkalis and titrations",
+     "summary": "Indicators, the pH scale, H⁺ and OH⁻ ions, neutralisation and carrying out a titration.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "calculation",
+      "practical"
+     ],
+     "points": [
+      {
+       "ref": "2.28",
+       "summary": "Use litmus, phenolphthalein and methyl orange to tell acids from alkalis."
+      },
+      {
+       "ref": "2.29",
+       "summary": "Use pH 0–14 to class solutions from strongly acidic to strongly alkaline."
+      },
+      {
+       "ref": "2.30",
+       "summary": "Use universal indicator to estimate pH."
+      },
+      {
+       "ref": "2.31",
+       "summary": "Acids give H⁺ ions in water; alkalis give OH⁻ ions."
+      },
+      {
+       "ref": "2.32",
+       "summary": "Alkalis neutralise acids."
+      },
+      {
+       "ref": "2.33C",
+       "summary": "Describe how to carry out an acid–alkali titration.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.inorganic.salts",
+     "ref": "2(g)",
+     "title": "Acids, bases and making salts",
+     "summary": "Solubility rules, proton transfer, reactions of acids, and preparing soluble and insoluble salts.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "equation",
+      "practical",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.34",
+       "summary": "Use the solubility rules for sodium, potassium, ammonium, nitrates, chlorides, sulfates, carbonates and hydroxides."
+      },
+      {
+       "ref": "2.35",
+       "summary": "Acid–base reactions involve transfer of protons."
+      },
+      {
+       "ref": "2.36",
+       "summary": "An acid donates protons; a base accepts them."
+      },
+      {
+       "ref": "2.37",
+       "summary": "Reactions of hydrochloric, sulfuric and nitric acids with metals, bases and carbonates to make salts."
+      },
+      {
+       "ref": "2.38",
+       "summary": "Metal oxides, hydroxides and ammonia are bases; alkalis are soluble bases."
+      },
+      {
+       "ref": "2.39",
+       "summary": "Make a pure, dry soluble salt from an acid and an insoluble reactant."
+      },
+      {
+       "ref": "2.40C",
+       "summary": "Make a pure, dry soluble salt from an acid and an alkali.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.41C",
+       "summary": "Make a pure, dry insoluble salt by mixing two soluble reactants.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.42",
+       "summary": "Practical: make pure, dry hydrated copper(II) sulfate crystals from copper(II) oxide."
+      },
+      {
+       "ref": "2.43C",
+       "summary": "Practical: make a pure, dry sample of lead(II) sulfate.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.inorganic.tests",
+     "ref": "2(h)",
+     "title": "Chemical tests",
+     "summary": "Tests for gases, flame tests, tests for cations and anions, and tests for water and its purity.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.44",
+       "summary": "Test for hydrogen, oxygen, carbon dioxide, ammonia and chlorine."
+      },
+      {
+       "ref": "2.45",
+       "summary": "Describe how to do a flame test."
+      },
+      {
+       "ref": "2.46",
+       "summary": "Flame colours: Li⁺ red, Na⁺ yellow, K⁺ lilac, Ca²⁺ orange-red, Cu²⁺ blue-green."
+      },
+      {
+       "ref": "2.47",
+       "summary": "Test for NH₄⁺, Cu²⁺, Fe²⁺ and Fe³⁺ with sodium hydroxide solution."
+      },
+      {
+       "ref": "2.48",
+       "summary": "Test for halide, sulfate and carbonate ions."
+      },
+      {
+       "ref": "2.49",
+       "summary": "Test for water with anhydrous copper(II) sulfate."
+      },
+      {
+       "ref": "2.50",
+       "summary": "Use melting or boiling point to show whether water is pure."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chemistry.physical",
+   "ref": "3",
+   "title": "Physical chemistry",
+   "papers": [
+    "1C",
+    "2C"
+   ],
+   "subtopics": [
+    {
+     "id": "chemistry.physical.energetics",
+     "ref": "3(a)",
+     "title": "Energetics",
+     "summary": "Exothermic and endothermic changes, calorimetry, Q = mcΔT, molar enthalpy changes, energy diagrams and bond energies.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calculation",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "3.1",
+       "summary": "Exothermic reactions give out heat; endothermic reactions take heat in."
+      },
+      {
+       "ref": "3.2",
+       "summary": "Describe simple calorimetry for combustion, displacement, dissolving and neutralisation."
+      },
+      {
+       "ref": "3.3",
+       "summary": "Calculate heat energy change with Q = mcΔT."
+      },
+      {
+       "ref": "3.4",
+       "summary": "Calculate a molar enthalpy change ΔH from Q and the moles reacting."
+      },
+      {
+       "ref": "3.5C",
+       "summary": "Draw and explain energy level diagrams for exothermic and endothermic reactions.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.6C",
+       "summary": "Breaking bonds takes in energy; making bonds gives energy out.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.7C",
+       "summary": "Calculate an enthalpy change from bond energies.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.8",
+       "summary": "Practical: measure temperature changes when salts dissolve, in neutralisation, displacement and combustion."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.physical.rates",
+     "ref": "3(b)",
+     "title": "Rates of reaction",
+     "summary": "Measuring rates, the effect of surface area, concentration, pressure, temperature and catalysts, and collision theory.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calculation",
+      "practical",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "3.9",
+       "summary": "Describe experiments to see how surface area, concentration, temperature and catalysts change the rate."
+      },
+      {
+       "ref": "3.10",
+       "summary": "Describe how these factors and gas pressure affect the rate."
+      },
+      {
+       "ref": "3.11",
+       "summary": "Explain the effects using collision theory: frequency and energy of collisions."
+      },
+      {
+       "ref": "3.12",
+       "summary": "A catalyst speeds up a reaction but is chemically unchanged at the end."
+      },
+      {
+       "ref": "3.13",
+       "summary": "A catalyst provides another route with a lower activation energy."
+      },
+      {
+       "ref": "3.14C",
+       "summary": "Draw and explain reaction profiles showing ΔH and activation energy.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.15",
+       "summary": "Practical: marble chips and hydrochloric acid – effect of chip size and acid concentration."
+      },
+      {
+       "ref": "3.16",
+       "summary": "Practical: compare solids as catalysts for decomposing hydrogen peroxide."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.physical.equilibria",
+     "ref": "3(c)",
+     "title": "Reversible reactions and equilibria",
+     "summary": "Reversible reactions, dynamic equilibrium and the effect of temperature, pressure and catalysts.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "3.17",
+       "summary": "Some reactions are reversible, shown by ⇌."
+      },
+      {
+       "ref": "3.18",
+       "summary": "Examples: dehydrating hydrated copper(II) sulfate, heating ammonium chloride."
+      },
+      {
+       "ref": "3.19C",
+       "summary": "A reversible reaction in a closed system can reach dynamic equilibrium.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.20C",
+       "summary": "At equilibrium forward and back rates are equal and concentrations stay constant.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.21C",
+       "summary": "A catalyst does not change the equilibrium position; it speeds both directions equally.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.22C",
+       "summary": "Raising temperature favours the endothermic direction; raising pressure favours fewer gas moles.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "chemistry.organic",
+   "ref": "4",
+   "title": "Organic chemistry",
+   "papers": [
+    "1C",
+    "2C"
+   ],
+   "subtopics": [
+    {
+     "id": "chemistry.organic.intro",
+     "ref": "4(a)",
+     "title": "Introduction to organic chemistry",
+     "summary": "Hydrocarbons, types of formula, homologous series, functional groups, isomers, naming and reaction types.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain"
+     ],
+     "points": [
+      {
+       "ref": "4.1",
+       "summary": "A hydrocarbon contains hydrogen and carbon only."
+      },
+      {
+       "ref": "4.2",
+       "summary": "Use empirical, molecular, general, structural and displayed formulae."
+      },
+      {
+       "ref": "4.3",
+       "summary": "Know what homologous series, functional group and isomers mean."
+      },
+      {
+       "ref": "4.4",
+       "summary": "Name compounds of up to six carbons using IUPAC rules."
+      },
+      {
+       "ref": "4.5",
+       "summary": "Draw possible structures (isomers) for a given molecular formula."
+      },
+      {
+       "ref": "4.6",
+       "summary": "Classify organic reactions as substitution, addition or combustion."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.organic.crude",
+     "ref": "4(b)",
+     "title": "Crude oil, fuels and cracking",
+     "summary": "Fractional distillation of crude oil, fractions and their uses, combustion and pollution, and cracking.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "equation",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "4.7",
+       "summary": "Crude oil is a mixture of hydrocarbons."
+      },
+      {
+       "ref": "4.8",
+       "summary": "Describe how fractional distillation separates crude oil into fractions."
+      },
+      {
+       "ref": "4.9",
+       "summary": "Name the main fractions and give a use of each."
+      },
+      {
+       "ref": "4.10",
+       "summary": "Know how colour, boiling point and viscosity change across the fractions."
+      },
+      {
+       "ref": "4.11",
+       "summary": "A fuel releases heat energy when it burns."
+      },
+      {
+       "ref": "4.12",
+       "summary": "Products of complete and incomplete combustion of hydrocarbons."
+      },
+      {
+       "ref": "4.13",
+       "summary": "Carbon monoxide is toxic because it reduces how much oxygen the blood can carry."
+      },
+      {
+       "ref": "4.14",
+       "summary": "High engine temperatures make nitrogen and oxygen react to form oxides of nitrogen."
+      },
+      {
+       "ref": "4.15",
+       "summary": "Sulfur impurities in fuels burn to form sulfur dioxide."
+      },
+      {
+       "ref": "4.16",
+       "summary": "Sulfur dioxide and nitrogen oxides cause acid rain."
+      },
+      {
+       "ref": "4.17",
+       "summary": "Cracking breaks long alkanes into shorter alkanes and alkenes (silica or alumina, 600–700 °C)."
+      },
+      {
+       "ref": "4.18",
+       "summary": "Cracking matches supply to demand for the more useful short-chain fractions."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.organic.alkanes",
+     "ref": "4(c)",
+     "title": "Alkanes",
+     "summary": "General formula, saturation, structures and names, and substitution with halogens in UV light.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "equation"
+     ],
+     "points": [
+      {
+       "ref": "4.19",
+       "summary": "The alkane general formula is CₙH₂ₙ₊₂."
+      },
+      {
+       "ref": "4.20",
+       "summary": "Alkanes are saturated: only single C–C bonds."
+      },
+      {
+       "ref": "4.21",
+       "summary": "Draw and name alkanes and their straight-chain isomers up to five carbons."
+      },
+      {
+       "ref": "4.22",
+       "summary": "Alkanes react with halogens in UV light, replacing one hydrogen atom."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.organic.alkenes",
+     "ref": "4(d)",
+     "title": "Alkenes",
+     "summary": "The C=C functional group, general formula, structures and names, and addition of bromine.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "equation"
+     ],
+     "points": [
+      {
+       "ref": "4.23",
+       "summary": "Alkenes contain a carbon–carbon double bond."
+      },
+      {
+       "ref": "4.24",
+       "summary": "The alkene general formula is CₙH₂ₙ."
+      },
+      {
+       "ref": "4.25",
+       "summary": "Alkenes are unsaturated because of the C=C bond."
+      },
+      {
+       "ref": "4.26",
+       "summary": "Draw and name alkenes and their straight-chain isomers up to four carbons."
+      },
+      {
+       "ref": "4.27",
+       "summary": "Alkenes add bromine to form dibromoalkanes."
+      },
+      {
+       "ref": "4.28",
+       "summary": "Use bromine water to tell an alkene from an alkane."
+      }
+     ]
+    },
+    {
+     "id": "chemistry.organic.alcohols",
+     "ref": "4(e)",
+     "title": "Alcohols",
+     "summary": "The –OH group, the first four alcohols, oxidation of ethanol and the two ways of making ethanol.",
+     "papers": [
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "equation",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "4.29C",
+       "summary": "Alcohols contain the –OH functional group.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.30C",
+       "summary": "Draw and name methanol, ethanol, propan-1-ol and butan-1-ol.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.31C",
+       "summary": "Ethanol can be oxidised by burning, by microbes in air, or by acidified potassium dichromate(VI).",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.32C",
+       "summary": "Ethanol is made from ethene and steam (phosphoric acid, 300 °C, 60–70 atm) or by fermenting glucose with yeast.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.33C",
+       "summary": "Explain why fermentation needs no air and a temperature of about 30 °C.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.organic.acids",
+     "ref": "4(f)",
+     "title": "Carboxylic acids",
+     "summary": "The –COOH group, the first four acids, their reactions with metals and carbonates, and vinegar.",
+     "papers": [
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "equation"
+     ],
+     "points": [
+      {
+       "ref": "4.34C",
+       "summary": "Carboxylic acids contain the –COOH functional group.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.35C",
+       "summary": "Draw and name straight-chain carboxylic acids with up to four carbons.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.36C",
+       "summary": "Carboxylic acid solutions react with metals and carbonates.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.37C",
+       "summary": "Vinegar is a solution of ethanoic acid in water.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.organic.esters",
+     "ref": "4(g)",
+     "title": "Esters",
+     "summary": "The ester link, making ethyl ethanoate, naming and drawing esters, and their uses.",
+     "papers": [
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "equation",
+      "practical"
+     ],
+     "points": [
+      {
+       "ref": "4.38C",
+       "summary": "Esters contain the –COO– functional group.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.39C",
+       "summary": "Ethanol and ethanoic acid with an acid catalyst give ethyl ethanoate.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.40C",
+       "summary": "Draw the structural and displayed formulae of ethyl ethanoate.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.41C",
+       "summary": "Work out an ester's structure from its alcohol and acid, and the reverse.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.42C",
+       "summary": "Esters are volatile, smell distinctive and are used in flavourings and perfumes.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.43C",
+       "summary": "Practical: prepare an ester such as ethyl ethanoate.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "chemistry.organic.polymers",
+     "ref": "4(h)",
+     "title": "Synthetic polymers",
+     "summary": "Addition polymers, repeat units and monomers, disposal problems, and condensation polyesters.",
+     "papers": [
+      "1C",
+      "2C"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "equation"
+     ],
+     "points": [
+      {
+       "ref": "4.44",
+       "summary": "Addition polymers are made by joining many small monomer molecules."
+      },
+      {
+       "ref": "4.45",
+       "summary": "Draw repeat units of poly(ethene), poly(propene), poly(chloroethene) and PTFE."
+      },
+      {
+       "ref": "4.46",
+       "summary": "Work out the monomer from a repeat unit and the reverse."
+      },
+      {
+       "ref": "4.47",
+       "summary": "Addition polymers are hard to dispose of: inert, non-biodegradable and toxic gases when burned."
+      },
+      {
+       "ref": "4.48C",
+       "summary": "Condensation polymerisation of a dicarboxylic acid and a diol gives a polyester and water.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.49C",
+       "summary": "Draw the repeat unit of a polyester from its monomers, e.g. ethanedioic acid and ethanediol.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.50C",
+       "summary": "Some polyesters (biopolyesters) are biodegradable.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "batch": "biology-019",
+ "answers": {
+  "biology.transport-plants-recall-multi.0003": {
+   "a": "small SA:V ratio; diffusion distances too long/too slow to supply all cells",
+   "b": "root hair cells",
+   "c": "wind"
+  },
+  "biology.yeast_rate.0005": {
+   "all": "180/20 = 9 divisions; 1000 x 2^9 = 512000 per cm3"
+  }
+ },
+ "verdicts": {
+  "biology.transport-plants-recall-multi.0003": {
+   "result": "pass"
+  },
+  "biology.yeast_rate.0005": {
+   "result": "pass"
+  }
+ }
+}

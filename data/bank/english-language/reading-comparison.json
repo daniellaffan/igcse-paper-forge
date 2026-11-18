@@ -1,0 +1,1347 @@
+[
+ {
+  "id": "english-language.q5.postcard",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T01"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about the way people are judged by others.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Mira Castellanos) and Text Two (Chimamanda Ngozi Adichie) present their ideas and perspectives about the way people are judged by others. Responses may include some of the following points:",
+      "both texts are spoken talks given to an audience, so both use direct address, a personal voice and a clear message",
+      "both writers begin with personal anecdotes from childhood to introduce a wider point about stereotypes",
+      "both describe being misjudged when they travel away from home: Adichie by her American roommate, Castellanos by her host family in the capital",
+      "both show that stereotypes can come with kindness and pity: the roommate's well-meaning attitude and the host family's special dinner and toothbrush",
+      "both include comic details to expose ignorance: the roommate's surprise at her music, the son's amazement that her uncle runs a cinema",
+      "both admit that they are guilty of the same thing: Adichie over Mexico, Castellanos over city people, which makes each argument fairer",
+      "both are built around a controlling image: the 'single story' in Text Two and the postcard in Text One",
+      "both accept that a stereotype may contain some truth but argue that it is incomplete",
+      "Adichie's examples range across continents, literature and the media, whereas Castellanos focuses on one town and one city",
+      "Adichie writes about books and stories shaping identity; Castellanos writes about photographs and images",
+      "Castellanos takes practical action by making new postcards, whereas Adichie ends with a broader reflection on the power of many stories",
+      "Adichie supports her ideas with references to other writers; Castellanos relies on her grandmother's down-to-earth wisdom",
+      "both end with an uplifting message: Adichie's idea of paradise regained, Castellanos's instruction to look for the second and third postcard"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *The Town on the Postcard*, in the Insert, and Text Two, the extract from *The Danger of a Single Story*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: The Town on the Postcard",
+    "text": "   When people ask where I am from, I have learned to watch their faces. I say the name\n   of my town, and there is a small pause, a polite tightening around the mouth, and\n   then the question that always follows: 'Isn't that the place with the mine?' Yes, I\n   tell them. It is the place with the mine. It is also the place with the best bread I\n 5 have ever eaten, a river that turns copper-coloured at sunset, and a brass band that\n   has played every Sunday for a hundred and twelve years. But nobody asks about the\n   band.\n\n   For a long time I did not mention it either. As a child, I believed what the\n   postcards in the station kiosk told me: that our town was a grey smudge on the edge\n10 of the map, a place you passed through on the way to somewhere better. The postcards\n   showed the winding tower, the slag heaps and the long, low rows of miners' cottages\n   under a heavy sky. Not one of them showed a person smiling. I used to think the\n   photographer had simply been unlucky with the weather. Now I think he had already\n   decided what he wanted to see.\n\n15 When I was eleven, our school took part in an exchange with a school in the capital.\n   Thirty of us travelled by coach for six hours, our faces pressed to the windows as\n   the hills flattened and the motorways multiplied. The city was enormous and\n   glittering, and I loved it at once. I loved the glass towers, the noise, the shops\n   that sold forty kinds of tea. What I did not love was the way my host family spoke\n20 to me.\n\n   They were kind. I want to be clear about that. Mrs Adeyemi-Hart cooked a special\n   dinner on my first night and gave me a toothbrush in case 'we didn't have them where\n   I came from'. Her son asked whether I had ever seen a cinema. When I said that my\n   uncle ran one, he looked at me as if I had told him my uncle ran a spaceship. They\n25 had a picture of my town in their heads, and the picture had no room in it for\n   cinemas, or toothbrushes, or me.\n\n   I came home angry. I remember storming into the kitchen and telling my grandmother\n   that the city people thought we lived in caves. She was rolling pastry at the table,\n   and she did not stop. 'And what do you think of the city people?' she asked. I told\n30 her they were rude, and spoilt, and that they all ignored each other on the trains.\n   She laughed so hard that flour rose from her hands like smoke. 'So,' she said, 'now\n   you have a postcard of them.'\n\n   It took me years to understand what she meant. I had gone to the city expecting to\n   be judged, and I had been. But I had also arrived with my own small, crumpled\n35 picture of city people, and I had spent ten days collecting evidence to prove it\n   right. Every unsmiling commuter went into my collection. Every friendly shopkeeper,\n   every boy who offered me his seat, I quietly threw away.\n\n   This is the trouble with a single picture of a place. It is not exactly false. Our\n   town does have a mine, and the mine has scarred the hills. The city does have\n40 crowded trains full of tired people staring at their phones. The postcard is true,\n   as far as it goes. The danger is that it does not go very far, and that we are lazy\n   enough to let it stand in for the whole.\n\n   Last summer I went back to the kiosk at the station. The postcards are still there,\n   curling slightly at the corners, the same grey tower under the same grey sky. So I\n45 did something my grandmother would have approved of. I borrowed my father's camera\n   and spent a week taking new pictures: the baker sliding loaves out of the oven at\n   four in the morning, the band tuning up in the square, the children diving off the\n   old bridge into the copper river. I had them printed and asked the kiosk owner if\n   she would sell them. She looked at them for a long time. Then she cleared a whole\n50 shelf.\n\n   I am not asking you to love my town. I am asking you to notice how quickly you\n   decide what a place is like, or what a person is like, from one image you did not\n   even choose. Look for the second postcard. Then look for the third. You will be\n   surprised how much of the world is hiding behind the first.",
+    "numbered": false,
+    "provenance": "Mira Castellanos grew up in a small mining town. In this talk, given at a youth conference, she describes how other people saw her home town and how she came to see it herself. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From The Danger of a Single Story, Chimamanda Ngozi Adichie",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.afterwater",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T02"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about the people they meet while reporting.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Tomás Reyes) and Text Two (George Alagiah) present their ideas and perspectives about the people they meet while reporting. Responses may include some of the following points:",
+      "both texts are first-person accounts by journalists reporting on a humanitarian disaster: famine in Text Two, a flood in Text One",
+      "both writers establish the scale of suffering before focusing on one individual who matters most",
+      "both are self-critical about the media's hunger for shocking images: Alagiah compares it to a drug, Reyes admits he is 'not proud'",
+      "both suggest statistics and repeated images hide real people",
+      "both describe the dignity of people in desperate situations: the man keeping his hoe in Text Two, Issa wiping his hands before carrying the bag in Text One",
+      "both centre on one brief encounter that changes the writer's perspective: the smile in Text Two, the boy carrying the bag in Text One",
+      "in both, the encounter reverses the usual relationship: Alagiah's subject 'turns the tables', and Reyes realises he is a guest rather than a rescuer",
+      "Alagiah never learns the man's name, whereas Reyes does find out Issa's name and stresses that every figure has a name",
+      "Text Two contains disturbing physical detail of disease and death and openly admits revulsion; Text One is gentler, focusing on lost homes and hope",
+      "the encounter in Text Two is almost wordless, while in Text One Issa speaks to the writer through a translator",
+      "both end with personal reflection on the purpose of journalism: Alagiah resolves to write with power, Reyes keeps a photograph as a reminder",
+      "Text Two ends with regret and a direct address to his 'nameless friend'; Text One ends with affectionate humour about the football team"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *After the Water*, in the Insert, and Text Two, the extract from *A Passage to Africa*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: After the Water",
+    "text": "   The boat smelt of diesel and wet rope. For three hours we nosed between the tops of\n   trees, the engine coughing whenever the propeller caught on something hidden beneath\n   the brown water. Somewhere under us, the boatman told me, was the road we would\n   normally have driven along. I tried to imagine it: the tarmac, the lorries, the\n 5 stalls selling roasted corn. All I could see was water, flat and sullen, stretching\n   to a sky that looked as though it had been scrubbed with ash.\n\n   I had covered floods before. I knew what to expect, or thought I did. In my bag were\n   three cameras, eleven lenses and a notebook already half full of figures: the number\n   of villages cut off, the number of families displaced, the tonnes of grain lost.\n10 Figures are what editors ask for first. They fit neatly into a headline. They do not\n   smell, or cry, or ask you for help.\n\n   We reached Kanta just after midday. It had been a village of perhaps four hundred\n   people. Now it was an island of rooftops and one concrete school building, its upper\n   floor crowded with everyone who had nowhere else to go. Washing hung from the\n15 windows. A goat stood on a corrugated roof, bleating at the water as if it could\n   argue it away. On the steps that led down into the flood, a line of women were\n   rinsing pots in the same water that had swallowed their homes.\n\n   My job was to find the picture. I am not proud of how quickly I began to look for\n   it. I moved from room to room, framing faces in my head before I had even said\n20 hello: the old man with the bandaged foot, the baby asleep on a sack of rice, the\n   boy staring out at the water with his chin on his knees. Each one, I calculated,\n   might make a front page. I told myself this was how the world would be persuaded to\n   care. Some of that was true. Some of it was simply habit.\n\n   It was the boy who changed things. He could not have been more than ten. When he saw\n25 my camera bag he stood up, wiped his hands carefully on his shorts, and offered to\n   carry it. I said no, it was heavy. He insisted, quietly, the way a host insists that\n   a guest takes the best chair. So I let him. He carried it from room to room behind\n   me, holding it against his chest as if it were something precious, and every time I\n   stopped he set it down gently on the driest patch of floor he could find.\n\n30 At the end of the afternoon I asked the translator to find out his name. It was\n   Issa. His family's house, he said, was the third roof from the left. He pointed it\n   out as if he were showing me a fine view. Then he asked, very politely, whether my\n   photographs would be in a newspaper, and whether the people who saw them would know\n   that Kanta had a good school and a famous football team before the water came.\n\n35 I did not know what to say. I had spent the whole day collecting pictures of what\n   Kanta had lost. Not once had it occurred to me to ask what it had been. Issa did not\n   want pity. He wanted the world to know that his village had been a place worth\n   living in, and that it would be again. In his eyes, I realised, I was not a rescuer\n   or a witness. I was a guest who had come at a bad time.\n\n40 I took one more photograph before the boat left. It is not the picture that went on\n   the front page; my editor preferred the baby on the rice sack. It shows Issa\n   standing on the school steps with my camera bag still in his arms, grinning, the\n   water behind him lit gold by the late sun. I keep it on my desk. When the figures\n   start to pile up, as they always do, it reminds me that every one of them has a\n45 name, a house that is the third roof from the left, and a football team that is\n   famous, at least, in Kanta.",
+    "numbered": false,
+    "provenance": "Tomás Reyes is a news photographer. In this extract from his memoir, he describes a visit to a village cut off by floods. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From A Passage to Africa, George Alagiah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.cliffharvest",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T03"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about the hunts they witness.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Freya Lindqvist) and Text Two (Kari Herbert) present their ideas and perspectives about the hunts they witness. Responses may include some of the following points:",
+      "both texts are travel writing by women visiting remote northern communities as outsiders",
+      "both writers watch a traditional hunt on which the community depends: narwhal in Text Two, young seabirds in Text One",
+      "both open with striking descriptions of the setting: Herbert's golden light and glittering fjord; Lindqvist's island like a loaf of dark bread",
+      "both include factual information about why the animals matter for survival: vitamins, light and heat in Text Two; salted birds that prevented starvation in Text One",
+      "both express the same inner conflict: Herbert urges the hunter on and the narwhal to escape; Lindqvist urges the chick to hide and Eyrún to be safe",
+      "both admire the courage of hunters who face real danger: the flimsy kayak in Text Two, the rope over a sixty-metre drop in Text One",
+      "both anticipate outsiders' criticism: the question about eating seal in Text Two, sentimentality 'from a distance' in Text One",
+      "both defend the community: Herbert insists hunting is a necessity; Lindqvist reports that the colony is growing and is counted by scientists",
+      "Herbert has a personal connection, having lived in the Arctic as a child; Lindqvist is a newcomer",
+      "Herbert relies more on factual detail about the narwhal; Lindqvist uses dialogue with an islander to present the local view",
+      "in Text Two the women watch from a lookout while the men hunt; in Text One a young woman is the hunter",
+      "Herbert ends firmly on necessity, while Lindqvist ends uncertain, with a quiet image of departure"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *The Cliff Harvest*, in the Insert, and Text Two, the extract from *The Explorer's Daughter*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: The Cliff Harvest",
+    "text": "   From the deck of the supply boat, Skarra looks like a loaf of dark bread that\n   someone has dropped into the sea. It rises sheer on every side, three hundred metres\n   of black rock streaked white with the droppings of a million birds. The noise\n   reaches you long before the island does: a ceaseless, rattling clamour, like a\n 5 stadium full of people all talking at once in a language you do not know.\n\n   Forty-two people live here through the winter. In summer the population doubles, as\n   families return from the mainland for the few weeks when the seabirds nest. I had\n   come to see what the islanders call the cliff harvest, a tradition that is at least\n   eight hundred years old. For a fortnight each year, the men and some of the women go\n10 over the edge of the cliffs on ropes to collect young birds from their ledges. The\n   birds are salted, smoked and stored. For centuries, they were what stood between\n   Skarra and starvation.\n\n   On the first morning, I followed Hallvard, a retired fisherman of seventy-one, up\n   the steep path to the cliff top. He walked with his hands clasped behind his back,\n15 as if he were strolling through a park, while I stumbled and gasped behind him. At\n   the top, the wind hit us like a shove from a large, impatient animal. Below, the sea\n   boiled white around the rocks. Hallvard pointed out where his father had fallen,\n   sixty years earlier. He did so calmly, the way you might point out where a shop used\n   to be.\n\n20 The ropes were already in place, fixed to iron stakes that had been driven into the\n   turf generations ago. A young woman named Eyrún clipped herself on, checked the knot\n   twice, and stepped backwards into nothing. I lay flat on my stomach and peered over\n   the edge, my fingers dug into the grass. She was swinging gently against the rock\n   face, sixty metres down, using a long pole with a net on the end to scoop birds from\n25 the ledges. Above and below her, thousands of adult birds wheeled and screamed.\n   Every so often she pushed off from the cliff with her feet and drifted out over the\n   drop, and every time she did so my stomach turned over.\n\n   I had expected to feel uneasy, and I did. The young birds are plump, grey and\n   fluffy, and they make a soft, complaining whistle as they are lifted from the nest.\n30 On the mainland, where I live, people pay to watch them through telescopes. Here\n   they are food. I found myself silently urging each chick to shuffle back into a\n   crack where the net could not reach it, and at the same time willing Eyrún to be\n   quick, to be safe, to come back up.\n\n   That evening, in Hallvard's kitchen, I tried to explain how I felt. He listened\n35 politely, pouring coffee so strong it was almost solid. Then he told me that the\n   islanders take only a small proportion of the young birds each year, from the same\n   ledges their grandparents used, and that the colony is larger now than it was when\n   he was a boy. Scientists from the university come every spring to count the nests.\n   'They count, we eat,' he said, and laughed. 'Both of us want the same thing. We want\n40 the birds to come back.'\n\n   I am still not sure what I think. It is easy, from a distance, to be sentimental\n   about wild creatures. It is harder when you have eaten the islanders' bread, slept\n   under their roof and watched a young woman risk her life on a rope for food that her\n   family will rely on through the long, dark months when no boat can land. What I do\n45 know is that I have never seen people more closely bound to a place, or more\n   respectful of the creatures they share it with.\n\n   On my last morning, the supply boat arrived early. As we pulled away, the noise of\n   the colony followed us out to sea, gradually fading until it was no louder than the\n   hiss of the waves. I watched the island shrink to a dark smudge on the horizon.\n50 Somewhere on those cliffs, I knew, Eyrún was already clipping herself on to the rope\n   again.",
+    "numbered": false,
+    "provenance": "Freya Lindqvist visited a remote island where, each summer, the islanders collect young seabirds from the cliffs. In this extract she describes what she saw and how she felt about it. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From The Explorer's Daughter, Kari Herbert",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.rower",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T04"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about the adventurers and their rescues.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (a staff reporter) and Text Two (Steven Morris) present their ideas and perspectives about the adventurers and their rescues. Responses may include some of the following points:",
+      "both texts are newspaper articles reporting the rescue at sea of adventurers whose expeditions went wrong",
+      "both headlines hint at criticism and cost, preparing the reader for a sceptical angle",
+      "both open with the dramatic event and recall an earlier embarrassing setback: the Russian threat in Text Two, the leaking boat in Text One",
+      "both give precise times, distances and the names of vessels to make the rescue vivid and credible",
+      "both quote female relatives with humour: the wife's description of 'boys messing about' in Text Two, the sister's joke about labelled socks in Text One",
+      "both include expert criticism: the helicopter editor in Text Two, the experienced yachtswoman in Text One",
+      "both raise the cost to the public and say the money will not be recovered",
+      "both offer some balance by listing the adventurers' experience or preparation",
+      "the explorers in Text Two are barely quoted, whereas Thorne speaks at length, which makes him more sympathetic",
+      "Text One adds the charity appeal and reactions on social media, giving a wider range of opinions",
+      "Text Two is more mocking overall, while Text One presents the debate more evenly",
+      "both end on a light-hearted quotation: the wife's comment about the men being sent home, Thorne's offer of his fruit cake"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *Rowing adventurer plucked from ocean as critics count the cost*, in the Insert, and Text Two, the extract *Explorers or boys messing about? Either way, taxpayer gets rescue bill*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: Rowing adventurer plucked from ocean as critics count the cost",
+    "text": "   A former banker who gave up his job to row single-handed across the Atlantic was\n   winched to safety yesterday after his boat capsized in a storm, ending an expedition\n   that one experienced sailor had already described as 'a disaster waiting for a\n   date'.\n\n 5 Marcus Thorne, 34, activated his emergency beacon at 3.40am after a wave estimated\n   at twelve metres rolled his seven-metre rowing boat, Persistence, for the third time\n   in an hour. The boat's self-righting mechanism failed, leaving him clinging to the\n   upturned hull in water just warm enough, rescuers said, to keep him alive.\n\n   A container ship, the Meridian Star, was diverted more than ninety miles to the\n10 scene and stood by until a long-range rescue helicopter arrived shortly after dawn.\n   Crew members described seeing a single orange figure waving from the hull 'like\n   someone trying to hail a taxi in the middle of the ocean'.\n\n   Speaking from his hospital bed last night, a pale but cheerful Mr Thorne said he was\n   'gutted' that his attempt was over but 'incredibly grateful' to everyone involved.\n15 'I knew the risks,' he said. 'I'd trained for two years. Sometimes the sea just\n   decides it's not your turn.' Asked whether he would try again, he grinned. 'Ask me\n   when I've stopped shaking.'\n\n   Not everyone was in a forgiving mood. The operation is thought to have cost well\n   over two hundred thousand pounds, most of which will be met from public funds. A\n20 spokesperson for the coastguard confirmed that rescues at sea are never charged to\n   those who are rescued. 'We go to anyone in danger,' she said. 'We do not stop to ask\n   how they got there.'\n\n   Others were less diplomatic. Retired yachtswoman Dame Celia Brandt, who has crossed\n   the Atlantic eleven times, said Mr Thorne had set out too late in the season, in a\n25 boat that had never been tested in heavy weather. 'Adventure is wonderful,' she\n   said. 'But adventure with somebody else's chequebook is not adventure. It's an\n   expensive hobby.' On social media, some users were blunter still, with one asking\n   why 'a man who chose to sit in a bathtub in a hurricane' should receive help paid\n   for by people struggling to heat their homes.\n\n30 Supporters of Mr Thorne, who was raising money for a children's hospice, have hit\n   back. His sister, Lauren, said he had spent months preparing and had followed every\n   safety procedure. 'He's not a thrill-seeker,' she said. 'He's the most careful\n   person I know. He labels his socks.' The appeal has raised more than forty thousand\n   pounds, and donations rose sharply after news of the rescue broke.\n\n35 It is not the first time the expedition has made headlines. In March, Mr Thorne's\n   departure was delayed by a week when Persistence was found to be leaking in harbour,\n   an incident he described at the time as 'a minor plumbing issue'. Critics now point\n   to that episode as an early warning.\n\n   Last night, the boat was still drifting somewhere in the Atlantic, upside down. Mr\n40 Thorne said he hoped a passing ship might one day find it. 'There's a very good\n   fruit cake in the forward locker,' he said. 'Whoever gets there first is welcome to\n   it.'",
+    "numbered": false,
+    "provenance": "This newspaper article reports on the rescue of a man who was trying to row across an ocean alone. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: Explorers or boys messing about? Either way, taxpayer gets rescue bill, Steven Morris",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.sump",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T05"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about the dangers they face.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Owen Pritchard) and Text Two (Aron Ralston) present their ideas and perspectives about the dangers they face. Responses may include some of the following points:",
+      "both texts are first-person accounts by experienced outdoor adventurers who become trapped in narrow rock passages",
+      "both writers establish their expertise early: Ralston explains the technique of chimneying; Pritchard has been through the cave more than forty times",
+      "both use precise measurements and technical detail to make the setting realistic",
+      "both describe a sudden change from routine to danger: the boulder shifting in Text Two, the stream rising in Text One",
+      "both slow time down at the moment of greatest danger: Ralston's three seconds in slow motion; Pritchard's counting of each pull",
+      "both use short sentences for impact: Ralston's 'Then silence', Pritchard's counting 'Seven. Eight. Nine.'",
+      "both convey fear through physical sensations: pain in Ralston's hand, cold water and rock against Pritchard's nose",
+      "Ralston writes in the present tense throughout, while Pritchard narrates in the past, looking back calmly",
+      "Ralston's extract ends with him still trapped ('Nothing'), whereas Pritchard escapes and reflects afterwards",
+      "Ralston had told no one where he was going; Pritchard told his sister, showing more caution",
+      "Ralston reacts with panic and brute force; Pritchard stays deliberately calm and follows his training",
+      "Pritchard ends with respect for nature and no blame, while Ralston's extract focuses on his immediate desperation"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *Below the Water Line*, in the Insert, and Text Two, the extract from *127 Hours: Between a Rock and a Hard Place*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: Below the Water Line",
+    "text": "   The entrance to Pwll Du is a crack in a limestone hillside, no wider than a wardrobe\n   door, half hidden by ferns. I had been through it more than forty times. I knew the\n   first chamber, the long crawl that followed it and the low, wet passage that the old\n   guidebooks call the Letterbox. That morning the sky was a clean, washed blue and the\n 5 forecast promised nothing worse than a light shower in the afternoon. I told my\n   sister where I was going, as I always did, and said I would be back for tea.\n\n   Caves are quiet in a way that the surface never is. Two hundred metres in, the only\n   sounds were my own breathing, the scrape of my helmet on the roof and the steady\n   drip of water finding its way down through the rock. My lamp threw a small circle of\n10 yellow light ahead of me, and beyond it the darkness was total, thick and patient. I\n   have always found that darkness comforting. It asks nothing of you except attention.\n\n   I noticed the change in the stream first. On the way in it had been a polite trickle\n   running beside the path. Now it was louder, and the colour had changed from clear to\n   the brown of weak tea. I stopped and watched it for a full minute. It was rising.\n15 Not quickly, but steadily, licking a little higher up the pebbles with every surge.\n   Somewhere above me, the light shower had arrived early, and it had not been light.\n\n   I turned back at once. Every caver knows the rule: when the water rises, you do not\n   finish the trip, you do not take one more photograph, you go. The crawl took me\n   twenty minutes on the way in. On the way out it took eight, and I do not remember\n20 most of it. I remember the cold soaking through my suit at the knees and elbows. I\n   remember the roar building behind me like an approaching train. And I remember\n   reaching the Letterbox and seeing that the gap between the water and the roof, which\n   had been the height of my forearm that morning, was now no wider than my hand.\n\n   There is a particular kind of fear that arrives very calmly. I knelt in the water\n25 and made myself think. Behind me, the passage was filling. Ahead, the Letterbox was\n   perhaps four metres long. If I went through on my back, with my face turned up to\n   the roof, I could keep my mouth in the air pocket for most of the way. If the pocket\n   closed while I was halfway, I would be holding my breath in the dark with no way of\n   turning round.\n\n30 I took three slow breaths, the way I had been taught, and pushed myself in. The\n   water closed over my ears and the roar became a dull, enormous hum. I could feel the\n   rock pressing against the tip of my nose. I moved by inches, pulling with my\n   fingertips on the ceiling, counting each pull out loud into the tiny space of air.\n   Seven. Eight. Nine. At eleven my helmet jammed against something and for one long,\n35 airless second I could not move at all.\n\n   Then it came free, and the roof lifted, and I was lying in a pool on the far side,\n   coughing and laughing at the same time. I do not know why I laughed. Perhaps it was\n   the sheer surprise of still being alive. I crawled the last hundred metres to the\n   entrance and came out into a grey, hammering downpour, the ferns bent flat and the\n40 hillside streaming with water. It was the most beautiful weather I had ever seen.\n\n   I went back to Pwll Du the following summer, in a long dry spell, with two friends\n   and a great deal more respect. At the Letterbox I stopped and put my hand flat\n   against the roof, where my fingertips had pulled me through. It felt like nothing at\n   all: cool, damp, ordinary stone. The cave had not been trying to kill me. It had\n45 simply been doing what water and rock have done for a million years, and I had\n   happened to be in the way.",
+    "numbered": false,
+    "provenance": "Owen Pritchard is an experienced caver. In this extract from his memoir, he describes the day a cave he was exploring began to flood. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From 127 Hours: Between a Rock and a Hard Place, Aron Ralston",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.stammer",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T06"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about growing up with a difficulty that others did not understand.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Priya Lal) and Text Two (Benjamin Zephaniah) present their ideas and perspectives about growing up with a difficulty that others did not understand. Responses may include some of the following points:",
+      "both texts are about people who struggled at school with a condition that teachers did not understand: dyslexia in Text Two, a stammer in Text One",
+      "Text Two is written by Zephaniah in the first person, while Text One is a journalist's feature that quotes Danny Okoro, so we hear him through another writer",
+      "both men refuse to blame their teachers, explaining that nobody understood the condition at the time",
+      "both use direct speech from teachers to show how they were misjudged: being called stupid in Text Two, 'bright but lazy' in Text One",
+      "both use humour about their difficulties: Zephaniah asking whether he needs an operation, Danny joking about the letter D",
+      "both describe a turning point that leads to success: an adult education class in Text Two, hospital radio in Text One",
+      "both have found ways to work with the condition: Zephaniah drawing pictures for words, Danny using speech techniques and waiting for words to come",
+      "both see themselves as role models for young people, encouraging them not to feel ashamed",
+      "Zephaniah presents dyslexia as a strength that makes him creative, while Danny presents his stammer as something to accept rather than celebrate",
+      "Zephaniah's tone is defiant and sometimes confrontational; Danny comes across as gentle and warm",
+      "Text Two refers to wider issues such as race, prison and statistics; Text One focuses closely on one person's story",
+      "Text One ends with the journalist's own observation, while Text Two ends with Zephaniah's playful, proud words to children"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *The Voice on the Radio*, in the Insert, and Text Two, the extract *Young and dyslexic? You've got it going on*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: The Voice on the Radio",
+    "text": "   Every weekday at six o'clock, about half a million people wake up to Danny Okoro's\n   voice. It is warm, quick and full of jokes, the kind of voice that makes you feel\n   the day might not be so bad after all. What most of his listeners do not know is\n   that, until he was nineteen, Danny could not say his own name without getting stuck.\n\n 5 'D was the worst,' he tells me, stirring three sugars into his coffee in a café near\n   the studio. 'Which is unlucky, when your name is Danny. I used to introduce myself\n   as Dan-Dan-Dan until people just started calling me that. Some of them meant it\n   kindly. Most of them didn't.'\n\n   School, he says, was a daily battle. He would count the pupils ahead of him when the\n10 teacher took the register, rehearsing the word 'here' over and over in his head\n   until his turn came, and then it would refuse to come out. He learned to swap\n   difficult words for easier ones, so that his sentences became strange and\n   roundabout. One teacher wrote on his report that he was 'bright but lazy in oral\n   work'. Another made him read aloud in front of the class 'to build his confidence'.\n15 He describes that lesson as the longest twenty minutes of his life.\n\n   'I wasn't angry with them,' he says now. 'They didn't understand it. Nobody did\n   then. They thought if I just tried harder, or relaxed, or breathed properly, it\n   would go away. That's like telling someone with a broken leg to walk more\n   confidently.'\n\n20 The turning point came in an unlikely place: a hospital radio station, where his\n   older cousin volunteered. Danny went along one evening to help carry boxes and ended\n   up being handed a microphone when a presenter failed to turn up. 'I was terrified,'\n   he says. 'But there was something about it. Nobody could see me. Nobody was looking\n   at my face waiting for me to finish. It was just me and the music and these patients\n25 lying in bed who were glad of a bit of company.' He stammered through the whole\n   hour. A nurse rang in afterwards to say it was the best show they had had in months.\n\n   He went back the next week, and the next. With the help of a speech therapist, he\n   learned techniques for easing into difficult sounds, and, just as importantly, he\n   learned to stop being ashamed of the moments when they did not work. He still\n30 stammers occasionally on air. He does not edit it out. 'If I hide it, I'm telling\n   every kid who stammers that it's something to hide,' he says. 'I'm not doing that.'\n\n   Letters arrive at the studio every week, many of them from young listeners. One boy\n   wrote to say he had answered the register for the first time after hearing Danny\n   talk about it. Danny keeps that letter in his wallet. He takes it out to show me,\n35 the paper soft from folding. 'That's worth more than any award,' he says.\n\n   As we leave the café, a woman at the next table recognises his voice and asks for a\n   photograph. Danny chats to her easily, and when he gets stuck for a moment on the\n   word 'pleasure', he simply waits, smiles, and lets the word arrive. She does not\n   seem to notice. Neither, I realise, do I.",
+    "numbered": false,
+    "provenance": "In this newspaper feature, the journalist Priya Lal interviews a radio presenter who grew up with a severe stammer. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: Young and dyslexic? You've got it going on, Benjamin Zephaniah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.cartrace",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T07"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about the unusual races they watch.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Hannah Wexford) and Text Two (Emma Levine) present their ideas and perspectives about the unusual races they watch. Responses may include some of the following points:",
+      "both texts are travel writing in which a female writer watches an unusual, chaotic local race",
+      "both writers describe a long, comic delay before the race: Levine waits for an hour on the hill; Wexford finds that nobody believes the church clock",
+      "both include small humorous details during the wait: the villager on a wobbly bicycle in Text Two, the man asleep in his cart in Text One",
+      "both describe races without proper rules: Levine's comparison to motor racing without rules; Wexford's rule that brakes are merely recommended",
+      "both present young local men as daring and enthusiastic: Yaqoob and Iqbal in Text Two, Matteo in Text One",
+      "both use lists of noises to convey the excitement of the crowd: horns, bells and rattles in Text Two; saucepans and whistles in Text One",
+      "both build to a dramatic moment of danger: the near pile-up and the donkey tumbling over in Text Two, the wardrobe on two wheels in Text One",
+      "Levine is a participant, riding in the car behind the race, whereas Wexford is a spectator on foot",
+      "Text Two ends with tension and the threat of violence over the result, while Text One ends with a peaceful community meal",
+      "both end with a humorous revelation: Yaqoob has no licence; Matteo's 'only a little bit' of hospital",
+      "Wexford reflects on the meaning of the tradition for the town, while Levine is more concerned with her own safety",
+      "both writers use similes and metaphors to make the scenes vivid: 'a city-centre rush hour gone anarchic' in Text Two; the town clinging 'like a cat to a curtain' in Text One"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *The Cart Race of San Telmo*, in the Insert, and Text Two, the extract from *A Game of Polo with a Headless Goat*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: The Cart Race of San Telmo",
+    "text": "   San Telmo clings to the side of its mountain like a cat to a curtain. Its single\n   main street drops four hundred metres in a little over a kilometre, twisting back on\n   itself seven times between the church at the top and the river at the bottom. On\n   three hundred and sixty-four days of the year, the townspeople climb it slowly,\n 5 stopping to rest on doorsteps. On the last Sunday in August, they hurl themselves\n   down it in home-made wooden carts.\n\n   I had been warned that the race started early, so I arrived at the top just after\n   dawn. I need not have hurried. The church clock said seven, but nobody seemed to\n   believe it. Teams sat on the steps drinking coffee and arguing about wheels. A man\n10 in a helmet decorated with plastic flowers was asleep in his cart. Somebody's\n   grandmother was handing out pastries from a basket, and nobody, as far as I could\n   tell, was in charge.\n\n   The carts themselves were magnificent. There was a cart shaped like a bathtub, a\n   cart shaped like a fish and a cart made almost entirely from an old wardrobe, its\n15 doors flapping open like wings. The rules, I was told, are simple. Four wheels. No\n   engine. Brakes are recommended. 'Recommended?' I asked. Matteo, the\n   eighteen-year-old captain of the wardrobe team, shrugged. 'Some people prefer not\n   to,' he said. 'They are usually the winners. Or in hospital.'\n\n   At half past nine, without any announcement I could hear, the first cart simply set\n20 off. Then another, and another, at intervals that seemed to depend on nothing but\n   courage. The crowd lining the street roared each one on, banging saucepans and\n   blowing whistles. I ran to the third bend, where the street narrows between two\n   stone walls and turns so sharply that the houses almost touch.\n\n   The fish arrived first, rattling and shrieking, its two riders crouched low and\n25 screaming instructions at each other. It hit the bend far too fast, slid sideways in\n   a shower of sparks and somehow straightened again, missing the wall by the width of\n   a hand. The crowd gasped and then cheered as if a goal had been scored. Behind it\n   came the bathtub, which did not straighten, and which ended the race upside down in\n   a flower bed, its riders climbing out to bow to tremendous applause.\n\n30 And then the wardrobe. I heard it before I saw it: a deep, wooden thunder bouncing\n   off the walls. Matteo and his cousin were wedged inside, their faces white with\n   concentration, the doors still flapping. They took the bend on two wheels. For a\n   moment the whole thing hung in the air, tilting, and I was sure it was going over.\n   Then it crashed back down on all four and vanished round the corner, trailing a long\n35 cheer behind it like a banner.\n\n   It won, of course. When I finally reached the bottom of the hill, out of breath and\n   slightly deafened, the wardrobe was parked by the river with a garland of flowers on\n   its roof, and Matteo was being carried around on the shoulders of his friends. The\n   prize, he told me proudly, was a ham, a trophy and the right to start first next\n40 year. 'And the hospital?' I asked. He grinned and showed me a bandage on his elbow.\n   'Only a little bit,' he said.\n\n   That evening the whole town ate together at long tables in the square, and the\n   arguments about wheels began all over again. I asked an old man why San Telmo had\n   kept the race going for over sixty years. He thought about it for a long time. 'The\n45 rest of the year,' he said, 'the hill wins. One day a year, we win.'",
+    "numbered": false,
+    "provenance": "Hannah Wexford travels to unusual festivals around the world. In this extract she describes a downhill cart race in a hill town. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From A Game of Polo with a Headless Goat, Emma Levine",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.oasis",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T08"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about arriving in a new country.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Leah Moreno) and Text Two (Jamie Zeppa) present their ideas and perspectives about arriving in a new country. Responses may include some of the following points:",
+      "both texts are memoirs by young women who travel a long way to teach in a country very different from their own",
+      "both describe exhausting journeys: Zeppa's five flights over four days, Moreno's eleven-hour bus ride",
+      "both open with the landscape and use repetition to stress how it dominates: mountains in Text Two, stones in Text One",
+      "both use playful imaginative images of a giant shaping the land: the giant child in Text Two, the giant emptying his pockets in Text One",
+      "both describe their simple accommodation and plain food with gentle humour",
+      "both describe the local people with warmth and admiration: Zeppa's search for a word for their dignity, Moreno's account of kindness and forgiveness",
+      "both notice details of daily life such as shops, markets and clothing",
+      "Zeppa includes historical information about Bhutan, while Moreno focuses on personal encounters and her classroom",
+      "Zeppa relies on other Canadians for enthusiasm at first, whereas Moreno is alone and depends on local people",
+      "Moreno writes about her own mistakes and embarrassment, while Zeppa writes more as an observer",
+      "both use the present tense to place the reader in the moment, though Moreno shifts into the past for her first week",
+      "Zeppa ends with admiration for the country's independence; Moreno ends with a quiet, reflective moment and the realisation that she has much to learn"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *First Week in Tamsa*, in the Insert, and Text Two, the extract from *Beyond the Sky and the Earth: A Journey into Bhutan*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: First Week in Tamsa",
+    "text": "   The bus from the capital took eleven hours, and for the last four of them there was\n   nothing outside the window but stones. Not sand, as I had imagined, but stones:\n   grey, brown and rust-red, scattered to the horizon as if a giant had emptied out his\n   pockets and walked away. Now and then a dust devil spun up from the plain, whirled\n 5 for a few seconds like a dancer and collapsed. I pressed my forehead against the\n   glass and wondered, not for the first time, what I had done.\n\n   Then, quite suddenly, there was green. Tamsa sits in a fold of the desert where an\n   underground river comes close to the surface, and the town has grown along it like a\n   necklace of date palms and flat-roofed houses. After so many hours of stone, the\n10 colour was almost painful. Children ran beside the bus as it came in, shouting and\n   waving. I waved back, and a small boy was so delighted that he tripped over his own\n   feet.\n\n   My house belongs to the school. It has two rooms, a courtyard with a single lemon\n   tree and a roof where, I was told, everyone sleeps in summer. The walls are made of\n15 mud brick, a metre thick, and inside it is wonderfully cool. The furniture consists\n   of a bed, a table, two chairs and a large, ancient refrigerator that hums to itself\n   all night like an old man remembering a song.\n\n   On my first morning, the headmaster, Mr Haddad, came to collect me. He was a tall,\n   careful man who spoke slow, beautiful English and apologised for everything: the\n20 heat, the dust, the state of the road, the fact that the school had no photocopier.\n   'We have a very good blackboard,' he added, as though offering me a gift. He walked\n   me through the market on the way, introducing me to every stallholder by name. By\n   the end of the street I had been given four oranges, a bag of dates and an\n   invitation to a wedding.\n\n25 The school was a long, low building painted a hopeful shade of blue. My first class\n   had forty-one pupils, all of whom stood up when I walked in and said 'Good morning,\n   teacher' in perfect unison. I had planned a lively lesson with games and songs.\n   Within ten minutes I had abandoned it. They wanted to ask me questions, and they had\n   clearly been saving them up for weeks. Did I have a husband? Did it snow in my city?\n30 Had I met any famous footballers? Was it true that people in my country kept dogs\n   inside their houses?\n\n   I answered as honestly as I could, and they listened with total seriousness,\n   occasionally whispering translations to each other. When I admitted that I did not\n   know how to cook rice properly, a girl in the front row looked at me with deep pity\n35 and promised that her mother would teach me. She did, too, three days later, while\n   the rest of the family watched from the doorway and tried very hard not to laugh.\n\n   That first week I made every mistake it was possible to make. I offered my left hand\n   to an elderly man. I wore the wrong shoes into a neighbour's house. I got lost in\n   the palm groves twice and had to be led home by the same patient goat-herder, who\n40 greeted me on the second occasion as if I were an old friend. Each time, people\n   forgave me with a smile, a gesture, a cup of sweet tea.\n\n   On the Friday evening I climbed up to my roof and lay on a blanket, watching the\n   stars come out. There were more of them than I had ever seen, so many that the dark\n   between them seemed crowded. Somewhere below, a radio was playing, and someone was\n45 laughing, and the refrigerator hummed its old song. I had come to Tamsa to teach. I\n   was beginning to understand that I had a great deal more to learn.",
+    "numbered": false,
+    "provenance": "At twenty-three, Leah Moreno left her home city to teach English for a year in a small town on the edge of a desert. In this extract from her memoir she describes her first days there. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From Beyond the Sky and the Earth: A Journey into Bhutan, Jamie Zeppa",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.owl",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T09"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about their encounters with birds of prey.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Sam Achterberg) and Text Two (Helen Macdonald) present their ideas and perspectives about their encounters with birds of prey. Responses may include some of the following points:",
+      "both texts are memoirs in which the writers' close encounter with a bird is connected to grief: Macdonald's father has died, Achterberg's mother is ill",
+      "both describe the moment the bird is taken out of a box, building suspense around what is inside",
+      "both use striking imagery to describe the bird's appearance: Macdonald's run of metaphors (a reptile, a fallen angel); Achterberg's face 'carved from soap'",
+      "both are fascinated by the birds' eyes and their way of looking at the world",
+      "both present an expert who handles the bird calmly: the falconer in Text Two, Ruth the vet in Text One",
+      "both writers feel a strong emotional bond with a bird that is not entirely theirs",
+      "Macdonald's extract is fast, noisy and chaotic, full of thumps and clattering wings; Achterberg's is quiet and still, stressing the owl's silence",
+      "Macdonald is acquiring a hawk to keep, while Achterberg's story is about letting a bird go",
+      "Text Two builds to a moment of panic and an awkward request; Text One builds to a calm, emotional release",
+      "Macdonald uses minor sentences and a long, breathless sentence to create tension; Achterberg uses longer, reflective sentences and a quiet ending",
+      "Macdonald describes herself from the outside as exhausted and wild-looking; Achterberg describes his inner feelings directly",
+      "Text Two ends in suspense with a moment of silence; Text One ends with a moving reflection on his mother's death and his continuing search for the owl"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *Letting Go*, in the Insert, and Text Two, the extract from *H is for Hawk*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: Letting Go",
+    "text": "   The box arrived on a wet Tuesday in November, carried in by a lorry driver who had\n   found it, he said, sitting in the middle of a lay-by 'like it was waiting for a\n   bus'. He set it down on the counter very gently, as if it might explode. Inside,\n   wrapped in a tea towel printed with lighthouses, was a barn owl.\n\n 5 I had never been so close to one. Its face was a perfect white heart, so smooth it\n   looked carved from soap, and in the middle of it two black eyes stared up at me\n   without blinking. Its feathers were the colour of toast and honey, freckled with\n   tiny grey dots, and it was astonishingly light. When I lifted it, it weighed less\n   than a bag of sugar. All that silent menace, I thought, and almost nothing inside.\n\n10 Its left wing hung at a wrong angle. The vet, a brisk woman called Ruth who had seen\n   everything twice, felt along the bone with two fingers and pronounced it 'not\n   broken, just badly bruised, probably clipped by a car'. It would need four weeks of\n   rest and then, if we were lucky, a long period of exercise before it could fly\n   again. 'Don't name it,' she said, as she said to every new volunteer. 'It's not\n15 yours. It's only borrowing you.'\n\n   I named it anyway, though only in my head. That year had been the worst of my life.\n   My mother had been ill since the spring, and every visit to the hospital left me\n   feeling emptier and more useless. At the centre, at least, there were things I could\n   do. I could chop the chicks into pieces with a pair of scissors. I could clean the\n20 cage. I could sit quietly in the corner of the dim shed and watch the owl watching\n   me, its head turning slowly through an impossible half-circle, until the world\n   shrank to the two of us and the soft patter of rain on the roof.\n\n   By January it was flying the length of the long aviary. The first time it did so I\n   was standing at the far end, and it came towards me out of the gloom without a\n25 single sound, wings wide, pale as a ghost, and veered away at the last second so\n   close that I felt the air move against my cheek. I had read that owls fly silently.\n   I had not understood what that meant. It was like being brushed past by a thought.\n\n   Ruth decided it should be released at the end of February, back at the lay-by where\n   it had been found, because barn owls do best in the territory they know. I drove out\n30 with her at dusk. It was cold and very still, the fields white with frost, the sky\n   turning from orange to deep blue above a line of black hedges. I held the box on my\n   knees for the whole journey and did not say a word.\n\n   When Ruth opened the door, nothing happened. The owl sat in the dark of the box and\n   looked out at the fields, and I began to think it would refuse to go. Then, without\n35 any warning, it stepped onto the edge, opened its wings and was gone, gliding low\n   over the frost, a pale shape that grew smaller and smaller until I could not tell it\n   apart from the mist. I stood with the empty box in my hands for a long time.\n\n   'You did well,' said Ruth, which was the nearest she ever came to praise. I nodded.\n   I could not have spoken if I had tried. Driving home, I realised that for the first\n40 time in months I was not thinking about the hospital. I was thinking about the owl,\n   somewhere out in the cold fields, hunting, free. My mother died in the spring. I\n   still go back to the lay-by sometimes at dusk. I have never seen the owl again. I\n   have never stopped looking.",
+    "numbered": false,
+    "provenance": "Sam Achterberg volunteered at a wildlife rescue centre during a difficult year. In this extract from his memoir he describes caring for an injured owl. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From H is for Hawk, Helen Macdonald",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.chess",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T10"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about their relationships with the adults who bring them up.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Lin Mei-hua) and Text Two (Adeline Yen Mah) present their ideas and perspectives about their relationships with the adults who bring them up. Responses may include some of the following points:",
+      "both texts are autobiographies about girls who long for the approval of a distant, powerful older relative: a father in Text Two, a grandfather in Text One",
+      "both girls feel uncertain and fearful when summoned or watched by that relative",
+      "both present the adult's private space as forbidding: the father's room as a holy place; the grandfather's window and chessboard",
+      "both girls achieve success in a competition: an international play-writing prize in Text Two, second place in a chess tournament in Text One",
+      "in both, success leads to a rare moment of praise from the adult",
+      "Mah's father is proud partly because her success gives him status with a colleague, while Lin's grandfather's praise is private and personal",
+      "Mah's father controls her future, rejecting her wish to be a writer; Lin's grandfather simply begins to share his game with her",
+      "Mah's joy is expressed through hyperbole (reaching the stars); Lin's feelings are more understated, matching her grandfather's few words",
+      "both use direct speech at key moments, but the father talks at length while the grandfather speaks only a few words",
+      "Mah's extract shows the coldness of other family members and staff; Lin's text focuses on just one relationship",
+      "Text Two ends with Mah's eager acceptance of her father's plan; Text One ends with a lasting bond built over nine years",
+      "both writers look back as adults on how much a few words of approval meant"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *The Chess Prize*, in the Insert, and Text Two, the extract from *Chinese Cinderella*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: The Chess Prize",
+    "text": "   My grandfather believed in three things: hard work, cold baths and silence. He had\n   been a railway engineer for forty years, and he ran our small flat as if it were a\n   timetable. Breakfast was at six fifteen. Homework was checked at seven. Lights went\n   out at nine, and if he heard me turning the pages of a book after that, he would\n 5 knock once on the wall, very softly, which was worse than any shout.\n\n   He rarely spoke to me except to give instructions. I do not think he disliked me. I\n   think he simply did not know what to do with a girl of eleven who had arrived in his\n   life with one suitcase after my parents' accident. So he did what he knew. He fed\n   me, he paid for my school, and in the evenings he sat by the window with his\n10 chessboard, playing against himself, his face as still as a closed door.\n\n   I learned the game by watching. For months I sat across the room pretending to read,\n   while in fact I followed every move. I learned how the knight jumps and the bishop\n   slides, how a pawn that reaches the far side can become a queen. I never asked him\n   to teach me. I was afraid he would say no, and even more afraid he would say yes and\n15 find that I was stupid.\n\n   When the school announced a chess tournament, I put my name down without telling\n   anyone. I practised in secret on a board I had drawn on the back of a cereal box,\n   with buttons for pieces. On the morning of the tournament I told my grandfather I\n   was going to the library. He looked at me over his glasses for a long moment and\n20 said nothing, which was what he usually said.\n\n   The hall was full of boys. They were older than me, and louder, and most of them had\n   real chess sets in wooden boxes. My first opponent laughed when he saw me sit down\n   and asked if I was lost. I beat him in twenty-three moves. I beat the second boy,\n   and the third. By the afternoon a small crowd had begun to gather around my table,\n25 and my hands were shaking so badly that I had to hold the pieces with both fingers\n   to stop them falling over.\n\n   I lost the final. I made a careless move with my queen, saw the mistake a second\n   after I had let go of the piece, and watched my opponent close in on my king with a\n   terrible politeness. I shook his hand and walked to the side of the hall, determined\n30 not to cry in front of everyone. That was when I saw him. My grandfather was\n   standing at the back, by the fire exit, in his good coat. I had no idea how long he\n   had been there.\n\n   We walked home together without speaking. I carried my certificate for second place\n   rolled up in my fist, and I was sure he was angry that I had lied about the library.\n35 At the door of our building he stopped, and for a moment I thought he was going to\n   knock on the wall, the way he did at night. Instead he said, 'Your queen. Move\n   seventeen. You were too quick.' Then, after a pause, 'Everything else was correct.'\n\n   It was the longest speech he had ever made to me. That evening, when homework had\n   been checked, he did not go to the window. He set the board up on the kitchen table,\n40 turned it so that the white pieces faced me, and waited. We played every night after\n   that for nine years. He never once let me win. I have never received a prize I\n   valued more than those four words: everything else was correct.",
+    "numbered": false,
+    "provenance": "Lin Mei-hua grew up living with her grandfather, a strict and silent man. In this extract from her autobiography she describes the day she entered a chess tournament. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From Chinese Cinderella, Adeline Yen Mah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.whiteout",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T05"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about the dangers they face in remote places.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Callum Reid) and Text Two (Aron Ralston) present their ideas and perspectives about the dangers they face in remote places. Responses may include some of the following points:",
+      "both texts are first-person accounts by experienced outdoorsmen who get into serious danger while alone",
+      "both begin calmly, with the writer confident and in control, before the situation changes suddenly",
+      "both writers show their expertise through technical detail: Ralston's chimneying, Reid's use of bearings and pace counting",
+      "Ralston had told nobody where he was going; Reid makes no mention of telling anyone, and both are entirely alone",
+      "both convey the moment of crisis vividly: the boulder 'consuming the sky' in Text Two, the cloud 'like milk boiling over' in Text One",
+      "both use short sentences for dramatic effect: 'Then silence.' in Text Two; 'The world disappeared.' in Text One",
+      "both describe physical pain and discomfort: Ralston's crushed hand, Reid's stiff fingers and stinging snow",
+      "Ralston reacts with panic and brute force, while Reid stops and follows his training",
+      "Ralston writes in the present tense, putting the reader inside the moment; Reid looks back in the past tense, with hindsight and humour",
+      "Ralston's extract ends with him still trapped; Reid reaches safety and reflects on lessons learned",
+      "Reid uses gentle humour (the disapproving sheep, his earlier smugness), whereas Ralston's tone becomes increasingly desperate",
+      "Reid's article ends with a clear message for readers about respecting the mountains"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *Whiteout on the Ridge*, in the Insert, and Text Two, the extract from *127 Hours: Between a Rock and a Hard Place*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: Whiteout on the Ridge",
+    "text": "   It began, as these things often do, with a beautiful morning. When I left the car\n   park at eight o'clock, the sky was a sharp, cloudless blue and the snow on the\n   summit glittered like sugar. I had a map, a compass, spare gloves, a flask of soup\n   and a forecast that promised a dry day with 'some cloud later'. I remember feeling\n 5 slightly smug as I passed a group turning back at the first stile.\n\n   By eleven I was on the ridge, a narrow spine of rock and old snow with steep drops\n   on either side. The views were enormous. I could see three lakes, a scattering of\n   farms and, far to the west, the grey glint of the sea. I stopped to eat a sandwich\n   and take photographs, and it was only when I stood up again that I noticed the\n10 cloud.\n\n   It was coming up from the valley on my left, smooth and white, rolling over the edge\n   of the ridge like milk boiling over a pan. I had perhaps five minutes before it\n   reached me. I spent two of them deciding whether to go on or turn back, and by the\n   time I had decided, the decision had been made for me. The world disappeared.\n\n15 A whiteout is very hard to describe to anyone who has not been in one. It is not\n   like fog. In fog you can see your own feet. In a whiteout the snow on the ground and\n   the cloud in the air become exactly the same colour, and you lose all sense of up\n   and down. Within minutes the wind had picked up, driving snow sideways into my face\n   so hard that it stung like sand. I could not tell where the ridge ended and the drop\n20 began.\n\n   I did what I had been taught and stopped. I crouched down, got out my map and\n   compass with fingers that had already gone stiff, and worked out a bearing that\n   would take me off the ridge on its gentler, southern side. Then I began to walk,\n   counting my paces out loud, stopping every hundred steps to check the needle. My\n25 voice sounded thin and strange, as if it belonged to someone else.\n\n   At one point the ground in front of me simply vanished. I stopped with one foot in\n   the air, my heart hammering, and lowered myself onto my hands and knees. Ahead,\n   where I had been about to step, was nothing but white. I threw a snowball forward\n   and did not hear it land. I have no idea how deep that drop was. I have tried very\n30 hard not to think about it.\n\n   It took me three hours to come down a slope that would normally take forty minutes.\n   When I finally stepped out of the bottom of the cloud, the change was so sudden that\n   I almost laughed: green grass, a stone wall, a sheep staring at me with mild\n   disapproval. I sat down on the wall and drank the whole flask of soup, which had\n35 gone lukewarm, and which was the best thing I have ever tasted.\n\n   I have walked in the mountains for twenty years, and I learned more that day than in\n   all the others put together. I learned that a forecast is a guess, not a promise. I\n   learned that the group who turned back at the stile were not timid but wise. Most of\n   all I learned that the mountain does not care how experienced you are. It only cares\n40 whether you are paying attention.",
+    "numbered": false,
+    "provenance": "In this article for an outdoor magazine, Callum Reid describes being caught in a sudden snowstorm while walking alone on a mountain ridge. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From 127 Hours: Between a Rock and a Hard Place, Aron Ralston",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ },
+ {
+  "id": "english-language.q5.camels",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO3.1",
+   "C1.A.AO3.1a",
+   "C1.A.AO3.1b",
+   "C1.A.AO3.1c",
+   "C1.A.AO2.T07"
+  ],
+  "topic": "reading-comparison",
+  "subtopic": "el.ao3.compare",
+  "qtype": "compare",
+  "command_word": "compare",
+  "marks": 22,
+  "difficulty": "7-9",
+  "minutes": 35,
+  "parts": [
+   {
+    "label": "",
+    "text": "Compare how the writers present their ideas and perspectives about the races they experience.\n\nSupport your answer with detailed examples from both texts, including brief quotations.",
+    "marks": 22,
+    "lines": 48
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-4",
+       "descriptor": "No real comparison. Describes the writers' ideas and perspectives, including theme, language and/or structure, in a basic way. References are few or not relevant."
+      },
+      {
+       "level": "Level 2",
+       "marks": "5-8",
+       "descriptor": "Makes obvious comparisons. Comments on the writers' ideas and perspectives, including theme, language and/or structure. References are valid but not developed. A response that discusses only ONE text cannot go above Level 2."
+      },
+      {
+       "level": "Level 3",
+       "marks": "9-13",
+       "descriptor": "Makes a range of comparisons. Explains the writers' ideas and perspectives, including theme, language and/or structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "14-18",
+       "descriptor": "Makes a wide range of comparisons. Explores the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced between the texts and fully support the points."
+      },
+      {
+       "level": "Level 5",
+       "marks": "19-22",
+       "descriptor": "Makes varied, wide-ranging and sustained comparisons. Analyses the writers' ideas and perspectives and how theme, language and/or structure are used across both texts. References are balanced, discriminating and fully support the points."
+      }
+     ],
+     "indicative": [
+      "Reward responses that compare how the writers of Text One (Nadia Farouk) and Text Two (Emma Levine) present their ideas and perspectives about the races they experience. Responses may include some of the following points:",
+      "both texts are travel writing by women describing an unusual race involving animals and a convoy of vehicles",
+      "both describe 'two races': in Text Two the motorised spectators behind the donkeys; in Text One the cars alongside the camels",
+      "both writers travel in a car during the race, and both are both thrilled and frightened",
+      "both are accompanied by local men who explain the sport and share their enthusiasm: Yaqoob and Iqbal in Text Two, Khalid in Text One",
+      "both use lists and sensory details of noise and dust to create a lively, chaotic atmosphere",
+      "both use humour: the villager on the wobbly bicycle and Yaqoob's lack of licence in Text Two; the camels like duchesses and the robots that 'never argue' in Text One",
+      "both present the animals as impressively fast: the donkeys at around 40 kph, the camels seeming to float",
+      "Text Two ends in conflict and a hasty retreat, while Text One ends peacefully, over coffee, with a reflection on tradition",
+      "Levine's companions are young and reckless; Farouk's guide is elderly and reflective",
+      "Text One includes modern technology (robot jockeys), whereas Text Two describes a more informal, traditional contest",
+      "Levine describes the race as lawless and dangerous; Farouk presents a more organised event with a clear winner",
+      "Farouk ends with Khalid's words about family and history, giving the race a deeper meaning than the excitement Levine focuses on"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO3: Explore links and connections between writers' ideas and perspectives, as well as how these are conveyed (22 marks)",
+     "ao_split": "AO3 22"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "el-q5",
+  "intro": "This question is based on both Text One, *A Morning at the Camel Races*, in the Insert, and Text Two, the extract from *A Game of Polo with a Headless Goat*, from Part 1 of the Anthology.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text One: A Morning at the Camel Races",
+    "text": "   The race track is a long loop of raked sand on the edge of town, marked out with\n   white posts and nothing else. There are no stands. Spectators bring their own\n   chairs, or sit on the bonnets of their cars, or simply stand in the soft sand at the\n   side of the track with their scarves pulled up against the dust. By six in the\n 5 morning, when I arrived, several hundred people were already there, and the air\n   smelt of strong coffee, engine oil and camel.\n\n   The camels themselves were waiting in a pen near the start, and they were not what I\n   had expected. I had pictured slow, grumpy creatures with drooping lips. These were\n   racing camels: tall, slim and long-legged, their coats brushed until they shone like\n10 polished wood. Each wore a brightly coloured blanket and a muzzle, and they gazed\n   down at the crowd with an expression of enormous superiority, like duchesses at a\n   village fair.\n\n   My guide was Khalid, a retired trainer of about seventy who had agreed to explain\n   the sport to me. He had owned racing camels for fifty years and spoke about them the\n15 way some people speak about their grandchildren. 'That one is lazy,' he said,\n   pointing. 'Very talented, but lazy. That one is brave. And that one,' he lowered his\n   voice, 'is a genius. But she knows it.'\n\n   Nobody rides the camels any more. Instead, a small robot jockey is strapped to each\n   animal's hump, a box of electronics no bigger than a shoebox with a little whip on\n20 an arm. The owners control them by radio while driving alongside the track in their\n   cars. When I asked Khalid whether he missed the old days, he was quiet for a moment.\n   'The camels do not miss them,' he said at last. 'The robots are lighter. And they\n   never argue.'\n\n   The start, when it came, was sudden. A rope dropped, and twenty camels burst forward\n25 in a great rolling surge of legs and dust, their long necks stretched out, their\n   strides so enormous that they seemed to float above the ground. At the same moment\n   every car on the road beside the track roared into life. Within seconds, there were\n   two races: the camels on the sand and, alongside them, a chaotic convoy of\n   four-wheel-drive vehicles, horns blaring, owners leaning out of the windows and\n30 shouting instructions into their radios.\n\n   Khalid insisted that we join them. I found myself in the back seat of his nephew's\n   car, holding on to the door handle with both hands as we bounced along at sixty\n   kilometres an hour, a few metres from the running camels. Dust poured in through the\n   open windows. Khalid, in the front, was shouting encouragement at a camel that did\n35 not belong to him and had no idea he existed. I have never been so frightened or so\n   happy at the same time.\n\n   The genius won. She crossed the line nearly two lengths clear, her robot jockey\n   still flicking its tiny whip, and slowed to a dignified walk as if the whole\n   business had been slightly beneath her. Her owner, a young man in mirrored\n40 sunglasses, leapt from his car and danced in the sand. Several people hugged Khalid,\n   although he had nothing to do with it.\n\n   Afterwards, over more coffee, I asked him what he loved most about the races. I\n   expected him to talk about speed, or money, or the thrill of winning. Instead he\n   looked out at the camels, who were being led back to their pens, blankets steaming\n45 in the rising heat. 'My grandfather raced camels,' he said. 'And his grandfather.\n   The cars are new. The robots are new. But the camels are the same. When I watch them\n   run, I am watching my family.'",
+    "numbered": false,
+    "provenance": "Nadia Farouk writes about traditional sports. In this extract she describes a morning at a camel race in a desert town. (Original text written for this practice paper; the writer and events are fictional.)"
+   },
+   {
+    "type": "passage",
+    "title": "Text Two: From A Game of Polo with a Headless Goat, Emma Levine",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "provenance": "Original text written for this practice paper; the writer and events are fictional.",
+  "section": "A"
+ }
+]

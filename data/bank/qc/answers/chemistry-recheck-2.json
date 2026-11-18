@@ -1,0 +1,209 @@
+{
+ "batch": "chemistry-recheck-2",
+ "answers": {
+  "chemistry.atoms-table-recall.0006": {
+   "all": "Cl-: 17 p, 18 n; O-16: 8 n, 8 e; K-39: 19 p, 20 n"
+  },
+  "chemistry.covalent-dotcross.0004": {
+   "all": "O with two shared pairs (one dot one cross each) with two H, plus two lone pairs on O (8 outer electrons)"
+  },
+  "chemistry.covalent-explain-items.0003": {
+   "all": "simple molecular; weak intermolecular forces need little energy to overcome"
+  },
+  "chemistry.covalent-extended-items.0005": {
+   "all": "bp increases down group, -188 F2 to 184 I2 as Mr rises 38 to 254; simple molecules; larger molecules have stronger intermolecular forces needing more energy; covalent bonds not broken on boiling; F2/Cl2 gases, Br2 liquid, I2 solid at rt"
+  },
+  "chemistry.covalent-mcq-facts.0002": {
+   "all": "3"
+  },
+  "chemistry.covalent-recall-facts.0004": {
+   "all": "3"
+  },
+  "chemistry.formulae-practical-items.0010": {
+   "all": "mass of empty crucible + lid; mass of crucible + lid + metal; mass of crucible + lid + oxide after heating to constant mass"
+  },
+  "chemistry.group1-describe-items.0011": {
+   "all": "lithium reacts less vigorously/slower fizzing; does not melt into a ball / no flame (potassium has lilac flame)"
+  },
+  "chemistry.group1-equations.0010": {
+   "all": "2Rb(s) + 2H2O(l) -> 2RbOH(aq) + H2(g)"
+  },
+  "chemistry.group1-explain-items.0009": {
+   "all": "atoms get larger down group; delocalised electrons further from nucleus so weaker metallic bonding / attraction, less energy to break"
+  },
+  "chemistry.group1-mcq-facts.0002": {
+   "all": "13"
+  },
+  "chemistry.group1-recall-facts.0004": {
+   "all": "sodium hydroxide formed, which contains hydroxide (OH-) ions"
+  },
+  "chemistry.group1-trend-data.0004": {
+   "a": "decreases down group",
+   "b": "about 40 C (between 29 and 63)",
+   "c": "potassium density lower than sodium",
+   "d": "caesium; density 1.93 g/cm3 greater than water (1.0)"
+  },
+  "chemistry.group7-displacement-eq.0019": {
+   "a": "Cl2 + 2Br- -> 2Cl- + Br2",
+   "b": "chlorine; gains electrons"
+  },
+  "chemistry.group7-explain-items.0011": {
+   "a": "bromine is less reactive than chlorine so cannot displace chloride",
+   "b": "get darker down the group (pale yellow to grey-black)"
+  },
+  "chemistry.group7-mcq-facts.0008": {
+   "all": "sodium chloride and bromine"
+  },
+  "chemistry.group7-practical-items.0001": {
+   "all": "add each halogen solution to solutions of the other halide salts; look for colour change showing displacement; chlorine displaces bromide and iodide, bromine displaces only iodide, iodine none; order Cl > Br > I"
+  },
+  "chemistry.group7-recall-facts.0003": {
+   "all": "pale yellow-green"
+  },
+  "chemistry.group7-trend-data.0007": {
+   "a": "increases down group",
+   "b": "about 150-200 C",
+   "c": "solid; mp/bp increase down group so above room temperature",
+   "d": "solid"
+  },
+  "chemistry.intro-formula-recall.0010": {
+   "a": "C5H10",
+   "b": "CnH2n",
+   "c": "CH2=CHCH2CH2CH3",
+   "d": "CH2"
+  },
+  "chemistry.ionic-describe-formation.0015": {
+   "all": "lithium atom loses one outer electron; transferred to bromine atom; Li+ and Br- ions with full outer shells; held by electrostatic attraction (ionic bond)"
+  },
+  "chemistry.ionic-explain-items.0002": {
+   "all": "giant ionic lattice; strong electrostatic attraction between oppositely charged Mg2+ and O2- ions; lots of energy needed to overcome"
+  },
+  "chemistry.ionic-formula-mcq.0007": {
+   "all": "AgI"
+  },
+  "chemistry.ionic-formula-recall.0013": {
+   "a": "Ag2O",
+   "b": "Cu(NO3)2",
+   "c": "MgF2",
+   "d": "F-"
+  },
+  "chemistry.ionic-mcq-facts.0011": {
+   "all": "Al3+"
+  },
+  "chemistry.metallic-explain-items.0003": {
+   "all": "has delocalised electrons; which move through the structure carrying charge"
+  },
+  "chemistry.metallic-mcq-facts.0010": {
+   "all": "able to be drawn into wires"
+  },
+  "chemistry.metallic-recall-facts.0010": {
+   "all": "strong electrostatic attraction between positive metal ions and delocalised electrons"
+  },
+  "chemistry.mixtures-chromatogram.0007": {
+   "a": "cannot be read - spot positions not given",
+   "b": "cannot be read - spot positions not given",
+   "c": "Rf = 3.6/8.0 = 0.45"
+  },
+  "chemistry.mixtures-describe-items.0005": {
+   "all": "heat to evaporate some water until crystals start to form / saturated; leave to cool so crystals form; filter and dry between filter papers"
+  }
+ },
+ "verdicts": {
+  "chemistry.atoms-table-recall.0006": {
+   "result": "pass"
+  },
+  "chemistry.covalent-dotcross.0004": {
+   "result": "pass"
+  },
+  "chemistry.covalent-explain-items.0003": {
+   "result": "pass"
+  },
+  "chemistry.covalent-extended-items.0005": {
+   "result": "pass"
+  },
+  "chemistry.covalent-mcq-facts.0002": {
+   "result": "pass"
+  },
+  "chemistry.covalent-recall-facts.0004": {
+   "result": "pass"
+  },
+  "chemistry.formulae-practical-items.0010": {
+   "result": "pass"
+  },
+  "chemistry.group1-describe-items.0011": {
+   "result": "pass"
+  },
+  "chemistry.group1-equations.0010": {
+   "result": "pass"
+  },
+  "chemistry.group1-explain-items.0009": {
+   "result": "pass"
+  },
+  "chemistry.group1-mcq-facts.0002": {
+   "result": "pass"
+  },
+  "chemistry.group1-recall-facts.0004": {
+   "result": "pass"
+  },
+  "chemistry.group1-trend-data.0004": {
+   "result": "pass"
+  },
+  "chemistry.group7-displacement-eq.0019": {
+   "result": "pass"
+  },
+  "chemistry.group7-explain-items.0011": {
+   "result": "pass"
+  },
+  "chemistry.group7-mcq-facts.0008": {
+   "result": "pass"
+  },
+  "chemistry.group7-practical-items.0001": {
+   "result": "pass"
+  },
+  "chemistry.group7-recall-facts.0003": {
+   "result": "pass"
+  },
+  "chemistry.group7-trend-data.0007": {
+   "result": "pass"
+  },
+  "chemistry.intro-formula-recall.0010": {
+   "result": "pass"
+  },
+  "chemistry.ionic-describe-formation.0015": {
+   "result": "pass"
+  },
+  "chemistry.ionic-explain-items.0002": {
+   "result": "pass"
+  },
+  "chemistry.ionic-formula-mcq.0007": {
+   "result": "pass"
+  },
+  "chemistry.ionic-formula-recall.0013": {
+   "result": "pass"
+  },
+  "chemistry.ionic-mcq-facts.0011": {
+   "result": "pass"
+  },
+  "chemistry.metallic-explain-items.0003": {
+   "result": "pass"
+  },
+  "chemistry.metallic-mcq-facts.0010": {
+   "result": "pass"
+  },
+  "chemistry.metallic-recall-facts.0010": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-chromatogram.0007": {
+   "result": "pass",
+   "note": "verified by rendering the SVG: X has 2 spots level with P and R, matching the mark scheme",
+   "checker_original": {
+    "result": "fail",
+    "problem": "Chromatogram is given only as labels with no spot positions, so (a) and (b) (2 substances; P and R) cannot be worked out; stem also says dyes P-W but only P, Q, R, S are shown.",
+    "fix": "Render spot heights (or give a table of distances) and change 'P-W' to 'P-S'."
+   }
+  },
+  "chemistry.mixtures-describe-items.0005": {
+   "result": "pass"
+  }
+ }
+}

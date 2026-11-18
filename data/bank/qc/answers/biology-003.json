@@ -1,0 +1,208 @@
+{
+ "batch": "biology-003",
+ "answers": {
+  "biology.crops-prac-reliab.0002": {
+   "a": "To identify anomalous results; calculate a mean so results more reliable/repeatable",
+   "b": "Plants grown with no fertiliser (0 g) under same conditions; to compare and show any effect is due to fertiliser"
+  },
+  "biology.crops-prac-risk.0001": {
+   "a": "e.g. paraffin heater / hot equipment burns or fumes - keep away/ventilate; or soil microorganisms - wear gloves/wash hands",
+   "b": "Use a balance with greater resolution / remove soil and blot water before weighing / weigh all lettuces and find mean"
+  },
+  "biology.crops-prac-step.0003": {
+   "all": "Water is a control variable; water affects growth (photosynthesis/ion uptake) so only fertiliser affects yield - fair test"
+  },
+  "biology.crops-prac-vars.0002": {
+   "a": "mass of fertiliser added",
+   "b": "yield / mass of tomatoes (or plant height)",
+   "c": "volume of water; light intensity; temperature; variety of tomato; type/volume of compost"
+  },
+  "biology.crops-recall.0004": {
+   "all": "Pests damage/eat crops and reduce yield"
+  },
+  "biology.crops-recall-fact.0005": {
+   "all": "glasshouse (greenhouse)"
+  },
+  "biology.crops-recall-multi.0004": {
+   "a": "Pests reduce crop yield",
+   "b": "fungicide"
+  },
+  "biology.cycles-describe.0003": {
+   "all": "Decomposers (bacteria/fungi) break down protein; produce ammonium compounds (ammonification); nitrifying bacteria convert ammonium to nitrite then nitrate"
+  },
+  "biology.cycles-describe-multi.0008": {
+   "a": "respiration; combustion (or decomposition)",
+   "b": "Decomposers convert protein to ammonium; nitrifying bacteria convert ammonium to nitrite and then nitrate"
+  },
+  "biology.cycles-explain.0005": {
+   "all": "Cold: decomposer enzymes work slowly, less kinetic energy so fewer collisions; dry: decomposers need water for reactions/growth/to secrete enzymes; so microorganisms respire and reproduce slowly"
+  },
+  "biology.cycles-explain-multi.0005": {
+   "a": "respiration; combustion",
+   "b": "At night no light so no photosynthesis; respiration continues releasing CO2; CO2 not absorbed so builds up"
+  },
+  "biology.cycles-ext.0011": {
+   "all": "Manure/compost contain proteins and urea; decomposers break down into ammonium; nitrifying bacteria (aerobic) convert ammonium to nitrite then nitrate; compost improves aeration/drainage favouring nitrifying bacteria and reducing denitrifying bacteria; plants absorb nitrate by active transport to make amino acids/proteins"
+  },
+  "biology.cycles-mcq.0001": {
+   "all": "in root nodules"
+  },
+  "biology.cycles-mcq-fwd.0008": {
+   "all": "decomposers"
+  },
+  "biology.cycles-mcq-rev.0001": {
+   "all": "Removes carbon dioxide from the atmosphere"
+  },
+  "biology.cycles-recall.0001": {
+   "all": "respiration; combustion"
+  },
+  "biology.cycles-recall-fact.0002": {
+   "all": "combustion"
+  },
+  "biology.cycles-recall-multi.0002": {
+   "a": "nitrate ions",
+   "b": "combustion"
+  },
+  "biology.division-variation-data-graph.0002": {
+   "a": "As dose increases number of mutant colonies increases (quote data)",
+   "b": "UV is a mutagen; damages DNA / changes base sequence; higher dose more mutations; mutant cells divide by binary fission/mitosis forming colonies"
+  },
+  "biology.division-variation-data-pct.0003": {
+   "a": "(65-29)/29 x 100 = 124%",
+   "b": "Same variety so genetically similar/same genes; differences in height caused by environment (nitrate); nitrate used for proteins so growth; levels off as another factor limits"
+  },
+  "biology.division-variation-data-plot.0004": {
+   "a": "Axes with labels/units; linear scale; points plotted; smooth curve",
+   "b": "Height increases with nitrate, rate of increase slows, levels off at 46 cm from 40 g per m2"
+  },
+  "biology.division-variation-data-read.0004": {
+   "a": "Read from graph",
+   "b": "(h40 - h10)/30 cm per g per m2",
+   "c": "Same variety so genetic variation minimal; variation due to environment"
+  },
+  "biology.division-variation-describe.0004": {
+   "all": "Grow genetically identical plants (clones) in different conditions - differences due to environment; grow different varieties in identical conditions - differences due to genes; measure heights and compare"
+  },
+  "biology.division-variation-describe-multi.0004": {
+   "a": "scars / tattoos / language / pierced ears",
+   "b": "Chromosomes replicate (copy) before division; line up at the equator; chromatids separate to opposite poles; each new cell gets same number of chromosomes (diploid)"
+  },
+  "biology.division-variation-explain.0006": {
+   "all": "Mutation changes base sequence of gene; changes amino acid sequence; changes shape of active site so substrate no longer fits"
+  },
+  "biology.division-variation-explain-multi.0003": {
+   "a": "mutation",
+   "b": "X-rays are ionising radiation and cause mutations/cancer; lead absorbs X-rays"
+  },
+  "biology.division-variation-mcq.0004": {
+   "all": "they have no effect on the phenotype"
+  },
+  "biology.division-variation-mcq-fwd.0001": {
+   "all": "mitosis"
+  },
+  "biology.division-variation-mcq-rev.0005": {
+   "all": "Can change features such as body mass and scars"
+  },
+  "biology.division-variation-recall.0001": {
+   "all": "Having one set of chromosomes (half the diploid number), as in gametes"
+  }
+ },
+ "verdicts": {
+  "biology.crops-prac-reliab.0002": {
+   "result": "pass"
+  },
+  "biology.crops-prac-risk.0001": {
+   "result": "fail",
+   "problem": "Stem names 'a grower' but part b says 'the student'; part b mark scheme credits irrelevant generic answers (eye-level readings, digital timer/sensor) for measuring lettuce mass.",
+   "fix": "Change 'student' to 'grower'; mark scheme b: use a balance with higher resolution / remove soil and excess water before weighing / weigh several lettuces and find a mean."
+  },
+  "biology.crops-prac-step.0003": {
+   "result": "pass"
+  },
+  "biology.crops-prac-vars.0002": {
+   "result": "pass"
+  },
+  "biology.crops-recall.0004": {
+   "result": "pass"
+  },
+  "biology.crops-recall-fact.0005": {
+   "result": "pass"
+  },
+  "biology.crops-recall-multi.0004": {
+   "result": "pass"
+  },
+  "biology.cycles-describe.0003": {
+   "result": "pass"
+  },
+  "biology.cycles-describe-multi.0008": {
+   "result": "pass"
+  },
+  "biology.cycles-explain.0005": {
+   "result": "pass"
+  },
+  "biology.cycles-explain-multi.0005": {
+   "result": "pass"
+  },
+  "biology.cycles-ext.0011": {
+   "result": "fail",
+   "problem": "Question asks about manure and compost, but half the mark scheme points are about legumes/root nodules and ploughing/draining, which do not answer the question.",
+   "fix": "Replace with: manure/compost contain proteins and urea; decomposers (bacteria/fungi) break these down; ammonification to ammonium; nitrifying bacteria convert ammonium to nitrite then nitrate; compost improves soil aeration favouring nitrifying bacteria and reducing denitrification; plants absorb nitrate by active transport to make amino acids/proteins."
+  },
+  "biology.cycles-mcq.0001": {
+   "result": "pass"
+  },
+  "biology.cycles-mcq-fwd.0008": {
+   "result": "pass"
+  },
+  "biology.cycles-mcq-rev.0001": {
+   "result": "pass"
+  },
+  "biology.cycles-recall.0001": {
+   "result": "pass"
+  },
+  "biology.cycles-recall-fact.0002": {
+   "result": "pass"
+  },
+  "biology.cycles-recall-multi.0002": {
+   "result": "pass"
+  },
+  "biology.division-variation-data-graph.0002": {
+   "result": "pass",
+   "problem": "Diagram not visible; pass as mark scheme values (2 to 65 colonies) are consistent with axis labels."
+  },
+  "biology.division-variation-data-pct.0003": {
+   "result": "pass"
+  },
+  "biology.division-variation-data-plot.0004": {
+   "result": "pass"
+  },
+  "biology.division-variation-data-read.0004": {
+   "result": "pass",
+   "problem": "Diagram not visible; pass as readings (34 cm and 51 cm) are consistent with axis labels."
+  },
+  "biology.division-variation-describe.0004": {
+   "result": "pass"
+  },
+  "biology.division-variation-describe-multi.0004": {
+   "result": "pass"
+  },
+  "biology.division-variation-explain.0006": {
+   "result": "pass"
+  },
+  "biology.division-variation-explain-multi.0003": {
+   "result": "pass"
+  },
+  "biology.division-variation-mcq.0004": {
+   "result": "pass"
+  },
+  "biology.division-variation-mcq-fwd.0001": {
+   "result": "pass"
+  },
+  "biology.division-variation-mcq-rev.0005": {
+   "result": "pass"
+  },
+  "biology.division-variation-recall.0001": {
+   "result": "pass"
+  }
+ }
+}

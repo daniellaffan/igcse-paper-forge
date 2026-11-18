@@ -1,0 +1,211 @@
+{
+ "batch": "biology-017",
+ "answers": {
+  "biology.plant-responses-data-plot.0004": {
+   "a": "time on x, angle on y, labelled with units, linear scale, points correct, smooth curve",
+   "b": "angle increases quickly at first, then rate slows and levels off at about 38 degrees by day 4-5"
+  },
+  "biology.plant-responses-data-read.0004": {
+   "a": "read from graph (~10-14 degrees)",
+   "b": "(angle at 4 - angle at 1)/3 degrees per day",
+   "c": "auxin moves to shaded side; stimulates cell elongation there; shaded side grows faster so bends to light (positive phototropism)"
+  },
+  "biology.plant-responses-describe.0001": {
+   "all": "auxin made in shoot tip; moves to shaded side; causes cell elongation on shaded side; shaded side grows faster so shoot bends towards light"
+  },
+  "biology.plant-responses-describe-multi.0006": {
+   "a": "stimulus",
+   "b": "shoot grows upwards (negative geotropism), root grows downwards (positive geotropism); auxin collects on lower side; inhibits root cell elongation / stimulates shoot cell elongation"
+  },
+  "biology.plant-responses-explain.0003": {
+   "all": "rotation means gravity/light acts equally on all sides; auxin distributed evenly so equal elongation on all sides"
+  },
+  "biology.plant-responses-explain-multi.0003": {
+   "a": "negative geotropism (gravitropism)",
+   "b": "shoot grows towards light so leaves absorb more light; more photosynthesis, more glucose for growth"
+  },
+  "biology.plant-responses-mcq.0001": {
+   "all": "on the shaded side"
+  },
+  "biology.plant-responses-mcq-fwd.0006": {
+   "all": "receptor"
+  },
+  "biology.plant-responses-mcq-rev.0005": {
+   "all": "A change in the environment that is detected"
+  },
+  "biology.plant-responses-prac-method.0001": {
+   "all": "same number/species of seedlings in each box; same soil, water, temperature; leave several days; measure direction/angle of bending and height; compare"
+  },
+  "biology.plant-responses-prac-plan.0002": {
+   "all": "plan: germinating bean seeds pinned to damp cotton wool; one on rotating clinostat, one stationary; same species/age, temperature, dark to exclude light; leave 2-3 days; observe/measure root curvature; repeat with several seeds"
+  },
+  "biology.plant-responses-prac-reliab.0001": {
+   "a": "identify anomalies, calculate mean, more reliable since biological variation",
+   "b": "the all-round light box (or dark box) as control; shows bending is due to directional light, not other factors"
+  },
+  "biology.plant-responses-prac-risk.0001": {
+   "a": "sharp pins - handle carefully / mould - wash hands; or electrical clinostat near water - keep dry",
+   "b": "measure angle with a protractor / mark starting position of root tip"
+  },
+  "biology.plant-responses-prac-step.0004": {
+   "all": "seeds need water to germinate/grow; prevents drying out so roots keep growing"
+  },
+  "biology.plant-responses-prac-vars.0001": {
+   "a": "direction of light",
+   "b": "direction/angle of shoot growth (or height)",
+   "c": "type of seedling; temperature; water; time"
+  },
+  "biology.plant-responses-recall.0002": {
+   "all": "gravity"
+  },
+  "biology.plant-responses-recall-fact.0005": {
+   "all": "stimulus"
+  },
+  "biology.plant-responses-recall-multi.0002": {
+   "a": "gravity",
+   "b": "positive geotropism"
+  },
+  "biology.potometer.0012": {
+   "all": "(6-4)/4 x 100 = 50%"
+  },
+  "biology.quadrats.0011": {
+   "all": "mean = 38/6 = 6.33 per m2; field 750 m2; 6.33 x 750 = 4750"
+  },
+  "biology.respiration-data-graph.0001": {
+   "a": "temperature increases with time (steadily); quote values",
+   "b": "peas respire aerobically; respiration releases energy as heat; vacuum flask insulates so heat not lost"
+  },
+  "biology.respiration-data-pct.0003": {
+   "a": "(41-7)/7 x100 = 486%",
+   "b": "higher temperature, more kinetic energy, enzymes work faster up to optimum; faster respiration; more oxygen used (CO2 absorbed by soda lime) so drop moves further"
+  },
+  "biology.respiration-data-plot.0001": {
+   "a": "axes labelled with units, scale, points, line",
+   "b": "temperature increases steadily from 18 to 27 C over 5 days"
+  },
+  "biology.respiration-data-read.0002": {
+   "a": "about 20 C (graph)",
+   "b": "(T4 - T1)/3, e.g. (25-20)/3 = 1.67 C per day",
+   "c": "respiration releases heat energy; flask insulates"
+  },
+  "biology.respiration-describe.0004": {
+   "all": "ATP provides/stores energy for cell processes; made in respiration, broken down to release energy e.g. for muscle contraction, active transport"
+  },
+  "biology.respiration-describe-multi.0007": {
+   "a": "limewater",
+   "b": "yeast produces ethanol and carbon dioxide; muscle produces lactic acid and no CO2"
+  },
+  "biology.respiration-explain.0007": {
+   "all": "woodlice respire; release carbon dioxide; CO2 increases acidity, so indicator turns yellow"
+  },
+  "biology.respiration-explain-multi.0001": {
+   "a": "glucose + oxygen -> carbon dioxide + water",
+   "b": "kills microorganisms on seed surface; their respiration would also release heat and affect results"
+  },
+  "biology.respiration-mcq.0003": {
+   "all": "hydrogencarbonate indicator"
+  },
+  "biology.respiration-mcq-fwd.0005": {
+   "all": "glucose"
+  }
+ },
+ "verdicts": {
+  "biology.plant-responses-data-plot.0004": {
+   "result": "pass"
+  },
+  "biology.plant-responses-data-read.0004": {
+   "result": "pass",
+   "problem": "Graph not visible; MS readings 11 and 42 degrees give 10.3 degrees/day consistently (passed on consistency)."
+  },
+  "biology.plant-responses-describe.0001": {
+   "result": "pass"
+  },
+  "biology.plant-responses-describe-multi.0006": {
+   "result": "pass"
+  },
+  "biology.plant-responses-explain.0003": {
+   "result": "pass"
+  },
+  "biology.plant-responses-explain-multi.0003": {
+   "result": "pass"
+  },
+  "biology.plant-responses-mcq.0001": {
+   "result": "pass"
+  },
+  "biology.plant-responses-mcq-fwd.0006": {
+   "result": "pass"
+  },
+  "biology.plant-responses-mcq-rev.0005": {
+   "result": "pass"
+  },
+  "biology.plant-responses-prac-method.0001": {
+   "result": "pass"
+  },
+  "biology.plant-responses-prac-plan.0002": {
+   "result": "fail",
+   "problem": "C point is garbled ('change the whether the seeds are rotated') and demands 'at least five values' for a two-level (clinostat vs stationary) variable.",
+   "fix": "C \u2013 compare seeds on a rotating clinostat with seeds on a stationary clinostat / in different orientations."
+  },
+  "biology.plant-responses-prac-reliab.0001": {
+   "result": "pass"
+  },
+  "biology.plant-responses-prac-risk.0001": {
+   "result": "pass"
+  },
+  "biology.plant-responses-prac-step.0004": {
+   "result": "fail",
+   "problem": "Worth 2 marks but the mark scheme gives only one creditable point.",
+   "fix": "Add a second point, e.g. prevents seeds/roots drying out (and dying) so growth/response can be observed; or reduce to 1 mark."
+  },
+  "biology.plant-responses-prac-vars.0001": {
+   "result": "pass"
+  },
+  "biology.plant-responses-recall.0002": {
+   "result": "pass"
+  },
+  "biology.plant-responses-recall-fact.0005": {
+   "result": "pass"
+  },
+  "biology.plant-responses-recall-multi.0002": {
+   "result": "pass"
+  },
+  "biology.potometer.0012": {
+   "result": "pass"
+  },
+  "biology.quadrats.0011": {
+   "result": "pass"
+  },
+  "biology.respiration-data-graph.0001": {
+   "result": "pass",
+   "problem": "Graph not visible; MS data consistent with axis labels."
+  },
+  "biology.respiration-data-pct.0003": {
+   "result": "pass"
+  },
+  "biology.respiration-data-plot.0001": {
+   "result": "pass"
+  },
+  "biology.respiration-data-read.0002": {
+   "result": "pass",
+   "problem": "Graph not visible; MS readings 21 and 27 C give 2.00 C/day consistently (passed on consistency)."
+  },
+  "biology.respiration-describe.0004": {
+   "result": "pass"
+  },
+  "biology.respiration-describe-multi.0007": {
+   "result": "pass"
+  },
+  "biology.respiration-explain.0007": {
+   "result": "pass"
+  },
+  "biology.respiration-explain-multi.0001": {
+   "result": "pass"
+  },
+  "biology.respiration-mcq.0003": {
+   "result": "pass"
+  },
+  "biology.respiration-mcq-fwd.0005": {
+   "result": "pass"
+  }
+ }
+}

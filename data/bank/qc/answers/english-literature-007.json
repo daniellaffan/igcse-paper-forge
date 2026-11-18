@@ -1,0 +1,46 @@
+{
+ "batch": "english-literature-007",
+ "answers": {
+  "english-literature.omam-ranch.0013": {
+   "all": "Most powerful: Slim (respected), Curley (boss's son), Curley's wife (threat), argue."
+  },
+  "english-literature.omam-ranch.0014": {
+   "all": "Minor character e.g. Candy, Slim, Carlson, Whit, boss; role."
+  },
+  "english-literature.omam-setting.0004": {
+   "all": "Barn: Lennie kills Curley's wife, hay, dead puppy, isolated place; Curley's wife's dreams; irony."
+  },
+  "english-literature.omam-setting.0001": {
+   "all": "Settings: Soledad river clearing, bunkhouse, Crooks's room, barn; cyclical structure; river opening and closing."
+  },
+  "english-literature.unseen-a-birthday.0002": {
+   "all": "Rossetti's A Birthday: natural images - singing bird, apple-tree, rainbow shell, halcyon sea; similes in stanza 1, 'My heart is like'; stanza 2 shifts to luxury artifice (dais, vair, peacocks); two 8-line stanzas rhymed; images show joy and fruitfulness."
+  },
+  "english-literature.unseen-a-birthday.0001": {
+   "all": "Joy: simile list 'My heart is like', climax 'gladder than all these', imperatives 'Raise me', 'Hang', 'Carve', 'Work'; luxury, rhyme scheme, refrain 'my love is come to me'."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.omam-ranch.0013": {
+   "result": "pass"
+  },
+  "english-literature.omam-ranch.0014": {
+   "result": "pass"
+  },
+  "english-literature.omam-setting.0004": {
+   "result": "fail",
+   "problem": "Indicative content is the generic settings pool: only one bullet (puppy and Curley's wife deaths) is about the barn, so a 40-mark barn question has almost no barn-specific guidance.",
+   "fix": "Add barn points: Crooks's lean-to adjoins it; Lennie hides the dead puppy in the hay; Curley's wife confides her dreams and loneliness there; Candy finds her body; the quiet, dusty setting contrasts with the violence; link to the river as a refuge."
+  },
+  "english-literature.omam-setting.0001": {
+   "result": "pass"
+  },
+  "english-literature.unseen-a-birthday.0002": {
+   "result": "pass"
+  },
+  "english-literature.unseen-a-birthday.0001": {
+   "result": "pass"
+  }
+ }
+}

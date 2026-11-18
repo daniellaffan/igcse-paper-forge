@@ -1,0 +1,163 @@
+{
+ "batch": "spanish-008",
+ "answers": {
+  "spanish.r-match-ads.c3.0012": {
+   "a": "8",
+   "b": "2",
+   "c": "1",
+   "d": "7",
+   "e": "6"
+  },
+  "spanish.r-match-ads.c4.0005": {
+   "a": "5",
+   "b": "6",
+   "c": "3",
+   "d": "2",
+   "e": "7"
+  },
+  "spanish.r-match-ads.d2.0010": {
+   "a": "5",
+   "b": "7",
+   "c": "8",
+   "d": "2",
+   "e": "1"
+  },
+  "spanish.r-match-ads.e1.0012": {
+   "a": "4",
+   "b": "2",
+   "c": "1",
+   "d": "3",
+   "e": "5"
+  },
+  "spanish.r-pictures.a1.0008": {
+   "a": "B",
+   "b": "A",
+   "c": "D",
+   "d": "F",
+   "e": "E"
+  },
+  "spanish.r-pictures.a2.0012": {
+   "a": "A",
+   "b": "E",
+   "c": "C",
+   "d": "B",
+   "e": "F"
+  },
+  "spanish.r-pictures.a3.0013": {
+   "a": "C",
+   "b": "E",
+   "c": "D",
+   "d": "A",
+   "e": "F"
+  },
+  "spanish.r-pictures.a4.0009": {
+   "a": "B",
+   "b": "F",
+   "c": "A",
+   "d": "E",
+   "e": "C"
+  },
+  "spanish.r-pictures.b1.0010": {
+   "a": "F",
+   "b": "A",
+   "c": "D",
+   "d": "E",
+   "e": "C"
+  },
+  "spanish.r-pictures.b2.0013": {
+   "a": "A",
+   "b": "F",
+   "c": "D",
+   "d": "C",
+   "e": "B"
+  },
+  "spanish.r-pictures.b3.0002": {
+   "a": "F",
+   "b": "C",
+   "c": "D",
+   "d": "A",
+   "e": "E"
+  },
+  "spanish.r-pictures.b4.0005": {
+   "a": "B",
+   "b": "C",
+   "c": "D",
+   "d": "E",
+   "e": "A"
+  },
+  "spanish.r-pictures.b5.0002": {
+   "a": "D",
+   "b": "B",
+   "c": "F",
+   "d": "C",
+   "e": "A"
+  },
+  "spanish.r-pictures.c1.0005": {
+   "a": "E",
+   "b": "D",
+   "c": "C",
+   "d": "A",
+   "e": "B"
+  },
+  "spanish.r-pictures.c2.0002": {
+   "a": "D",
+   "b": "A",
+   "c": "B",
+   "d": "F",
+   "e": "C"
+  }
+ },
+ "verdicts": {
+  "spanish.r-match-ads.c3.0012": {
+   "result": "pass"
+  },
+  "spanish.r-match-ads.c4.0005": {
+   "result": "pass"
+  },
+  "spanish.r-match-ads.d2.0010": {
+   "result": "pass"
+  },
+  "spanish.r-match-ads.e1.0012": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.a1.0008": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.a2.0012": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.a3.0013": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.a4.0009": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.b1.0010": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.b2.0013": {
+   "result": "fail",
+   "problem": "Sentence (b) 'el sofá de mi habitación' also matches the unused picture E (bedroom), so (b) has two defensible answers.",
+   "fix": "Change (b) to 'Me encanta el sofá del salón' or replace distractor E."
+  },
+  "spanish.r-pictures.b3.0002": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.b4.0005": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.b5.0002": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.c1.0005": {
+   "result": "fail",
+   "problem": "Pictures A (French flag) and D (France) both fit (b) 'Francia' and (d) 'francesa'; the two answers are interchangeable.",
+   "fix": "Replace A with a picture clearly showing a French girl/person, or change (d) to a different nationality with its own picture."
+  },
+  "spanish.r-pictures.c2.0002": {
+   "result": "fail",
+   "problem": "Sentence (c) contains an unfilled template placeholder '{city}'.",
+   "fix": "Replace with a real city, e.g. 'Hoy hace frío en Madrid.'"
+  }
+ }
+}

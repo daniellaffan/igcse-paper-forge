@@ -1,0 +1,198 @@
+{
+ "batch": "chemistry-003",
+ "answers": {
+  "chemistry.org-acid-mcq-facts.0005": {
+   "all": "CH3CH2COOH"
+  },
+  "chemistry.org-alc-explain-items.0007": {
+   "all": "Same homologous series; same functional group (-OH), which determines the reactions."
+  },
+  "chemistry.org-alc-mcq-facts.0011": {
+   "all": "it is a continuous process giving pure ethanol"
+  },
+  "chemistry.org-alc2-recall-facts.0008": {
+   "all": "Continuous process / faster / produces pure (not dilute) ethanol."
+  },
+  "chemistry.org-alk-explain-items.0005": {
+   "all": "Alkanes are saturated (only C-C single bonds), no C=C for addition; substitution with bromine needs UV light."
+  },
+  "chemistry.org-alk-mcq-facts.0003": {
+   "all": "ultraviolet light"
+  },
+  "chemistry.org-crude-describe-items.0003": {
+   "all": "Sulfur impurities in fuel burn to SO2; SO2 dissolves in rainwater / reacts with water and oxygen; forms sulfuric (sulfurous) acid, lowering pH of rain."
+  },
+  "chemistry.org-crude-explain-items.0003": {
+   "all": "Colourless, odourless toxic gas; combines with haemoglobin, reducing the blood's capacity to carry oxygen."
+  },
+  "chemistry.org-crude-mcq-facts.0011": {
+   "all": "shorter alkanes and alkenes"
+  },
+  "chemistry.org-crude2-recall-facts.0011": {
+   "all": "Used as fuel for cars (petrol)."
+  },
+  "chemistry.org-ene-describe-items.0011": {
+   "all": "Each successive member differs by CH2."
+  },
+  "chemistry.org-ene-mcq-facts.0001": {
+   "all": "C=C"
+  },
+  "chemistry.org-est-mcq-facts.0001": {
+   "all": "-COO-"
+  },
+  "chemistry.org-est-practical-items.0001": {
+   "all": "Mix ethanol and ethanoic acid in a test tube; add a few drops of concentrated sulfuric acid catalyst; warm in a hot water bath; pour into sodium carbonate solution/water and smell the fruity ester."
+  },
+  "chemistry.org-est2-recall-facts.0003": {
+   "all": "Food flavourings / perfumes."
+  },
+  "chemistry.org-intro-explain-items.0012": {
+   "all": "Combustion breaks up the whole molecule (all bonds) forming CO2 and H2O; no atom is simply replaced (substitution) and no atoms are added across a double bond (addition) - it is oxidation."
+  },
+  "chemistry.org-intro-mcq-facts.0011": {
+   "all": "2"
+  },
+  "chemistry.org-poly-explain-items.0009": {
+   "all": "Condensation polymerisation needs each monomer to react at both ends; ester link forms between -COOH and -OH, so need a dicarboxylic acid + diol (or a hydroxy-acid), eliminating water."
+  },
+  "chemistry.org-poly-mcq-facts.0009": {
+   "all": "broken down by microorganisms"
+  },
+  "chemistry.periodic-config-mcq.0002": {
+   "all": "2.4"
+  },
+  "chemistry.periodic-explain-items.0009": {
+   "all": "Blue = alkaline solution (pH ~8-10); metal oxides are basic, so the element is a metal."
+  },
+  "chemistry.periodic-mcq-facts.0003": {
+   "all": "they have the same number of outer electrons"
+  },
+  "chemistry.periodic-use-table.0009": {
+   "a": "calcium",
+   "b": "2.6",
+   "c": "Group 0 (8/18), Period 3",
+   "d": "non-metal"
+  },
+  "chemistry.polymers-eq.0016": {
+   "i": "Ester linkage",
+   "ii": "Polyester (condensation polymer) can be hydrolysed / is biodegradable, whereas poly(ethene) is inert (strong C-C bonds) and non-biodegradable."
+  },
+  "chemistry.polymers-recall.0003": {
+   "a": "poly(chloroethene) / PVC",
+   "b": "chloroethene (vinyl chloride)",
+   "c": "Water pipes / window frames / cable insulation"
+  },
+  "chemistry.rates-calc.0016": {
+   "all": "24/30 = 0.80 cm3/s"
+  },
+  "chemistry.rates-explain-items.0006": {
+   "all": "Particles closer together / more particles per unit volume; more frequent collisions (more successful collisions per second)."
+  },
+  "chemistry.rates-extended-items.0012": {
+   "all": "Higher pressure: more particles per volume, more frequent collisions. Higher temperature: particles have more kinetic energy, more collisions with energy >= Ea, more frequent. Not maximum: high pressure is expensive (equipment, energy) and dangerous; high temperature costs energy and may lower equilibrium yield (exothermic), so compromise conditions used."
+  },
+  "chemistry.rates-graph-data.0007": {
+   "a": "Cannot read: graph curve data not given in text (axes only).",
+   "b": "Depends on (a): volume at 60 s / 60.",
+   "c": "Reaction has stopped because one reactant (zinc or acid) is used up.",
+   "d": "Steeper initial gradient, levels off earlier at the same final volume."
+  },
+  "chemistry.rates-mcq-facts.0006": {
+   "all": "particles are closer together so collide more often"
+  }
+ },
+ "verdicts": {
+  "chemistry.org-acid-mcq-facts.0005": {
+   "result": "pass"
+  },
+  "chemistry.org-alc-explain-items.0007": {
+   "result": "pass"
+  },
+  "chemistry.org-alc-mcq-facts.0011": {
+   "result": "pass"
+  },
+  "chemistry.org-alc2-recall-facts.0008": {
+   "result": "pass"
+  },
+  "chemistry.org-alk-explain-items.0005": {
+   "result": "pass"
+  },
+  "chemistry.org-alk-mcq-facts.0003": {
+   "result": "pass"
+  },
+  "chemistry.org-crude-describe-items.0003": {
+   "result": "pass"
+  },
+  "chemistry.org-crude-explain-items.0003": {
+   "result": "pass"
+  },
+  "chemistry.org-crude-mcq-facts.0011": {
+   "result": "pass"
+  },
+  "chemistry.org-crude2-recall-facts.0011": {
+   "result": "pass"
+  },
+  "chemistry.org-ene-describe-items.0011": {
+   "result": "pass"
+  },
+  "chemistry.org-ene-mcq-facts.0001": {
+   "result": "pass"
+  },
+  "chemistry.org-est-mcq-facts.0001": {
+   "result": "pass"
+  },
+  "chemistry.org-est-practical-items.0001": {
+   "result": "pass"
+  },
+  "chemistry.org-est2-recall-facts.0003": {
+   "result": "pass"
+  },
+  "chemistry.org-intro-explain-items.0012": {
+   "result": "pass"
+  },
+  "chemistry.org-intro-mcq-facts.0011": {
+   "result": "pass"
+  },
+  "chemistry.org-poly-explain-items.0009": {
+   "result": "pass"
+  },
+  "chemistry.org-poly-mcq-facts.0009": {
+   "result": "pass"
+  },
+  "chemistry.periodic-config-mcq.0002": {
+   "result": "pass"
+  },
+  "chemistry.periodic-explain-items.0009": {
+   "result": "pass"
+  },
+  "chemistry.periodic-mcq-facts.0003": {
+   "result": "pass"
+  },
+  "chemistry.periodic-use-table.0009": {
+   "result": "pass"
+  },
+  "chemistry.polymers-eq.0016": {
+   "result": "pass"
+  },
+  "chemistry.polymers-recall.0003": {
+   "result": "pass"
+  },
+  "chemistry.rates-calc.0016": {
+   "result": "pass"
+  },
+  "chemistry.rates-explain-items.0006": {
+   "result": "pass"
+  },
+  "chemistry.rates-extended-items.0012": {
+   "result": "pass"
+  },
+  "chemistry.rates-graph-data.0007": {
+   "result": "fail",
+   "problem": "Graph curve is not available in the question text (only axis labels), so (a)/(b) cannot be answered or the 81.8 cm3 value verified; 81.8 also implies reading to 0.1 cm3 on a 10 cm3 grid.",
+   "fix": "Ensure the rendered graph shows the curve clearly and give a readable value (e.g. 82 cm3, rate 1.4 cm3/s); otherwise state data in a table."
+  },
+  "chemistry.rates-mcq-facts.0006": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,231 @@
+{
+ "batch": "physics-000",
+ "answers": {
+  "physics.astrophysics-cosmology-explain-kb.0002": {
+   "all": "Big Bang predicts early universe hot/dense; radiation from then has been stretched (redshifted) by expansion into microwaves, uniform from all directions - CMB is that remnant. (Note stem says red-shift.)"
+  },
+  "physics.astrophysics-cosmology-extended-kb.0008": {
+   "a": "wavelength decreases (blue-shift)",
+   "b": "Universe began from a very small, hot, dense point ~13.8 bn yr ago and has expanded since. Evidence: galaxies' light red-shifted, so receding; more distant galaxies have greater red-shift so moving faster (Hubble) - consistent with expansion from a point; CMB radiation from all directions, remnant of early hot universe, stretched to microwaves."
+  },
+  "physics.astrophysics-cosmology-mcq-kb.0002": {
+   "all": "cosmic microwave background radiation"
+  },
+  "physics.astrophysics-cosmology-recall-kb.0001": {
+   "all": "red-shift of light from distant galaxies (increasing with distance); cosmic microwave background radiation"
+  },
+  "physics.astrophysics-stars-describe-kb.0011": {
+   "a": "nebula of gas and dust pulled together by gravity; becomes denser/hotter forming protostar; when hot enough hydrogen nuclei fuse - star (main sequence)",
+   "b": "expands to red giant; outer layers shed (planetary nebula), core becomes white dwarf"
+  },
+  "physics.astrophysics-stars-explain-kb.0006": {
+   "a": "inward gravitational force balanced by outward pressure from fusion energy; large hydrogen supply so lasts long",
+   "b": "apparent brightness depends on distance as well as luminosity; a more luminous star further away can look as bright as a dimmer nearer one, so different absolute magnitudes"
+  },
+  "physics.astrophysics-stars-mcq-kb.0013": {
+   "a": "a white dwarf",
+   "b": "red supergiant"
+  },
+  "physics.astrophysics-stars-recall-kb.0007": {
+   "a": "supernova",
+   "b": "red, orange, yellow, white, blue"
+  },
+  "physics.astrophysics-universe-describe-kb.0011": {
+   "a": "universe made of many (billions of) galaxies; each galaxy a large collection of billions of stars (and solar systems)",
+   "b": "moon orbits a planet; planet orbits a star (Sun); different periods/sizes",
+   "c": "mass stays the same; weight decreases (about 1/6) because g on Moon is smaller (1.6 vs 10 N/kg)"
+  },
+  "physics.astrophysics-universe-explain-kb.0013": {
+   "a": "direction of motion continually changes so velocity changes; acceleration is change of velocity (towards centre, due to gravity)",
+   "b": "gravitational force from Sun increases as it gets closer; GPE converted to KE",
+   "c": "gravitational field strength on Moon is lower so weight smaller; same push gives greater height / less deceleration"
+  },
+  "physics.astrophysics-universe-mcq-kb.0003": {
+   "all": "gravitational force"
+  },
+  "physics.astrophysics-universe-recall-kb.0007": {
+   "a": "gravity",
+   "b": "a large collection of billions of stars",
+   "c": "comet orbit highly elliptical, planet near-circular; comet speed varies greatly / comet orbit not in same plane / longer period"
+  },
+  "physics.at-chart.0002": {
+   "a": "95 protons, 146 neutrons",
+   "b": "daughter at Z=93, N=144; arrow from Am-241 (95,146) to (93,144)",
+   "c": "mass number 237, atomic number 93"
+  },
+  "physics.at-equation.0003": {
+   "a": "60/27 Co -> 56/25 X + 4/2 He (alpha)",
+   "b": "mass numbers: 60 = 56 + 4; atomic numbers: 27 = 25 + 2"
+  },
+  "physics.at-prac-abs.0005": {
+   "a": "remove source (far away), count with GM tube over a set time (e.g. several minutes), repeat and average, per minute",
+   "b": "alpha only: paper reduces count to background (24), so all radiation absorbed by paper; no beta/gamma since counts beyond paper equal background",
+   "c": "handle source with tongs; keep source at arm's length/point away; store in lead box when not in use; minimise time"
+  },
+  "physics.at-prac-thick.0002": {
+   "a": "IV thickness of aluminium; DV count in 1 min (count rate)",
+   "b": "CANNOT ANSWER: table gives no thickness values, so cannot tell which count corresponds to 1.0 mm",
+   "c": "beta - count drops steadily with mm of aluminium (absorbed by few mm Al), not stopped by paper/thin; low count at end near background",
+   "d": "radioactive decay is random; averaging reduces effect of random variation"
+  },
+  "physics.ch-eqv.0003": {
+   "all": "V = E/Q = 1740/290 = 6.0 V"
+  },
+  "physics.ch-qit.0003": {
+   "all": "I = Q/t = 13000/81 = 160 A (160.5)"
+  },
+  "physics.ch-series.0001": {
+   "a": "R = 12 ohm, I = 6/12 = 0.50 A",
+   "b": "V = 0.5 x 3 = 1.5 V"
+  },
+  "physics.ci-data-iv.0006": {
+   "a": "CANNOT FULLY ANSWER: voltage values missing from table; would plot curve through origin with decreasing gradient",
+   "b": "cannot - voltage values not given (need I at 4 V; R = 4/I)",
+   "c": "resistance increases as voltage increases (curve gradient decreases) because filament heats up"
+  },
+  "physics.ci-data-ldr.0006": {
+   "a": "distance values missing from table - cannot plot",
+   "b": "cannot - distance values not given",
+   "c": "resistance of LDR increases as distance increases (light intensity decreases), not proportionally"
+  },
+  "physics.ci-draw.0003": {
+   "all": "series circuit: cell/battery, diode, lamp (optional switch) in a single loop; correct symbols; then reverse diode to show lamp off"
+  },
+  "physics.ci-ldr.0003": {
+   "a": "R = 430 ohm, I = 9/430 = 0.021 A",
+   "b": "darker -> LDR resistance increases, total resistance increases so current decreases"
+  },
+  "physics.ci-prac-iv.0001": {
+   "a": "variable resistor (rheostat)",
+   "b": "current (ammeter reading) and voltage (voltmeter reading)",
+   "c": "resistor heats up when current flows; temperature rise would change resistance, so switching off keeps temperature constant (also saves battery/safety)",
+   "d": "calculate R = V/I for each pair; compare / plot R against I (or plot V-I graph: straight line through origin means constant R)"
+  },
+  "physics.ci-prac-ldr.0005": {
+   "a": "thermistor in water bath with thermometer; connect to ohmmeter (or V and I with R=V/I); heat water, stir, measure temperature and resistance at intervals (e.g. every 10 C); plot R vs T",
+   "b": "same thermistor / same supply voltage / depth of immersion",
+   "c": "thermometer reading lag / uneven temperature - stir water and wait for reading to stabilise; or parallax - read at eye level"
+  },
+  "physics.ci-read.0006": {
+   "a": "I = 3/3 + 3/8 = 1.0 + 0.375 = 1.375 = 1.4 A",
+   "b": "3 V",
+   "c": "voltmeter in parallel across the resistor"
+  },
+  "physics.ci-vir.0005": {
+   "all": "R = 193/2.35 = 82 ohm"
+  },
+  "physics.co-redshift.0007": {
+   "all": "delta lambda = lambda0 v/c = 587.6 x 1.9e7/3.0e8 = 37 nm"
+  },
+  "physics.de-hrg.0005": {
+   "all": "p = h rho g = 164.1 x 1200 x 10 = 1 969 200 Pa (2.0 MPa)"
+  },
+  "physics.de-p.0002": {
+   "a": "pressure = force / area",
+   "b": "p = 16050/0.013 = 1.23 x 10^6 Pa (if 0.013 m^2 is total area; ambiguous whether per foot)"
+  }
+ },
+ "verdicts": {
+  "physics.astrophysics-cosmology-explain-kb.0002": {
+   "result": "pass"
+  },
+  "physics.astrophysics-cosmology-extended-kb.0008": {
+   "result": "pass"
+  },
+  "physics.astrophysics-cosmology-mcq-kb.0002": {
+   "result": "pass"
+  },
+  "physics.astrophysics-cosmology-recall-kb.0001": {
+   "result": "pass"
+  },
+  "physics.astrophysics-stars-describe-kb.0011": {
+   "result": "pass"
+  },
+  "physics.astrophysics-stars-explain-kb.0006": {
+   "result": "pass"
+  },
+  "physics.astrophysics-stars-mcq-kb.0013": {
+   "result": "pass"
+  },
+  "physics.astrophysics-stars-recall-kb.0007": {
+   "result": "pass"
+  },
+  "physics.astrophysics-universe-describe-kb.0011": {
+   "result": "pass"
+  },
+  "physics.astrophysics-universe-explain-kb.0013": {
+   "result": "pass"
+  },
+  "physics.astrophysics-universe-mcq-kb.0003": {
+   "result": "pass"
+  },
+  "physics.astrophysics-universe-recall-kb.0007": {
+   "result": "pass"
+  },
+  "physics.at-chart.0002": {
+   "result": "pass"
+  },
+  "physics.at-equation.0003": {
+   "result": "pass"
+  },
+  "physics.at-prac-abs.0005": {
+   "result": "pass"
+  },
+  "physics.at-prac-thick.0002": {
+   "result": "void",
+   "fix": "Add a thickness row, e.g. thickness in mm | 0 | 0.5 | 1.0 | 1.5 | 2.0 | 2.5 | 5.0 (or whichever values were generated) so 1.0 mm maps to 508.",
+   "original_problem": "Results table has no thickness row, so the count for 1.0 mm cannot be identified (MS 482 assumes 508 at 1.0 mm); part (c) reasoning also needs thicknesses.",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.ch-eqv.0003": {
+   "result": "pass"
+  },
+  "physics.ch-qit.0003": {
+   "result": "pass"
+  },
+  "physics.ch-series.0001": {
+   "result": "pass"
+  },
+  "physics.ci-data-iv.0006": {
+   "result": "void",
+   "fix": "Add voltage row e.g. voltage in V | 0 | 1 | 2 | 3 | 4 | 5 | 6 (MS implies 4 V -> 0.423 A).",
+   "original_problem": "Table gives only current values; voltage row is missing, so the graph cannot be plotted and R at 4 V cannot be found.",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.ci-data-ldr.0006": {
+   "result": "void",
+   "fix": "Add distance row (in cm) to the results table.",
+   "original_problem": "Table gives only resistance values; distance row is missing, so graph and the 35 cm estimate cannot be done.",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.ci-draw.0003": {
+   "result": "pass"
+  },
+  "physics.ci-ldr.0003": {
+   "result": "pass"
+  },
+  "physics.ci-prac-iv.0001": {
+   "result": "pass"
+  },
+  "physics.ci-prac-ldr.0005": {
+   "result": "pass"
+  },
+  "physics.ci-read.0006": {
+   "result": "pass"
+  },
+  "physics.ci-vir.0005": {
+   "result": "pass"
+  },
+  "physics.co-redshift.0007": {
+   "result": "fail",
+   "problem": "Mark scheme answer 36.2 nm is wrong for the given data: 587.6 x 1.9e7 / 3.0e8 = 37.2 nm (MS appears to use v = 1.85e7).",
+   "fix": "Answer 37.2 nm (allow 37, 37.2, 37.21)."
+  },
+  "physics.de-hrg.0005": {
+   "result": "pass"
+  },
+  "physics.de-p.0002": {
+   "result": "pass"
+  }
+ }
+}

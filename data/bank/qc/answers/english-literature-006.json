@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-006",
+ "answers": {
+  "english-literature.omam-loneliness.0008": {
+   "all": "Friendship: George and Lennie rare; Candy/dog; Crooks; Slim; ending suggests impossible; but dreams show possibility."
+  },
+  "english-literature.omam-loneliness.0006": {
+   "all": "Friendship: George & Lennie, Candy & dog, Slim as understanding, Crooks's isolation; 'guys like us' speech; context 1930s migrant workers."
+  },
+  "english-literature.omam-outsiders.0012": {
+   "all": "Chapter 4: Crooks's room, outcasts meet, Lennie's innocence, Candy, Curley's wife's threat to Crooks; shows lonely outsiders; race, disability, gender hierarchy."
+  },
+  "english-literature.omam-outsiders.0006": {
+   "all": "Crooks: Black stable buck, crooked back, isolated room, intellect, books, bitter; Curley's wife's threat; context Jim Crow."
+  },
+  "english-literature.omam-power.0010": {
+   "all": "Power: Curley, Slim, Curley's wife, boss, race and gender hierarchies; context Depression."
+  },
+  "english-literature.omam-power.0002": {
+   "all": "Discrimination: racism towards Crooks, sexism to Curley's wife, ableism to Candy and Lennie; Jim Crow; context."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.omam-loneliness.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-loneliness.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-outsiders.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-outsiders.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-power.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-power.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

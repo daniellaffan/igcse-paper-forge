@@ -1,0 +1,121 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "spec.schema.json",
+  "title": "Simplified specification for one subject",
+  "type": "object",
+  "required": ["subject", "code", "board", "title", "official_url", "papers", "qtypes", "topics"],
+  "properties": {
+    "subject": {"type": "string"},
+    "code": {"type": "string"},
+    "board": {"type": "string"},
+    "title": {"type": "string"},
+    "short": {"type": "string"},
+    "official_url": {"type": "string", "description": "Official past papers / qualification page"},
+    "spec_url": {"type": "string"},
+    "papers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "minutes", "marks"],
+        "properties": {
+          "id": {"type": "string"},
+          "name": {"type": "string"},
+          "paper_code": {"type": "string", "description": "e.g. 4MA1/1H"},
+          "minutes": {"type": "number"},
+          "marks": {"type": "number"},
+          "calculator": {"type": ["boolean", "null"]},
+          "instructions": {"type": "array", "items": {"type": "string"}},
+          "information": {"type": "array", "items": {"type": "string"}},
+          "advice": {"type": "array", "items": {"type": "string"}},
+          "materials": {"type": "string"},
+          "reference_sheet": {"type": "string", "description": "id of formula sheet / data page to print"},
+          "answer_style": {"enum": ["in-booklet", "answer-lines", "separate-booklet"]},
+          "sections": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["id", "title"],
+              "properties": {
+                "id": {"type": "string"},
+                "title": {"type": "string"},
+                "instructions": {"type": "string"},
+                "marks": {"type": "number"},
+                "option_group": {"type": "string", "description": "candidate answers ONE option from this group"},
+                "slots": {
+                  "type": "array",
+                  "description": "Full-paper preset: questions in real order",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "qtypes": {"type": "array", "items": {"type": "string"}},
+                      "marks": {"type": "number"},
+                      "count": {"type": "number"},
+                      "choice": {"type": "number", "description": "pick this many alternatives (EITHER/OR); the candidate answers one"},
+                      "option": {"type": "string"},
+                      "topics": {"type": "array", "items": {"type": "string"}},
+                      "label": {"type": "string"}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "qtypes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label"],
+        "properties": {"id": {"type": "string"}, "label": {"type": "string"}, "description": {"type": "string"}, "marks": {"type": "string"}}
+      }
+    },
+    "options": {
+      "type": "array",
+      "items": {"type": "object", "properties": {"id": {"type": "string"}, "name": {"type": "string"}, "paper": {"type": "string"}, "section": {"type": "string"}}}
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "ref", "title", "subtopics"],
+        "properties": {
+          "id": {"type": "string"},
+          "ref": {"type": "string"},
+          "title": {"type": "string"},
+          "papers": {"type": "array", "items": {"type": "string"}},
+          "option": {"type": "string"},
+          "subtopics": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["id", "ref", "title", "summary", "qtypes", "points"],
+              "properties": {
+                "id": {"type": "string"},
+                "ref": {"type": "string"},
+                "title": {"type": "string"},
+                "summary": {"type": "string"},
+                "papers": {"type": "array", "items": {"type": "string"}},
+                "qtypes": {"type": "array", "items": {"type": "string"}},
+                "points": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["ref", "summary"],
+                    "properties": {
+                      "ref": {"type": "string"},
+                      "summary": {"type": "string"},
+                      "paper2_only": {"type": "boolean"},
+                      "higher_only": {"type": "boolean"}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

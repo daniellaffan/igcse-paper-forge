@@ -1,0 +1,213 @@
+{
+ "batch": "physics-recheck-3",
+ "answers": {
+  "physics.energy-resources-describe-kb.0001": {
+   "all": "Gas burned to heat water into high-pressure steam; steam turns turbine; turbine turns generator producing electricity"
+  },
+  "physics.energy-resources-explain-kb.0004": {
+   "all": "Short start-up time; can be switched on/increase output quickly to match demand"
+  },
+  "physics.energy-resources-extended-kb.0011": {
+   "a": "Water stored high behind dam (GPE); released, flows down gaining KE; turns turbines which drive generators",
+   "b": "Plan: coal - reliable, constant output, controllable, cheap fuel, but CO2 (global warming), SO2 (acid rain), non-renewable. Wind - renewable, no emissions/fuel cost, but unreliable (depends on wind), lower output per turbine so needs large area, visual/noise. Conclusion with justification e.g. wind plus backup."
+  },
+  "physics.energy-resources-mcq-kb.0008": {
+   "a": "natural gas",
+   "b": "gravitational potential to kinetic",
+   "c": "nuclear power station using uranium"
+  },
+  "physics.energy-resources-recall-kb.0011": {
+   "a": "wind, solar (tidal, hydro, geothermal, biomass)",
+   "b": "coal, oil (natural gas)",
+   "c": "No CO2 emissions / lots of energy from small mass of fuel / reliable"
+  },
+  "physics.energy-thermal-describe-kb.0005": {
+   "a": "Hot end particles vibrate more; pass vibrations to neighbours via collisions; free electrons gain KE and move through metal transferring energy quickly",
+   "b": "Land heats faster than sea; air above land warms, expands, less dense, rises; cooler denser air from sea moves in to replace it"
+  },
+  "physics.energy-thermal-explain-kb.0005": {
+   "all": "Metal is a better conductor; transfers energy away from hand faster so hand cools quickly"
+  },
+  "physics.energy-thermal-extended-kb.0010": {
+   "a": "Air near heater warms, expands, becomes less dense and rises; cools at ceiling/far side, becomes denser and sinks; returns to heater - circulating current",
+   "b": "Plan: conduction - loft insulation/cavity wall foam trap air (poor conductor), double glazing air/vacuum gap. Convection - foam in cavity stops air circulating, draught excluders, double glazing narrow gap. Radiation - shiny foil behind radiators/in loft reflects IR back, light-coloured surfaces emit less."
+  },
+  "physics.energy-thermal-mcq-kb.0006": {
+   "all": "traps air, a poor conductor"
+  },
+  "physics.energy-thermal-recall-kb.0003": {
+   "a": "conduction, convection, radiation",
+   "b": "matt black"
+  },
+  "physics.energy-transfers-describe-kb.0014": {
+   "a": "Gravitational potential store decreases; kinetic store increases (some to thermal via air resistance)",
+   "b": "Electrical work by current; increases thermal store of water (some wasted to surroundings/sound)",
+   "c": "Chemical store of fuel; transferred by combustion to thermal and kinetic store of car; wasted as thermal to surroundings and sound"
+  },
+  "physics.energy-transfers-mcq-kb.0008": {
+   "all": "75%"
+  },
+  "physics.energy-transfers-recall-kb.0008": {
+   "a": "kinetic, gravitational potential (chemical, thermal, elastic, nuclear, magnetic, electrostatic)",
+   "b": "Transferred to surroundings as thermal energy (dissipated, heats surroundings)",
+   "c": "thermal (of brakes)"
+  },
+  "physics.energy-work-explain-kb.0008": {
+   "a": "Same work done (same weight, same height); in less time so power = work/time is greater",
+   "b": "KE = 1/2 m v^2 so doubling speed quadruples KE; braking force does work = F x d; so braking distance about four times"
+  },
+  "physics.energy-work-mcq-kb.0003": {
+   "all": "100 J"
+  },
+  "physics.energy-work-recall-kb.0006": {
+   "a": "GPE = m x g x h",
+   "b": "KE = 1/2 x m x v^2"
+  },
+  "physics.forces-elasticity-explain-kb.0014": {
+   "a": "Straight line through origin; extension directly proportional to force",
+   "b": "Graph curves / not straight; extension not proportional to force",
+   "c": "Avoid parallax error; reading would be too high/low, more accurate"
+  },
+  "physics.forces-elasticity-mcq-kb.0006": {
+   "all": "metre rule"
+  },
+  "physics.forces-elasticity-recall-kb.0007": {
+   "a": "Object returns to original shape/length when force removed",
+   "b": "limit of proportionality"
+  },
+  "physics.forces-forces-describe-kb.0006": {
+   "a": "At start weight only, air resistance zero; as speed increases air resistance increases, resultant force decreases; at terminal velocity air resistance equals weight, resultant zero",
+   "b": "Same direction add; opposite directions subtract; direction of larger force",
+   "c": "Friction acts opposite to motion; reduces resultant force/acceleration, heats surfaces, need push = friction for constant speed"
+  },
+  "physics.forces-forces-explain-kb.0003": {
+   "all": "Less friction between tyres and road; smaller braking force/deceleration so greater braking distance"
+  },
+  "physics.forces-forces-extended-kb.0001": {
+   "all": "Plan: starts weight only, accelerates at 10 m/s^2; speed up, drag up, resultant & acceleration fall; drag = weight terminal velocity; parachute opens: drag > weight, decelerates; drag falls as slows until equal weight, new lower terminal velocity; lands at low speed."
+  },
+  "physics.forces-forces-mcq-kb.0009": {
+   "all": "50 N"
+  },
+  "physics.forces-forces-recall-kb.0005": {
+   "a": "change speed; change direction (or shape)",
+   "b": "Vector has magnitude and direction, scalar magnitude only"
+  },
+  "physics.forces-moments-explain-kb.0002": {
+   "all": "Load produces clockwise moment about tower; counterweight produces anticlockwise moment; balances moments so crane doesn't topple/centre of gravity over base"
+  },
+  "physics.forces-moments-mcq-kb.0014": {
+   "a": "N m",
+   "b": "it increases",
+   "c": "the same force gives a larger moment"
+  },
+  "physics.forces-moments-recall-kb.0006": {
+   "a": "For an object in equilibrium, sum of clockwise moments about a pivot = sum of anticlockwise moments",
+   "b": "Point through which the weight appears to act",
+   "c": "N m"
+  },
+  "physics.forces-momentum-explain-kb.0014": {
+   "a": "Increases time to stop ball; same momentum change so smaller force (F = change in momentum / time)",
+   "b": "Rocket exerts downward force on gas; gas exerts equal and opposite upward force on rocket (N3) / momentum conserved"
+  },
+  "physics.forces-momentum-mcq-kb.0007": {
+   "all": "has a direction as well as a size"
+  },
+  "physics.forces-momentum-recall-kb.0014": {
+   "a": "Total momentum before = total momentum after; provided no external forces act",
+   "b": "kg m/s"
+  }
+ },
+ "verdicts": {
+  "physics.energy-resources-describe-kb.0001": {
+   "result": "pass"
+  },
+  "physics.energy-resources-explain-kb.0004": {
+   "result": "pass"
+  },
+  "physics.energy-resources-extended-kb.0011": {
+   "result": "pass"
+  },
+  "physics.energy-resources-mcq-kb.0008": {
+   "result": "pass"
+  },
+  "physics.energy-resources-recall-kb.0011": {
+   "result": "pass"
+  },
+  "physics.energy-thermal-describe-kb.0005": {
+   "result": "pass"
+  },
+  "physics.energy-thermal-explain-kb.0005": {
+   "result": "pass"
+  },
+  "physics.energy-thermal-extended-kb.0010": {
+   "result": "pass"
+  },
+  "physics.energy-thermal-mcq-kb.0006": {
+   "result": "pass"
+  },
+  "physics.energy-thermal-recall-kb.0003": {
+   "result": "pass"
+  },
+  "physics.energy-transfers-describe-kb.0014": {
+   "result": "pass"
+  },
+  "physics.energy-transfers-mcq-kb.0008": {
+   "result": "pass"
+  },
+  "physics.energy-transfers-recall-kb.0008": {
+   "result": "pass"
+  },
+  "physics.energy-work-explain-kb.0008": {
+   "result": "pass"
+  },
+  "physics.energy-work-mcq-kb.0003": {
+   "result": "pass"
+  },
+  "physics.energy-work-recall-kb.0006": {
+   "result": "pass"
+  },
+  "physics.forces-elasticity-explain-kb.0014": {
+   "result": "pass"
+  },
+  "physics.forces-elasticity-mcq-kb.0006": {
+   "result": "pass"
+  },
+  "physics.forces-elasticity-recall-kb.0007": {
+   "result": "pass"
+  },
+  "physics.forces-forces-describe-kb.0006": {
+   "result": "pass"
+  },
+  "physics.forces-forces-explain-kb.0003": {
+   "result": "pass"
+  },
+  "physics.forces-forces-extended-kb.0001": {
+   "result": "pass"
+  },
+  "physics.forces-forces-mcq-kb.0009": {
+   "result": "pass"
+  },
+  "physics.forces-forces-recall-kb.0005": {
+   "result": "pass"
+  },
+  "physics.forces-moments-explain-kb.0002": {
+   "result": "pass"
+  },
+  "physics.forces-moments-mcq-kb.0014": {
+   "result": "pass"
+  },
+  "physics.forces-moments-recall-kb.0006": {
+   "result": "pass"
+  },
+  "physics.forces-momentum-explain-kb.0014": {
+   "result": "pass"
+  },
+  "physics.forces-momentum-mcq-kb.0007": {
+   "result": "pass"
+  },
+  "physics.forces-momentum-recall-kb.0014": {
+   "result": "pass"
+  }
+ }
+}

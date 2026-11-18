@@ -1,0 +1,176 @@
+{
+ "batch": "spanish-000",
+ "answers": {
+  "spanish.l-announce.a1.0003": {
+   "a": "D",
+   "b": "D",
+   "c": "D",
+   "d": "C",
+   "e": "B",
+   "f": "D"
+  },
+  "spanish.l-announce.a2.0010": {
+   "a": "A",
+   "b": "B",
+   "c": "C",
+   "d": "A",
+   "e": "C",
+   "f": "D"
+  },
+  "spanish.l-announce.a3.0010": {
+   "a": "A",
+   "b": "A",
+   "c": "B",
+   "d": "C",
+   "e": "B",
+   "f": "D"
+  },
+  "spanish.l-announce.a4.0010": {
+   "a": "C",
+   "b": "C",
+   "c": "B",
+   "d": "A",
+   "e": "B",
+   "f": "C"
+  },
+  "spanish.l-announce.b1.0008": {
+   "a": "A",
+   "b": "A",
+   "c": "D",
+   "d": "B",
+   "e": "A",
+   "f": "C"
+  },
+  "spanish.l-announce.b2.0006": {
+   "a": "A",
+   "b": "D",
+   "c": "D",
+   "d": "C",
+   "e": "A",
+   "f": "A"
+  },
+  "spanish.l-announce.b4.0007": {
+   "a": "A",
+   "b": "C",
+   "c": "A",
+   "d": "C",
+   "e": "C",
+   "f": "B"
+  },
+  "spanish.l-announce.b5.0004": {
+   "a": "A",
+   "b": "A",
+   "c": "C",
+   "d": "A",
+   "e": "A",
+   "f": "D"
+  },
+  "spanish.l-announce.c1.0007": {
+   "a": "A",
+   "b": "A",
+   "c": "A",
+   "d": "A",
+   "e": "C",
+   "f": "C"
+  },
+  "spanish.l-announce.c2.0008": {
+   "a": "B",
+   "b": "A",
+   "c": "A",
+   "d": "A",
+   "e": "C",
+   "f": "D"
+  },
+  "spanish.l-announce.c3.0013": {
+   "a": "D",
+   "b": "B",
+   "c": "D",
+   "d": "A",
+   "e": "A",
+   "f": "C"
+  },
+  "spanish.l-announce.c4.0011": {
+   "a": "C",
+   "b": "B",
+   "c": "D",
+   "d": "A",
+   "e": "D",
+   "f": "A"
+  },
+  "spanish.l-announce.d1.0001": {
+   "a": "D",
+   "b": "C",
+   "c": "A",
+   "d": "A",
+   "e": "C",
+   "f": "C"
+  },
+  "spanish.l-announce.d2.0003": {
+   "a": "B",
+   "b": "A",
+   "c": "C",
+   "d": "B",
+   "e": "D",
+   "f": "B"
+  },
+  "spanish.l-announce.e1.0008": {
+   "a": "B",
+   "b": "D",
+   "c": "B",
+   "d": "B",
+   "e": "C",
+   "f": "C"
+  }
+ },
+ "verdicts": {
+  "spanish.l-announce.a1.0003": {
+   "result": "pass"
+  },
+  "spanish.l-announce.a2.0010": {
+   "result": "pass"
+  },
+  "spanish.l-announce.a3.0010": {
+   "result": "pass"
+  },
+  "spanish.l-announce.a4.0010": {
+   "result": "pass"
+  },
+  "spanish.l-announce.b1.0008": {
+   "result": "pass"
+  },
+  "spanish.l-announce.b2.0006": {
+   "result": "pass"
+  },
+  "spanish.l-announce.b4.0007": {
+   "result": "pass"
+  },
+  "spanish.l-announce.b5.0004": {
+   "result": "pass"
+  },
+  "spanish.l-announce.c1.0007": {
+   "result": "pass"
+  },
+  "spanish.l-announce.c2.0008": {
+   "result": "pass"
+  },
+  "spanish.l-announce.c3.0013": {
+   "result": "fail",
+   "problem": "Transcript never mentions a contest; 'El ganador recibirá una tableta' is orphaned, yet (c) asks about 'el ganador del concurso'.",
+   "fix": "Add a line such as 'Hay un concurso de videojuegos a las seis.' before the winner line."
+  },
+  "spanish.l-announce.c4.0011": {
+   "result": "fail",
+   "problem": "Transcript has factual errors for Cusco: it is an inland Andean city with no port, and its cathedral is c.400 years old, not 600+.",
+   "fix": "Set the tour in a coastal city (e.g. Cartagena) or change 'el puerto' to 'la plaza de armas'/'el museo' and the age to 'más de cuatrocientos años' (option D) with key updated."
+  },
+  "spanish.l-announce.d1.0001": {
+   "result": "pass"
+  },
+  "spanish.l-announce.d2.0003": {
+   "result": "pass"
+  },
+  "spanish.l-announce.e1.0008": {
+   "result": "pass"
+  }
+ }
+}

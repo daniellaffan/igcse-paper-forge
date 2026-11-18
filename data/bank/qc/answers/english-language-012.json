@@ -1,0 +1,39 @@
+{
+  "batch": "english-language-012",
+  "answers": {
+    "english-language.w.speech.cars": {
+      "all": "Speech: direct address, rhetorical devices, benefits (air, safety) vs difficulties (disabled, businesses), conclusion."
+    },
+    "english-language.w.speech.reading": {
+      "all": "Speech: opening hook, reasons fewer read (screens), value of reading, call to action."
+    },
+    "english-language.w.speech.languages": {
+      "all": "Speech: benefits (careers, culture), challenges, balanced stance, rhetoric."
+    },
+    "english-language.w.speech.sport": {
+      "all": "Speech to students and parents; advantages, problems (timetable, injury, less study), conclusion."
+    }
+  },
+  "verdicts": {
+    "english-language.w.speech.cars": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.speech.reading": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.speech.languages": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.speech.sport": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

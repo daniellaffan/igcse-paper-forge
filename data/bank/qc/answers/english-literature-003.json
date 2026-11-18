@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-003",
+ "answers": {
+  "english-literature.anth-pair-experience.0003": {
+   "all": "War Photographer: Duffy's photographer remembers suffering in war, 'Rural England', Ulster/Beirut/Bosnia; Half-past Two: a child's detention retold. Both retell dramatic events; compare triggers, tone, form (6-line stanzas rhymed vs free verse)."
+  },
+  "english-literature.anth-pair-experience.0011": {
+   "all": "War Photographer: contrast between safe England and war zones; The Tyger: contrast of lamb and tiger; contrasting experiences; Duffy structured stanza and rhyme, Blake rhetorical questions; strained pairing."
+  },
+  "english-literature.anth-pair-identity.0011": {
+   "all": "Search For My Tongue and Half-caste: both about language/identity; Bhatt's loss of mother tongue vs Agard's assertion of mixed heritage; bilingual vs dialect; free verse."
+  },
+  "english-literature.anth-pair-identity.0005": {
+   "all": "Half-caste (cultural prejudice) vs Prayer Before Birth (child's fear of mechanical modern world); attitudes to culture loosely; strained pair; compare tones."
+  },
+  "english-literature.anth-pair-love.0003": {
+   "all": "La Belle Dame: knight's love bewitches him; Do not go gentle: son's love for father; compare ballad vs villanelle, tone enchantment vs rage."
+  },
+  "english-literature.anth-pair-love.0005": {
+   "all": "Remember: love permits forgetting; Do not go gentle: love as fierce wish for life; sonnet vs villanelle; gentle vs angry."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.anth-pair-experience.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-experience.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-identity.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-identity.0005": {
+   "result": "pass",
+   "problem": "Minor: Prayer Before Birth is about individuality vs a dehumanising society, not culture; indicative content drifts to identity. Acceptable, not a fail.",
+   "fix": ""
+  },
+  "english-literature.anth-pair-love.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-love.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

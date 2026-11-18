@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-005",
+ "answers": {
+  "english-literature.omam-death.0006": {
+   "all": "Memories: Candy remembers the dog, Lennie and George's dream, Crooks remembers boyhood, Curley's wife dreams of film; Aunt Clara; context."
+  },
+  "english-literature.omam-death.0004": {
+   "all": "Death: Candy's dog (cruel but pragmatic), Curley's wife, Lennie's death mercy killing; judge cruel vs merciful; context 1930s."
+  },
+  "english-literature.omam-dreams.0007": {
+   "all": "The dream: George uses it as comfort; Lennie wants rabbits; George often more pragmatic, Lennie ask for story; ends with story told to Lennie at death; argue both."
+  },
+  "english-literature.omam-dreams.0008": {
+   "all": "Money: itinerant workers paid $50 a month; Candy's compensation; Crooks, Curley, Slim; George's savings; not everyone, e.g. Slim; context Depression."
+  },
+  "english-literature.omam-george-lennie.0013": {
+   "all": "Friendship, George as caretaker, Lennie as dependent; mutual need; Weed incident; dream; ending; context."
+  },
+  "english-literature.omam-george-lennie.0006": {
+   "all": "George shoots Lennie: mercy, protects from Curley's lynch mob; also betrayal; dream story; Carlson's Luger; Slim's comfort."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.omam-death.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-death.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-dreams.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-dreams.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-george-lennie.0013": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.omam-george-lennie.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

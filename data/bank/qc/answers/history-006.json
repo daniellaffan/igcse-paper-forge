@@ -1,0 +1,79 @@
+{
+ "batch": "history-006",
+ "answers": {
+  "history.russia-investigation.0055": {
+   "b": "A supports B that private traders/Nepmen prospered and prices were high (butter, sugar unaffordable), and that communists disliked it (old Bolshevik). A differs: B stresses kulaks, low wages, anger; A shows shops reopening/goods available, a benefit. Partial support.",
+   "c": "Agree: grain recovered, markets full (own knowledge: 1921 famine, recovery by 1926, industry near pre-war). Disagree: many hated it, scissors crisis, unemployment, Nepmen, B/A show resentment; 'great' overstated; saved regime politically, Kronstadt. Balanced, judgement: success but limited/contested."
+  },
+  "history.russia-investigation.0057": {
+   "b": "A (letter) and B (official) both note high prices and uneven benefits; B confirms recovery in small trade/grain which A doesn't mention; A is emotional, B statistical. Partial support: agree on high prices/imbalance, differ on recovery vs resentment.",
+   "c": "Agree: ended Kronstadt/famine unrest, grain recovery, Lenin's breathing space. Disagree: 'saved' - needed also Cheka/ban on factions, scissors crisis, party opposition. Judgement: crucial but not alone."
+  },
+  "history.russia-investigation.0013": {
+   "b": "A supports B on the Empress being blamed and discontent with the leadership; A shows shortages/poor equipment at front while B shows wealthy Petrograd comfort, so conditions differ by class. Partial support.",
+   "c": "Agree: defeats, shortages, Rasputin scandal, Nicholas taking command 1915; Disagree: pre-war weaknesses (1905, Duma, peasants) and no reforms; war exposed rather than caused. Judgement: largely agree."
+  },
+  "history.russia-investigation.0056": {
+   "b": "A (Lenin) explains NEP as temporary retreat; B angry at bourgeoisie return and kulaks. A doesn't support B's claims about rich kulaks/low wages, but reveals why they'd see betrayal; Lenin says not capitalism, state retains control. Limited support.",
+   "c": "Agree: B shows resentment; Own knowledge: Kronstadt, party debates, Left Opposition, Trotsky, 10th Congress. Disagree: Lenin saw it as pragmatic, Nepmen small, many communists accepted (Bukharin). Judgement: many but not all."
+  },
+  "history.russia-investigation.0050": {
+   "b": "A justifies requisitioning for Red Army; B condemns armed squads seizing grain - they agree grain was taken by force, differ on justification and effects (A: necessary; B: harmful, peasants wish freedom). Partial support.",
+   "c": "Agree: Reds fed, Whites defeated, supported by A. Disagree: also Trotsky's Red Army, Whites disunited, foreign intervention, peasants feared landlords' return; cost: famine 1921, Kronstadt, Tambov. Judgement: helped but not sole."
+  },
+  "history.russia-investigation.0004": {
+   "b": "A shows poor conditions, fines, police surveillance, strike threat; B shows strikes, but says he pays better and insurance given - A contradicts B on benevolence, supports on strikes/police/agitation. Partial support.",
+   "c": "Agree: C's growth, insurance 1912, wages. Disagree: A's conditions, Lena 1912, strike rise 1912-14, housing, long hours, no political rights. Judgement: partly agree, exaggeration debatable but misery real."
+  },
+  "history.russia-support.0021": {
+   "b": "A: spontaneous mass movement from women/bread strike, soldiers mutinied; B: the Tsar's calm abdication, generals said army unreliable. Both agree army not reliable (Volynsky mutiny vs generals' advice) and Tsar finished; differences: A from workers' view emphasises bottom-up, B top-down and calm. Largely supports in outcome.",
+   "c": ""
+  },
+  "history.russia-support.0031": {
+   "b": "A: smooth, planned, nearly bloodless seizure led by Trotsky; B: conspiratorial small group seizing power without the people's approval. Agree it was planned/organised by a minority (not mass revolt); A says well organised and hardly any resistance, B says illegitimate and predicts civil war. Partial support; provenance: A Bolshevik 1930 glorifying, B rival party hostile.",
+   "c": ""
+  }
+ },
+ "verdicts": {
+  "history.russia-investigation.0055": {
+   "result": "pass",
+   "problem": "Minor: (b) overall 'strong support' slightly overstated relative to listed difference.",
+   "fix": ""
+  },
+  "history.russia-investigation.0057": {
+   "result": "fail",
+   "problem": "(b) agreement bullet claims both sources show NEP as a retreat from communism, but Source B only says small trade is flourishing; the real agreement (high prices, uneven benefits) is missed.",
+   "fix": "Replace the agreement bullet with: both show high prices and uneven benefits (A: bourgeoisie selling bread at high prices; B: manufactured goods dear relative to peasants' grain prices)."
+  },
+  "history.russia-investigation.0013": {
+   "result": "pass",
+   "problem": "Minor: MS says food and fuel shortages but Source A mentions only food; 'supplies adequate' reading of B is a stretch.",
+   "fix": ""
+  },
+  "history.russia-investigation.0056": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-investigation.0050": {
+   "result": "pass",
+   "problem": "Minor: 'hunger and hardship' not in Source B; B's challenge to the interpretation omitted from (c).",
+   "fix": ""
+  },
+  "history.russia-investigation.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "history.russia-support.0021": {
+   "result": "pass",
+   "problem": "Minor: 'Tsar still had support' point is a stretch but acceptable.",
+   "fix": ""
+  },
+  "history.russia-support.0031": {
+   "result": "pass",
+   "problem": "Minor: timing of Winter Palace capture and 'acted without waiting for Congress' agreement slightly loose.",
+   "fix": ""
+  }
+ }
+}

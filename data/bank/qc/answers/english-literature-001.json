@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-001",
+ "answers": {
+  "english-literature.anth-open-identity.0011": {
+   "all": "Search For My Tongue (Bhatt): speaker losing mother tongue in English-speaking land; bilingual Gujarati text, 'tongue' dual meaning, plant metaphor 'it grows back', structure shifting languages; compare with Half-caste on language and identity."
+  },
+  "english-literature.anth-open-identity.0013": {
+   "all": "Blessing (Dharker): culture shown via the community's desperate need for water, 'municipal pipe', 'children... naked', hope; compare e.g. Search For My Tongue or Half-caste, attitudes to culture - appreciative, nostalgic/defensive."
+  },
+  "english-literature.anth-open-love.0013": {
+   "all": "Poem at Thirty-Nine (Alice Walker): daughter's love for dead father, domestic details, 'I have learned to do... all that he taught', free verse, regret and gratitude. Compare with Remember or Do not go gentle for strength of love."
+  },
+  "english-literature.anth-open-love.0011": {
+   "all": "La Belle Dame sans Merci (Keats): knight enthralled by faerie lady, ballad quatrains with short fourth line, pallor imagery, 'alone and palely loitering', love as enchantment and destruction. Compare Remember/Do not go gentle for feelings about loved one."
+  },
+  "english-literature.anth-open-memory.0006": {
+   "all": "Search For My Tongue: speaker looks back to mother tongue, fear it is lost, dream sequence brings it back; bilingual form; compare with Piano (nostalgic) or Half-past Two for looking back."
+  },
+  "english-literature.anth-open-memory.0007": {
+   "all": "Piano (Lawrence): adult remembers childhood, mother, Sunday evenings; sentimental quatrains, 'insidious mastery of song', tension between nostalgia and adult present. Compare with Half-past Two or Hide and Seek for childhood."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.anth-open-identity.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-identity.0013": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-love.0013": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-love.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-memory.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-memory.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

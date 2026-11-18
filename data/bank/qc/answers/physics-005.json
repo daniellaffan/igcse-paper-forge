@@ -1,0 +1,222 @@
+{
+ "batch": "physics-005",
+ "answers": {
+  "physics.mo-vt-graph.0006": {
+   "a": "gradient of first section = change in v / 10 s (graph values not given in text)",
+   "b": "area under graph (not determinable from text)",
+   "c": "likely decelerating uniformly to rest (not determinable from text)"
+  },
+  "physics.mom-collide.0005": {
+   "all": "0 = 0.007x8 - 0.55v; v = 0.056/0.55 = 0.10 m/s opposite to dart"
+  },
+  "physics.mom-force.0004": {
+   "all": "F = mv/t = 0.43x17/0.011 = 660 N (664.5)"
+  },
+  "physics.mom-p.0003": {
+   "a": "momentum = mass x velocity",
+   "b": "0.150x28 = 4.2 kg m/s"
+  },
+  "physics.mon-balance.0003": {
+   "all": "3.5x35 = Wx15; W = 8.2 N (8.17)"
+  },
+  "physics.mon-beam.0002": {
+   "a": "850x5 = Yx8; Y = 530 N (531.25)",
+   "b": "X = 850-531 = 320 N (318.75)"
+  },
+  "physics.mon-moment.0005": {
+   "all": "F = 350/1.25 = 280 N"
+  },
+  "physics.mon-prac.0009": {
+   "a": "distance of each weight from pivot (and size of second weight)",
+   "b": "assuming columns: distance of 2 N weight 20 cm, weight 1.5 N, distance 26.9 cm: 2x20 = 40 N cm, 1.5x26.9 = 40.35 N cm; approximately equal, supports principle",
+   "c": "weight of rule not centred / measurement error reading positions / friction at pivot",
+   "d": "use a pivot with less friction / repeat / use a mm scale more precisely / use more mass values"
+  },
+  "physics.pr-doppler.0004": {
+   "a": "observer the source moves towards: wavefronts closer together, shorter wavelength",
+   "b": "X behind the source where wavefronts are furthest apart",
+   "c": "Doppler effect"
+  },
+  "physics.pr-label.0007": {
+   "a": "A from rest line to crest; W crest to crest",
+   "b": "cannot count without diagram",
+   "c": "v = f x lambda = 5 x 0.02 = 0.10 m/s"
+  },
+  "physics.pr-period.0006": {
+   "all": "f = 27/18.5 = 1.46 Hz; v = 1.46x1.8 = 2.6 m/s (2.63)"
+  },
+  "physics.pr-vfl.0005": {
+   "a": "wave speed = frequency x wavelength",
+   "b": "0.2x80 = 16 m/s"
+  },
+  "physics.radioactivity-atoms-describe-kb.0014": {
+   "a": "nucleus loses energy (becomes more stable); no change in proton or nucleon number",
+   "b": "neutron turns into a proton and an electron; electron emitted; atomic number +1, mass number unchanged",
+   "c": "alpha is a helium nucleus (particle), gamma is EM wave; alpha strongly ionising, gamma weakly; alpha stopped by paper, gamma needs thick lead; alpha charged deflected, gamma not"
+  },
+  "physics.radioactivity-atoms-explain-kb.0001": {
+   "all": "alpha is most strongly ionising; inside body cannot escape, all energy deposited in nearby cells, damaging DNA"
+  },
+  "physics.radioactivity-atoms-mcq-kb.0012": {
+   "a": "a fast-moving electron from the nucleus",
+   "b": "increases by 1",
+   "c": "beta"
+  },
+  "physics.radioactivity-atoms-recall-kb.0004": {
+   "a": "atoms of the same element with same number of protons but different number of neutrons",
+   "b": "number of protons in the nucleus"
+  },
+  "physics.radioactivity-halflife-explain-kb.0008": {
+   "a": "gamma penetrates body so can be detected outside; weakly ionising so less damage; alpha would not escape and is highly ionising",
+   "b": "ionises atoms in cells, damaging DNA, causing mutation/cancer or killing cells"
+  },
+  "physics.radioactivity-halflife-extended-kb.0003": {
+   "a": "number of nuclei decaying per second (Bq)",
+   "b": "half-life: time for activity/number of nuclei to halve; measure background count first with no source; GM tube and counter fixed distance from source; record count rate at regular intervals; subtract background; plot corrected count rate vs time; read time to halve, repeat for several halvings and average"
+  },
+  "physics.radioactivity-halflife-mcq-kb.0011": {
+   "a": "1/8",
+   "b": "gamma",
+   "c": "a few hours"
+  },
+  "physics.radioactivity-halflife-recall-kb.0014": {
+   "a": "contamination: radioactive material gets on/in object; irradiation: object exposed to radiation from outside source, not radioactive itself",
+   "b": "use tongs; keep at distance/point away from body; store in lead box; minimise time",
+   "c": "thickness monitoring of paper / leak detection / sterilising"
+  },
+  "physics.radioactivity-nuclear-describe-kb.0014": {
+   "a": "neutron absorbed by U-235, nucleus splits releasing energy and 2-3 neutrons; these neutrons cause further fissions; self-sustaining",
+   "b": "control rods (boron) absorb neutrons; lowered to reduce rate, raised to increase",
+   "c": "fission heats coolant; heat used to boil water to steam; steam turns turbine which turns generator"
+  },
+  "physics.radioactivity-nuclear-explain-kb.0005": {
+   "all": "needs extremely high temperature and pressure to overcome repulsion between nuclei; hard to contain/sustain; more energy put in than obtained so far"
+  },
+  "physics.radioactivity-nuclear-extended-kb.0014": {
+   "a": "control rods absorb neutrons; moved in/out to change rate",
+   "b": "U-235 absorbs slow neutron, splits into daughter nuclei + 2-3 neutrons + energy (KE of products); chain reaction; moderator (graphite/water) slows neutrons; control rods absorb neutrons so one neutron per fission causes another; coolant removes heat to make steam; shielding"
+  },
+  "physics.radioactivity-nuclear-mcq-kb.0003": {
+   "all": "absorb neutrons"
+  },
+  "physics.radioactivity-nuclear-recall-kb.0003": {
+   "a": "splitting of a large nucleus into two smaller nuclei",
+   "b": "two daughter nuclei, 2 or 3 neutrons (and energy/gamma)"
+  },
+  "physics.so-data.0007": {
+   "a": "trace with more waves on screen (not determinable from text)",
+   "b": "trace with larger amplitude (not determinable from text)",
+   "c": "f = 1/T; T from divisions x 2 ms (not determinable from text)"
+  },
+  "physics.so-echo.0005": {
+   "all": "v = 2x110/0.65 = 340 m/s (338)"
+  },
+  "physics.so-osc.0003": {
+   "all": "cannot read trace; f = 1/(divisions per cycle x 1 ms)"
+  },
+  "physics.so-prac-echo.0002": {
+   "a": "stand 110 m from wall (measure with trundle wheel/tape); clap and listen for echo; clap repeatedly so each clap coincides with echo; second person times e.g. 10 or 20 claps with stopwatch; total distance per clap = 220 m; speed = distance/time",
+   "b": "time per clap 0.665 s; v = 220/0.665 = 330 m/s (331)",
+   "c": "reaction time error is the same whatever the total, so smaller fraction of a longer time; percentage uncertainty reduced"
+  },
+  "physics.so-prac-osc.0003": {
+   "a": "connect microphone to oscilloscope; pluck string near microphone; adjust time base to get a few stable waves; measure divisions for one wave x time base = period; f = 1/T",
+   "b": "amplitude (height) increases, same wavelength/spacing on screen",
+   "c": "twice as many waves on screen; horizontal length of each wave halves"
+  }
+ },
+ "verdicts": {
+  "physics.mo-vt-graph.0006": {
+   "result": "pass"
+  },
+  "physics.mom-collide.0005": {
+   "result": "pass"
+  },
+  "physics.mom-force.0004": {
+   "result": "pass"
+  },
+  "physics.mom-p.0003": {
+   "result": "pass"
+  },
+  "physics.mon-balance.0003": {
+   "result": "pass"
+  },
+  "physics.mon-beam.0002": {
+   "result": "pass"
+  },
+  "physics.mon-moment.0005": {
+   "result": "pass"
+  },
+  "physics.mon-prac.0009": {
+   "result": "pass",
+   "problem": "",
+   "fix": "Results table has no column headers; add 'distance of 2 N weight in cm | second weight in N | distance of second weight in cm'."
+  },
+  "physics.pr-doppler.0004": {
+   "result": "pass"
+  },
+  "physics.pr-label.0007": {
+   "result": "pass"
+  },
+  "physics.pr-period.0006": {
+   "result": "pass"
+  },
+  "physics.pr-vfl.0005": {
+   "result": "pass"
+  },
+  "physics.radioactivity-atoms-describe-kb.0014": {
+   "result": "pass"
+  },
+  "physics.radioactivity-atoms-explain-kb.0001": {
+   "result": "pass"
+  },
+  "physics.radioactivity-atoms-mcq-kb.0012": {
+   "result": "pass"
+  },
+  "physics.radioactivity-atoms-recall-kb.0004": {
+   "result": "pass"
+  },
+  "physics.radioactivity-halflife-explain-kb.0008": {
+   "result": "pass"
+  },
+  "physics.radioactivity-halflife-extended-kb.0003": {
+   "result": "pass"
+  },
+  "physics.radioactivity-halflife-mcq-kb.0011": {
+   "result": "pass"
+  },
+  "physics.radioactivity-halflife-recall-kb.0014": {
+   "result": "pass"
+  },
+  "physics.radioactivity-nuclear-describe-kb.0014": {
+   "result": "pass"
+  },
+  "physics.radioactivity-nuclear-explain-kb.0005": {
+   "result": "pass"
+  },
+  "physics.radioactivity-nuclear-extended-kb.0014": {
+   "result": "pass"
+  },
+  "physics.radioactivity-nuclear-mcq-kb.0003": {
+   "result": "pass"
+  },
+  "physics.radioactivity-nuclear-recall-kb.0003": {
+   "result": "pass"
+  },
+  "physics.so-data.0007": {
+   "result": "pass"
+  },
+  "physics.so-echo.0005": {
+   "result": "pass"
+  },
+  "physics.so-osc.0003": {
+   "result": "pass"
+  },
+  "physics.so-prac-echo.0002": {
+   "result": "pass"
+  },
+  "physics.so-prac-osc.0003": {
+   "result": "pass"
+  }
+ }
+}

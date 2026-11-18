@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-010",
+ "answers": {
+  "english-literature.unseen-drought.0001": {
+   "all": "Plan (Drought (original); land without rain): Cracked earth, dust, sky imagery, sensory detail, lack of movement, form."
+  },
+  "english-literature.unseen-drought.0002": {
+   "all": "Plan (Drought (original); farming community in hardship): Human cost, waiting, hope and despair, speaker voice, structure."
+  },
+  "english-literature.unseen-exam-hall.0001": {
+   "all": "Plan (Exam Hall (original); being a teenager): Silence, ticking clock, anxiety, self-consciousness, voice, form."
+  },
+  "english-literature.unseen-exam-hall.0003": {
+   "all": "Plan (Exam Hall (original); pressure to succeed): Clock/time imagery, expectation, parental pressure, tension structure."
+  },
+  "english-literature.unseen-first-frost.0001": {
+   "all": "Plan (First Frost (original); arrival of winter): Sensory imagery of frost, change of season, personification, form."
+  },
+  "english-literature.unseen-first-frost.0003": {
+   "all": "Plan (First Frost (original); wonder at nature): Wonder in transformed garden, light imagery, tone, ending."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.unseen-drought.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-drought.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-exam-hall.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-exam-hall.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-first-frost.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-first-frost.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

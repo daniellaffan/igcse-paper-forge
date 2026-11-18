@@ -1,0 +1,39 @@
+{
+  "batch": "english-language-003",
+  "answers": {
+    "english-language.q4.explorers-daughter.4": {
+      "all": "Plan (AO2, text not reprinted): tension via short sentences/sudden pace shifts, sensory hushed description of ice/silence, verbs of stealth and waiting, first-person child-observer view and anticipation before the kill; structure moves from stillness to climax; quote specifics from anthology copy."
+    },
+    "english-language.q4.127-hours.2": {
+      "all": "Plan (AO2): difficulties via first-person present/immediacy, short blunt sentences, technical precise detail (boulder, arm, pain), repetition and lists of failed attempts, semantic field of entrapment/pain, structure of time-stamped escalation and bleak realisation."
+    },
+    "english-language.q4.127-hours.3": {
+      "all": "Plan (AO2): thoughts/feelings via direct interior monologue, emotive verbs and rhetorical questions, shifts from panic to resolve/calm, hope/memories of family, structural turn from despair to determination, mix of clinical and emotional tone."
+    },
+    "english-language.q4.cinderella.4": {
+      "all": "Plan (AO2): father presented as authoritarian and distant via formal/cold register, his dialogue/commands, child-narrator fear and contrasts with siblings, imagery of power and favouritism, structure placing his entrance/judgement at key moments."
+    }
+  },
+  "verdicts": {
+    "english-language.q4.explorers-daughter.4": {
+      "result": "pass",
+      "problem": "Some bullets concern beauty/narwhal value rather than tension, but enough accurate tension points remain.",
+      "fix": ""
+    },
+    "english-language.q4.127-hours.2": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.q4.127-hours.3": {
+      "result": "pass",
+      "problem": "About half the bullets repeat the difficulties list rather than thoughts and feelings, but enough on-task points remain.",
+      "fix": ""
+    },
+    "english-language.q4.cinderella.4": {
+      "result": "pass",
+      "problem": "Some bullets are about the chauffeur or opening rather than the father, but enough on-task points remain.",
+      "fix": ""
+    }
+  }
+}

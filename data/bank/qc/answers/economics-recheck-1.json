@@ -1,0 +1,187 @@
+{
+ "batch": "economics-recheck-1",
+ "answers": {
+  "economics.assumptions-describe.0003": {
+   "all": "Consumers spend their limited income (JD 51) on the combination of goods/services giving the greatest total satisfaction/utility; they compare the benefit from each purchase."
+  },
+  "economics.assumptions-explain.0004": {
+   "all": "Rohan has limited income (\u20ac46) so cannot buy both maybe; compares satisfaction/utility expected from book vs jeans relative to price; chooses the one giving most satisfaction per euro; opportunity cost is the item forgone."
+  },
+  "economics.assumptions-mcq-auth.0002": {
+   "all": "maximise profit"
+  },
+  "economics.assumptions-state.0011": {
+   "all": "Workers aim to maximise their wages/earnings (rewards from work)."
+  },
+  "economics.bop-analyse-1.0002": {
+   "all": "Causes: high consumer incomes/spending on imports (electronics, cars) - high income elasticity of demand for imports; fall in export competitiveness of manufacturing (higher costs, strong exchange rate, low productivity) so exports fall; X-M falls so deficit widens; chain to current account 5.2% of GDP."
+  },
+  "economics.bop-analyse-2.0006": {
+   "all": "Benefits: injection into circular flow -> higher AD, output, employment (oil exports); foreign currency earnings/reserves; appreciation makes imports cheaper -> lower inflation, cheaper raw materials; improves living standards."
+  },
+  "economics.bop-assess-1.0003": {
+   "all": "Consequences: leakage reduces AD -> lower growth, job losses in manufacturing; currency may depreciate -> imported inflation; borrowing/selling assets to finance. Evaluation: depends on cause (consumer boom vs capital imports), size 4.5% and persistence 10 years, how financed, depreciation may self-correct."
+  },
+  "economics.bop-assess-2.0006": {
+   "all": "Good: injection, jobs in manufacturing, reserves. Not always: appreciation reduces future competitiveness, may be inflationary (excess AD), implies deficits elsewhere/protectionism, could mean low domestic consumption; depends on size/cause."
+  },
+  "economics.bop-calc.0018": {
+   "all": "Goods 32.9-15=17.9; services 85.2-38=47.2; balance = +V$65.1bn surplus"
+  },
+  "economics.bop-define1.0002": {
+   "all": "Part of the balance of payments recording trade in goods and services plus primary and secondary income flows."
+  },
+  "economics.bop-define2.0007": {
+   "all": "Exports and imports of intangible products (e.g. tourism, banking, insurance, transport) between residents of one country and the rest of the world."
+  },
+  "economics.bop-describe.0013": {
+   "all": "It may be short-term/temporary (e.g. importing capital goods/machinery that will raise future productive capacity and exports), so it will self-correct; or financed by inward investment."
+  },
+  "economics.bop-explain.0005": {
+   "all": "Oil demand is price inelastic, so value of imports rises (spending on imports rises by large proportion as quantity barely falls); import expenditure increases relative to exports so current account deficit widens / surplus shrinks; also higher costs for exporters reduce competitiveness."
+  },
+  "economics.bop-mcq-auth.0001": {
+   "all": "trade in services"
+  },
+  "economics.bop-mcq-class.0002": {
+   "all": "Its banks providing insurance to foreign firms"
+  },
+  "economics.bop-mcq-def.0002": {
+   "all": "The part of the balance of payments that records trade in goods and services plus primary and secondary income flows"
+  },
+  "economics.bop-state.0008": {
+   "all": "Trade in goods (or trade in services / primary income / secondary income)"
+  },
+  "economics.bop-state-id.0002": {
+   "all": "an export of a service"
+  },
+  "economics.competition-analyse-1.0004": {
+   "all": "Price wars risk: interdependence, if one cuts price others follow (kinked demand) so revenue falls; non-price competition (advertising, branding, coverage, contracts) builds brand loyalty, makes demand more price inelastic, raises market share without lowering prices; prices similar so differentiate; barriers to entry."
+  },
+  "economics.competition-analyse-2.0002": {
+   "all": "Higher prices (price maker, no substitutes, consumer surplus lost); poor quality/service as no competitive pressure (x-inefficiency); lack of choice; less innovation; inelastic demand for water essential."
+  },
+  "economics.competition-analyse-3.0002": {
+   "all": "Lower prices (online retailer low prices), more choice, convenience of next-day delivery, better quality/service as firms compete, innovation; but closure of 20% of shops reduces local choice."
+  },
+  "economics.competition-assess-1.0001": {
+   "all": "Benefits: economies of scale -> lower costs/prices possibly, innovation from profits, advertising informs, non-price competition improves quality. Costs: similar prices suggest collusion/tacit, higher prices, advertising costs passed on, barriers. Depends on regulation, contestability."
+  },
+  "economics.competition-assess-2.0001": {
+   "all": "For: lower prices, better service, efficiency, innovation, choice. Against: natural monopoly - economies of scale lost, duplication of pipes, profit motive may cut quality/safety, regulation alternative. Depends on regulation and infrastructure sharing."
+  },
+  "economics.competition-assess-3.0003": {
+   "all": "Firms must cut costs/prices, lower profits, closures (14% shops), job losses; incentive to innovate, improve service, go online, efficiency; survivors may specialise/differentiate. Depends on firm's ability to adapt, niche products."
+  },
+  "economics.competition-define1.0007": {
+   "all": "When firms agree to work together (e.g. fix prices/output) rather than compete."
+  },
+  "economics.competition-define2.0002": {
+   "all": "A market dominated by a few large firms (high concentration ratio) that are interdependent."
+  },
+  "economics.competition-describe.0017": {
+   "all": "Firms agree to fix prices higher than competitive level, so consumers pay more and lose consumer surplus/choice."
+  },
+  "economics.competition-evaluate-1.0003": {
+   "all": "Benefits: economies of scale, investment/innovation, quality via non-price competition. Costs: similar prices -> tacit collusion, high prices, less choice, barriers; cement is homogeneous so advertising wasteful. Judgement depends on regulation/competition authority, contestability, imports."
+  },
+  "economics.competition-evaluate-2.0004": {
+   "all": "For: lower fares, better service, efficiency, innovation. Against: natural monopoly, duplication, safety, loss of economies of scale, private firms may abandon unprofitable routes. Alternatives: regulation, franchising. Judgement."
+  },
+  "economics.competition-evaluate-3.0006": {
+   "all": "Negative: lower prices/profits, closure 23%, job losses, high street decline. Positive: efficiency, innovation, adopt online, differentiate on service; online retailer gains. Depends on size, niche, time period."
+  }
+ },
+ "verdicts": {
+  "economics.assumptions-describe.0003": {
+   "result": "pass"
+  },
+  "economics.assumptions-explain.0004": {
+   "result": "pass"
+  },
+  "economics.assumptions-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.assumptions-state.0011": {
+   "result": "pass"
+  },
+  "economics.bop-analyse-1.0002": {
+   "result": "pass"
+  },
+  "economics.bop-analyse-2.0006": {
+   "result": "pass"
+  },
+  "economics.bop-assess-1.0003": {
+   "result": "pass"
+  },
+  "economics.bop-assess-2.0006": {
+   "result": "pass"
+  },
+  "economics.bop-calc.0018": {
+   "result": "pass"
+  },
+  "economics.bop-define1.0002": {
+   "result": "pass"
+  },
+  "economics.bop-define2.0007": {
+   "result": "pass"
+  },
+  "economics.bop-describe.0013": {
+   "result": "pass"
+  },
+  "economics.bop-explain.0005": {
+   "result": "pass"
+  },
+  "economics.bop-mcq-auth.0001": {
+   "result": "pass"
+  },
+  "economics.bop-mcq-class.0002": {
+   "result": "pass"
+  },
+  "economics.bop-mcq-def.0002": {
+   "result": "pass"
+  },
+  "economics.bop-state.0008": {
+   "result": "pass"
+  },
+  "economics.bop-state-id.0002": {
+   "result": "pass"
+  },
+  "economics.competition-analyse-1.0004": {
+   "result": "pass"
+  },
+  "economics.competition-analyse-2.0002": {
+   "result": "pass"
+  },
+  "economics.competition-analyse-3.0002": {
+   "result": "pass"
+  },
+  "economics.competition-assess-1.0001": {
+   "result": "pass"
+  },
+  "economics.competition-assess-2.0001": {
+   "result": "pass"
+  },
+  "economics.competition-assess-3.0003": {
+   "result": "pass"
+  },
+  "economics.competition-define1.0007": {
+   "result": "pass"
+  },
+  "economics.competition-define2.0002": {
+   "result": "pass"
+  },
+  "economics.competition-describe.0017": {
+   "result": "pass"
+  },
+  "economics.competition-evaluate-1.0003": {
+   "result": "pass"
+  },
+  "economics.competition-evaluate-2.0004": {
+   "result": "pass"
+  },
+  "economics.competition-evaluate-3.0006": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+  "batch": "history-009",
+  "answers": {
+    "history.world-divided-judgement.0054": {
+      "all": "Partly agree. Vietnam escalation (1965-) diverted US/USSR attention and made Moscow cost-exposed (arms to N. Vietnam); but thaw also driven by Cuba 1962 fear (hotline 1963, Test Ban 1963), Sino-Soviet split pushing USSR towards West, Brezhnev/Nixon and Ostpolitik. Cuba-era fear and China more important; Vietnam mixed (delayed thaw as much as helped)."
+    },
+    "history.world-divided-judgement.0005": {
+      "all": "Partly agree. Atomic bomb (Trinity July 1945, Potsdam, Truman tough, secrecy, Hiroshima) bred Soviet suspicion; but ideological differences, Poland/Eastern Europe, Yalta disputes, Roosevelt's death/Truman, Stalin's security demands were deeper causes. Bomb an aggravator not the main cause."
+    },
+    "history.world-divided-judgement.0032": {
+      "all": "Partly agree. Rakosi's harsh rule (AVH, show trials, collectivisation, Mindszenty, poor economy) created grievances; but de-Stalinisation (Secret Speech Feb 1956), Poznan riots, Nagy's reforms and removal, Polish October, student demands, Warsaw Pact withdrawal, Suez distraction were also vital. Rakosi long-term underlying cause; de-Stalinisation trigger."
+    },
+    "history.world-divided-judgement.0015": {
+      "all": "Partly agree. Truman Doctrine (Mar 1947) containment, Greece/Turkey, ideological line drawn, Cominform response; but Marshall Plan (June 1947, ~$13bn), Berlin blockade/airlift, Czech coup 1948, Bizonia/Deutschmark, NATO 1949 also major. Doctrine foundation but Marshall Plan/Berlin equally or more concrete."
+    },
+    "history.world-divided-judgement.0014": {
+      "all": "Partly agree. Soviet expansion (Poland, Romania, Hungary, Czechoslovakia 1948, Iron Curtain, Cominform, Berlin blockade) alarmed West; but Truman Doctrine, Marshall Plan, Bizonia/currency, atomic diplomacy, US-perceived provocation matter. Expansion main but interacts with US response."
+    },
+    "history.world-divided-judgement.0003": {
+      "all": "Partly agree. Stalin's security demands (buffer states, Poland, reparations, memory of 1941 invasion) clashed with Allies; but Truman's hostility, Yalta/Potsdam disputes, atomic bomb, ideology, Roosevelt's death also. Security a main cause with Truman's attitude close second."
+    }
+  },
+  "verdicts": {
+    "history.world-divided-judgement.0054": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-judgement.0005": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-judgement.0032": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-judgement.0015": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "history.world-divided-judgement.0014": {
+      "result": "pass",
+      "problem": "Note only: process disclosure - history-009 mark scheme was opened before cold answers were written.",
+      "fix": ""
+    },
+    "history.world-divided-judgement.0003": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+ "batch": "biology-008",
+ "answers": {
+  "biology.gas-exchange-plants-recall-fact.0005": {
+   "all": "air spaces (in spongy mesophyll)"
+  },
+  "biology.gas-exchange-plants-recall-multi.0004": {
+   "a": "oxygen",
+   "b": "guard cells"
+  },
+  "biology.groups-describe.0001": {
+   "all": "saprotrophic nutrition: secrete extracellular digestive enzymes onto food; digest it outside the body; absorb soluble products (through hyphae)"
+  },
+  "biology.groups-describe-multi.0005": {
+   "a": "fungi",
+   "b": "single cell; cell wall (not cellulose); cell membrane; cytoplasm; no nucleus, circular chromosome of DNA; plasmids; some have flagellum / slime capsule"
+  },
+  "biology.groups-diag-desc.0002": {
+   "a": "depends on diagram",
+   "b": "depends on diagram"
+  },
+  "biology.groups-diag-func.0003": {
+   "a": "letter of circular chromosome (diagram)",
+   "b": "circular DNA / chromosome"
+  },
+  "biology.groups-diag-mcq.0001": {
+   "all": "depends on diagram"
+  },
+  "biology.groups-diag-name.0003": {
+   "all": "depends on diagram"
+  },
+  "biology.groups-explain.0004": {
+   "all": "viruses have no cell wall (protein coat instead); viruses are not living cells / reproduce inside host cells so antibiotics have nothing to target"
+  },
+  "biology.groups-explain-multi.0007": {
+   "a": "Plasmodium",
+   "b": "body made of mycelium of hyphae; cell walls of chitin; feeds by saprotrophic nutrition / extracellular digestion; contains many nuclei; stores glycogen"
+  },
+  "biology.groups-mcq.0004": {
+   "all": "yeast"
+  },
+  "biology.groups-mcq-fwd.0007": {
+   "all": "Pneumococcus"
+  },
+  "biology.groups-mcq-rev.0003": {
+   "all": "Multicellular, have no cell walls and often store carbohydrate as glycogen"
+  },
+  "biology.groups-recall.0005": {
+   "all": "protein coat; genetic material (DNA or RNA)"
+  },
+  "biology.groups-recall-fact.0004": {
+   "all": "bacteria"
+  },
+  "biology.groups-recall-multi.0003": {
+   "a": "starch",
+   "b": "animals",
+   "c": "Plasmodium"
+  },
+  "biology.heart-data-graph.0002": {
+   "a": "as running speed increases heart rate increases; roughly linear/proportional with data quote",
+   "b": "muscles respire faster; need more oxygen and glucose delivered; more CO2 removed; heart pumps faster"
+  },
+  "biology.heart-data-pct.0002": {
+   "a": "(179-98)/98*100 = 83%",
+   "b": "more respiration in muscles; more O2/glucose needed; more CO2 removed; faster blood flow"
+  },
+  "biology.heart-data-plot.0003": {
+   "a": "axes with labels/units, sensible scale, points plotted correctly, line",
+   "b": "as cholesterol increases risk increases; increase gets steeper (non-linear)"
+  },
+  "biology.heart-data-read.0001": {
+   "a": "read from graph (~70 bpm)",
+   "b": "(HR12 - HR0)/12 bpm per km/h, about 6.75",
+   "c": "more respiration in muscles; more oxygen/glucose needed; more CO2 removed"
+  },
+  "biology.heart-describe.0001": {
+   "all": "vena cava -> right atrium -> (tricuspid valve) right ventricle -> pulmonary artery -> lungs -> pulmonary vein -> left atrium -> (bicuspid) left ventricle -> aorta"
+  },
+  "biology.heart-describe-multi.0005": {
+   "a": "right atrium",
+   "b": "blood passes through heart twice per circuit; pulmonary circuit to lungs and back; systemic circuit to body and back; keeps high pressure"
+  },
+  "biology.heart-diag-desc.0002": {
+   "a": "depends on diagram",
+   "b": "depends on diagram"
+  },
+  "biology.heart-diag-func.0003": {
+   "a": "letter of septum",
+   "b": "septum"
+  },
+  "biology.heart-diag-mcq.0003": {
+   "all": "depends on diagram"
+  },
+  "biology.heart-diag-name.0006": {
+   "all": "depends on diagram"
+  },
+  "biology.heart-explain.0007": {
+   "all": "oxygenated and deoxygenated blood mix; less oxygen delivered to tissues/cells; less aerobic respiration so less energy released"
+  },
+  "biology.heart-explain-multi.0001": {
+   "a": "high saturated fat/cholesterol diet; smoking; lack of exercise; high blood pressure; stress; genetics; obesity",
+   "b": "thick muscular wall to withstand high pressure; elastic tissue stretches and recoils to maintain pressure; narrow lumen maintains pressure"
+  },
+  "biology.heart-ext.0002": {
+   "all": "raises blood cholesterol; fatty deposits/plaque build up in coronary artery walls; lumen narrows; blood flow reduced / clot forms; less O2 and glucose to heart muscle; heart muscle cannot respire, dies -> heart attack"
+  },
+  "biology.heart-mcq.0001": {
+   "all": "adrenaline"
+  }
+ },
+ "verdicts": {
+  "biology.gas-exchange-plants-recall-fact.0005": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-recall-multi.0004": {
+   "result": "pass"
+  },
+  "biology.groups-describe.0001": {
+   "result": "pass"
+  },
+  "biology.groups-describe-multi.0005": {
+   "result": "pass"
+  },
+  "biology.groups-diag-desc.0002": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items."
+  },
+  "biology.groups-diag-func.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items."
+  },
+  "biology.groups-diag-mcq.0001": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items."
+  },
+  "biology.groups-diag-name.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items."
+  },
+  "biology.groups-explain.0004": {
+   "result": "pass"
+  },
+  "biology.groups-explain-multi.0007": {
+   "result": "pass"
+  },
+  "biology.groups-mcq.0004": {
+   "result": "pass"
+  },
+  "biology.groups-mcq-fwd.0007": {
+   "result": "pass"
+  },
+  "biology.groups-mcq-rev.0003": {
+   "result": "pass"
+  },
+  "biology.groups-recall.0005": {
+   "result": "pass"
+  },
+  "biology.groups-recall-fact.0004": {
+   "result": "pass"
+  },
+  "biology.groups-recall-multi.0003": {
+   "result": "pass"
+  },
+  "biology.heart-data-graph.0002": {
+   "result": "pass",
+   "note": "Graph values not visible; MS data consistent with axis labels."
+  },
+  "biology.heart-data-pct.0002": {
+   "result": "pass"
+  },
+  "biology.heart-data-plot.0003": {
+   "result": "pass",
+   "note": "Stem says 'The graph shows' but data are in a table; minor wording, suggest 'The table shows'."
+  },
+  "biology.heart-data-read.0001": {
+   "result": "pass",
+   "note": "Graph values not visible; working consistent (56/12=4.67)."
+  },
+  "biology.heart-describe.0001": {
+   "result": "pass"
+  },
+  "biology.heart-describe-multi.0005": {
+   "result": "pass"
+  },
+  "biology.heart-diag-desc.0002": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items."
+  },
+  "biology.heart-diag-func.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items."
+  },
+  "biology.heart-diag-mcq.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items."
+  },
+  "biology.heart-diag-name.0006": {
+   "result": "pass",
+   "note": "Diagram not visible; mark scheme consistent with labels and across related items."
+  },
+  "biology.heart-explain.0007": {
+   "result": "pass"
+  },
+  "biology.heart-explain-multi.0001": {
+   "result": "pass"
+  },
+  "biology.heart-ext.0002": {
+   "result": "pass"
+  },
+  "biology.heart-mcq.0001": {
+   "result": "pass"
+  }
+ }
+}

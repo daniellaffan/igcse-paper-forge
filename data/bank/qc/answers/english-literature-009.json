@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-009",
+ "answers": {
+  "english-literature.unseen-brothers-room.0001": {
+   "all": "Plan (Brothers Room (original); siblings): Relationship shown through objects left in room, tone of tenderness/irritation, free verse, concrete detail."
+  },
+  "english-literature.unseen-brothers-room.0002": {
+   "all": "Plan (Brothers Room (original); missing someone): Absence in empty room, objects as memory, shift in tone at end, structure of stanzas."
+  },
+  "english-literature.unseen-daffodils.0003": {
+   "all": "Plan (Wordsworth Daffodils; joy): 'dancing', 'sprightly dance', personification, 'jocund company', bliss of solitude; iambic tetrameter, ABABCC, 4 sestets."
+  },
+  "english-literature.unseen-daffodils.0001": {
+   "all": "Plan (Wordsworth Daffodils; the daffodils): Simile 'continuous as stars', 'host', 'golden', personified dance, memory 'inward eye', structure from lonely cloud to joy."
+  },
+  "english-literature.unseen-darkling-thrush.0001": {
+   "all": "Plan (Hardy Darkling Thrush; bleak winter landscape): 'Spectre-grey', 'weakening eye of day', century's corpse, 'crypt', 'broken lyres'; end-of-century gloom; 4 octaves."
+  },
+  "english-literature.unseen-darkling-thrush.0002": {
+   "all": "Plan (Hardy Darkling Thrush; hope): Frail aged thrush singing 'full-hearted evensong', 'blessed Hope' of which poet unaware, ambiguity 'Some blessed Hope'; contrast with bleak first two stanzas."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.unseen-brothers-room.0001": {
+   "result": "fail",
+   "problem": "Focus point calls the speaker a sister ('between brother and sister'), but the poem never gives the speaker's gender.",
+   "fix": "Reword to 'between the speaker and their brother'."
+  },
+  "english-literature.unseen-brothers-room.0002": {
+   "result": "fail",
+   "problem": "Focus point says 'she misses her brother', but the poem never gives the speaker's gender.",
+   "fix": "Reword to 'show how much the speaker misses their brother'."
+  },
+  "english-literature.unseen-daffodils.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-daffodils.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-darkling-thrush.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-darkling-thrush.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

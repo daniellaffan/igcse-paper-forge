@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-016",
+ "answers": {
+  "english-literature.unseen-phone-call-home.0003": {
+   "all": "Plan (Phone Call Home (original); homesickness): Distance, voice on line, longing, ending."
+  },
+  "english-literature.unseen-phone-call-home.0001": {
+   "all": "Plan (Phone Call Home (original); far from home): Time difference, small talk, emotion beneath, form."
+  },
+  "english-literature.unseen-railway-carriage.0001": {
+   "all": "Plan (Railway Carriage (original); a train journey): Rhythm of wheels, landscape passing, sensory detail."
+  },
+  "english-literature.unseen-railway-carriage.0002": {
+   "all": "Plan (Railway Carriage (original); a child's view): Child's wonder, simple diction, questions."
+  },
+  "english-literature.unseen-self-unseeing.0003": {
+   "all": "Plan (Hardy The Self-Unseeing; regret): 'Here is the ancient floor', 'Childlike, I danced in a dream; Blessings emblazoned that day; Everything glowed', but 'Yet we were looking away!' regret at not seeing joy at time; 3 stanzas, dactylic rhythm."
+  },
+  "english-literature.unseen-self-unseeing.0001": {
+   "all": "Plan (Hardy The Self-Unseeing; childhood memory): Fiddler, firelight, mother and father, dance; past-present; ending regret."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.unseen-phone-call-home.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-phone-call-home.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-railway-carriage.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-railway-carriage.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-self-unseeing.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-self-unseeing.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

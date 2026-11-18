@@ -1,0 +1,107 @@
+{
+ "batch": "spanish-016",
+ "answers": {
+  "spanish.w-form.b4.0008": {
+   "all": "Zara; un chándal; una camisa y una falda; el bolso (Note: context is a shop survey, form title is a uniform-design contest)"
+  },
+  "spanish.w-form.b5.0011": {
+   "all": "el tenis; la guitarra; las comedias; el sábado; el parque (Note: instrument/film odd for a sports-centre form)"
+  },
+  "spanish.w-form.c1.0002": {
+   "all": "Inglaterra; inglés; el norte; inglés; Asia (Note: language club context vs 'campamento internacional' title)"
+  },
+  "spanish.w-form.c2.0007": {
+   "all": "el sol / el calor; el papel; apago las luces y me ducho rápido; la contaminación"
+  },
+  "spanish.w-form.c3.0004": {
+   "all": "el móvil; tres horas; Instagram; veo vídeos; los anuncios"
+  },
+  "spanish.w-form.c4.0007": {
+   "all": "el parque; el supermercado; el metro; el ruido; el ayuntamiento / la catedral"
+  },
+  "spanish.w-form.d1.0011": {
+   "all": "la historia; la física; el baloncesto; un bolígrafo; medicina"
+  },
+  "spanish.w-form.d2.0007": {
+   "all": "recepcionista; lunes y martes; trabajador y simpático; profesor"
+  },
+  "spanish.w-form.e1.0012": {
+   "all": "inglés y español; Estados Unidos; ropa y una cámara; visitar museos (Note: context is a school trip, title is a language-school enrolment)"
+  },
+  "spanish.w-form.e2.0005": {
+   "all": "el carnaval; un móvil; como tarta y abro regalos; de pirata"
+  },
+  "spanish.w-short.a2.0005": {
+   "all": "Plan: mi padre cocina; sí como sano porque como fruta, aunque me gustan los dulces; mi plato favorito es la paella porque...; future: voy a comer pizza con amigos."
+  },
+  "spanish.w-short.a3.0008": {
+   "all": "Plan: cuando estoy enfermo/a me quedo en cama y bebo agua; sí, dormir bien da energía; hago deporte y como bien; conditional: me gustaría ser médico porque... (Note: template leak enferm<o|a>)"
+  },
+  "spanish.w-short.a4.0009": {
+   "all": "Plan: tren favorito; bici mejor porque es sana y no contamina; voy al instituto a pie/en autobús; preterite: fuimos en avión a España."
+  },
+  "spanish.w-short.b1.0010": {
+   "all": "Plan: tengo un gato; un buen amigo debe ser leal porque...; soy alto, pelo castaño, ojos verdes; conditional: me gustaría una familia grande porque..."
+  },
+  "spanish.w-short.b2.0012": {
+   "all": "Plan: vivo en un piso en el centro; sí, justo porque todos viven allí; mi habitación es pequeña con cama y escritorio; imperfect: la casa era grande, tenía jardín."
+  }
+ },
+ "verdicts": {
+  "spanish.w-form.b4.0008": {
+   "result": "fail",
+   "problem": "Context is a clothes-shop survey but the form is titled 'Concurso: diseña el uniforme del instituto'.",
+   "fix": "Retitle 'Encuesta: los jóvenes y la ropa' (or change context to a uniform-design contest)."
+  },
+  "spanish.w-form.b5.0011": {
+   "result": "fail",
+   "problem": "Sports-centre membership form asks for an instrument played and favourite film type, which do not fit the context.",
+   "fix": "Change context to a youth/leisure club ('club juvenil') or replace those fields with sports-centre items (e.g. 'Horario preferido', 'Otro deporte que te gustaría probar')."
+  },
+  "spanish.w-form.c1.0002": {
+   "result": "fail",
+   "problem": "Context is joining a language club in the candidate's city but the form is titled 'Inscripción: campamento internacional'.",
+   "fix": "Retitle 'Inscripción en el club de idiomas' (or change context to an international camp)."
+  },
+  "spanish.w-form.c2.0007": {
+   "result": "pass"
+  },
+  "spanish.w-form.c3.0004": {
+   "result": "pass"
+  },
+  "spanish.w-form.c4.0007": {
+   "result": "pass"
+  },
+  "spanish.w-form.d1.0011": {
+   "result": "pass"
+  },
+  "spanish.w-form.d2.0007": {
+   "result": "pass"
+  },
+  "spanish.w-form.e1.0012": {
+   "result": "fail",
+   "problem": "Context is a school trip abroad but the form is titled 'Inscripción en la escuela de idiomas'.",
+   "fix": "Retitle 'Inscripción para el viaje escolar'."
+  },
+  "spanish.w-form.e2.0005": {
+   "result": "pass"
+  },
+  "spanish.w-short.a2.0005": {
+   "result": "pass"
+  },
+  "spanish.w-short.a3.0008": {
+   "result": "fail",
+   "problem": "Bullet 1 shows an unrendered template token 'enferm<o|a>'.",
+   "fix": "'¿Qué haces cuando estás enfermo/enferma?'"
+  },
+  "spanish.w-short.a4.0009": {
+   "result": "pass"
+  },
+  "spanish.w-short.b1.0010": {
+   "result": "pass"
+  },
+  "spanish.w-short.b2.0012": {
+   "result": "pass"
+  }
+ }
+}

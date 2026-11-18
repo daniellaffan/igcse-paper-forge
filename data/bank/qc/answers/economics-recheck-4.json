@@ -1,0 +1,199 @@
+{
+ "batch": "economics-recheck-4",
+ "answers": {
+  "economics.growth-analyse-3.0006": {
+   "all": "Education raises skills/productivity of labour (human capital), raising potential output; infrastructure cuts transport costs, raises productivity, attracts FDI; both shift PPC/LRAS outward; low income E$5,000 so large scope for catch-up."
+  },
+  "economics.growth-assess-1.0005": {
+   "all": "Benefits: jobs, incomes, tax revenue. Costs: air pollution/externalities, inequality, resource depletion from mines, possible inflation. Judgement: depends on whether growth is sustainable and inclusive."
+  },
+  "economics.growth-assess-2.0005": {
+   "all": "Recession lowers AD, so demand-pull inflation falls, possible deflation; but high energy prices are cost-push so inflation may stay high (stagflation). Depends on cause and size of energy shock."
+  },
+  "economics.growth-assess-3.0004": {
+   "all": "Low income I$2,000 so growth raises living standards and reduces poverty; but trade-offs: inflation, environment, inequality, current account. Depends on stage of development and how growth is shared."
+  },
+  "economics.growth-calc.0011": {
+   "all": "(1303-1229)/1229 x100 = 6.02%"
+  },
+  "economics.growth-data.0015": {
+   "a": "(1620-1669)/1669 x100 = -2.94%",
+   "b": "As analyse-3: human capital, productivity, infrastructure lowers costs, FDI, shifts PPC out.",
+   "c": "GDP fell 2.94% so growth priority to reverse recession, jobs, incomes; vs inflation, environment, inequality, balance of payments trade-offs; judgement depends."
+  },
+  "economics.growth-define1.0002": {
+   "all": "Total value of goods and services produced in a country in a year"
+  },
+  "economics.growth-define2.0006": {
+   "all": "Fluctuations in economic activity/real GDP over time (1), through phases of boom, downturn, recession and recovery (1)"
+  },
+  "economics.growth-describe.0011": {
+   "all": "Ignores income distribution (1): average may hide inequality so many may be poor (1). Or ignores non-market activity/quality of life/pollution."
+  },
+  "economics.growth-diagram.0018": {
+   "all": "Draw new PPC1 outward (to the right) of PPC, parallel shift / both axes increased; labelled PPC1."
+  },
+  "economics.inflation-analyse-1.0001": {
+   "all": "Cost-push: higher energy and food prices raise firms' costs, passed on; wage-price spiral as workers demand higher wages, raising costs further; possibly demand-pull from higher wages raising spending."
+  },
+  "economics.inflation-data.0012": {
+   "a": "156/156 x100 = 100.00 (no change; contradicts 6.1% inflation in extract)",
+   "b": "Higher interest rates raise borrowing cost, encourage saving, cut consumption and investment, lower AD, reduce demand-pull inflation; stronger currency cuts import prices; time lags.",
+   "c": "Effective for demand-pull; less so for cost-push; harms growth/jobs; alternatives fiscal policy, supply-side; judgement depends on cause."
+  },
+  "economics.intervention-analyse-3.0004": {
+   "all": "Subsidy lowers producers' costs, supply shifts right, price falls, quantity demanded/sold rises; size depends on elasticity; cost to government/opportunity cost."
+  },
+  "economics.intervention-assess-3.0005": {
+   "all": "Subsidy directly lowers EV price, popular, but costs government money and may benefit richer buyers. Tax raises revenue and penalises polluters but regressive, and petrol demand inelastic. Depends on elasticity, budget."
+  },
+  "economics.intervention-calc.0017": {
+   "all": "37.24 x 1.25 = E$46.55"
+  },
+  "economics.intervention-define1.0006": {
+   "all": "Government directly supplying goods/services, e.g. education, healthcare, often free at point of use"
+  },
+  "economics.intervention-define2.0004": {
+   "all": "Payment by the government (1) to producers/consumers to lower costs/price and encourage production or consumption (1)"
+  },
+  "economics.intervention-diagram.0009": {
+   "all": "Supply shifts left to S1, new price P1 higher, new quantity Q1 lower, labelled."
+  },
+  "economics.intervention-evaluate-3.0005": {
+   "all": "As assess-3 with supported judgement; consider combination of both, short vs long run, infrastructure (charging points)."
+  },
+  "economics.intervention-explain.0015": {
+   "all": "Tax raises firms' costs, supply shifts left (1), price of plastic bottles rises (1) by up to B\u00a35 depending on PED; if demand inelastic most of the B\u00a35 passed to consumers (1)."
+  },
+  "economics.intervention-mcq-auth.0003": {
+   "all": "the supply curve to the left"
+  },
+  "economics.labour-analyse-1.0006": {
+   "all": "Higher pay M$8.40 raises incomes/living standards of low-paid; but small firms may cut staff/hours causing unemployment in retail/hospitality; depends on elasticity of demand for labour; may raise motivation."
+  },
+  "economics.labour-analyse-2.0001": {
+   "all": "Shortage: 5,000 vacancies, supply of nurses falling as they leave abroad -> wage must rise to attract/retain; union strike action bargaining power; inelastic demand for nurses."
+  },
+  "economics.labour-analyse-3.0001": {
+   "all": "Engineers scarce: low supply of skilled labour, high demand, high productivity -> high wage; shop jobs: many applicants, high supply, low skill -> low wage; 4 times difference."
+  },
+  "economics.labour-assess-1.0006": {
+   "all": "Benefits: higher incomes, spending, multiplier, reduced poverty, motivation. Costs: unemployment for small firms, higher costs/prices, reduced competitiveness. Depends on size (13%) relative to market wage, elasticity."
+  },
+  "economics.labour-assess-2.0004": {
+   "all": "Union strike raises bargaining power, and shortage supports pay rise. But government budget limits, public opinion, strikes may harm patients. Shortage/migration may be stronger driver than union."
+  },
+  "economics.labour-assess-3.0006": {
+   "all": "Could fall: more training/education raises engineer supply, automation of jobs; could not: skills gap persists, tech demand grows, barriers to entry. Judgement depends."
+  },
+  "economics.labour-calc.0016": {
+   "all": "(12.68-12.32)/12.32 x100 = 2.92%"
+  },
+  "economics.labour-data.0001": {
+   "a": "9.10 x 28 = I$254.80",
+   "b": "As labour-analyse-1: higher incomes vs job losses/hours cut.",
+   "c": "As labour-assess-1 with supported judgement."
+  },
+  "economics.labour-define1.0003": {
+   "all": "The lowest wage per hour that employers can legally pay workers"
+  }
+ },
+ "verdicts": {
+  "economics.growth-analyse-3.0006": {
+   "result": "pass"
+  },
+  "economics.growth-assess-1.0005": {
+   "result": "pass"
+  },
+  "economics.growth-assess-2.0005": {
+   "result": "pass"
+  },
+  "economics.growth-assess-3.0004": {
+   "result": "pass"
+  },
+  "economics.growth-calc.0011": {
+   "result": "pass"
+  },
+  "economics.growth-data.0015": {
+   "result": "pass"
+  },
+  "economics.growth-define1.0002": {
+   "result": "pass"
+  },
+  "economics.growth-define2.0006": {
+   "result": "pass"
+  },
+  "economics.growth-describe.0011": {
+   "result": "pass"
+  },
+  "economics.growth-diagram.0018": {
+   "result": "pass"
+  },
+  "economics.inflation-analyse-1.0001": {
+   "result": "pass"
+  },
+  "economics.inflation-data.0012": {
+   "result": "fail",
+   "problem": "Part (a) gives the basket cost as V$156 in both years, so the index is a trivial 100.00, which contradicts the 6.1% inflation in Extract A.",
+   "fix": "Use a higher current-year cost, e.g. base V$156 and this year V$165.52 (index 106.10)."
+  },
+  "economics.intervention-analyse-3.0004": {
+   "result": "pass"
+  },
+  "economics.intervention-assess-3.0005": {
+   "result": "pass"
+  },
+  "economics.intervention-calc.0017": {
+   "result": "pass"
+  },
+  "economics.intervention-define1.0006": {
+   "result": "pass"
+  },
+  "economics.intervention-define2.0004": {
+   "result": "pass"
+  },
+  "economics.intervention-diagram.0009": {
+   "result": "pass"
+  },
+  "economics.intervention-evaluate-3.0005": {
+   "result": "pass"
+  },
+  "economics.intervention-explain.0015": {
+   "result": "pass"
+  },
+  "economics.intervention-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.labour-analyse-1.0006": {
+   "result": "fail",
+   "problem": "Indicative content lists only gains for workers and omits job losses or cut hours, the effect the context explicitly flags.",
+   "fix": "Add indicative points: firms in retail/hospitality may cut staff or hours, so some workers lose jobs or income; youth/low-skilled most at risk; effect depends on elasticity of demand for labour."
+  },
+  "economics.labour-analyse-2.0001": {
+   "result": "pass"
+  },
+  "economics.labour-analyse-3.0001": {
+   "result": "pass"
+  },
+  "economics.labour-assess-1.0006": {
+   "result": "pass"
+  },
+  "economics.labour-assess-2.0004": {
+   "result": "pass"
+  },
+  "economics.labour-assess-3.0006": {
+   "result": "pass"
+  },
+  "economics.labour-calc.0016": {
+   "result": "pass"
+  },
+  "economics.labour-data.0001": {
+   "result": "fail",
+   "problem": "Part (b) indicative content lists only gains for workers and omits job losses or cut hours, which Extract A explicitly warns about.",
+   "fix": "Add indicative points: firms in retail/hospitality may cut staff or hours, so some workers lose jobs or income; youth/low-skilled most at risk; effect depends on elasticity of demand for labour."
+  },
+  "economics.labour-define1.0003": {
+   "result": "pass"
+  }
+ }
+}

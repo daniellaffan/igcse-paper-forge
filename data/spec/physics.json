@@ -1,0 +1,1637 @@
+{
+ "subject": "physics",
+ "code": "4PH1",
+ "board": "Pearson Edexcel International GCSE (9-1)",
+ "title": "Physics",
+ "short": "Physics 4PH1",
+ "official_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-physics-2017.html",
+ "spec_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-physics-2017.html",
+ "papers": [
+  {
+   "id": "1P",
+   "name": "Paper 1P",
+   "paper_code": "4PH1/1P",
+   "minutes": 120,
+   "marks": 110,
+   "calculator": true,
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Answer the questions in the spaces provided; there may be more space than you need.",
+    "Show all the steps in any calculations and state the units."
+   ],
+   "information": [
+    "The total mark for this paper is 110.",
+    "The marks for each question are shown in brackets; use this as a guide as to how much time to spend on each question.",
+    "Where necessary, take the gravitational field strength g to be 10 N/kg."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Write your answers neatly and in good English.",
+    "Try to answer every question.",
+    "Check your answers if you have time at the end."
+   ],
+   "materials": "You must have: ruler, protractor, calculator, equation booklet.",
+   "reference_sheet": "physics-equations",
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "main",
+     "title": "Answer ALL questions.",
+     "instructions": "Some questions must be answered with a cross in a box. If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.",
+     "marks": 110
+    }
+   ]
+  },
+  {
+   "id": "2P",
+   "name": "Paper 2P",
+   "paper_code": "4PH1/2P",
+   "minutes": 75,
+   "marks": 70,
+   "calculator": true,
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Answer the questions in the spaces provided; there may be more space than you need.",
+    "Show all the steps in any calculations and state the units."
+   ],
+   "information": [
+    "The total mark for this paper is 70.",
+    "The marks for each question are shown in brackets; use this as a guide as to how much time to spend on each question.",
+    "Where necessary, take the gravitational field strength g to be 10 N/kg."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Write your answers neatly and in good English.",
+    "Try to answer every question.",
+    "Check your answers if you have time at the end."
+   ],
+   "materials": "You must have: ruler, protractor, calculator, equation booklet.",
+   "reference_sheet": "physics-equations",
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "main",
+     "title": "Answer ALL questions.",
+     "instructions": "Some questions must be answered with a cross in a box. If you change your mind about an answer, put a line through the box and then mark your new answer with a cross.",
+     "marks": 70
+    }
+   ]
+  }
+ ],
+ "qtypes": [
+  {
+   "id": "mcq",
+   "label": "Multiple choice",
+   "marks": "1",
+   "description": "Choose one answer from A-D by putting a cross in a box."
+  },
+  {
+   "id": "recall",
+   "label": "Recall (state / give / name)",
+   "marks": "1-3",
+   "description": "Short factual answers: state, give, name, identify, complete."
+  },
+  {
+   "id": "describe",
+   "label": "Describe",
+   "marks": "2-4",
+   "description": "Give an account of a process, pattern, method or observation."
+  },
+  {
+   "id": "explain",
+   "label": "Explain",
+   "marks": "2-5",
+   "description": "Give reasons linked by physics ideas: point then linked consequence."
+  },
+  {
+   "id": "calc",
+   "label": "Calculation",
+   "marks": "2-5",
+   "description": "Recall-and-use or given equations: substitution, rearrangement, evaluation, units, unit conversions and significant figures."
+  },
+  {
+   "id": "practical",
+   "label": "Practical skills and experimental design",
+   "marks": "2-6",
+   "description": "Required practicals: variables, method, measurements, errors, precautions, improvements and processing results."
+  },
+  {
+   "id": "data",
+   "label": "Data and graph analysis",
+   "marks": "3-8",
+   "description": "Plot graphs, draw lines of best fit, find gradients and areas, read off values, spot anomalies and draw conclusions."
+  },
+  {
+   "id": "diagram",
+   "label": "Diagrams (circuits, rays, fields, forces)",
+   "marks": "2-4",
+   "description": "Draw or complete circuit diagrams, ray diagrams, field patterns, force diagrams, Sankey diagrams and decay charts."
+  },
+  {
+   "id": "extended",
+   "label": "Extended response (6 marks)",
+   "marks": "6-8",
+   "description": "Longer structured answer marked with a six-mark levels grid and indicative content."
+  }
+ ],
+ "topics": [
+  {
+   "id": "physics.forces",
+   "ref": "1",
+   "title": "Forces and motion",
+   "papers": [
+    "1P",
+    "2P"
+   ],
+   "subtopics": [
+    {
+     "id": "physics.forces.motion",
+     "ref": "1(a)(b)",
+     "title": "Movement and position",
+     "summary": "Speed, velocity and acceleration; distance-time and velocity-time graphs; the v^2 = u^2 + 2as equation.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "calc",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "1.1",
+       "summary": "Work in kg, m, m/s, m/s², N, s and N/kg."
+      },
+      {
+       "ref": "1.3",
+       "summary": "Draw and interpret graphs of distance against time."
+      },
+      {
+       "ref": "1.4",
+       "summary": "Average speed is distance moved divided by time taken."
+      },
+      {
+       "ref": "1.5",
+       "summary": "Practical: measure the motion of everyday objects such as toy cars or balls."
+      },
+      {
+       "ref": "1.6",
+       "summary": "Acceleration is change in velocity divided by time taken."
+      },
+      {
+       "ref": "1.7",
+       "summary": "Draw and interpret graphs of velocity against time."
+      },
+      {
+       "ref": "1.8",
+       "summary": "The gradient of a velocity-time graph gives acceleration."
+      },
+      {
+       "ref": "1.9",
+       "summary": "The area under a velocity-time graph gives distance travelled."
+      },
+      {
+       "ref": "1.10",
+       "summary": "Use v² = u² + 2as for uniform acceleration."
+      }
+     ]
+    },
+    {
+     "id": "physics.forces.forces",
+     "ref": "1(c) 1.11-1.21",
+     "title": "Forces, weight and stopping",
+     "summary": "What forces do, vectors and scalars, resultant force, F = ma, weight, stopping distance and terminal velocity.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calc",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "1.11",
+       "summary": "Forces can change an object's speed, shape or direction."
+      },
+      {
+       "ref": "1.12",
+       "summary": "Recognise kinds of force such as gravitational, electrostatic, friction and drag."
+      },
+      {
+       "ref": "1.13",
+       "summary": "Vectors have size and direction; scalars have size only."
+      },
+      {
+       "ref": "1.14",
+       "summary": "Force is a vector."
+      },
+      {
+       "ref": "1.15",
+       "summary": "Add forces acting along one line to find the resultant."
+      },
+      {
+       "ref": "1.16",
+       "summary": "Friction acts against motion."
+      },
+      {
+       "ref": "1.17",
+       "summary": "Resultant force equals mass times acceleration."
+      },
+      {
+       "ref": "1.18",
+       "summary": "Weight equals mass times gravitational field strength."
+      },
+      {
+       "ref": "1.19",
+       "summary": "Stopping distance is thinking distance plus braking distance."
+      },
+      {
+       "ref": "1.20",
+       "summary": "Speed, mass, road surface and reaction time change stopping distance."
+      },
+      {
+       "ref": "1.21",
+       "summary": "Weight and drag on a falling object; why it reaches terminal velocity."
+      }
+     ]
+    },
+    {
+     "id": "physics.forces.elasticity",
+     "ref": "1(c) 1.22-1.24",
+     "title": "Stretching springs and materials",
+     "summary": "Force-extension investigations for springs, wires and rubber bands; Hooke's law region; elastic behaviour.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "1.22",
+       "summary": "Practical: measure how extension depends on the load for springs, wires and rubber bands."
+      },
+      {
+       "ref": "1.23",
+       "summary": "The first straight part of a force-extension graph shows Hooke's law."
+      },
+      {
+       "ref": "1.24",
+       "summary": "An elastic material returns to its original shape once the load is removed."
+      }
+     ]
+    },
+    {
+     "id": "physics.forces.momentum",
+     "ref": "1(c) 1.25P-1.29P",
+     "title": "Momentum and Newton's third law",
+     "summary": "Momentum p = mv, conservation in collisions and explosions, force as rate of change of momentum, safety features, third law pairs.",
+     "papers": [
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc"
+     ],
+     "points": [
+      {
+       "ref": "1.2P",
+       "summary": "Work in N m and kg m/s.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.25P",
+       "summary": "Momentum equals mass times velocity.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.26P",
+       "summary": "Use momentum ideas to explain crumple zones, airbags and helmets.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.27P",
+       "summary": "Use conservation of momentum to find masses or velocities.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.28P",
+       "summary": "Force equals change in momentum divided by time taken.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.29P",
+       "summary": "Newton's third law: interacting bodies exert equal and opposite forces on each other.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "physics.forces.moments",
+     "ref": "1(c) 1.30P-1.33P",
+     "title": "Moments and centre of gravity",
+     "summary": "Moment = force x perpendicular distance, principle of moments, centre of gravity, forces on a supported beam.",
+     "papers": [
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc",
+      "practical"
+     ],
+     "points": [
+      {
+       "ref": "1.30P",
+       "summary": "Moment equals force times perpendicular distance from the pivot.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.31P",
+       "summary": "An object's weight acts through its centre of gravity.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.32P",
+       "summary": "Balanced objects: clockwise moments equal anticlockwise moments.",
+       "paper2_only": true
+      },
+      {
+       "ref": "1.33P",
+       "summary": "How the support forces on a light beam change as a heavy load moves along it.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "physics.electricity",
+   "ref": "2",
+   "title": "Electricity",
+   "papers": [
+    "1P",
+    "2P"
+   ],
+   "subtopics": [
+    {
+     "id": "physics.electricity.mains",
+     "ref": "2(a)(b)",
+     "title": "Mains electricity and electrical power",
+     "summary": "Safety features (insulation, earthing, fuses, circuit breakers), heating effect, P = IV, E = IVt, fuse choice, a.c. and d.c.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc",
+      "describe",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.1",
+       "summary": "Work in A, C, J, Ω, s, V and W."
+      },
+      {
+       "ref": "2.2",
+       "summary": "How insulation, double insulation, earthing, fuses and circuit breakers protect people and appliances."
+      },
+      {
+       "ref": "2.3",
+       "summary": "Current in a resistor heats it; uses of this heating at home."
+      },
+      {
+       "ref": "2.4",
+       "summary": "Power equals current times voltage; choose the right fuse."
+      },
+      {
+       "ref": "2.5",
+       "summary": "Energy transferred equals current times voltage times time."
+      },
+      {
+       "ref": "2.6",
+       "summary": "Mains is alternating current; cells and batteries give direct current."
+      }
+     ]
+    },
+    {
+     "id": "physics.electricity.circuits",
+     "ref": "2(c) 2.7-2.13",
+     "title": "Circuits, resistance and components",
+     "summary": "Series and parallel circuits, I-V characteristics, LDRs and thermistors, V = IR, lamps and LEDs as indicators.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calc",
+      "practical",
+      "data",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.7",
+       "summary": "Choose series or parallel circuits for a job, e.g. house lighting."
+      },
+      {
+       "ref": "2.8",
+       "summary": "In series, current depends on the supply voltage and on the components in the loop."
+      },
+      {
+       "ref": "2.9",
+       "summary": "Current-voltage behaviour of wires, resistors, filament lamps and diodes, and how to measure it."
+      },
+      {
+       "ref": "2.10",
+       "summary": "More resistance means less current."
+      },
+      {
+       "ref": "2.11",
+       "summary": "LDR resistance falls as light gets brighter; thermistor resistance falls as it gets hotter."
+      },
+      {
+       "ref": "2.12",
+       "summary": "A lamp or LED can show that a current is flowing."
+      },
+      {
+       "ref": "2.13",
+       "summary": "Voltage equals current times resistance."
+      }
+     ]
+    },
+    {
+     "id": "physics.electricity.charge",
+     "ref": "2(c) 2.14-2.21",
+     "title": "Charge, current and voltage",
+     "summary": "Current as rate of flow of charge, Q = It, electrons in metals, junction rule, parallel voltages, series calculations, E = QV.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc"
+     ],
+     "points": [
+      {
+       "ref": "2.14",
+       "summary": "Current is how quickly charge flows."
+      },
+      {
+       "ref": "2.15",
+       "summary": "Charge equals current times time."
+      },
+      {
+       "ref": "2.16",
+       "summary": "In metal wires the current is a flow of electrons."
+      },
+      {
+       "ref": "2.17",
+       "summary": "Current into a junction equals current out because charge is conserved."
+      },
+      {
+       "ref": "2.18",
+       "summary": "Components in parallel have the same voltage across them."
+      },
+      {
+       "ref": "2.19",
+       "summary": "Work out currents, voltages and resistances for two components in series."
+      },
+      {
+       "ref": "2.20",
+       "summary": "Voltage is energy per unit charge; one volt is one joule per coulomb."
+      },
+      {
+       "ref": "2.21",
+       "summary": "Energy transferred equals charge times voltage."
+      }
+     ]
+    },
+    {
+     "id": "physics.electricity.static",
+     "ref": "2(d) 2.22P-2.28P",
+     "title": "Electrostatics",
+     "summary": "Conductors and insulators, charging by friction, electron transfer, attraction and repulsion, dangers and uses of static.",
+     "papers": [
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "practical",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.22P",
+       "summary": "Name common conductors (metals) and insulators (plastics).",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.23P",
+       "summary": "Practical: charge insulating materials by rubbing them.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.24P",
+       "summary": "Objects become charged by gaining electrons (negative) or losing electrons (positive).",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.25P",
+       "summary": "Unlike charges attract and like charges repel.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.26P",
+       "summary": "Explain static effects using the movement of electrons.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.27P",
+       "summary": "Dangers of static, e.g. sparks when refuelling aircraft and tankers.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.28P",
+       "summary": "Uses of static, e.g. photocopiers and inkjet printers.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "physics.waves",
+   "ref": "3",
+   "title": "Waves",
+   "papers": [
+    "1P",
+    "2P"
+   ],
+   "subtopics": [
+    {
+     "id": "physics.waves.properties",
+     "ref": "3(a)(b)",
+     "title": "Properties of waves",
+     "summary": "Transverse and longitudinal waves, wave terms, v = fλ, f = 1/T, Doppler effect, reflection and refraction.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calc",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "3.1",
+       "summary": "Work in degrees, Hz, m, m/s and s."
+      },
+      {
+       "ref": "3.2",
+       "summary": "Difference between longitudinal and transverse waves."
+      },
+      {
+       "ref": "3.3",
+       "summary": "Meaning of amplitude, wavefront, frequency, wavelength and period."
+      },
+      {
+       "ref": "3.4",
+       "summary": "Waves carry energy and information but not matter."
+      },
+      {
+       "ref": "3.5",
+       "summary": "Wave speed equals frequency times wavelength."
+      },
+      {
+       "ref": "3.6",
+       "summary": "Frequency equals one divided by the time period."
+      },
+      {
+       "ref": "3.7",
+       "summary": "Apply the wave equations to sound and electromagnetic waves."
+      },
+      {
+       "ref": "3.8",
+       "summary": "Doppler effect: a moving source changes the observed frequency and wavelength."
+      },
+      {
+       "ref": "3.9",
+       "summary": "All waves can be reflected and refracted."
+      }
+     ]
+    },
+    {
+     "id": "physics.waves.em",
+     "ref": "3(c)",
+     "title": "The electromagnetic spectrum",
+     "summary": "Order of the spectrum, same speed in a vacuum, uses of each region, harmful effects and protection.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "3.10",
+       "summary": "Light is one part of a continuous EM spectrum; all EM waves travel at the same speed in space."
+      },
+      {
+       "ref": "3.11",
+       "summary": "Order the spectrum by wavelength and frequency, including the colours of visible light."
+      },
+      {
+       "ref": "3.12",
+       "summary": "Uses of radio, microwaves, infrared, visible, ultraviolet, X-rays and gamma rays."
+      },
+      {
+       "ref": "3.13",
+       "summary": "Harm from too much microwave, infrared, ultraviolet and gamma exposure, and ways to reduce it."
+      }
+     ]
+    },
+    {
+     "id": "physics.waves.light",
+     "ref": "3(d) 3.14-3.22",
+     "title": "Light: reflection, refraction and total internal reflection",
+     "summary": "Law of reflection, ray diagrams, refraction practicals, n = sin i / sin r, critical angle and optical fibres.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc",
+      "practical",
+      "data",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "3.14",
+       "summary": "Light is a transverse wave that reflects and refracts."
+      },
+      {
+       "ref": "3.15",
+       "summary": "Angle of incidence equals angle of reflection."
+      },
+      {
+       "ref": "3.16",
+       "summary": "Draw ray diagrams for reflection and refraction."
+      },
+      {
+       "ref": "3.17",
+       "summary": "Practical: trace rays through rectangular and semicircular blocks and prisms."
+      },
+      {
+       "ref": "3.18",
+       "summary": "Refractive index equals sin i divided by sin r."
+      },
+      {
+       "ref": "3.19",
+       "summary": "Practical: find the refractive index of a glass block."
+      },
+      {
+       "ref": "3.20",
+       "summary": "Total internal reflection in optical fibres and prisms."
+      },
+      {
+       "ref": "3.21",
+       "summary": "What the critical angle means."
+      },
+      {
+       "ref": "3.22",
+       "summary": "sin c equals 1 divided by the refractive index."
+      }
+     ]
+    },
+    {
+     "id": "physics.waves.sound",
+     "ref": "3(d) 3.23-3.29P",
+     "title": "Sound",
+     "summary": "Sound as a longitudinal wave, hearing range, measuring the speed of sound, oscilloscope traces, pitch and loudness.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "3.23",
+       "summary": "Sound is a longitudinal wave that reflects and refracts."
+      },
+      {
+       "ref": "3.24P",
+       "summary": "Humans hear from about 20 Hz to 20 000 Hz.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.25P",
+       "summary": "Practical: measure the speed of sound in air.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.26P",
+       "summary": "Use a microphone and oscilloscope to display a sound wave.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.27P",
+       "summary": "Practical: find the frequency of a sound from an oscilloscope trace.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.28P",
+       "summary": "Higher frequency of vibration gives a higher pitch.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.29P",
+       "summary": "Larger amplitude of vibration gives a louder sound.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "physics.energy",
+   "ref": "4",
+   "title": "Energy resources and energy transfers",
+   "papers": [
+    "1P",
+    "2P"
+   ],
+   "subtopics": [
+    {
+     "id": "physics.energy.transfers",
+     "ref": "4(a)(b) 4.1-4.5",
+     "title": "Energy stores, transfers and efficiency",
+     "summary": "Energy stores and transfer pathways, conservation of energy, efficiency and Sankey diagrams.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "calc",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "4.1",
+       "summary": "Work in kg, J, m, m/s, m/s², N, s and W."
+      },
+      {
+       "ref": "4.2",
+       "summary": "Name energy stores and the ways energy is transferred between them."
+      },
+      {
+       "ref": "4.3",
+       "summary": "Energy is never created or destroyed."
+      },
+      {
+       "ref": "4.4",
+       "summary": "Efficiency is useful energy output divided by total energy output (times 100%)."
+      },
+      {
+       "ref": "4.5",
+       "summary": "Describe energy transfers in devices and draw Sankey diagrams."
+      }
+     ]
+    },
+    {
+     "id": "physics.energy.thermal",
+     "ref": "4(b) 4.6-4.10",
+     "title": "Thermal energy transfer",
+     "summary": "Conduction, convection and radiation, convection currents, surfaces and radiation, investigations and insulation.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "practical",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "4.6",
+       "summary": "Thermal energy moves by conduction, convection and radiation."
+      },
+      {
+       "ref": "4.7",
+       "summary": "Convection explains sea breezes, room heating and similar effects."
+      },
+      {
+       "ref": "4.8",
+       "summary": "How surface colour, texture and temperature affect emission and absorption of radiation."
+      },
+      {
+       "ref": "4.9",
+       "summary": "Practical: investigate conduction, convection and radiation."
+      },
+      {
+       "ref": "4.10",
+       "summary": "Reduce unwanted energy transfer using insulation and other methods."
+      }
+     ]
+    },
+    {
+     "id": "physics.energy.work",
+     "ref": "4(c)",
+     "title": "Work, energy and power",
+     "summary": "W = Fd, work as energy transferred, GPE = mgh, KE = ½mv², energy conservation in falling and rising objects, P = W/t.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc"
+     ],
+     "points": [
+      {
+       "ref": "4.11",
+       "summary": "Work done equals force times distance moved in the direction of the force."
+      },
+      {
+       "ref": "4.12",
+       "summary": "Work done is the same as energy transferred."
+      },
+      {
+       "ref": "4.13",
+       "summary": "Gravitational potential energy equals mgh."
+      },
+      {
+       "ref": "4.14",
+       "summary": "Kinetic energy equals half times mass times speed squared."
+      },
+      {
+       "ref": "4.15",
+       "summary": "Link GPE, KE and work using conservation of energy."
+      },
+      {
+       "ref": "4.16",
+       "summary": "Power is the rate of transferring energy or doing work."
+      },
+      {
+       "ref": "4.17",
+       "summary": "Power equals work done divided by time taken."
+      }
+     ]
+    },
+    {
+     "id": "physics.energy.resources",
+     "ref": "4(d) 4.18P-4.19P",
+     "title": "Energy resources and electricity generation",
+     "summary": "Energy transfers in power stations and renewable generators; advantages and disadvantages of each resource.",
+     "papers": [
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "4.18P",
+       "summary": "Energy transfers when electricity is generated from wind, water, geothermal, solar, fossil and nuclear sources.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.19P",
+       "summary": "Compare renewable and non-renewable large-scale electricity generation.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "physics.matter",
+   "ref": "5",
+   "title": "Solids, liquids and gases",
+   "papers": [
+    "1P",
+    "2P"
+   ],
+   "subtopics": [
+    {
+     "id": "physics.matter.density",
+     "ref": "5(a)(b)",
+     "title": "Density and pressure",
+     "summary": "ρ = m/V and how to measure it, p = F/A, pressure in fluids acting in all directions, p = hρg.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc",
+      "practical"
+     ],
+     "points": [
+      {
+       "ref": "5.1",
+       "summary": "Work in °C, K, J, kg, kg/m³, m, m², m³, m/s, m/s², N and Pa."
+      },
+      {
+       "ref": "5.3",
+       "summary": "Density equals mass divided by volume."
+      },
+      {
+       "ref": "5.4",
+       "summary": "Practical: find density from measured mass and volume."
+      },
+      {
+       "ref": "5.5",
+       "summary": "Pressure equals force divided by area."
+      },
+      {
+       "ref": "5.6",
+       "summary": "Pressure at a point in a still fluid acts equally in all directions."
+      },
+      {
+       "ref": "5.7",
+       "summary": "Pressure difference equals height times density times g."
+      }
+     ]
+    },
+    {
+     "id": "physics.matter.state",
+     "ref": "5(c) 5.2P, 5.8P-5.14P",
+     "title": "Change of state and specific heat capacity",
+     "summary": "Particle models of solids, liquids and gases, heating and changes of state, cooling curves, ΔQ = mcΔT and SHC practicals.",
+     "papers": [
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calc",
+      "practical",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "5.2P",
+       "summary": "Work in J/kg °C.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.8P",
+       "summary": "Heating raises the internal energy, so temperature rises or the state changes.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.9P",
+       "summary": "What happens to particles during melting, evaporation and boiling.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.10P",
+       "summary": "Arrangement and motion of particles in solids, liquids and gases.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.11P",
+       "summary": "Practical: get a temperature-time graph showing a flat section during a change of state.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.12P",
+       "summary": "Specific heat capacity: energy to warm 1 kg by 1 °C.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.13P",
+       "summary": "Change in thermal energy equals m × c × ΔT.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.14P",
+       "summary": "Practical: measure the specific heat capacity of water and solids.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "physics.matter.gases",
+     "ref": "5(d)",
+     "title": "Ideal gas molecules",
+     "summary": "Molecular motion and gas pressure, absolute zero and the Kelvin scale, p1V1 = p2V2 and p1/T1 = p2/T2.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "5.15",
+       "summary": "Gas molecules move randomly and hit the walls, causing a force and so a pressure."
+      },
+      {
+       "ref": "5.16",
+       "summary": "Why there is an absolute zero at -273 °C."
+      },
+      {
+       "ref": "5.17",
+       "summary": "Convert between Kelvin and Celsius temperatures."
+      },
+      {
+       "ref": "5.18",
+       "summary": "Higher temperature means faster gas molecules on average."
+      },
+      {
+       "ref": "5.19",
+       "summary": "Kelvin temperature is proportional to the average kinetic energy of the molecules."
+      },
+      {
+       "ref": "5.20",
+       "summary": "Explain how pressure depends on volume (fixed T) and on Kelvin temperature (fixed V)."
+      },
+      {
+       "ref": "5.21",
+       "summary": "Use p1/T1 = p2/T2 for a fixed mass of gas at constant volume."
+      },
+      {
+       "ref": "5.22",
+       "summary": "Use p1V1 = p2V2 for a fixed mass of gas at constant temperature."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "physics.magnetism",
+   "ref": "6",
+   "title": "Magnetism and electromagnetism",
+   "papers": [
+    "1P",
+    "2P"
+   ],
+   "subtopics": [
+    {
+     "id": "physics.magnetism.magnets",
+     "ref": "6(a)(b)",
+     "title": "Magnets and magnetic fields",
+     "summary": "Attraction and repulsion, hard and soft magnetic materials, field lines, induced magnetism, plotting fields, uniform fields.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "practical",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "6.1",
+       "summary": "Work in A, V and W."
+      },
+      {
+       "ref": "6.2",
+       "summary": "Magnets attract or repel other magnets and attract magnetic materials."
+      },
+      {
+       "ref": "6.3",
+       "summary": "Hard magnetic materials keep magnetism; soft ones lose it easily."
+      },
+      {
+       "ref": "6.4",
+       "summary": "Meaning of a magnetic field line."
+      },
+      {
+       "ref": "6.5",
+       "summary": "Some materials become magnets when placed in a magnetic field."
+      },
+      {
+       "ref": "6.6",
+       "summary": "Practical: plot the field around one bar magnet and between two."
+      },
+      {
+       "ref": "6.7",
+       "summary": "Use two magnets to make a uniform field."
+      }
+     ]
+    },
+    {
+     "id": "physics.magnetism.em",
+     "ref": "6(c)",
+     "title": "Electromagnetism and the motor effect",
+     "summary": "Fields around currents, electromagnets, force on moving charges and currents in fields, left-hand rule, motors and loudspeakers.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "6.8",
+       "summary": "A current in a wire makes a magnetic field around it."
+      },
+      {
+       "ref": "6.9P",
+       "summary": "How an electromagnet is built.",
+       "paper2_only": true
+      },
+      {
+       "ref": "6.10P",
+       "summary": "Field patterns for a straight wire, a flat coil and a solenoid.",
+       "paper2_only": true
+      },
+      {
+       "ref": "6.11P",
+       "summary": "A charged particle moving across a magnetic field feels a force.",
+       "paper2_only": true
+      },
+      {
+       "ref": "6.12",
+       "summary": "Why a current-carrying wire in a field feels a force; d.c. motors and loudspeakers."
+      },
+      {
+       "ref": "6.13",
+       "summary": "Fleming's left-hand rule gives the direction of the force."
+      },
+      {
+       "ref": "6.14",
+       "summary": "Size and direction of the force depend on the current and field."
+      }
+     ]
+    },
+    {
+     "id": "physics.magnetism.induction",
+     "ref": "6(d) 6.15-6.16",
+     "title": "Electromagnetic induction and generators",
+     "summary": "Inducing a voltage by moving a conductor or changing a field; generators; factors affecting the induced voltage.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "6.15",
+       "summary": "A voltage is induced when a conductor cuts field lines or the field through a coil changes; what makes it bigger."
+      },
+      {
+       "ref": "6.16",
+       "summary": "Generating electricity by spinning a magnet in a coil or a coil in a field."
+      }
+     ]
+    },
+    {
+     "id": "physics.magnetism.transformers",
+     "ref": "6(d) 6.17P-6.20P",
+     "title": "Transformers and transmission",
+     "summary": "Transformer structure, step-up and step-down use in the grid, turns-ratio equation and VpIp = VsIs.",
+     "papers": [
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc"
+     ],
+     "points": [
+      {
+       "ref": "6.17P",
+       "summary": "A transformer has two coils on an iron core and changes the size of an alternating voltage.",
+       "paper2_only": true
+      },
+      {
+       "ref": "6.18P",
+       "summary": "Step-up and step-down transformers in power transmission.",
+       "paper2_only": true
+      },
+      {
+       "ref": "6.19P",
+       "summary": "Vp/Vs = Np/Ns.",
+       "paper2_only": true
+      },
+      {
+       "ref": "6.20P",
+       "summary": "For a 100% efficient transformer, input power equals output power: VpIp = VsIs.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "physics.radioactivity",
+   "ref": "7",
+   "title": "Radioactivity and particles",
+   "papers": [
+    "1P",
+    "2P"
+   ],
+   "subtopics": [
+    {
+     "id": "physics.radioactivity.atoms",
+     "ref": "7(a)(b) 7.1-7.9",
+     "title": "Atoms and nuclear radiation",
+     "summary": "Atomic structure and nuclide notation, isotopes, alpha, beta, gamma and neutron emission, nuclear equations and detectors.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "practical",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "7.1",
+       "summary": "Work in Bq, cm, h, min and s."
+      },
+      {
+       "ref": "7.2",
+       "summary": "Protons, neutrons and electrons; nuclide symbols such as carbon-14."
+      },
+      {
+       "ref": "7.3",
+       "summary": "Atomic number, mass number and isotope."
+      },
+      {
+       "ref": "7.4",
+       "summary": "Alpha, beta and gamma are ionising radiations emitted randomly by unstable nuclei."
+      },
+      {
+       "ref": "7.5",
+       "summary": "What alpha, beta and gamma are; their penetration and ionising power."
+      },
+      {
+       "ref": "7.6",
+       "summary": "Practical: compare penetrating power using sources or a simulation."
+      },
+      {
+       "ref": "7.7",
+       "summary": "How alpha, beta, gamma and neutron emission change atomic and mass numbers."
+      },
+      {
+       "ref": "7.8",
+       "summary": "Balance nuclear equations for mass and charge."
+      },
+      {
+       "ref": "7.9",
+       "summary": "Photographic film and Geiger-Müller tubes detect ionising radiation."
+      }
+     ]
+    },
+    {
+     "id": "physics.radioactivity.halflife",
+     "ref": "7(b) 7.10-7.16",
+     "title": "Activity, half-life, uses and dangers",
+     "summary": "Background radiation, activity in Bq, half-life calculations and graphs, uses, contamination and irradiation, dangers and waste.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "7.10",
+       "summary": "Sources of background radiation from the Earth and from space."
+      },
+      {
+       "ref": "7.11",
+       "summary": "Activity falls with time and is measured in becquerels."
+      },
+      {
+       "ref": "7.12",
+       "summary": "Half-life is the time for activity (or undecayed nuclei) to halve; it differs between isotopes."
+      },
+      {
+       "ref": "7.13",
+       "summary": "Half-life calculations, including reading graphs."
+      },
+      {
+       "ref": "7.14",
+       "summary": "Uses of radioactivity in medicine and industry."
+      },
+      {
+       "ref": "7.15",
+       "summary": "Contamination versus irradiation."
+      },
+      {
+       "ref": "7.16",
+       "summary": "Radiation damages cells and causes mutations; risks of radioactive waste and how to reduce them."
+      }
+     ]
+    },
+    {
+     "id": "physics.radioactivity.nuclear",
+     "ref": "7(c)",
+     "title": "Fission and fusion",
+     "summary": "Fission of U-235 and chain reactions, control rods, moderators and shielding, fusion in stars and why it needs extreme conditions.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "7.17",
+       "summary": "Fission, fusion and decay all release energy."
+      },
+      {
+       "ref": "7.18",
+       "summary": "A neutron hitting U-235 makes it split, releasing kinetic energy of the products."
+      },
+      {
+       "ref": "7.19",
+       "summary": "Fission gives two radioactive daughter nuclei and two or three neutrons."
+      },
+      {
+       "ref": "7.20",
+       "summary": "Released neutrons can cause further fissions: a chain reaction."
+      },
+      {
+       "ref": "7.21",
+       "summary": "Control rods absorb neutrons; the moderator slows them down."
+      },
+      {
+       "ref": "7.22",
+       "summary": "Shielding around the reactor absorbs radiation."
+      },
+      {
+       "ref": "7.23",
+       "summary": "Fusion joins nuclei; fission splits them."
+      },
+      {
+       "ref": "7.24",
+       "summary": "Fusion makes a heavier nucleus with a small loss of mass and releases energy."
+      },
+      {
+       "ref": "7.25",
+       "summary": "Stars are powered by fusion."
+      },
+      {
+       "ref": "7.26",
+       "summary": "Fusion needs very high temperature and pressure to overcome repulsion between protons."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "physics.astrophysics",
+   "ref": "8",
+   "title": "Astrophysics",
+   "papers": [
+    "1P",
+    "2P"
+   ],
+   "subtopics": [
+    {
+     "id": "physics.astrophysics.universe",
+     "ref": "8(a)(b)",
+     "title": "Motion in the universe",
+     "summary": "Universe, galaxies and the Milky Way, gravitational field strength on different bodies, orbits of planets, moons, comets and satellites, v = 2πr/T.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calc"
+     ],
+     "points": [
+      {
+       "ref": "8.1",
+       "summary": "Work in kg, m, m/s, m/s², N, s and N/kg."
+      },
+      {
+       "ref": "8.2",
+       "summary": "The universe contains billions of galaxies; a galaxy contains billions of stars; we are in the Milky Way."
+      },
+      {
+       "ref": "8.3",
+       "summary": "Why g differs between the Earth, the Moon and other planets."
+      },
+      {
+       "ref": "8.4",
+       "summary": "Gravity keeps moons, planets, satellites and comets in orbit."
+      },
+      {
+       "ref": "8.5",
+       "summary": "Compare the orbits of comets, moons and planets."
+      },
+      {
+       "ref": "8.6",
+       "summary": "Orbital speed equals 2πr divided by the time period."
+      }
+     ]
+    },
+    {
+     "id": "physics.astrophysics.stars",
+     "ref": "8(c)",
+     "title": "Stellar evolution and the HR diagram",
+     "summary": "Star colour and temperature, life cycles of Sun-like and massive stars, absolute magnitude and the Hertzsprung-Russell diagram.",
+     "papers": [
+      "1P",
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "8.7",
+       "summary": "Stars can be sorted by colour."
+      },
+      {
+       "ref": "8.8",
+       "summary": "A star's colour depends on its surface temperature."
+      },
+      {
+       "ref": "8.9",
+       "summary": "Life cycle of a Sun-like star: nebula, main sequence, red giant, white dwarf."
+      },
+      {
+       "ref": "8.10",
+       "summary": "Life cycle of stars much more massive than the Sun."
+      },
+      {
+       "ref": "8.11P",
+       "summary": "Absolute magnitude describes brightness at a standard distance.",
+       "paper2_only": true
+      },
+      {
+       "ref": "8.12P",
+       "summary": "Sketch the main parts of the HR diagram.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "physics.astrophysics.cosmology",
+     "ref": "8(d) 8.13P-8.18P",
+     "title": "Cosmology and red-shift",
+     "summary": "Big Bang theory, red-shift and CMB evidence, Doppler shift and Δλ/λ0 = v/c, expansion of the universe.",
+     "papers": [
+      "2P"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calc",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "8.13P",
+       "summary": "How the universe has evolved and why the Big Bang theory is supported.",
+       "paper2_only": true
+      },
+      {
+       "ref": "8.14P",
+       "summary": "Evidence for the Big Bang: red-shift and cosmic microwave background radiation.",
+       "paper2_only": true
+      },
+      {
+       "ref": "8.15P",
+       "summary": "A moving source changes the observed frequency and wavelength.",
+       "paper2_only": true
+      },
+      {
+       "ref": "8.16P",
+       "summary": "Δλ/λ0 = v/c links wavelength change to a galaxy's speed.",
+       "paper2_only": true
+      },
+      {
+       "ref": "8.17P",
+       "summary": "More distant galaxies show bigger red-shifts.",
+       "paper2_only": true
+      },
+      {
+       "ref": "8.18P",
+       "summary": "Red-shift shows that the universe is expanding.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

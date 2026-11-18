@@ -1,0 +1,40 @@
+{
+  "batch": "english-literature-021",
+  "answers": {
+    "english-literature.unseen-westminster.0002": {
+      "all": "Plan (Wordsworth Composed upon Westminster Bridge; awe and wonder): 'Dull would he be of soul', exclamations 'Ne'er saw I'; sonnet; city personified asleep."
+    },
+    "english-literature.unseen-westminster.0001": {
+      "all": "Plan (Wordsworth Composed upon Westminster Bridge; the city): Morning light, 'ships, towers, domes, theatres', 'smokeless air', 'mighty heart is lying still'; Petrarchan sonnet."
+    },
+    "english-literature.unseen-when-you-are-old.0001": {
+      "all": "Plan (Yeats When You Are Old; love): Speaker asks beloved to imagine old age, one man loved 'the pilgrim soul in you', love fled; 3 quatrains."
+    },
+    "english-literature.unseen-when-you-are-old.0002": {
+      "all": "Plan (Yeats When You Are Old; old age and looking back): 'Old and grey and full of sleep', nodding by fire, take down book, 'how Love fled'; hiding face amid stars."
+    }
+  },
+  "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+  "verdicts": {
+    "english-literature.unseen-westminster.0002": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-westminster.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-when-you-are-old.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-when-you-are-old.0002": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

@@ -1,0 +1,1751 @@
+{
+ "subject": "maths",
+ "code": "4MA1",
+ "board": "Pearson Edexcel",
+ "title": "International GCSE Mathematics A (Higher Tier)",
+ "short": "Maths",
+ "official_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-mathematics-a-2016.html",
+ "spec_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-mathematics-a-2016.html#tab-1",
+ "papers": [
+  {
+   "id": "1h",
+   "name": "Paper 1H (Higher Tier)",
+   "paper_code": "4MA1/1H",
+   "minutes": 120,
+   "marks": 100,
+   "calculator": true,
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Correct answers without enough working may be given no marks.",
+    "Answer the questions in the spaces provided; there may be more space than you need.",
+    "You may use a calculator.",
+    "Do not write on the formulae page: anything written there will not be marked."
+   ],
+   "information": [
+    "The total mark for this paper is 100.",
+    "The marks for each question are shown in brackets; use them as a guide to how much time to spend on each question."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Check your answers if you have time at the end."
+   ],
+   "materials": "You must have: ruler graduated in centimetres and millimetres, protractor, pair of compasses, pen, HB pencil, eraser, calculator. Tracing paper may be used.",
+   "reference_sheet": "maths-formulae-higher",
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "main",
+     "title": "Answer ALL questions",
+     "instructions": "Write your answers in the spaces provided. You must write down all the stages in your working.",
+     "marks": 100
+    }
+   ]
+  },
+  {
+   "id": "2h",
+   "name": "Paper 2H (Higher Tier)",
+   "paper_code": "4MA1/2H",
+   "minutes": 120,
+   "marks": 100,
+   "calculator": true,
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Correct answers without enough working may be given no marks.",
+    "Answer the questions in the spaces provided; there may be more space than you need.",
+    "You may use a calculator.",
+    "Do not write on the formulae page: anything written there will not be marked."
+   ],
+   "information": [
+    "The total mark for this paper is 100.",
+    "The marks for each question are shown in brackets; use them as a guide to how much time to spend on each question."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Check your answers if you have time at the end."
+   ],
+   "materials": "You must have: ruler graduated in centimetres and millimetres, protractor, pair of compasses, pen, HB pencil, eraser, calculator. Tracing paper may be used.",
+   "reference_sheet": "maths-formulae-higher",
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "main",
+     "title": "Answer ALL questions",
+     "instructions": "Write your answers in the spaces provided. You must write down all the stages in your working.",
+     "marks": 100
+    }
+   ]
+  }
+ ],
+ "qtypes": [
+  {
+   "id": "short",
+   "label": "Short calculation",
+   "marks": "1-3",
+   "description": "One or two steps: evaluate, simplify, write down, round, convert."
+  },
+  {
+   "id": "problem",
+   "label": "Multi-step problem",
+   "marks": "3-6",
+   "description": "Unstructured problem, often in context, needing a chain of methods."
+  },
+  {
+   "id": "algebra",
+   "label": "Algebraic manipulation",
+   "marks": "2-5",
+   "description": "Expand, factorise, simplify, rearrange or solve, showing clear algebraic working."
+  },
+  {
+   "id": "proof",
+   "label": "Show that / proof",
+   "marks": "2-5",
+   "description": "Show a given result or prove a statement, with every step or reason shown."
+  },
+  {
+   "id": "graph",
+   "label": "Graph or diagram",
+   "marks": "2-6",
+   "description": "Plot, draw, read from or interpret a graph, grid or diagram."
+  },
+  {
+   "id": "stats",
+   "label": "Statistics / probability data",
+   "marks": "2-6",
+   "description": "Work from a frequency table, statistical diagram, tree or Venn diagram."
+  },
+  {
+   "id": "structured",
+   "label": "Structured multi-part",
+   "marks": "5-9",
+   "description": "Several linked parts (a), (b), (c) building on one context or result."
+  }
+ ],
+ "topics": [
+  {
+   "id": "maths.number",
+   "ref": "1",
+   "title": "Numbers and the number system",
+   "papers": [
+    "1h",
+    "2h"
+   ],
+   "subtopics": [
+    {
+     "id": "maths.number.factors",
+     "ref": "1.1",
+     "title": "Factors, multiples and primes",
+     "summary": "Prime factor form, HCF and LCM, and problems that hinge on them.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F1.1G",
+       "summary": "Know the meaning of odd, even, prime, factor and multiple."
+      },
+      {
+       "ref": "F1.1H",
+       "summary": "Find prime factors, common factors and common multiples."
+      },
+      {
+       "ref": "F1.4D",
+       "summary": "Write a whole number as a product of prime powers."
+      },
+      {
+       "ref": "F1.4E",
+       "summary": "Work out the HCF and LCM of two or three numbers."
+      }
+     ]
+    },
+    {
+     "id": "maths.number.fractions",
+     "ref": "1.2",
+     "title": "Fractions and recurring decimals",
+     "summary": "Calculate with fractions and mixed numbers; turn recurring decimals into fractions.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "proof"
+     ],
+     "points": [
+      {
+       "ref": "F1.2A",
+       "summary": "Simplify fractions and recognise equivalent ones."
+      },
+      {
+       "ref": "F1.2B",
+       "summary": "Switch between mixed numbers and improper fractions."
+      },
+      {
+       "ref": "F1.2D",
+       "summary": "Order fractions and find a fraction of an amount."
+      },
+      {
+       "ref": "F1.2E",
+       "summary": "Write one quantity as a fraction of another."
+      },
+      {
+       "ref": "F1.2F",
+       "summary": "Add and subtract fractions and mixed numbers using a common denominator."
+      },
+      {
+       "ref": "F1.2G",
+       "summary": "Change a fraction into a decimal or a percentage."
+      },
+      {
+       "ref": "F1.2I",
+       "summary": "Multiply and divide fractions and mixed numbers."
+      },
+      {
+       "ref": "F1.3D",
+       "summary": "Change a terminating decimal into a fraction or percentage."
+      },
+      {
+       "ref": "H1.3A",
+       "summary": "Use algebra to change a recurring decimal into an exact fraction.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.number.powers",
+     "ref": "1.4",
+     "title": "Powers, roots and surds",
+     "summary": "Evaluate expressions with negative and fractional powers; simplify and rationalise surds.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "algebra",
+      "proof"
+     ],
+     "points": [
+      {
+       "ref": "F1.4A",
+       "summary": "Recognise square and cube numbers."
+      },
+      {
+       "ref": "F1.4B",
+       "summary": "Find squares, cubes and their roots."
+      },
+      {
+       "ref": "F1.4C",
+       "summary": "Apply the index laws to whole-number powers, including zero and negatives."
+      },
+      {
+       "ref": "H1.4A",
+       "summary": "Know what a surd is and simplify surds.",
+       "higher_only": true
+      },
+      {
+       "ref": "H1.4B",
+       "summary": "Expand brackets containing surds and rationalise a denominator.",
+       "higher_only": true
+      },
+      {
+       "ref": "H1.4C",
+       "summary": "Evaluate numbers raised to negative and fractional powers.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.number.sets",
+     "ref": "1.5",
+     "title": "Sets and Venn diagrams",
+     "summary": "Read and use set notation, complete Venn diagrams and count elements in regions.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "F1.5A",
+       "summary": "Know what a set is and list its members."
+      },
+      {
+       "ref": "F1.5B",
+       "summary": "Use the symbols for union, intersection and membership."
+      },
+      {
+       "ref": "F1.5C",
+       "summary": "Use the universal set and the empty set."
+      },
+      {
+       "ref": "F1.5D",
+       "summary": "Find the complement of a set."
+      },
+      {
+       "ref": "F1.5E",
+       "summary": "Show sets on a Venn diagram."
+      },
+      {
+       "ref": "H1.5A",
+       "summary": "Work with sets described by a rule and with subsets.",
+       "higher_only": true
+      },
+      {
+       "ref": "H1.5B",
+       "summary": "Use Venn diagrams to show how many elements are in each region.",
+       "higher_only": true
+      },
+      {
+       "ref": "H1.5C",
+       "summary": "Use n(A) to mean the number of elements of A.",
+       "higher_only": true
+      },
+      {
+       "ref": "H1.5D",
+       "summary": "Solve practical problems with sets, including unknown regions.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.number.percentages",
+     "ref": "1.6",
+     "title": "Percentages",
+     "summary": "Percentage change, reverse percentages, compound interest, depreciation and repeated change.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "F1.6B",
+       "summary": "Write one amount as a percentage of another."
+      },
+      {
+       "ref": "F1.6D",
+       "summary": "Use multipliers to find percentages of amounts."
+      },
+      {
+       "ref": "F1.6E",
+       "summary": "Work out percentage increases, decreases and percentage change."
+      },
+      {
+       "ref": "F1.6F",
+       "summary": "Find the original amount before a percentage change."
+      },
+      {
+       "ref": "F1.6G",
+       "summary": "Work out compound interest and depreciation."
+      },
+      {
+       "ref": "H1.6A",
+       "summary": "Combine several percentage changes into one overall change.",
+       "higher_only": true
+      },
+      {
+       "ref": "H1.6B",
+       "summary": "Solve harder compound growth and decay problems, including finding the number of years.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.number.ratio",
+     "ref": "1.7",
+     "title": "Ratio and proportion",
+     "summary": "Simplify and share in ratios, combine ratios, best value and map scales.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F1.7A",
+       "summary": "Write ratios in simplest form or as 1 : n and link them to fractions."
+      },
+      {
+       "ref": "F1.7B",
+       "summary": "Share an amount in a given ratio."
+      },
+      {
+       "ref": "F1.7C",
+       "summary": "Use proportional reasoning to find unknown amounts."
+      },
+      {
+       "ref": "F1.7D",
+       "summary": "Scale quantities that vary in direct proportion, e.g. recipes."
+      },
+      {
+       "ref": "F1.7E",
+       "summary": "Solve ratio word problems, including maps and scale drawings."
+      }
+     ]
+    },
+    {
+     "id": "maths.number.accuracy",
+     "ref": "1.8",
+     "title": "Rounding, estimation and bounds",
+     "summary": "Round to significant figures, estimate, and find upper and lower bounds of calculations.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F1.8B",
+       "summary": "Round to a number of significant figures or decimal places."
+      },
+      {
+       "ref": "F1.8C",
+       "summary": "Write down the upper and lower bounds of a rounded value."
+      },
+      {
+       "ref": "F1.8D",
+       "summary": "Estimate a calculation by rounding each number to 1 significant figure."
+      },
+      {
+       "ref": "H1.8A",
+       "summary": "Find the greatest or least value of a calculation from rounded measurements.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.number.standard-form",
+     "ref": "1.9",
+     "title": "Standard form",
+     "summary": "Convert to and from standard form and calculate with very large or small numbers.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F1.9A",
+       "summary": "Write and interpret numbers as a × 10ⁿ and calculate with them."
+      },
+      {
+       "ref": "H1.9A",
+       "summary": "Solve problems in context with numbers in standard form.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.number.applying",
+     "ref": "1.10",
+     "title": "Applying number: money, units and time",
+     "summary": "Currency conversion, unit conversion, time calculations and calculator work.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F1.10A",
+       "summary": "Use number in everyday contexts such as bills and wages."
+      },
+      {
+       "ref": "F1.10B",
+       "summary": "Convert between metric units of length, mass, area, volume and capacity."
+      },
+      {
+       "ref": "F1.10C",
+       "summary": "Work with time, money and exchange rates."
+      },
+      {
+       "ref": "F1.11A",
+       "summary": "Use a calculator efficiently and give answers to a sensible accuracy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "maths.algebra",
+   "ref": "2",
+   "title": "Equations, formulae and identities",
+   "papers": [
+    "1h",
+    "2h"
+   ],
+   "subtopics": [
+    {
+     "id": "maths.algebra.indices",
+     "ref": "2.1",
+     "title": "Indices in algebra",
+     "summary": "Simplify algebraic terms using index laws, including zero, negative and fractional powers.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "algebra"
+     ],
+     "points": [
+      {
+       "ref": "F2.1C",
+       "summary": "Write repeated multiplication with powers."
+      },
+      {
+       "ref": "F2.1D",
+       "summary": "Apply the index laws to simple algebraic terms."
+      },
+      {
+       "ref": "H2.1A",
+       "summary": "Use fractional, negative and zero indices in algebra.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.expanding",
+     "ref": "2.2",
+     "title": "Expanding and factorising",
+     "summary": "Expand single, double and triple brackets; factorise including quadratics with a leading coefficient.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "algebra"
+     ],
+     "points": [
+      {
+       "ref": "F2.2B",
+       "summary": "Collect like terms."
+      },
+      {
+       "ref": "F2.2C",
+       "summary": "Multiply a term over a bracket."
+      },
+      {
+       "ref": "F2.2D",
+       "summary": "Take out common factors."
+      },
+      {
+       "ref": "F2.2E",
+       "summary": "Expand two linear brackets."
+      },
+      {
+       "ref": "F2.2F",
+       "summary": "Factorise quadratics of the form x² + bx + c."
+      },
+      {
+       "ref": "H2.2A",
+       "summary": "Expand three or more linear brackets.",
+       "higher_only": true
+      },
+      {
+       "ref": "H2.2B",
+       "summary": "Factorise quadratics including ax² + bx + c and the difference of two squares.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.fractions",
+     "ref": "2.2C",
+     "title": "Algebraic fractions",
+     "summary": "Simplify, add, subtract, multiply and divide algebraic fractions, and solve equations with them.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "algebra"
+     ],
+     "points": [
+      {
+       "ref": "H2.2C",
+       "summary": "Manipulate algebraic fractions with numeric, linear or quadratic parts.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.completing-square",
+     "ref": "2.2D",
+     "title": "Completing the square",
+     "summary": "Rewrite quadratics in completed-square form and use it to find turning points.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "algebra",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "H2.2D",
+       "summary": "Write a quadratic in the form a(x + b)² + c.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.proof",
+     "ref": "2.2E",
+     "title": "Algebraic proof",
+     "summary": "Use algebra to prove statements about numbers and identities.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "proof"
+     ],
+     "points": [
+      {
+       "ref": "H2.2E",
+       "summary": "Build algebraic arguments and proofs, e.g. about odd, even and consecutive numbers.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.formulae",
+     "ref": "2.3",
+     "title": "Formulae and changing the subject",
+     "summary": "Substitute into formulae and rearrange, including when the subject appears twice or is squared.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "algebra"
+     ],
+     "points": [
+      {
+       "ref": "F2.3C",
+       "summary": "Substitute positive, negative and fractional values into formulae."
+      },
+      {
+       "ref": "F2.3E",
+       "summary": "Write a formula or expression from a description."
+      },
+      {
+       "ref": "F2.3F",
+       "summary": "Rearrange a formula where the subject appears once."
+      },
+      {
+       "ref": "H2.3A",
+       "summary": "Rearrange formulae where the subject appears twice or under a power or root.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.linear",
+     "ref": "2.4",
+     "title": "Linear equations",
+     "summary": "Solve linear equations including brackets and fractions, and set them up from contexts.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "algebra",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F2.4A",
+       "summary": "Solve linear equations with the unknown on one or both sides, including fractions."
+      },
+      {
+       "ref": "F2.4B",
+       "summary": "Form a linear equation from information and solve it."
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.proportion",
+     "ref": "2.5",
+     "title": "Direct and inverse proportion",
+     "summary": "Form and use equations for y proportional or inversely proportional to x, x², x³ or √x.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "problem",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "H2.5A",
+       "summary": "Set up proportion equations, find the constant and use them; link them to graphs.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.simultaneous",
+     "ref": "2.6",
+     "title": "Simultaneous linear equations",
+     "summary": "Solve two linear equations together, including from a context, and link to graphs.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "algebra",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F2.6A",
+       "summary": "Solve a pair of simple simultaneous linear equations."
+      },
+      {
+       "ref": "H2.6A",
+       "summary": "Find exact solutions of two linear simultaneous equations.",
+       "higher_only": true
+      },
+      {
+       "ref": "H2.6B",
+       "summary": "See the solution as the point where two lines cross.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.quadratics",
+     "ref": "2.7",
+     "title": "Quadratic equations",
+     "summary": "Solve quadratics by factorising, by the formula or by completing the square, including from contexts.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "algebra",
+      "problem",
+      "proof"
+     ],
+     "points": [
+      {
+       "ref": "F2.7A",
+       "summary": "Solve x² + bx + c = 0 by factorising."
+      },
+      {
+       "ref": "H2.7A",
+       "summary": "Solve quadratics with any leading coefficient by factorising.",
+       "higher_only": true
+      },
+      {
+       "ref": "H2.7B",
+       "summary": "Use the quadratic formula or completing the square.",
+       "higher_only": true
+      },
+      {
+       "ref": "H2.7C",
+       "summary": "Form a quadratic equation from a context and solve it.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.simultaneous-nonlinear",
+     "ref": "2.7D",
+     "title": "Linear and quadratic simultaneous equations",
+     "summary": "Solve a linear equation together with a quadratic or circle equation.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "algebra"
+     ],
+     "points": [
+      {
+       "ref": "H2.7D",
+       "summary": "Solve simultaneous equations where one is linear and one is quadratic.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.algebra.inequalities",
+     "ref": "2.8",
+     "title": "Inequalities",
+     "summary": "Solve linear and quadratic inequalities and describe or shade regions on a graph.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "algebra",
+      "graph"
+     ],
+     "points": [
+      {
+       "ref": "F2.8A",
+       "summary": "Use inequality symbols, including double inequalities."
+      },
+      {
+       "ref": "F2.8B",
+       "summary": "Show inequalities on a number line with open and closed circles."
+      },
+      {
+       "ref": "F2.8C",
+       "summary": "Solve linear inequalities and list integer solutions."
+      },
+      {
+       "ref": "F2.8E",
+       "summary": "Identify regions on a grid from simple inequalities."
+      },
+      {
+       "ref": "H2.8A",
+       "summary": "Solve quadratic inequalities.",
+       "higher_only": true
+      },
+      {
+       "ref": "H2.8B",
+       "summary": "Find inequalities that define a region bounded by several lines.",
+       "higher_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "maths.functions",
+   "ref": "3",
+   "title": "Sequences, functions and graphs",
+   "papers": [
+    "1h",
+    "2h"
+   ],
+   "subtopics": [
+    {
+     "id": "maths.functions.sequences",
+     "ref": "3.1",
+     "title": "Sequences and arithmetic series",
+     "summary": "Find and use nth terms, and the sum of an arithmetic series.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem",
+      "proof"
+     ],
+     "points": [
+      {
+       "ref": "F3.1A",
+       "summary": "Generate terms from term-to-term or position-to-term rules."
+      },
+      {
+       "ref": "F3.1C",
+       "summary": "Find the nth term of a linear sequence."
+      },
+      {
+       "ref": "H3.1A",
+       "summary": "Use the first term a and common difference d of an arithmetic sequence.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.1B",
+       "summary": "Use the nth term formula a + (n − 1)d.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.1C",
+       "summary": "Find the sum of the first n terms of an arithmetic series.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.functions.functions",
+     "ref": "3.2",
+     "title": "Function notation, composite and inverse functions",
+     "summary": "Evaluate functions, find composite and inverse functions and excluded values.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "algebra",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "H3.2A",
+       "summary": "Think of a function as a rule that maps inputs to outputs.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.2B",
+       "summary": "Use the notation f(x) and f : x ↦ ….",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.2C",
+       "summary": "Know what domain and range mean and which inputs must be excluded.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.2D",
+       "summary": "Find composite functions fg(x) and inverse functions f⁻¹(x).",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.functions.straight-lines",
+     "ref": "3.3F",
+     "title": "Straight-line graphs",
+     "summary": "Gradients, intercepts, midpoints and equations of lines, including parallel and perpendicular lines.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "algebra"
+     ],
+     "points": [
+      {
+       "ref": "F3.3E",
+       "summary": "Find the midpoint of a line segment."
+      },
+      {
+       "ref": "F3.3G",
+       "summary": "Find the gradient of a line."
+      },
+      {
+       "ref": "F3.3H",
+       "summary": "Use y = mx + c to read gradient and intercept."
+      },
+      {
+       "ref": "H3.3F",
+       "summary": "Find gradients and equations of lines through two points.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.3G",
+       "summary": "Find equations of lines parallel or perpendicular to a given line.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.functions.graphs",
+     "ref": "3.3A",
+     "title": "Plotting and using graphs of functions",
+     "summary": "Complete tables, plot quadratic, cubic and reciprocal graphs and use them to solve equations.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "graph",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "F3.3I",
+       "summary": "Plot linear and quadratic graphs from a table of values."
+      },
+      {
+       "ref": "H3.3A",
+       "summary": "Plot and recognise cubic, reciprocal and trigonometric graphs.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.3D",
+       "summary": "Estimate the gradient of a curve by drawing a tangent.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.3E",
+       "summary": "Use intersections of a line and a curve to solve equations.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.functions.real-life",
+     "ref": "3.3",
+     "title": "Real-life graphs",
+     "summary": "Read and draw distance-time, speed-time and conversion graphs.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "graph"
+     ],
+     "points": [
+      {
+       "ref": "F3.3A",
+       "summary": "Interpret linear and non-linear graphs in context, including travel graphs."
+      },
+      {
+       "ref": "F3.3F",
+       "summary": "Draw and use straight-line conversion graphs."
+      },
+      {
+       "ref": "H3.4A",
+       "summary": "Understand rate of change, e.g. a gradient as a speed or acceleration.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.functions.graph-transformations",
+     "ref": "3.3B",
+     "title": "Transformations of graphs",
+     "summary": "Translate and stretch graphs of y = f(x) and write the new function.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "graph",
+      "short"
+     ],
+     "points": [
+      {
+       "ref": "H3.3B",
+       "summary": "Apply f(x) + a, f(x + a), af(x) and f(ax) to graphs.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.3C",
+       "summary": "Describe a graph transformation and write the new function algebraically.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.functions.calculus",
+     "ref": "3.4",
+     "title": "Differentiation",
+     "summary": "Differentiate powers of x, find gradients and turning points, and apply to motion.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "algebra",
+      "problem",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "H3.4B",
+       "summary": "Differentiate integer powers of x.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.4C",
+       "summary": "Use dy/dx for gradients, rates of change and turning points.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.4D",
+       "summary": "Decide whether a turning point is a maximum or minimum.",
+       "higher_only": true
+      },
+      {
+       "ref": "H3.4E",
+       "summary": "Use differentiation for velocity, acceleration and simple optimisation.",
+       "higher_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "maths.geometry",
+   "ref": "4",
+   "title": "Geometry and trigonometry",
+   "papers": [
+    "1h",
+    "2h"
+   ],
+   "subtopics": [
+    {
+     "id": "maths.geometry.angles",
+     "ref": "4.1",
+     "title": "Angles, triangles and polygons",
+     "summary": "Angle facts, parallel lines, triangle and polygon angles with geometric reasons.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem",
+      "proof"
+     ],
+     "points": [
+      {
+       "ref": "F4.1B",
+       "summary": "Use angles on a line, at a point, vertically opposite and with parallel lines."
+      },
+      {
+       "ref": "F4.1C",
+       "summary": "Use the angle sum and exterior angle of a triangle."
+      },
+      {
+       "ref": "F4.1D",
+       "summary": "Use properties of isosceles, equilateral and right-angled triangles."
+      },
+      {
+       "ref": "F4.2B",
+       "summary": "Use the angle sum of a quadrilateral."
+      },
+      {
+       "ref": "F4.2D",
+       "summary": "Find interior and exterior angles of regular polygons."
+      },
+      {
+       "ref": "F4.2E",
+       "summary": "Use the angle sum of any polygon."
+      },
+      {
+       "ref": "H4.7A",
+       "summary": "Give standard geometric reasons for each angle found.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.geometry.measures",
+     "ref": "4.4",
+     "title": "Compound measures and bearings",
+     "summary": "Speed, density, pressure, rates and three-figure bearings.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F4.4D",
+       "summary": "Use three-figure bearings."
+      },
+      {
+       "ref": "F4.4F",
+       "summary": "Use speed = distance ÷ time."
+      },
+      {
+       "ref": "F4.4G",
+       "summary": "Use compound measures such as density and pressure."
+      }
+     ]
+    },
+    {
+     "id": "maths.geometry.construction",
+     "ref": "4.5",
+     "title": "Constructions, loci and scale drawings",
+     "summary": "Ruler-and-compass constructions, loci and scale drawings with bearings.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "graph",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F4.5B",
+       "summary": "Construct triangles accurately."
+      },
+      {
+       "ref": "F4.5C",
+       "summary": "Solve problems with scale drawings."
+      },
+      {
+       "ref": "F4.5D",
+       "summary": "Construct perpendicular bisectors and angle bisectors with compasses."
+      },
+      {
+       "ref": "F4.11B",
+       "summary": "Use maps and scale drawings."
+      }
+     ]
+    },
+    {
+     "id": "maths.geometry.circles",
+     "ref": "4.6",
+     "title": "Circle theorems",
+     "summary": "Use tangent, chord and angle properties of circles, giving reasons.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "proof"
+     ],
+     "points": [
+      {
+       "ref": "F4.6B",
+       "summary": "Use tangent and chord properties, e.g. tangent meets radius at 90°."
+      },
+      {
+       "ref": "H4.6A",
+       "summary": "Use the intersecting chords properties.",
+       "higher_only": true
+      },
+      {
+       "ref": "H4.6B",
+       "summary": "Recognise a cyclic quadrilateral.",
+       "higher_only": true
+      },
+      {
+       "ref": "H4.6C",
+       "summary": "Use the circle angle theorems, including the alternate segment theorem.",
+       "higher_only": true
+      },
+      {
+       "ref": "H4.7A",
+       "summary": "Give standard geometric reasons for each angle found.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.geometry.trigonometry",
+     "ref": "4.8",
+     "title": "Pythagoras and right-angled trigonometry",
+     "summary": "Find sides and angles in right-angled triangles, including elevation and bearings.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F4.8A",
+       "summary": "Use Pythagoras' theorem in two dimensions."
+      },
+      {
+       "ref": "F4.8B",
+       "summary": "Use sin, cos and tan to find sides and angles of right-angled triangles."
+      },
+      {
+       "ref": "F4.8C",
+       "summary": "Apply trigonometry to problems in two dimensions, including bearings."
+      },
+      {
+       "ref": "H4.8B",
+       "summary": "Use angles of elevation and depression.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.geometry.sine-cosine",
+     "ref": "4.8C",
+     "title": "Sine rule, cosine rule and area of a triangle",
+     "summary": "Solve any triangle with the sine and cosine rules and use ½ab sin C.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "H4.8A",
+       "summary": "Use sine, cosine and tangent of obtuse angles.",
+       "higher_only": true
+      },
+      {
+       "ref": "H4.8C",
+       "summary": "Use the sine rule and cosine rule in any triangle.",
+       "higher_only": true
+      },
+      {
+       "ref": "H4.8E",
+       "summary": "Find the area of a triangle using ½ab sin C.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.geometry.3d",
+     "ref": "4.8D",
+     "title": "Trigonometry in three dimensions",
+     "summary": "Pythagoras and trigonometry in cuboids, prisms and pyramids, including line-plane angles.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "H4.8D",
+       "summary": "Use Pythagoras' theorem in three dimensions.",
+       "higher_only": true
+      },
+      {
+       "ref": "H4.8F",
+       "summary": "Find lengths and angles in 3D, including the angle between a line and a plane.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.geometry.mensuration",
+     "ref": "4.9",
+     "title": "Perimeter, area, arcs and sectors",
+     "summary": "Areas of triangles, trapezia and circles; arc lengths and sector areas.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F4.9A",
+       "summary": "Convert area units within the metric system."
+      },
+      {
+       "ref": "F4.9D",
+       "summary": "Find areas of parallelograms and trapezia."
+      },
+      {
+       "ref": "F4.9E",
+       "summary": "Find circumferences and areas of circles and semicircles."
+      },
+      {
+       "ref": "H4.9A",
+       "summary": "Find arc lengths, sector perimeters and sector areas.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.geometry.volume",
+     "ref": "4.10",
+     "title": "Volume and surface area",
+     "summary": "Volumes and surface areas of prisms, cylinders, cones, spheres and composite solids.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem",
+      "proof"
+     ],
+     "points": [
+      {
+       "ref": "F4.10D",
+       "summary": "Find the surface area of a cylinder."
+      },
+      {
+       "ref": "F4.10E",
+       "summary": "Find volumes of prisms, cuboids and cylinders."
+      },
+      {
+       "ref": "F4.10F",
+       "summary": "Convert between units of volume and capacity."
+      },
+      {
+       "ref": "H4.10A",
+       "summary": "Find surface areas and volumes of spheres and cones.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.geometry.similarity",
+     "ref": "4.11",
+     "title": "Similar shapes",
+     "summary": "Use length, area and volume scale factors for similar shapes and solids.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F4.11A",
+       "summary": "Use the fact that similar shapes have sides in the same ratio."
+      },
+      {
+       "ref": "H4.11A",
+       "summary": "Use area scale factor = (length scale factor)².",
+       "higher_only": true
+      },
+      {
+       "ref": "H4.11B",
+       "summary": "Use volume scale factor = (length scale factor)³.",
+       "higher_only": true
+      },
+      {
+       "ref": "H4.11C",
+       "summary": "Solve problems with areas and volumes of similar shapes.",
+       "higher_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "maths.vectors",
+   "ref": "5",
+   "title": "Vectors and transformation geometry",
+   "papers": [
+    "1h",
+    "2h"
+   ],
+   "subtopics": [
+    {
+     "id": "maths.vectors.vectors",
+     "ref": "5.1",
+     "title": "Vectors",
+     "summary": "Column vectors, magnitude, vector paths and simple vector proofs.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "proof",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "H5.1B",
+       "summary": "Use column vectors and vector notation.",
+       "higher_only": true
+      },
+      {
+       "ref": "H5.1C",
+       "summary": "Multiply a vector by a scalar.",
+       "higher_only": true
+      },
+      {
+       "ref": "H5.1D",
+       "summary": "Add and subtract vectors.",
+       "higher_only": true
+      },
+      {
+       "ref": "H5.1E",
+       "summary": "Find the magnitude of a vector.",
+       "higher_only": true
+      },
+      {
+       "ref": "H5.1F",
+       "summary": "Find a resultant vector along a path.",
+       "higher_only": true
+      },
+      {
+       "ref": "H5.1G",
+       "summary": "Use vectors to prove geometric results such as parallel lines.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.vectors.transformations",
+     "ref": "5.2",
+     "title": "Transformations",
+     "summary": "Reflect, rotate, translate and enlarge shapes on a grid and describe transformations fully.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "graph",
+      "short"
+     ],
+     "points": [
+      {
+       "ref": "F5.2B",
+       "summary": "Rotate a shape about a point."
+      },
+      {
+       "ref": "F5.2E",
+       "summary": "Reflect a shape in a given line."
+      },
+      {
+       "ref": "F5.2H",
+       "summary": "Translate a shape using a column vector."
+      },
+      {
+       "ref": "F5.2L",
+       "summary": "Enlarge a shape by a positive or fractional scale factor."
+      },
+      {
+       "ref": "F5.2M",
+       "summary": "Describe a single transformation completely."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "maths.stats",
+   "ref": "6",
+   "title": "Statistics and probability",
+   "papers": [
+    "1h",
+    "2h"
+   ],
+   "subtopics": [
+    {
+     "id": "maths.stats.averages",
+     "ref": "6.2",
+     "title": "Averages and grouped data",
+     "summary": "Mean, median, mode and range from lists and tables, including estimates from grouped data.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "stats",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F6.2A",
+       "summary": "Understand what an average represents."
+      },
+      {
+       "ref": "F6.2B",
+       "summary": "Find mean, median, mode and range, and solve problems with them."
+      },
+      {
+       "ref": "F6.2C",
+       "summary": "Estimate the mean from a grouped frequency table."
+      },
+      {
+       "ref": "F6.2D",
+       "summary": "Identify the modal class."
+      }
+     ]
+    },
+    {
+     "id": "maths.stats.histograms",
+     "ref": "6.1A",
+     "title": "Histograms",
+     "summary": "Draw and interpret histograms with unequal class widths using frequency density.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "stats",
+      "graph"
+     ],
+     "points": [
+      {
+       "ref": "H6.1A",
+       "summary": "Construct and interpret histograms with unequal class intervals.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.stats.cumulative",
+     "ref": "6.1B",
+     "title": "Cumulative frequency",
+     "summary": "Draw cumulative frequency graphs and use them for medians, quartiles and estimates.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "graph",
+      "stats"
+     ],
+     "points": [
+      {
+       "ref": "H6.1B",
+       "summary": "Draw a cumulative frequency graph from a table.",
+       "higher_only": true
+      },
+      {
+       "ref": "H6.1C",
+       "summary": "Read estimates from a cumulative frequency graph.",
+       "higher_only": true
+      },
+      {
+       "ref": "H6.2A",
+       "summary": "Estimate the median from a cumulative frequency graph.",
+       "higher_only": true
+      },
+      {
+       "ref": "H6.2D",
+       "summary": "Estimate the interquartile range from a cumulative frequency graph.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.stats.spread",
+     "ref": "6.2B",
+     "title": "Quartiles and measures of spread",
+     "summary": "Find quartiles and interquartile range from data and compare distributions.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "stats"
+     ],
+     "points": [
+      {
+       "ref": "H6.2B",
+       "summary": "Understand what a measure of spread tells you.",
+       "higher_only": true
+      },
+      {
+       "ref": "H6.2C",
+       "summary": "Find the quartiles and interquartile range of a discrete data set.",
+       "higher_only": true
+      }
+     ]
+    },
+    {
+     "id": "maths.stats.probability",
+     "ref": "6.3",
+     "title": "Probability",
+     "summary": "Probability scale, sample spaces, relative frequency, expected frequency and Venn probabilities.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "short",
+      "problem"
+     ],
+     "points": [
+      {
+       "ref": "F6.3D",
+       "summary": "Find probabilities from a Venn diagram."
+      },
+      {
+       "ref": "F6.3E",
+       "summary": "Use sample spaces to find probabilities."
+      },
+      {
+       "ref": "F6.3G",
+       "summary": "Estimate probabilities from relative frequency."
+      },
+      {
+       "ref": "F6.3H",
+       "summary": "Use P(not A) = 1 − P(A)."
+      },
+      {
+       "ref": "F6.3I",
+       "summary": "Add probabilities of mutually exclusive events."
+      },
+      {
+       "ref": "F6.3J",
+       "summary": "Work out expected frequencies."
+      }
+     ]
+    },
+    {
+     "id": "maths.stats.combined",
+     "ref": "6.3A",
+     "title": "Tree diagrams and combined events",
+     "summary": "Tree diagrams, independent events and conditional probability without replacement.",
+     "papers": [
+      "1h",
+      "2h"
+     ],
+     "qtypes": [
+      "stats",
+      "problem",
+      "structured"
+     ],
+     "points": [
+      {
+       "ref": "H6.3A",
+       "summary": "Draw and use tree diagrams.",
+       "higher_only": true
+      },
+      {
+       "ref": "H6.3B",
+       "summary": "Find the probability of two or more independent events.",
+       "higher_only": true
+      },
+      {
+       "ref": "H6.3C",
+       "summary": "Use conditional probability, e.g. picking without replacement.",
+       "higher_only": true
+      },
+      {
+       "ref": "H6.3D",
+       "summary": "Apply probability to problems in context.",
+       "higher_only": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "batch": "physics-recheck-6",
+ "answers": {
+  "physics.wo-power.0001": {
+   "all": "t = W/P = 190550/1850 = 103.0 s"
+  }
+ },
+ "verdicts": {
+  "physics.wo-power.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

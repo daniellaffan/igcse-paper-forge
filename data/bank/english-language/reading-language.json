@@ -1,0 +1,3977 @@
+[
+ {
+  "id": "english-language.q4.single-story.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T01"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Chimamanda Ngozi Adichie use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "the opening is direct and personal: by introducing herself simply as a storyteller she establishes her authority and the theme of the whole talk in a single short sentence",
+      "humour and self-deprecation (her mother's claim about when she began reading, which she gently corrects) make her likeable and relaxed in tone before the serious argument begins",
+      "the list of details in her childhood stories (snow, apples, talk about the weather) is contrasted with her real Nigerian life (mangoes, no need to discuss weather), showing how foreign books shaped her imagination",
+      "she moves from anecdote to reflection, drawing out a general lesson about how impressionable children are when faced with a story",
+      "the discovery of African writers is presented as a turning point; the phrase about a «mental shift» shows a change in her thinking and the image of girls like her existing in literature is affirming",
+      "the anecdote about Fide's family is structured around a reversal: pity created by her mother's words is overturned by the beautiful basket, and the reader shares her surprise",
+      "the repeated key phrase «single story» acts as a refrain that ties each anecdote back to her central argument",
+      "the roommate anecdote uses comic, specific details (the expectation of 'tribal music' and the tape of a pop singer) to expose ignorance in a light, memorable way",
+      "a listing of clichéd images of Africa (landscapes, animals, wars, poverty) mimics the narrow media story and makes the audience recognise it",
+      "repetition of «no possibility» builds a rhetorical pattern that stresses how a single story removes shared humanity",
+      "she admits her own guilt over Mexico; this honest confession widens the argument and stops it sounding like an accusation of others",
+      "emotive vocabulary of shame («overwhelmed», «ashamed») shows the strength of her self-criticism",
+      "balanced antithesis in the later paragraph (stories can break dignity but can also repair it) gives her conclusion a memorable, persuasive rhythm",
+      "the ending returns to a positive image of 'paradise' regained, closing on hope and a call to reject the single story",
+      "she uses direct speech (her mother's instruction to finish her food) to bring scenes to life and show the attitudes she grew up with"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *The Danger of a Single Story* (Chimamanda Ngozi Adichie), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From The Danger of a Single Story, Chimamanda Ngozi Adichie",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.single-story.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T01"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Chimamanda Ngozi Adichie use language and structure to convey her thoughts and opinions about stereotypes?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to convey her thoughts and opinions about stereotypes. Answers might cover some of these points:",
+      "the opening is direct and personal: by introducing herself simply as a storyteller she establishes her authority and the theme of the whole talk in a single short sentence",
+      "humour and self-deprecation (her mother's claim about when she began reading, which she gently corrects) make her likeable and relaxed in tone before the serious argument begins",
+      "she moves from anecdote to reflection, drawing out a general lesson about how impressionable children are when faced with a story",
+      "the discovery of African writers is presented as a turning point; the phrase about a «mental shift» shows a change in her thinking and the image of girls like her existing in literature is affirming",
+      "the repeated key phrase «single story» acts as a refrain that ties each anecdote back to her central argument",
+      "a listing of clichéd images of Africa (landscapes, animals, wars, poverty) mimics the narrow media story and makes the audience recognise it",
+      "repetition of «no possibility» builds a rhetorical pattern that stresses how a single story removes shared humanity",
+      "she admits her own guilt over Mexico; this honest confession widens the argument and stops it sounding like an accusation of others",
+      "emotive vocabulary of shame («overwhelmed», «ashamed») shows the strength of her self-criticism",
+      "balanced antithesis in the later paragraph (stories can break dignity but can also repair it) gives her conclusion a memorable, persuasive rhythm",
+      "the ending returns to a positive image of 'paradise' regained, closing on hope and a call to reject the single story"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *The Danger of a Single Story* (Chimamanda Ngozi Adichie), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From The Danger of a Single Story, Chimamanda Ngozi Adichie",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.single-story.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T01"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Chimamanda Ngozi Adichie use language and structure to present the people she describes?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present the people she describes. Answers might cover some of these points:",
+      "the list of details in her childhood stories (snow, apples, talk about the weather) is contrasted with her real Nigerian life (mangoes, no need to discuss weather), showing how foreign books shaped her imagination",
+      "the anecdote about Fide's family is structured around a reversal: pity created by her mother's words is overturned by the beautiful basket, and the reader shares her surprise",
+      "the roommate anecdote uses comic, specific details (the expectation of 'tribal music' and the tape of a pop singer) to expose ignorance in a light, memorable way",
+      "she uses direct speech (her mother's instruction to finish her food) to bring scenes to life and show the attitudes she grew up with",
+      "the opening is direct and personal: by introducing herself simply as a storyteller she establishes her authority and the theme of the whole talk in a single short sentence",
+      "humour and self-deprecation (her mother's claim about when she began reading, which she gently corrects) make her likeable and relaxed in tone before the serious argument begins",
+      "she moves from anecdote to reflection, drawing out a general lesson about how impressionable children are when faced with a story",
+      "the discovery of African writers is presented as a turning point; the phrase about a «mental shift» shows a change in her thinking and the image of girls like her existing in literature is affirming",
+      "the repeated key phrase «single story» acts as a refrain that ties each anecdote back to her central argument"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *The Danger of a Single Story* (Chimamanda Ngozi Adichie), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From The Danger of a Single Story, Chimamanda Ngozi Adichie",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.single-story.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T01"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Chimamanda Ngozi Adichie use language and structure to persuade her audience that 'many stories matter'?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to persuade her audience that 'many stories matter'. Answers might cover some of these points:",
+      "the opening is direct and personal: by introducing herself simply as a storyteller she establishes her authority and the theme of the whole talk in a single short sentence",
+      "she moves from anecdote to reflection, drawing out a general lesson about how impressionable children are when faced with a story",
+      "the repeated key phrase «single story» acts as a refrain that ties each anecdote back to her central argument",
+      "a listing of clichéd images of Africa (landscapes, animals, wars, poverty) mimics the narrow media story and makes the audience recognise it",
+      "repetition of «no possibility» builds a rhetorical pattern that stresses how a single story removes shared humanity",
+      "balanced antithesis in the later paragraph (stories can break dignity but can also repair it) gives her conclusion a memorable, persuasive rhythm",
+      "the ending returns to a positive image of 'paradise' regained, closing on hope and a call to reject the single story",
+      "humour and self-deprecation (her mother's claim about when she began reading, which she gently corrects) make her likeable and relaxed in tone before the serious argument begins",
+      "the list of details in her childhood stories (snow, apples, talk about the weather) is contrasted with her real Nigerian life (mangoes, no need to discuss weather), showing how foreign books shaped her imagination"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *The Danger of a Single Story* (Chimamanda Ngozi Adichie), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From The Danger of a Single Story, Chimamanda Ngozi Adichie",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.passage-africa.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T02"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does George Alagiah use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "the opening list of adjectives describing a thousand faces conveys the scale of suffering, then narrows to the one face he will never forget, creating curiosity",
+      "the notebook directions to the village, written in note form, add authenticity and suggest how remote and forgotten the place is",
+      "he is self-critical about journalism, comparing the search for shocking pictures to a craving for a drug, which is honest and unsettling",
+      "the story of Amina and her daughters gives names and ages, making the victims individual people rather than statistics",
+      "short, stark statements (one daughter had died) are placed bluntly, so the shock lands on the reader as it did on him",
+      "sensory detail, especially smell, makes the scene of the old woman's wound vivid and disturbing",
+      "repetition of «rotting» across the man's leg and the woman herself intensifies the horror",
+      "he admits to revulsion, then explains why reports avoid saying so; breaking this taboo makes his account feel truthful",
+      "small details of dignity (the woman covering herself, the man keeping his hoe) create pity and respect",
+      "the single-sentence paragraph introducing the face acts as a structural pause before the climax of the extract",
+      "the description of the smile uses repetition and negation (it was not a smile of greeting, not of joy) to define it precisely",
+      "a pattern of contrasts (observer and observed, active and passive, rich world and poor world) shows how the smile 'turned the tables' on the usual relationship",
+      "a rhetorical question asks how he should feel, standing there strong and confident, inviting the reader to share his discomfort",
+      "the ending addresses the 'nameless friend' directly, closing on regret, gratitude and a colloquial «I owe you one»"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *A Passage to Africa* (George Alagiah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From A Passage to Africa, George Alagiah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.passage-africa.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T02"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does George Alagiah use language and structure to convey his thoughts and feelings about what he sees?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to convey his thoughts and feelings about what he sees. Answers might cover some of these points:",
+      "he is self-critical about journalism, comparing the search for shocking pictures to a craving for a drug, which is honest and unsettling",
+      "he admits to revulsion, then explains why reports avoid saying so; breaking this taboo makes his account feel truthful",
+      "a rhetorical question asks how he should feel, standing there strong and confident, inviting the reader to share his discomfort",
+      "the ending addresses the 'nameless friend' directly, closing on regret, gratitude and a colloquial «I owe you one»",
+      "the opening list of adjectives describing a thousand faces conveys the scale of suffering, then narrows to the one face he will never forget, creating curiosity",
+      "the notebook directions to the village, written in note form, add authenticity and suggest how remote and forgotten the place is",
+      "the story of Amina and her daughters gives names and ages, making the victims individual people rather than statistics",
+      "short, stark statements (one daughter had died) are placed bluntly, so the shock lands on the reader as it did on him",
+      "sensory detail, especially smell, makes the scene of the old woman's wound vivid and disturbing"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *A Passage to Africa* (George Alagiah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From A Passage to Africa, George Alagiah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.passage-africa.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T02"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does George Alagiah use language and structure to present the people he meets?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present the people he meets. Answers might cover some of these points:",
+      "the opening list of adjectives describing a thousand faces conveys the scale of suffering, then narrows to the one face he will never forget, creating curiosity",
+      "the story of Amina and her daughters gives names and ages, making the victims individual people rather than statistics",
+      "small details of dignity (the woman covering herself, the man keeping his hoe) create pity and respect",
+      "the description of the smile uses repetition and negation (it was not a smile of greeting, not of joy) to define it precisely",
+      "the notebook directions to the village, written in note form, add authenticity and suggest how remote and forgotten the place is",
+      "he is self-critical about journalism, comparing the search for shocking pictures to a craving for a drug, which is honest and unsettling",
+      "short, stark statements (one daughter had died) are placed bluntly, so the shock lands on the reader as it did on him",
+      "sensory detail, especially smell, makes the scene of the old woman's wound vivid and disturbing",
+      "repetition of «rotting» across the man's leg and the woman herself intensifies the horror"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *A Passage to Africa* (George Alagiah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From A Passage to Africa, George Alagiah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.passage-africa.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T02"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does George Alagiah use language and structure to explore the relationship between the journalist and his subjects?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to explore the relationship between the journalist and his subjects. Answers might cover some of these points:",
+      "he is self-critical about journalism, comparing the search for shocking pictures to a craving for a drug, which is honest and unsettling",
+      "he admits to revulsion, then explains why reports avoid saying so; breaking this taboo makes his account feel truthful",
+      "a pattern of contrasts (observer and observed, active and passive, rich world and poor world) shows how the smile 'turned the tables' on the usual relationship",
+      "a rhetorical question asks how he should feel, standing there strong and confident, inviting the reader to share his discomfort",
+      "the ending addresses the 'nameless friend' directly, closing on regret, gratitude and a colloquial «I owe you one»",
+      "the opening list of adjectives describing a thousand faces conveys the scale of suffering, then narrows to the one face he will never forget, creating curiosity",
+      "the notebook directions to the village, written in note form, add authenticity and suggest how remote and forgotten the place is",
+      "the story of Amina and her daughters gives names and ages, making the victims individual people rather than statistics",
+      "short, stark statements (one daughter had died) are placed bluntly, so the shock lands on the reader as it did on him"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *A Passage to Africa* (George Alagiah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From A Passage to Africa, George Alagiah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.explorers-daughter.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T03"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Kari Herbert use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "rich visual imagery of light and colour (the spray catching the light, the evening turning golden) presents the Arctic as beautiful and almost magical",
+      "describing the fjord as a glittering kingdom uses metaphor to suggest grandeur and wonder",
+      "she notes that distances are deceptive and wonders if the narwhal are tricks of the light, adding a dreamlike quality",
+      "a shift to factual, informative writing about the narwhal's value (vitamins, light, heat, food for dogs) explains why the hunt matters",
+      "facts about the tusk and its uses add interest and authority, with some surprising details about the narwhal itself",
+      "the women on the lookout, watching their husbands through binoculars, show the community's dependence on the hunt",
+      "the simile of a vast waterborne game, with hunters spread like a net, conveys the scale and organisation of the hunt",
+      "information about the narwhal's sharp hearing explains why the hunters must stay still, building suspense",
+      "the moment the hunter raises his harpoon slows the pace; her heart leaps for both hunter and whale",
+      "the dangers to the hunter (miles from land, flimsy kayak, one harpoon) are listed to heighten tension and admiration",
+      "her dilemma is made explicit: she urges the hunter on and also urges the narwhal to escape",
+      "she anticipates and answers criticism (the question about eating seal), defending the Inughuit for using every part of the animal",
+      "the ending is firm and factual, stressing that hunting remains an absolute necessity in Thule",
+      "first-person present feeling mixed with past narration keeps the reader close to her emotional response"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *The Explorer's Daughter* (Kari Herbert), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From The Explorer's Daughter, Kari Herbert",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.explorers-daughter.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T03"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Kari Herbert use language and structure to present the Arctic setting?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present the Arctic setting. Answers might cover some of these points:",
+      "rich visual imagery of light and colour (the spray catching the light, the evening turning golden) presents the Arctic as beautiful and almost magical",
+      "describing the fjord as a glittering kingdom uses metaphor to suggest grandeur and wonder",
+      "she notes that distances are deceptive and wonders if the narwhal are tricks of the light, adding a dreamlike quality",
+      "the simile of a vast waterborne game, with hunters spread like a net, conveys the scale and organisation of the hunt",
+      "a shift to factual, informative writing about the narwhal's value (vitamins, light, heat, food for dogs) explains why the hunt matters",
+      "facts about the tusk and its uses add interest and authority, with some surprising details about the narwhal itself",
+      "the women on the lookout, watching their husbands through binoculars, show the community's dependence on the hunt",
+      "information about the narwhal's sharp hearing explains why the hunters must stay still, building suspense",
+      "the moment the hunter raises his harpoon slows the pace; her heart leaps for both hunter and whale"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *The Explorer's Daughter* (Kari Herbert), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From The Explorer's Daughter, Kari Herbert",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.explorers-daughter.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T03"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Kari Herbert use language and structure to convey her conflicting thoughts and feelings about the hunt?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to convey her conflicting thoughts and feelings about the hunt. Answers might cover some of these points:",
+      "a shift to factual, informative writing about the narwhal's value (vitamins, light, heat, food for dogs) explains why the hunt matters",
+      "facts about the tusk and its uses add interest and authority, with some surprising details about the narwhal itself",
+      "her dilemma is made explicit: she urges the hunter on and also urges the narwhal to escape",
+      "she anticipates and answers criticism (the question about eating seal), defending the Inughuit for using every part of the animal",
+      "the ending is firm and factual, stressing that hunting remains an absolute necessity in Thule",
+      "first-person present feeling mixed with past narration keeps the reader close to her emotional response",
+      "rich visual imagery of light and colour (the spray catching the light, the evening turning golden) presents the Arctic as beautiful and almost magical",
+      "describing the fjord as a glittering kingdom uses metaphor to suggest grandeur and wonder",
+      "she notes that distances are deceptive and wonders if the narwhal are tricks of the light, adding a dreamlike quality"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *The Explorer's Daughter* (Kari Herbert), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From The Explorer's Daughter, Kari Herbert",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.explorers-daughter.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T03"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Kari Herbert use language and structure to create tension during the hunt?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to create tension during the hunt. Answers might cover some of these points:",
+      "information about the narwhal's sharp hearing explains why the hunters must stay still, building suspense",
+      "the moment the hunter raises his harpoon slows the pace; her heart leaps for both hunter and whale",
+      "the dangers to the hunter (miles from land, flimsy kayak, one harpoon) are listed to heighten tension and admiration",
+      "rich visual imagery of light and colour (the spray catching the light, the evening turning golden) presents the Arctic as beautiful and almost magical",
+      "describing the fjord as a glittering kingdom uses metaphor to suggest grandeur and wonder",
+      "she notes that distances are deceptive and wonders if the narwhal are tricks of the light, adding a dreamlike quality",
+      "a shift to factual, informative writing about the narwhal's value (vitamins, light, heat, food for dogs) explains why the hunt matters",
+      "facts about the tusk and its uses add interest and authority, with some surprising details about the narwhal itself",
+      "the women on the lookout, watching their husbands through binoculars, show the community's dependence on the hunt"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *The Explorer's Daughter* (Kari Herbert), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From The Explorer's Daughter, Kari Herbert",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.explorers-boys.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T04"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Steven Morris use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "the headline poses a mocking question and adds the cost to the taxpayer, signalling the critical angle before the article begins",
+      "the opening paragraph recalls a previous expedition that ended in farce, so the reader meets the men as figures of fun",
+      "the contrast between farce and near tragedy in the opening paragraphs creates drama",
+      "reported resentment about the cost of tens of thousands of pounds invites the reader to share the disapproval",
+      "expert opinion questioning the choice of a small single-engine helicopter suggests the men were reckless",
+      "the wife's description of them as boys messing about undermines their image as serious explorers",
+      "precise times, distances and the list of organisations involved (navy, air force, coastguards) show the scale of the rescue",
+      "details such as the satellite phone call and the emergency watch (a wedding present) add human interest",
+      "a long list of the men's past achievements presents them as experienced and daring, offering some balance",
+      "the phrase about hitting the headlines for the wrong reasons reintroduces the critical tone",
+      "irony is highlighted: an expedition intended to show good east-west relations was stopped by a threat from the Russians",
+      "the official statement that the public will pay and is unlikely to get the money back returns to the headline's point",
+      "the article ends with the wife's humorous quotation about the men being sent home, leaving a mocking final impression",
+      "journalistic structure of short paragraphs and a chronological account of the rescue keeps the article fast-moving"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Explorers or boys messing about? Either way, taxpayer gets rescue bill* (Steven Morris), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: Explorers or boys messing about? Either way, taxpayer gets rescue bill, Steven Morris",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.explorers-boys.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T04"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Steven Morris use language and structure to shape the reader's view of the two explorers?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to shape the reader's view of the two explorers. Answers might cover some of these points:",
+      "the headline poses a mocking question and adds the cost to the taxpayer, signalling the critical angle before the article begins",
+      "the opening paragraph recalls a previous expedition that ended in farce, so the reader meets the men as figures of fun",
+      "reported resentment about the cost of tens of thousands of pounds invites the reader to share the disapproval",
+      "expert opinion questioning the choice of a small single-engine helicopter suggests the men were reckless",
+      "the wife's description of them as boys messing about undermines their image as serious explorers",
+      "a long list of the men's past achievements presents them as experienced and daring, offering some balance",
+      "the phrase about hitting the headlines for the wrong reasons reintroduces the critical tone",
+      "irony is highlighted: an expedition intended to show good east-west relations was stopped by a threat from the Russians",
+      "the official statement that the public will pay and is unlikely to get the money back returns to the headline's point",
+      "the article ends with the wife's humorous quotation about the men being sent home, leaving a mocking final impression"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Explorers or boys messing about? Either way, taxpayer gets rescue bill* (Steven Morris), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: Explorers or boys messing about? Either way, taxpayer gets rescue bill, Steven Morris",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.explorers-boys.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T04"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Steven Morris use language and structure to present the rescue?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present the rescue. Answers might cover some of these points:",
+      "the contrast between farce and near tragedy in the opening paragraphs creates drama",
+      "precise times, distances and the list of organisations involved (navy, air force, coastguards) show the scale of the rescue",
+      "details such as the satellite phone call and the emergency watch (a wedding present) add human interest",
+      "journalistic structure of short paragraphs and a chronological account of the rescue keeps the article fast-moving",
+      "the headline poses a mocking question and adds the cost to the taxpayer, signalling the critical angle before the article begins",
+      "the opening paragraph recalls a previous expedition that ended in farce, so the reader meets the men as figures of fun",
+      "reported resentment about the cost of tens of thousands of pounds invites the reader to share the disapproval",
+      "expert opinion questioning the choice of a small single-engine helicopter suggests the men were reckless",
+      "the wife's description of them as boys messing about undermines their image as serious explorers"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Explorers or boys messing about? Either way, taxpayer gets rescue bill* (Steven Morris), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: Explorers or boys messing about? Either way, taxpayer gets rescue bill, Steven Morris",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.explorers-boys.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T04"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Steven Morris use language and structure to present the explorers?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present the explorers. Answers might cover some of these points:",
+      "the opening paragraph recalls a previous expedition that ended in farce, so the reader meets the men as figures of fun",
+      "the wife's description of them as boys messing about undermines their image as serious explorers",
+      "a long list of the men's past achievements presents them as experienced and daring, offering some balance",
+      "the article ends with the wife's humorous quotation about the men being sent home, leaving a mocking final impression",
+      "the headline poses a mocking question and adds the cost to the taxpayer, signalling the critical angle before the article begins",
+      "the contrast between farce and near tragedy in the opening paragraphs creates drama",
+      "reported resentment about the cost of tens of thousands of pounds invites the reader to share the disapproval",
+      "expert opinion questioning the choice of a small single-engine helicopter suggests the men were reckless",
+      "precise times, distances and the list of organisations involved (navy, air force, coastguards) show the scale of the rescue"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Explorers or boys messing about? Either way, taxpayer gets rescue bill* (Steven Morris), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: Explorers or boys messing about? Either way, taxpayer gets rescue bill, Steven Morris",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.127-hours.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T05"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Aron Ralston use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "present-tense narration places the reader in the canyon with him, as if events are happening now",
+      "precise measurements (heights, widths, distances) create a realistic, technical picture of the narrow canyon",
+      "the comparison of the space to a short tunnel creates a claustrophobic atmosphere",
+      "technical climbing vocabulary (stemming, chimneying) and his explanation of it show his expertise and confidence",
+      "everyday comparisons (a bus tyre, climbing down from a roof) make the scale of the rocks easy to imagine while hinting at danger",
+      "the boulder's movement is signalled by a scraping sound and he instantly knows it is trouble, a turning point in the extract",
+      "the image of the falling rock consuming the sky conveys overwhelming threat",
+      "time slows down: the description of three seconds playing out slowly is structured as a sequence of semicolon-linked actions",
+      "the very short sentence announcing silence after the crash creates a pause and a sense of shock",
+      "disbelief and pain are conveyed through visceral verbs and his exclamation about his hand",
+      "direct speech addressed to himself and the boulder shows panic and desperation",
+      "he recalls a probably untrue story about a mother lifting a car, showing how his frantic mind searches for hope",
+      "the extract ends with the single word «Nothing», a blunt anticlimax that stresses he is trapped",
+      "his calm, methodical tone at the start contrasts with the frantic tone later, showing how quickly the situation changes"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *127 Hours: Between a Rock and a Hard Place* (Aron Ralston), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From 127 Hours: Between a Rock and a Hard Place, Aron Ralston",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.127-hours.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T05"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Aron Ralston use language and structure to convey the difficulties that he faces?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to convey the difficulties that he faces. Answers might cover some of these points:",
+      "everyday comparisons (a bus tyre, climbing down from a roof) make the scale of the rocks easy to imagine while hinting at danger",
+      "the boulder's movement is signalled by a scraping sound and he instantly knows it is trouble, a turning point in the extract",
+      "the image of the falling rock consuming the sky conveys overwhelming threat",
+      "time slows down: the description of three seconds playing out slowly is structured as a sequence of semicolon-linked actions",
+      "the very short sentence announcing silence after the crash creates a pause and a sense of shock",
+      "the extract ends with the single word «Nothing», a blunt anticlimax that stresses he is trapped",
+      "present-tense narration places the reader in the canyon with him, as if events are happening now",
+      "precise measurements (heights, widths, distances) create a realistic, technical picture of the narrow canyon",
+      "the comparison of the space to a short tunnel creates a claustrophobic atmosphere"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *127 Hours: Between a Rock and a Hard Place* (Aron Ralston), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From 127 Hours: Between a Rock and a Hard Place, Aron Ralston",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.127-hours.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T05"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Aron Ralston use language and structure to present his thoughts and feelings?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present his thoughts and feelings. Answers might cover some of these points:",
+      "disbelief and pain are conveyed through visceral verbs and his exclamation about his hand",
+      "direct speech addressed to himself and the boulder shows panic and desperation",
+      "he recalls a probably untrue story about a mother lifting a car, showing how his frantic mind searches for hope",
+      "his calm, methodical tone at the start contrasts with the frantic tone later, showing how quickly the situation changes",
+      "present-tense narration places the reader in the canyon with him, as if events are happening now",
+      "precise measurements (heights, widths, distances) create a realistic, technical picture of the narrow canyon",
+      "the comparison of the space to a short tunnel creates a claustrophobic atmosphere",
+      "technical climbing vocabulary (stemming, chimneying) and his explanation of it show his expertise and confidence",
+      "everyday comparisons (a bus tyre, climbing down from a roof) make the scale of the rocks easy to imagine while hinting at danger"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *127 Hours: Between a Rock and a Hard Place* (Aron Ralston), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From 127 Hours: Between a Rock and a Hard Place, Aron Ralston",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.127-hours.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T05"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Aron Ralston use language and structure to build tension and drama?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to build tension and drama. Answers might cover some of these points:",
+      "everyday comparisons (a bus tyre, climbing down from a roof) make the scale of the rocks easy to imagine while hinting at danger",
+      "the boulder's movement is signalled by a scraping sound and he instantly knows it is trouble, a turning point in the extract",
+      "the image of the falling rock consuming the sky conveys overwhelming threat",
+      "time slows down: the description of three seconds playing out slowly is structured as a sequence of semicolon-linked actions",
+      "the very short sentence announcing silence after the crash creates a pause and a sense of shock",
+      "the extract ends with the single word «Nothing», a blunt anticlimax that stresses he is trapped",
+      "present-tense narration places the reader in the canyon with him, as if events are happening now",
+      "precise measurements (heights, widths, distances) create a realistic, technical picture of the narrow canyon",
+      "the comparison of the space to a short tunnel creates a claustrophobic atmosphere"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *127 Hours: Between a Rock and a Hard Place* (Aron Ralston), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From 127 Hours: Between a Rock and a Hard Place, Aron Ralston",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.dyslexic.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T06"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Benjamin Zephaniah use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "the subheading's confident claim about architects and designers sets a positive, defiant tone before the story of suffering",
+      "he refuses to blame individual teachers, presenting the past as a different kind of country, which makes him sound fair-minded",
+      "anecdotes with direct speech from teachers (being called stupid, being told to go and play football) show how he was dismissed",
+      "his own childhood question about sleep being a design fault shows his creativity and makes the reader sympathise",
+      "he recognises with hindsight that a teacher was stereotyping him, linking his experience to wider prejudice",
+      "honest admissions about bad behaviour (being expelled, taking revenge with a teacher's car) are told plainly and with some humour",
+      "he uses statistics about dyslexia in prisons and among architects to present two possible paths",
+      "a long list of disadvantages (background, police, no qualifications) builds to the point that he should be in prison, emphasising what he has overcome",
+      "his self-belief is conveyed through blunt, colloquial reversals (it is the other person who is stupid)",
+      "his humorous response to being told he was dyslexic (asking if he needs an operation) is self-mocking and engaging",
+      "practical details (drawing a picture for a word he can't spell) show how he lives with dyslexia today",
+      "he addresses dyslexic readers and their parents directly with reassuring imperatives",
+      "the metaphor of a 'creativity muscle' presents dyslexia as a strength that grows",
+      "the ending is playful and proud, repeating the architects and designers idea to give the article a circular structure"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Young and dyslexic? You've got it going on* (Benjamin Zephaniah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: Young and dyslexic? You've got it going on, Benjamin Zephaniah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.dyslexic.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T06"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Benjamin Zephaniah use language and structure to convey his views about being dyslexic?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to convey his views about being dyslexic. Answers might cover some of these points:",
+      "the subheading's confident claim about architects and designers sets a positive, defiant tone before the story of suffering",
+      "he uses statistics about dyslexia in prisons and among architects to present two possible paths",
+      "a long list of disadvantages (background, police, no qualifications) builds to the point that he should be in prison, emphasising what he has overcome",
+      "practical details (drawing a picture for a word he can't spell) show how he lives with dyslexia today",
+      "he addresses dyslexic readers and their parents directly with reassuring imperatives",
+      "the metaphor of a 'creativity muscle' presents dyslexia as a strength that grows",
+      "the ending is playful and proud, repeating the architects and designers idea to give the article a circular structure",
+      "he refuses to blame individual teachers, presenting the past as a different kind of country, which makes him sound fair-minded",
+      "anecdotes with direct speech from teachers (being called stupid, being told to go and play football) show how he was dismissed"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Young and dyslexic? You've got it going on* (Benjamin Zephaniah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: Young and dyslexic? You've got it going on, Benjamin Zephaniah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.dyslexic.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T06"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Benjamin Zephaniah use language and structure to convey his experiences at school and afterwards?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to convey his experiences at school and afterwards. Answers might cover some of these points:",
+      "he refuses to blame individual teachers, presenting the past as a different kind of country, which makes him sound fair-minded",
+      "anecdotes with direct speech from teachers (being called stupid, being told to go and play football) show how he was dismissed",
+      "his own childhood question about sleep being a design fault shows his creativity and makes the reader sympathise",
+      "he recognises with hindsight that a teacher was stereotyping him, linking his experience to wider prejudice",
+      "honest admissions about bad behaviour (being expelled, taking revenge with a teacher's car) are told plainly and with some humour",
+      "his self-belief is conveyed through blunt, colloquial reversals (it is the other person who is stupid)",
+      "his humorous response to being told he was dyslexic (asking if he needs an operation) is self-mocking and engaging",
+      "the subheading's confident claim about architects and designers sets a positive, defiant tone before the story of suffering",
+      "he uses statistics about dyslexia in prisons and among architects to present two possible paths"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Young and dyslexic? You've got it going on* (Benjamin Zephaniah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: Young and dyslexic? You've got it going on, Benjamin Zephaniah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.dyslexic.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T06"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Benjamin Zephaniah use language and structure to present the teachers and other people in his life?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present the teachers and other people in his life. Answers might cover some of these points:",
+      "he refuses to blame individual teachers, presenting the past as a different kind of country, which makes him sound fair-minded",
+      "anecdotes with direct speech from teachers (being called stupid, being told to go and play football) show how he was dismissed",
+      "he recognises with hindsight that a teacher was stereotyping him, linking his experience to wider prejudice",
+      "the subheading's confident claim about architects and designers sets a positive, defiant tone before the story of suffering",
+      "his own childhood question about sleep being a design fault shows his creativity and makes the reader sympathise",
+      "honest admissions about bad behaviour (being expelled, taking revenge with a teacher's car) are told plainly and with some humour",
+      "he uses statistics about dyslexia in prisons and among architects to present two possible paths",
+      "a long list of disadvantages (background, police, no qualifications) builds to the point that he should be in prison, emphasising what he has overcome",
+      "his self-belief is conveyed through blunt, colloquial reversals (it is the other person who is stupid)"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Young and dyslexic? You've got it going on* (Benjamin Zephaniah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: Young and dyslexic? You've got it going on, Benjamin Zephaniah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.polo.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T07"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Emma Levine use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "the comparison of the event to a famous cartoon race sets up a humorous, chaotic expectation",
+      "direct speech from the two lads shows their eagerness and confidence, and her request to get to the front shows her keenness",
+      "the long wait is exaggerated through hyperbole, building anticipation and comic frustration",
+      "the villager on a wobbly bicycle provides a moment of gentle humour during the wait",
+      "the sudden appearance of two donkey-carts ahead of a cloud of fumes and dust signals a change of pace",
+      "the donkeys are dwarfed by the crowd of vehicles behind, showing the scale of the spectacle",
+      "a list of noises (horns, bells, rattles) and verbs of movement creates a lively, noisy atmosphere",
+      "metaphors comparing the race to motor racing without rules and a rush hour gone anarchic convey chaos",
+      "Yaqoob's driving skills are listed (quick reflexes, nerves of steel), presenting him as daring and skilful",
+      "the detail that oncoming traffic had to dive into a ditch shows the danger to others",
+      "a near pile-up at the finish and the donkey tumbling over gives the race a dramatic climax",
+      "the short sentence beginning the trouble after the race shifts the tone to menace; raised voices and fists suggest violence",
+      "the lads' nervousness and their decision to leave show the situation is becoming dangerous",
+      "the final revelation that Yaqoob is too young to hold a licence gives the extract a humorous twist and makes the reader reassess the danger"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *A Game of Polo with a Headless Goat* (Emma Levine), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From A Game of Polo with a Headless Goat, Emma Levine",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.polo.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T07"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Emma Levine use language and structure to create a sense of excitement and danger?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to create a sense of excitement and danger. Answers might cover some of these points:",
+      "the long wait is exaggerated through hyperbole, building anticipation and comic frustration",
+      "the sudden appearance of two donkey-carts ahead of a cloud of fumes and dust signals a change of pace",
+      "metaphors comparing the race to motor racing without rules and a rush hour gone anarchic convey chaos",
+      "the detail that oncoming traffic had to dive into a ditch shows the danger to others",
+      "a near pile-up at the finish and the donkey tumbling over gives the race a dramatic climax",
+      "the short sentence beginning the trouble after the race shifts the tone to menace; raised voices and fists suggest violence",
+      "the comparison of the event to a famous cartoon race sets up a humorous, chaotic expectation",
+      "direct speech from the two lads shows their eagerness and confidence, and her request to get to the front shows her keenness",
+      "the villager on a wobbly bicycle provides a moment of gentle humour during the wait"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *A Game of Polo with a Headless Goat* (Emma Levine), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From A Game of Polo with a Headless Goat, Emma Levine",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.polo.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T07"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Emma Levine use language and structure to present Yaqoob and Iqbal?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present Yaqoob and Iqbal. Answers might cover some of these points:",
+      "direct speech from the two lads shows their eagerness and confidence, and her request to get to the front shows her keenness",
+      "Yaqoob's driving skills are listed (quick reflexes, nerves of steel), presenting him as daring and skilful",
+      "the lads' nervousness and their decision to leave show the situation is becoming dangerous",
+      "the final revelation that Yaqoob is too young to hold a licence gives the extract a humorous twist and makes the reader reassess the danger",
+      "the comparison of the event to a famous cartoon race sets up a humorous, chaotic expectation",
+      "the long wait is exaggerated through hyperbole, building anticipation and comic frustration",
+      "the villager on a wobbly bicycle provides a moment of gentle humour during the wait",
+      "the sudden appearance of two donkey-carts ahead of a cloud of fumes and dust signals a change of pace",
+      "the donkeys are dwarfed by the crowd of vehicles behind, showing the scale of the spectacle"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *A Game of Polo with a Headless Goat* (Emma Levine), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From A Game of Polo with a Headless Goat, Emma Levine",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.polo.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T07"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Emma Levine use language and structure to present the race and its spectators?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present the race and its spectators. Answers might cover some of these points:",
+      "the comparison of the event to a famous cartoon race sets up a humorous, chaotic expectation",
+      "the villager on a wobbly bicycle provides a moment of gentle humour during the wait",
+      "the donkeys are dwarfed by the crowd of vehicles behind, showing the scale of the spectacle",
+      "a list of noises (horns, bells, rattles) and verbs of movement creates a lively, noisy atmosphere",
+      "direct speech from the two lads shows their eagerness and confidence, and her request to get to the front shows her keenness",
+      "the long wait is exaggerated through hyperbole, building anticipation and comic frustration",
+      "the sudden appearance of two donkey-carts ahead of a cloud of fumes and dust signals a change of pace",
+      "metaphors comparing the race to motor racing without rules and a rush hour gone anarchic convey chaos",
+      "Yaqoob's driving skills are listed (quick reflexes, nerves of steel), presenting him as daring and skilful"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *A Game of Polo with a Headless Goat* (Emma Levine), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From A Game of Polo with a Headless Goat, Emma Levine",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.bhutan.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T08"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Jamie Zeppa use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "the opening minor sentences and repetition of mountains convey how the landscape overwhelms her",
+      "she contrasts the scientific explanation with an imaginative image of a giant child shaping the land, which is playful and vivid",
+      "the list of five flights over four days emphasises the length of the journey and her exhaustion",
+      "the discovery that on the other side of mountains are more mountains uses repetition for humour and wonder",
+      "the plain hotel breakfast is described with mildly comic, negative adjectives, showing her unfamiliarity",
+      "short character sketches of the other Canadians contrast their enthusiasm with her own uncertainty",
+      "details of Thimphu (no traffic lights, policemen with graceful gestures, matching rooftops) present it as small and distinctive",
+      "a list of goods in the shops gives a humorous sense of sameness and of imported snacks",
+      "signs of the outside world (jeans, country music, an action film poster) are described as startling against everything Bhutanese",
+      "the description of the dzong with a string of adjectives conveys grandeur and tradition",
+      "she quotes an eighteenth-century visitor and agrees with him, admiring the people's appearance",
+      "she searches for one word for the people's qualities and cannot find it, showing deep respect",
+      "historical information and the poetic former names of districts add interest and a sense of romance",
+      "the comic account of a British envoy's humiliation leads to her admiration for the country's independence at the end"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Beyond the Sky and the Earth: A Journey into Bhutan* (Jamie Zeppa), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From Beyond the Sky and the Earth: A Journey into Bhutan, Jamie Zeppa",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.bhutan.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T08"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Jamie Zeppa use language and structure to convey her impressions of Bhutan?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to convey her impressions of Bhutan. Answers might cover some of these points:",
+      "the opening minor sentences and repetition of mountains convey how the landscape overwhelms her",
+      "she contrasts the scientific explanation with an imaginative image of a giant child shaping the land, which is playful and vivid",
+      "the discovery that on the other side of mountains are more mountains uses repetition for humour and wonder",
+      "details of Thimphu (no traffic lights, policemen with graceful gestures, matching rooftops) present it as small and distinctive",
+      "a list of goods in the shops gives a humorous sense of sameness and of imported snacks",
+      "signs of the outside world (jeans, country music, an action film poster) are described as startling against everything Bhutanese",
+      "the description of the dzong with a string of adjectives conveys grandeur and tradition",
+      "the list of five flights over four days emphasises the length of the journey and her exhaustion",
+      "the plain hotel breakfast is described with mildly comic, negative adjectives, showing her unfamiliarity"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Beyond the Sky and the Earth: A Journey into Bhutan* (Jamie Zeppa), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From Beyond the Sky and the Earth: A Journey into Bhutan, Jamie Zeppa",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.bhutan.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T08"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Jamie Zeppa use language and structure to describe her experiences in Bhutan?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to describe her experiences in Bhutan. Answers might cover some of these points:",
+      "the opening minor sentences and repetition of mountains convey how the landscape overwhelms her",
+      "she contrasts the scientific explanation with an imaginative image of a giant child shaping the land, which is playful and vivid",
+      "the list of five flights over four days emphasises the length of the journey and her exhaustion",
+      "the discovery that on the other side of mountains are more mountains uses repetition for humour and wonder",
+      "the plain hotel breakfast is described with mildly comic, negative adjectives, showing her unfamiliarity",
+      "details of Thimphu (no traffic lights, policemen with graceful gestures, matching rooftops) present it as small and distinctive",
+      "a list of goods in the shops gives a humorous sense of sameness and of imported snacks",
+      "signs of the outside world (jeans, country music, an action film poster) are described as startling against everything Bhutanese",
+      "the description of the dzong with a string of adjectives conveys grandeur and tradition"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Beyond the Sky and the Earth: A Journey into Bhutan* (Jamie Zeppa), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From Beyond the Sky and the Earth: A Journey into Bhutan, Jamie Zeppa",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.bhutan.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T08"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Jamie Zeppa use language and structure to present the people of Bhutan?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present the people of Bhutan. Answers might cover some of these points:",
+      "short character sketches of the other Canadians contrast their enthusiasm with her own uncertainty",
+      "she quotes an eighteenth-century visitor and agrees with him, admiring the people's appearance",
+      "she searches for one word for the people's qualities and cannot find it, showing deep respect",
+      "the opening minor sentences and repetition of mountains convey how the landscape overwhelms her",
+      "she contrasts the scientific explanation with an imaginative image of a giant child shaping the land, which is playful and vivid",
+      "the list of five flights over four days emphasises the length of the journey and her exhaustion",
+      "the discovery that on the other side of mountains are more mountains uses repetition for humour and wonder",
+      "the plain hotel breakfast is described with mildly comic, negative adjectives, showing her unfamiliarity",
+      "details of Thimphu (no traffic lights, policemen with graceful gestures, matching rooftops) present it as small and distinctive"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Beyond the Sky and the Earth: A Journey into Bhutan* (Jamie Zeppa), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From Beyond the Sky and the Earth: A Journey into Bhutan, Jamie Zeppa",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.hawk.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T09"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Helen Macdonald use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "the opening dialogue about checking ring numbers and forms is calm and practical, delaying the drama",
+      "close detail of the boxes (tape handles, plywood, string hinges) slows the pace and builds anticipation",
+      "the sudden thump inside the box, compared to a punch, suggests the bird's power",
+      "a series of minor sentences as each hinge is untied creates a tense, staccato rhythm",
+      "the air becoming syrupy and slow and the comparison to the moments before a battle heighten suspense",
+      "a long, breathless sentence full of noise and movement mirrors the chaos as the first hawk is pulled out",
+      "a rapid sequence of metaphors (a conjuring trick, a reptile, a fallen angel, a griffon) shows the writer struggling to capture the bird",
+      "the hawk's view of the world is imagined in a long list of sights, showing her wonder and the bird's astonishment",
+      "the falconer is calm and practised; the writer's sudden love for him shows her heightened emotions",
+      "the anticlimax of discovering it is the wrong bird is conveyed by short sentences and the single word «Oh»",
+      "the second hawk is compared to a melodrama and a madwoman; her wailing is described as unbearable",
+      "repetition of the thought that this is not her hawk shows rising panic",
+      "her desperate, incoherent pleading is presented through broken direct speech with ellipses",
+      "she pictures herself from the outside, a white-faced woman with wind-wrecked hair, hinting at grief and exhaustion",
+      "the extract ends on a moment of total silence, leaving the reader in suspense"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *H is for Hawk* (Helen Macdonald), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From H is for Hawk, Helen Macdonald",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.hawk.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T09"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Helen Macdonald use language and structure to present the two birds?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present the two birds. Answers might cover some of these points:",
+      "a long, breathless sentence full of noise and movement mirrors the chaos as the first hawk is pulled out",
+      "a rapid sequence of metaphors (a conjuring trick, a reptile, a fallen angel, a griffon) shows the writer struggling to capture the bird",
+      "the hawk's view of the world is imagined in a long list of sights, showing her wonder and the bird's astonishment",
+      "the falconer is calm and practised; the writer's sudden love for him shows her heightened emotions",
+      "the second hawk is compared to a melodrama and a madwoman; her wailing is described as unbearable",
+      "the opening dialogue about checking ring numbers and forms is calm and practical, delaying the drama",
+      "close detail of the boxes (tape handles, plywood, string hinges) slows the pace and builds anticipation",
+      "the sudden thump inside the box, compared to a punch, suggests the bird's power",
+      "a series of minor sentences as each hinge is untied creates a tense, staccato rhythm"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *H is for Hawk* (Helen Macdonald), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From H is for Hawk, Helen Macdonald",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.hawk.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T09"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Helen Macdonald use language and structure to build up suspense and tension?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to build up suspense and tension. Answers might cover some of these points:",
+      "the opening dialogue about checking ring numbers and forms is calm and practical, delaying the drama",
+      "close detail of the boxes (tape handles, plywood, string hinges) slows the pace and builds anticipation",
+      "the sudden thump inside the box, compared to a punch, suggests the bird's power",
+      "a series of minor sentences as each hinge is untied creates a tense, staccato rhythm",
+      "the air becoming syrupy and slow and the comparison to the moments before a battle heighten suspense",
+      "the extract ends on a moment of total silence, leaving the reader in suspense",
+      "a long, breathless sentence full of noise and movement mirrors the chaos as the first hawk is pulled out",
+      "a rapid sequence of metaphors (a conjuring trick, a reptile, a fallen angel, a griffon) shows the writer struggling to capture the bird",
+      "the hawk's view of the world is imagined in a long list of sights, showing her wonder and the bird's astonishment"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *H is for Hawk* (Helen Macdonald), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From H is for Hawk, Helen Macdonald",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.hawk.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T09"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Helen Macdonald use language and structure to convey her thoughts and feelings?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to convey her thoughts and feelings. Answers might cover some of these points:",
+      "the anticlimax of discovering it is the wrong bird is conveyed by short sentences and the single word «Oh»",
+      "repetition of the thought that this is not her hawk shows rising panic",
+      "her desperate, incoherent pleading is presented through broken direct speech with ellipses",
+      "she pictures herself from the outside, a white-faced woman with wind-wrecked hair, hinting at grief and exhaustion",
+      "the opening dialogue about checking ring numbers and forms is calm and practical, delaying the drama",
+      "close detail of the boxes (tape handles, plywood, string hinges) slows the pace and builds anticipation",
+      "the sudden thump inside the box, compared to a punch, suggests the bird's power",
+      "a series of minor sentences as each hinge is untied creates a tense, staccato rhythm",
+      "the air becoming syrupy and slow and the comparison to the moments before a battle heighten suspense"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *H is for Hawk* (Helen Macdonald), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From H is for Hawk, Helen Macdonald",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.cinderella.1",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T10"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "4-6",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Adeline Yen Mah use language and structure to interest and engage the reader?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to interest and engage the reader. Answers might cover some of these points:",
+      "the opening reflects on time passing and the possible end of school forever, creating unease",
+      "the simile of a persistent toothache shows her constant worry about leaving school",
+      "the warning of a possible typhoon may suggest a coming storm in her life",
+      "being called downstairs fills her with foreboding; she wonders who has died, showing how rarely home brings good news",
+      "the chauffeur's rude, dismissive answers show how little she is valued by the household",
+      "she does not even know where her family now lives, which shows how excluded she is",
+      "the description of her father's room as the Holy of Holies shows his remoteness and power",
+      "rhetorical questions reveal her suspicion that his kindness may be a trick",
+      "the newspaper report in capital letters marks a sudden reversal in her fortunes",
+      "her father's pride is linked to his business friend; winning gives him face, suggesting his approval is about status",
+      "hyperbole about reaching the stars conveys overwhelming joy",
+      "her father scoffs at her wish to be a writer and dictates that she will study medicine",
+      "she accepts silently and gratefully, and the line from a Wordsworth poem expresses her bliss",
+      "the contrast between the warm schoolfriend game at the start and the cold family relationships highlights her isolation"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Chinese Cinderella* (Adeline Yen Mah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From Chinese Cinderella, Adeline Yen Mah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.cinderella.2",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T10"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Adeline Yen Mah use language and structure to show how she is treated by her family?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to show how she is treated by her family. Answers might cover some of these points:",
+      "the chauffeur's rude, dismissive answers show how little she is valued by the household",
+      "she does not even know where her family now lives, which shows how excluded she is",
+      "the description of her father's room as the Holy of Holies shows his remoteness and power",
+      "the newspaper report in capital letters marks a sudden reversal in her fortunes",
+      "her father's pride is linked to his business friend; winning gives him face, suggesting his approval is about status",
+      "her father scoffs at her wish to be a writer and dictates that she will study medicine",
+      "the contrast between the warm schoolfriend game at the start and the cold family relationships highlights her isolation",
+      "the opening reflects on time passing and the possible end of school forever, creating unease",
+      "the simile of a persistent toothache shows her constant worry about leaving school"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Chinese Cinderella* (Adeline Yen Mah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From Chinese Cinderella, Adeline Yen Mah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.cinderella.3",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T10"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Adeline Yen Mah use language and structure to convey her thoughts and feelings?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to convey her thoughts and feelings. Answers might cover some of these points:",
+      "the opening reflects on time passing and the possible end of school forever, creating unease",
+      "the simile of a persistent toothache shows her constant worry about leaving school",
+      "being called downstairs fills her with foreboding; she wonders who has died, showing how rarely home brings good news",
+      "rhetorical questions reveal her suspicion that his kindness may be a trick",
+      "hyperbole about reaching the stars conveys overwhelming joy",
+      "she accepts silently and gratefully, and the line from a Wordsworth poem expresses her bliss",
+      "the warning of a possible typhoon may suggest a coming storm in her life",
+      "the chauffeur's rude, dismissive answers show how little she is valued by the household",
+      "she does not even know where her family now lives, which shows how excluded she is"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Chinese Cinderella* (Adeline Yen Mah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From Chinese Cinderella, Adeline Yen Mah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ },
+ {
+  "id": "english-language.q4.cinderella.4",
+  "subject": "english-language",
+  "paper": [
+   "p1"
+  ],
+  "spec_refs": [
+   "C1.A.AO2.1",
+   "C1.A.AO2.T10"
+  ],
+  "topic": "reading-language",
+  "subtopic": "el.ao2.anthology",
+  "qtype": "lang-structure",
+  "command_word": "how",
+  "marks": 12,
+  "difficulty": "7-9",
+  "minutes": 20,
+  "parts": [
+   {
+    "label": "",
+    "text": "In Text Two, how does Adeline Yen Mah use language and structure to present her father?\n\nRefer closely to the text in your answer and include brief quotations.",
+    "marks": 12,
+    "lines": 30
+   }
+  ],
+  "markscheme": {
+   "style": "levels",
+   "rows": [],
+   "levels": [
+    {
+     "part": "",
+     "grid": [
+      {
+       "level": "0",
+       "marks": "0",
+       "descriptor": "No rewardable material."
+      },
+      {
+       "level": "Level 1",
+       "marks": "1-2",
+       "descriptor": "Simple identification of a few language or structural features, with little understanding of how they create effects. Few references, or references that are not well chosen."
+      },
+      {
+       "level": "Level 2",
+       "marks": "3-4",
+       "descriptor": "Some understanding of language and structure, with some comment on effects, including word choice. References are valid but not developed."
+      },
+      {
+       "level": "Level 3",
+       "marks": "5-7",
+       "descriptor": "Clear explanation of how language and structure are used to create effects, including vocabulary and sentence structure. References are relevant and support the points made."
+      },
+      {
+       "level": "Level 4",
+       "marks": "8-10",
+       "descriptor": "Thorough exploration of how language and structure create effects, including vocabulary, sentence structure and other features. References are well chosen, detailed and fully support the points made."
+      },
+      {
+       "level": "Level 5",
+       "marks": "11-12",
+       "descriptor": "Perceptive, assured analysis of how language and structure work together to achieve effects, including vocabulary, sentence structure and other features. References are discriminating and sharpen the points made."
+      }
+     ],
+     "indicative": [
+      "Credit answers that analyse the writer's choices of language and structure and their effect, in relation to the task: to present her father. Answers might cover some of these points:",
+      "the chauffeur's rude, dismissive answers show how little she is valued by the household",
+      "she does not even know where her family now lives, which shows how excluded she is",
+      "the description of her father's room as the Holy of Holies shows his remoteness and power",
+      "the newspaper report in capital letters marks a sudden reversal in her fortunes",
+      "her father's pride is linked to his business friend; winning gives him face, suggesting his approval is about status",
+      "her father scoffs at her wish to be a writer and dictates that she will study medicine",
+      "the contrast between the warm schoolfriend game at the start and the cold family relationships highlights her isolation",
+      "the opening reflects on time passing and the possible end of school forever, creating unease",
+      "the simile of a persistent toothache shows her constant worry about leaving school"
+     ],
+     "credit_note": "Indicative content is not exhaustive: credit any other valid points.",
+     "title": "AO2: Understand and analyse how writers use linguistic and structural devices to achieve their effects (12 marks)",
+     "ao_split": "AO2 12"
+    }
+   ],
+   "general": "Use a best-fit approach: decide which level descriptor matches the answer most closely, then place the mark within that level according to how securely each part of the descriptor is met. Indicative content shows points candidates are likely to make; it is not a checklist."
+  },
+  "ao": [
+   "AO2"
+  ],
+  "template": "el-q4",
+  "intro": "Text Two is *Chinese Cinderella* (Adeline Yen Mah), from Part 1 of the Anthology. Use your own copy.",
+  "figures": [
+   {
+    "type": "passage",
+    "title": "Text Two: From Chinese Cinderella, Adeline Yen Mah",
+    "text": "This anthology text is not reprinted in this practice paper. Use your own copy of the Anthology (Part 1: non-fiction texts) when you answer the questions on Text Two.",
+    "numbered": false,
+    "provenance": "Copyright text from Part 1 of the Anthology: referred to by title and author only."
+   }
+  ],
+  "section": "A"
+ }
+]

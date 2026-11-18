@@ -1,0 +1,55 @@
+{
+ "batch": "history-000",
+ "answers": {
+  "history.america-causes.0007": {
+   "all": "(1) Hamilton's financial programme (national bank, assumption of debts, excise) vs Jefferson/Madison's agrarian, strict-constructionist views -> Federalists v Democratic-Republicans. (2) Foreign policy split over French Revolution/Britain, Jay Treaty 1794-5."
+  },
+  "history.america-causes.0030": {
+   "all": "(1) South relied on cotton/slave plantations after cotton gin 1793; (2) North industrialised: factories, railways, canals, immigration, tariffs favoured Northern industry."
+  },
+  "history.america-causes.0006": {
+   "all": "(1) Anti-Federalists feared strong central government and demanded guarantees of liberties before ratifying; (2) Madison/Federalists promised amendments to win ratification, state conventions called for them."
+  },
+  "history.america-causes.0001": {
+   "all": "(1) Post-war depression, debt and heavy taxes in Massachusetts, farmers facing foreclosure; (2) weak Articles of Confederation/no national power to help; Daniel Shays."
+  },
+  "history.america-causes.0042": {
+   "all": "(1) Total war strategy to destroy South's economy/will to fight; (2) Capture of Atlanta Sept 1864, Sherman/Grant's plan to cut the Confederacy, Lincoln's re-election."
+  },
+  "history.america-causes.0021": {
+   "all": "(1) Spain weak, couldn't control Florida, Seminole raids; Jackson's 1818 invasion; (2) US expansionism/Adams' diplomacy; defined boundary to Pacific, Spain ceded Florida."
+  },
+  "history.america-difference.0051": {
+   "all": "1865: new president after Lincoln's assassination, in control of Reconstruction, pardons, lenient Black Codes tolerated; 1868: impeached by House over Tenure of Office Act, Congress (Radical Republicans) controlled Reconstruction via Military Reconstruction Acts passed over his vetoes; acquitted by one vote."
+  },
+  "history.america-difference.0026": {
+   "all": "1850: Whigs and Democrats main parties, Free Soil; 1860: Whigs collapsed, Republican party (1854) strong, Democrats split north/south, Constitutional Union party."
+  }
+ },
+ "verdicts": {
+  "history.america-causes.0007": {
+   "result": "pass"
+  },
+  "history.america-causes.0030": {
+   "result": "pass"
+  },
+  "history.america-causes.0006": {
+   "result": "pass"
+  },
+  "history.america-causes.0001": {
+   "result": "pass"
+  },
+  "history.america-causes.0042": {
+   "result": "pass"
+  },
+  "history.america-causes.0021": {
+   "result": "pass"
+  },
+  "history.america-difference.0051": {
+   "result": "pass"
+  },
+  "history.america-difference.0026": {
+   "result": "pass"
+  }
+ }
+}

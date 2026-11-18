@@ -1,0 +1,191 @@
+{
+ "batch": "economics-015",
+ "answers": {
+  "economics.productivity-explain.0011": {
+   "all": "Training raises workers' skills/knowledge, so they work faster with fewer mistakes, so output per worker at the Leeds factory rises (also may raise motivation)."
+  },
+  "economics.productivity-mcq-auth.0002": {
+   "all": "Boredom from repeating the same task"
+  },
+  "economics.productivity-mcq-class.0002": {
+   "all": "Introducing faster production technology"
+  },
+  "economics.productivity-mcq-def.0006": {
+   "all": "Production that uses a high proportion of workers/labour relative to capital"
+  },
+  "economics.protection-analyse-1.0004": {
+   "all": "Quota limits imports so domestic rice producers gain market share and output; protects jobs and incomes; counters dumping (below cost imports); improves current account; food security; higher prices raise producer revenue."
+  },
+  "economics.protection-analyse-2.0001": {
+   "all": "Removal of tariffs means larger foreign firms with economies of scale undercut Gallendra firms; loss of market share, lower profit, closures and job losses; pressure to cut costs; but (one-sided OK)."
+  },
+  "economics.protection-analyse-3.0001": {
+   "all": "Tariff raises price of imported steel; imports fall; domestic producers gain demand, raise output/price; higher steel prices raise costs for steel-using firms; government revenue; quantity bought overall falls; possible retaliation."
+  },
+  "economics.protection-assess-1.0005": {
+   "all": "Benefits: protects domestic producers/jobs, stops dumping, food security, current account. Costs: higher rice prices for consumers (staple, regressive), less choice, inefficiency, retaliation, no quota revenue. Judgement depends on duration and dumping evidence."
+  },
+  "economics.protection-assess-2.0004": {
+   "all": "Benefits: access to 709m-consumer market, economies of scale, cheaper imports/inputs, more choice, FDI, competition raises efficiency. Costs: weaker firms close, job losses, trade diversion. Judgement: depends on competitiveness of Eskaria's firms; long-run gains likely."
+  },
+  "economics.protection-assess-3.0006": {
+   "all": "Protects jobs: dearer imports shift demand to domestic steel. But: higher costs for steel-using firms (cars, construction) reduce their output/jobs; retaliation hits exporters; inefficiency; may only delay decline. Judgement depends on PED, scale of steel-using industries."
+  },
+  "economics.protection-calc.0005": {
+   "all": "34.98 x 1.15 = Q\u20ac40.23"
+  },
+  "economics.protection-data.0008": {
+   "a": "49.07 x 1.15 = H\u20ac56.43",
+   "b": "Larger foreign firms with economies of scale undercut Halvoria firms after tariffs removed; lose market share/profits; closures and unemployment; pressure to cut costs/wages.",
+   "c": "Plan: benefits \u2014 access to 425m consumers, economies of scale, cheaper imports and inputs, more choice, FDI, efficiency. Costs \u2014 weaker firms close, structural unemployment, trade diversion, loss of tariff revenue. Judgement: depends on competitiveness and time period."
+  },
+  "economics.protection-define1.0007": {
+   "all": "A new industry that has not yet grown large enough to benefit from economies of scale and so cannot yet compete with established foreign firms."
+  },
+  "economics.protection-define2.0004": {
+   "all": "A group of countries that remove trade barriers between themselves (1) but each keeps its own barriers against non-members (1)."
+  },
+  "economics.protection-describe.0008": {
+   "all": "A quota is a limit on the quantity of imports, so foreign supply is restricted and domestic producers can sell more / charge higher prices."
+  },
+  "economics.protection-diagram.0011": {
+   "all": "Demand for imported tyres shifts left (D1); lower equilibrium price P1 and lower quantity Q1."
+  },
+  "economics.protection-evaluate-1.0001": {
+   "all": "Plan: benefits \u2014 protects producers and jobs, counters dumping, food security, current account. Costs \u2014 higher price of staple food for consumers (hits poor), less choice, inefficiency, retaliation, government gets no revenue (vs tariff). Judgement depends on whether dumping is real, duration."
+  },
+  "economics.protection-evaluate-2.0005": {
+   "all": "Plan: benefits \u2014 access to 1102m consumers, economies of scale, cheaper imports, choice, FDI, competition. Costs \u2014 firms lose to larger rivals, unemployment, trade diversion, loss of tariff revenue. Judgement: short-run costs vs long-run gains."
+  },
+  "economics.protection-evaluate-3.0002": {
+   "all": "Plan: protects steel jobs via dearer imports. Against: higher costs for steel-using industries cut their jobs; retaliation hurts exporters; inefficiency; consumers pay more. Judgement depends on PED for imports, relative size of industries, time."
+  },
+  "economics.protection-explain.0006": {
+   "all": "Removing tariff lowers the price of imported palm oil, so consumers in Corvana pay less (price could fall up to ~11%), raising real incomes / more choice, and products using palm oil may get cheaper."
+  },
+  "economics.protection-mcq-auth.0002": {
+   "all": "raise the price of imported shoes"
+  },
+  "economics.protection-mcq-class.0006": {
+   "all": "Preventing dumping"
+  },
+  "economics.protection-mcq-def.0004": {
+   "all": "A group of countries that remove trade barriers between themselves but each keeps its own barriers against non-members"
+  },
+  "economics.protection-state.0004": {
+   "all": "ASEAN / EU / USMCA"
+  },
+  "economics.protection-state-class.0002": {
+   "all": "Protect infant industries / prevent dumping / protect jobs"
+  },
+  "economics.protection-state-id.0004": {
+   "all": "a method of protectionism"
+  },
+  "economics.redistribution-analyse-1.0001": {
+   "all": "Higher benefits raise incomes of 18% in relative poverty -> better living standards, health, education; low earners have high MPC so spending rises, multiplier; reduces inequality (top 10% get 35%), social cohesion, human capital."
+  },
+  "economics.redistribution-analyse-2.0002": {
+   "all": "Sales tax of 17% is regressive: poor spend a larger share of income, so pay higher % of income in tax; flat 12% income tax is proportional, not progressive, so does not reduce inequality; combined system takes larger share from poor."
+  },
+  "economics.redistribution-assess-1.0002": {
+   "all": "For: raises revenue to fund benefits/services for 21% in poverty; reduces inequality (top 10% get 41%). Against: disincentive to work, tax avoidance/emigration, limited revenue; alternatives \u2014 education, minimum wage, jobs, benefits. Judgement depends on use of revenue."
+  },
+  "economics.redistribution-assess-2.0003": {
+   "all": "For: current 20% sales tax regressive, flat 11% income tax; progressive system reduces inequality and raises revenue fairly. Against: disincentives, avoidance, brain drain, admin cost. Judgement depends on rates and use of revenue."
+  }
+ },
+ "verdicts": {
+  "economics.productivity-explain.0011": {
+   "result": "pass"
+  },
+  "economics.productivity-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.productivity-mcq-class.0002": {
+   "result": "pass"
+  },
+  "economics.productivity-mcq-def.0006": {
+   "result": "pass"
+  },
+  "economics.protection-analyse-1.0004": {
+   "result": "pass"
+  },
+  "economics.protection-analyse-2.0001": {
+   "result": "pass"
+  },
+  "economics.protection-analyse-3.0001": {
+   "result": "pass"
+  },
+  "economics.protection-assess-1.0005": {
+   "result": "pass"
+  },
+  "economics.protection-assess-2.0004": {
+   "result": "pass"
+  },
+  "economics.protection-assess-3.0006": {
+   "result": "pass"
+  },
+  "economics.protection-calc.0005": {
+   "result": "pass"
+  },
+  "economics.protection-data.0008": {
+   "result": "pass"
+  },
+  "economics.protection-define1.0007": {
+   "result": "pass"
+  },
+  "economics.protection-define2.0004": {
+   "result": "pass"
+  },
+  "economics.protection-describe.0008": {
+   "result": "pass"
+  },
+  "economics.protection-diagram.0011": {
+   "result": "pass"
+  },
+  "economics.protection-evaluate-1.0001": {
+   "result": "pass"
+  },
+  "economics.protection-evaluate-2.0005": {
+   "result": "pass"
+  },
+  "economics.protection-evaluate-3.0002": {
+   "result": "pass"
+  },
+  "economics.protection-explain.0006": {
+   "result": "pass"
+  },
+  "economics.protection-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.protection-mcq-class.0006": {
+   "result": "pass"
+  },
+  "economics.protection-mcq-def.0004": {
+   "result": "pass"
+  },
+  "economics.protection-state.0004": {
+   "result": "fail",
+   "problem": "Question asks for an example of a trading bloc but the mark scheme lists types of trading bloc (free trade area, customs union, etc.), not named blocs.",
+   "fix": "Award 1 mark for any named trading bloc, e.g. EU, ASEAN, USMCA, Mercosur, ECOWAS; or reword the question to 'State one type of trading bloc'."
+  },
+  "economics.protection-state-class.0002": {
+   "result": "pass"
+  },
+  "economics.protection-state-id.0004": {
+   "result": "pass"
+  },
+  "economics.redistribution-analyse-1.0001": {
+   "result": "pass"
+  },
+  "economics.redistribution-analyse-2.0002": {
+   "result": "pass"
+  },
+  "economics.redistribution-assess-1.0002": {
+   "result": "pass"
+  },
+  "economics.redistribution-assess-2.0003": {
+   "result": "pass"
+  }
+ }
+}

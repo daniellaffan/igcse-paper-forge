@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "question.schema.json",
+  "title": "IGCSE Paper Forge question record",
+  "type": "object",
+  "required": ["id", "subject", "paper", "spec_refs", "topic", "subtopic", "qtype", "command_word", "marks", "difficulty", "minutes", "parts", "markscheme", "ao"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9._-]+$"},
+    "subject": {"enum": ["maths", "further-maths", "physics", "chemistry", "biology", "economics", "history", "english-language", "english-literature", "spanish"]},
+    "paper": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+    "option": {"type": "string", "description": "History option id / English section etc."},
+    "section": {"type": "string"},
+    "spec_refs": {"type": "array", "minItems": 1, "items": {"type": "string"}},
+    "topic": {"type": "string"},
+    "subtopic": {"type": "string"},
+    "qtype": {"type": "string"},
+    "command_word": {"type": "string"},
+    "marks": {"type": "integer", "minimum": 1, "maximum": 60},
+    "difficulty": {"enum": ["1-3", "4-6", "7-9"]},
+    "minutes": {"type": "number", "minimum": 0.5},
+    "calculator": {"type": ["boolean", "null"]},
+    "paper2_only": {"type": "boolean"},
+    "intro": {"type": "string"},
+    "figures": {"type": "array", "items": {"$ref": "#/$defs/figure"}},
+    "parts": {"type": "array", "minItems": 1, "items": {"$ref": "#/$defs/part"}},
+    "markscheme": {"$ref": "#/$defs/markscheme"},
+    "ao": {"type": "array", "items": {"type": "string"}},
+    "answer": {
+      "type": "object",
+      "description": "Machine-checked answer for numeric/algebraic questions",
+      "properties": {
+        "method": {"type": "string"},
+        "values": {"type": "object"},
+        "checked": {"type": "boolean"}
+      }
+    },
+    "provenance": {"type": "string", "description": "Origin of any extract/source/poem used"},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "template": {"type": "string", "description": "Generator template id (for QC sampling)"}
+  },
+  "$defs": {
+    "figure": {
+      "type": "object",
+      "required": ["type"],
+      "properties": {
+        "type": {"enum": ["svg", "table", "source", "passage", "audio", "poem", "image-note"]},
+        "svg": {"type": "string"},
+        "width": {"type": "number"},
+        "caption": {"type": "string"},
+        "note": {"type": "string"},
+        "headers": {"type": "array", "items": {"type": "string"}},
+        "rows": {"type": "array", "items": {"type": "array", "items": {"type": "string"}}},
+        "label": {"type": "string"},
+        "title": {"type": "string"},
+        "text": {"type": "string"},
+        "provenance": {"type": "string"},
+        "numbered": {"type": "boolean"},
+        "lang": {"type": "string"},
+        "transcript": {"type": "string"},
+        "voices": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "part": {
+      "type": "object",
+      "required": ["text", "marks"],
+      "properties": {
+        "label": {"type": "string"},
+        "text": {"type": "string"},
+        "marks": {"type": "integer", "minimum": 0},
+        "lines": {"type": "integer", "minimum": 0},
+        "space": {"enum": ["lines", "working", "box", "none", "mcq", "graph", "table"]},
+        "answer_prefix": {"type": "string"},
+        "answer_suffix": {"type": "string", "description": "unit printed after the answer dots, e.g. m/s"},
+        "choices": {"type": "array", "items": {"type": "string"}},
+        "figures": {"type": "array", "items": {"$ref": "#/$defs/figure"}},
+        "parts": {"type": "array", "items": {"$ref": "#/$defs/part"}}
+      }
+    },
+    "markscheme": {
+      "type": "object",
+      "required": ["rows"],
+      "properties": {
+        "style": {"enum": ["points", "maths", "levels", "mcq", "mixed"]},
+        "rows": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["part", "answer", "marks"],
+            "properties": {
+              "part": {"type": "string"},
+              "answer": {"type": "string"},
+              "marks": {"type": "string"},
+              "notes": {"type": "string"},
+              "ao": {"type": "string"}
+            }
+          }
+        },
+        "levels": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["part", "grid", "credit_note"],
+            "properties": {
+              "part": {"type": "string"},
+              "title": {"type": "string"},
+              "ao_split": {"type": "string"},
+              "grid": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "required": ["level", "marks", "descriptor"],
+                  "properties": {"level": {"type": "string"}, "marks": {"type": "string"}, "descriptor": {"type": "string"}}
+                }
+              },
+              "indicative": {"type": "array", "items": {"type": "string"}},
+              "credit_note": {"type": "string"}
+            }
+          }
+        },
+        "general": {"type": "string"}
+      }
+    }
+  }
+}

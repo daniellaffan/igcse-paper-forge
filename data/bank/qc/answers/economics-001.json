@@ -1,0 +1,207 @@
+{
+ "batch": "economics-001",
+ "answers": {
+  "economics.competition-explain.0012": {
+   "all": "Existing gyms lose customers to the cheaper rival, so revenue/profits fall; they may cut membership prices or improve service/facilities (non-price competition) to retain members in Valencia."
+  },
+  "economics.competition-mcq-auth.0004": {
+   "all": "large profits can fund research and development"
+  },
+  "economics.competition-mcq-class.0006": {
+   "all": "There is heavy use of branding and advertising (note: 'price maker' arguably also applies)"
+  },
+  "economics.competition-mcq-def.0007": {
+   "all": "When firms agree to work together for example to fix prices, rather than compete"
+  },
+  "economics.competition-state.0004": {
+   "all": "Lower prices (or more choice, better quality)."
+  },
+  "economics.competition-state-class.0003": {
+   "all": "Many buyers and sellers (or low barriers to entry, firms are price takers)."
+  },
+  "economics.competition-state-id.0005": {
+   "all": "an oligopoly"
+  },
+  "economics.conflicts-analyse-1.0001": {
+   "all": "8% growth raises AD faster than capacity -> demand-pull inflation 7.5%; low unemployment 4.1% raises wage pressure (cost-push); higher incomes raise imports widening deficit; so growth/low unemployment conflict with price stability and BoP; reducing inflation would raise unemployment."
+  },
+  "economics.conflicts-analyse-2.0003": {
+   "all": "Expanding manufacturing raises output, jobs, incomes; but increases pollution, emissions, deforestation (negative externalities), depleting resources and harming future growth/health costs; trade-off."
+  },
+  "economics.conflicts-assess-1.0008": {
+   "all": "For: inflation 8.3% erodes purchasing power, competitiveness, deficit widening; contractionary monetary/fiscal policy cools AD. Against: higher unemployment from 3.8%, lost output, inflation may be cost-push/temporary; supply-side policies better. Judgement."
+  },
+  "economics.conflicts-assess-2.0006": {
+   "all": "Growth: jobs, incomes, tax revenue, export earnings from oil. Environment: pollution, forest loss, climate, health costs, unsustainable; oil finite. Can be balanced via regulation, taxes, sustainable growth. Judgement depends on development level."
+  },
+  "economics.conflicts-describe.0003": {
+   "all": "Rapid growth raises AD above productive capacity, causing demand-pull inflation."
+  },
+  "economics.conflicts-evaluate-1.0006": {
+   "all": "Plan: 9.1% inflation harms real incomes/competitiveness and BoP; raising interest rates/taxes reduces AD; but raises unemployment from 4.1%, lost output; depends on cause of inflation and size of slowdown; supply-side alternative; judgement."
+  },
+  "economics.conflicts-evaluate-2.0001": {
+   "all": "Plan: mining growth -> jobs, exports, tax revenue for public services; vs pollution, forest loss, externalities, finite resources, long-term costs; regulation/taxes allow both; judgement."
+  },
+  "economics.conflicts-explain.0017": {
+   "all": "Coal mining and burning release CO2 and pollutants (negative externalities), damage land/water and health; so higher growth and exports come at the cost of environmental damage in Sundara."
+  },
+  "economics.conflicts-mcq-auth.0011": {
+   "all": "higher unemployment"
+  },
+  "economics.costs-analyse-1.0004": {
+   "all": "Fuel +17% and wage rise increase variable costs and total costs; with a small profit, profit may become a loss; may raise prices (lose customers if elastic) or cut costs; reduced investment."
+  },
+  "economics.costs-analyse-2.0002": {
+   "all": "Fixed costs rise above Rs 6,000, but doubling output spreads fixed costs, lowering average fixed cost/average cost (economies of scale); variable costs rise with output; risk if demand doesn't rise."
+  },
+  "economics.costs-analyse-3.0001": {
+   "all": "Profit = TR - TC; TR up 12% but TC up more (higher raw materials, wages, rent, energy), so gap narrows; possibly lower efficiency/diseconomies."
+  },
+  "economics.costs-assess-1.0001": {
+   "all": "For: covers 21% fuel and wage costs, protects profit. Against: passengers may switch to other transport if demand elastic, revenue may fall; alternatives: cut costs, efficiency. Depends on PED/competition."
+  },
+  "economics.costs-assess-2.0006": {
+   "all": "For: doubled output, lower average cost, higher revenue. Against: higher fixed costs, need demand, finance/risk. Judgement depends on demand."
+  },
+  "economics.costs-assess-3.0001": {
+   "all": "Raise price (depends on PED), cut costs (cheaper suppliers, efficiency), increase sales via advertising; each has drawbacks. Judgement."
+  },
+  "economics.costs-calc.0017": {
+   "all": "TR = 310 x 41.89 = \u20ac12,985.90; profit = 12,985.90 - 14,081 = -\u20ac1,095.10 (loss of \u20ac1,095.10)"
+  },
+  "economics.costs-data.0018": {
+   "a": "6510/3520 = RM1.85",
+   "b": "TR up 9% but TC rose faster (raw materials, wages, energy), so profit = TR - TC fell.",
+   "c": "Plan: raise price (PED), cut costs, increase sales/marketing, efficiency; drawbacks of each; judgement."
+  },
+  "economics.costs-define1.0003": {
+   "all": "Fixed costs plus variable costs."
+  },
+  "economics.costs-define2.0003": {
+   "all": "The total cost of production (1): fixed costs plus variable costs (1)."
+  },
+  "economics.costs-evaluate-1.0005": {
+   "all": "Plan: higher fares cover 34% fuel and wage costs; but customers may switch if elastic; competitors; alternatives cutting costs; judgement depends on PED."
+  },
+  "economics.costs-evaluate-2.0002": {
+   "all": "Plan: doubled output and lower AC vs higher fixed costs, demand uncertainty, finance; judgement."
+  },
+  "economics.costs-evaluate-3.0004": {
+   "all": "Plan: raise price, cut costs, increase sales; evaluate each; judgement."
+  },
+  "economics.costs-explain.0004": {
+   "all": "Rent is a fixed cost; 19% increase raises fixed and total costs, so Hiroshi's profit falls unless he raises prices."
+  }
+ },
+ "verdicts": {
+  "economics.competition-explain.0012": {
+   "result": "pass"
+  },
+  "economics.competition-mcq-auth.0004": {
+   "result": "pass"
+  },
+  "economics.competition-mcq-class.0006": {
+   "result": "fail",
+   "problem": "Two defensible answers: oligopolists are also price makers, so option B ('The firm is a price maker') is arguably true alongside A.",
+   "fix": "Replace B with a clearly non-oligopoly feature, e.g. 'There are no barriers to entry' or 'Firms are price takers'."
+  },
+  "economics.competition-mcq-def.0007": {
+   "result": "pass"
+  },
+  "economics.competition-state.0004": {
+   "result": "pass"
+  },
+  "economics.competition-state-class.0003": {
+   "result": "pass"
+  },
+  "economics.competition-state-id.0005": {
+   "result": "pass"
+  },
+  "economics.conflicts-analyse-1.0001": {
+   "result": "pass"
+  },
+  "economics.conflicts-analyse-2.0003": {
+   "result": "pass"
+  },
+  "economics.conflicts-assess-1.0008": {
+   "result": "pass"
+  },
+  "economics.conflicts-assess-2.0006": {
+   "result": "pass"
+  },
+  "economics.conflicts-describe.0003": {
+   "result": "pass"
+  },
+  "economics.conflicts-evaluate-1.0006": {
+   "result": "pass"
+  },
+  "economics.conflicts-evaluate-2.0001": {
+   "result": "pass"
+  },
+  "economics.conflicts-explain.0017": {
+   "result": "pass"
+  },
+  "economics.conflicts-mcq-auth.0011": {
+   "result": "pass"
+  },
+  "economics.costs-analyse-1.0004": {
+   "result": "fail",
+   "problem": "Incoherent context: Orbis Beverages is described as a delivery firm.",
+   "fix": "Rename the firm to fit, e.g. Orbis Delivery."
+  },
+  "economics.costs-analyse-2.0002": {
+   "result": "pass"
+  },
+  "economics.costs-analyse-3.0001": {
+   "result": "fail",
+   "problem": "Incoherent context: Kestrel Telecom sells kitchen appliances.",
+   "fix": "Rename the firm to fit, e.g. Kestrel Appliances."
+  },
+  "economics.costs-assess-1.0001": {
+   "result": "fail",
+   "problem": "Incoherent context: Northgate Textiles is a bus operator.",
+   "fix": "Rename the firm to fit, e.g. Northgate Buses."
+  },
+  "economics.costs-assess-2.0006": {
+   "result": "pass"
+  },
+  "economics.costs-assess-3.0001": {
+   "result": "fail",
+   "problem": "Indicative content for 'methods to increase profit' only repeats why profit fell (AO2/AO3 bullets copied from the analyse question); no methods (raise price, cut costs, increase sales/marketing, improve efficiency) are listed. Also incoherent context: Saffron Apparel sells smartphones.",
+   "fix": "Replace AO2/AO3 bullets with methods: raise prices (works if PED inelastic), cut costs (cheaper suppliers, efficiency), increase sales via marketing/new markets, invest in technology. Rename firm to fit (e.g. Saffron Mobile)."
+  },
+  "economics.costs-calc.0017": {
+   "result": "pass"
+  },
+  "economics.costs-data.0018": {
+   "result": "fail",
+   "problem": "(c) Indicative content for 'methods to increase profit' only repeats why profit fell (AO2/AO3 bullets copied from the analyse question); no methods (raise price, cut costs, increase sales/marketing, improve efficiency) are listed. Context: Sunvale Energy sells kitchen appliances, and (a) gives an implausible average cost of RM1.85 per kitchen appliance.",
+   "fix": "Replace AO2/AO3 bullets with methods: raise prices (works if PED inelastic), cut costs (cheaper suppliers, efficiency), increase sales via marketing/new markets, invest in technology. Rename firm; use realistic data, e.g. 3,520 units at total cost RM651,000 (AC RM184.94)."
+  },
+  "economics.costs-define1.0003": {
+   "result": "pass"
+  },
+  "economics.costs-define2.0003": {
+   "result": "pass"
+  },
+  "economics.costs-evaluate-1.0005": {
+   "result": "fail",
+   "problem": "Incoherent context: Halcyon Retail is a taxi company.",
+   "fix": "Rename the firm to fit, e.g. Halcyon Taxis."
+  },
+  "economics.costs-evaluate-2.0002": {
+   "result": "fail",
+   "problem": "Implausible data: monthly fixed costs of USh 2,000 (about US$0.50) for a bakery.",
+   "fix": "Use a realistic figure, e.g. USh 2,000,000."
+  },
+  "economics.costs-evaluate-3.0004": {
+   "result": "fail",
+   "problem": "Indicative content for 'methods to increase profit' only repeats why profit fell (AO2/AO3 bullets copied from the analyse question); no methods (raise price, cut costs, increase sales/marketing, improve efficiency) are listed. Also incoherent context: Cobalt Logistics sells kitchen appliances.",
+   "fix": "Replace AO2/AO3 bullets with methods: raise prices (works if PED inelastic), cut costs (cheaper suppliers, efficiency), increase sales via marketing/new markets, invest in technology. Rename firm to fit."
+  },
+  "economics.costs-explain.0004": {
+   "result": "pass"
+  }
+ }
+}

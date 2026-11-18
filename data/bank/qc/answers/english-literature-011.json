@@ -1,0 +1,56 @@
+{
+  "batch": "english-literature-011",
+  "answers": {
+    "english-literature.unseen-futility.0002": {
+      "all": "Plan (Owen Futility; waste of war): 'Move him into the sun', sun that woke seeds now fails to wake soldier; rhetorical questions 'Was it for this the clay grew tall?'; 2 stanzas, pararhyme."
+    },
+    "english-literature.unseen-futility.0001": {
+      "all": "Plan (Owen Futility; grief): Tender imperative, tone of numb tenderness, 'kind old sun', anger at pointlessness of death, pararhyme as unfinished/discord."
+    },
+    "english-literature.unseen-grandmothers-hands.0003": {
+      "all": "Plan (Grandmothers Hands (original); love between generations): Hands as symbol of care, memories of baking/stroking, tender tone."
+    },
+    "english-literature.unseen-grandmothers-hands.0001": {
+      "all": "Plan (Grandmothers Hands (original); the grandmother): Portrait via hands, sensory detail, age, strength."
+    },
+    "english-literature.unseen-heron.0001": {
+      "all": "Plan (Heron (original); a bird): Stillness, patience, precise visual imagery, verbs of flight, form."
+    },
+    "english-literature.unseen-heron.0002": {
+      "all": "Plan (Heron (original); stillness and movement): Contrast of waiting and sudden strike/lift, line length, caesura."
+    }
+  },
+  "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+  "verdicts": {
+    "english-literature.unseen-futility.0002": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-futility.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-grandmothers-hands.0003": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-grandmothers-hands.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-heron.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-heron.0002": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

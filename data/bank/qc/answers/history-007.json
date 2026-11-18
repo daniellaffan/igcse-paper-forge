@@ -1,0 +1,57 @@
+{
+ "batch": "history-007",
+ "answers": {
+  "history.russia-support.0017": {
+   "all": "Plan: A supports B on heavy sacrifices/war cost (dead from front) but contradicts B on national unity behind Tsar (workers against Tsar) and on supply (bread shortages vs shells); A police report is private/candid, B official propaganda; overall limited support."
+  },
+  "history.russia-support.0034": {
+   "all": "Plan: A and B agree Bolsheviks acted without Constituent Assembly/ seized power; but B shows popular support at Congress, A calls them conspirators; A hostile rival party, B observer; B says life normal vs A predicts civil war; limited support."
+  },
+  "history.russia-support.0007": {
+   "all": "Plan: Both agree Tsar kept control after Manifesto and Manifesto did not unite opposition (liberals pacified/ workers alone); A says Tsar master via Fundamental Laws, B says army saved him; A stresses political outcome, B military suppression; partial support."
+  },
+  "history.russia-support.0018": {
+   "all": "Plan: A supports B on hardships/sacrifice (everyone lost someone) but contradicts unity behind Emperor (blames Empress, Grand Dukes want change) and shortage (food still good for rich); A elite diary vs B propaganda; limited support."
+  },
+  "history.world-divided-effects.0049": {
+   "all": "Effects: Khrushchev judged Kennedy weak/inexperienced after Bay of Pigs, encouraging him to build Berlin Wall (Aug 1961) and later put missiles in Cuba; Kennedy no agreement over Berlin, increased defence spending/ hardened stance, tension rose."
+  },
+  "history.world-divided-effects.0027": {
+   "all": "Effects: formalised Soviet military control over Eastern Europe, troops stationed, bloc unity under Moscow; used to crush Hungarian uprising 1956 (Soviet troops) so limited independence; Hungary's attempt to leave."
+  },
+  "history.world-divided-effects.0025": {
+   "all": "Effects: ended US nuclear monopoly, leading to nuclear arms race (H-bomb 1952-53) and MAD; increased US fear/ NSC-68 rearmament, hardening Cold War and fuelling McCarthyism/ Red Scare."
+  },
+  "history.world-divided-effects.0037": {
+   "all": "Effects: 'spirit of Geneva' brief thaw/ reduced tension, leaders met; but no agreement on German reunification or disarmament (Open Skies rejected by USSR), so little lasting progress; paved way for later summits/ peaceful coexistence."
+  }
+ },
+ "verdicts": {
+  "history.russia-support.0017": {
+   "result": "pass"
+  },
+  "history.russia-support.0034": {
+   "result": "pass"
+  },
+  "history.russia-support.0007": {
+   "result": "fail",
+   "problem": "Difference bullet says Source A shows the regime survived 'through agreement' with the Duma dissolved; dissolving the Duma and issuing the Fundamental Laws is unilateral royal authority, not agreement, so the contrast is mislabelled.",
+   "fix": "Source A: regime survived by reasserting autocratic power through legal/political means (Fundamental Laws, Duma dismissed); Source B: by military force at Presnya."
+  },
+  "history.russia-support.0018": {
+   "result": "pass"
+  },
+  "history.world-divided-effects.0049": {
+   "result": "pass"
+  },
+  "history.world-divided-effects.0027": {
+   "result": "pass"
+  },
+  "history.world-divided-effects.0025": {
+   "result": "pass"
+  },
+  "history.world-divided-effects.0037": {
+   "result": "pass"
+  }
+ }
+}

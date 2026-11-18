@@ -1,0 +1,52 @@
+{
+ "id": "maths-formulae-higher",
+ "title": "Formulae sheet – Higher Tier",
+ "blocks": [
+  {
+   "type": "source",
+   "label": "Arithmetic series",
+   "text": "Sum to $n$ terms: $S_n = \\dfrac{n}{2}\\left[2a + (n-1)d\\right]$"
+  },
+  {
+   "type": "source",
+   "label": "The quadratic equation",
+   "text": "If $ax^2 + bx + c = 0$ with $a \\ne 0$, then $x = \\dfrac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 125\" font-family=\"serif\" font-size=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linejoin=\"round\" stroke-linecap=\"round\"><polygon points=\"40.0,100.0 200.0,100.0 160.0,30.0 75.0,30.0\"/><line x1=\"110.0\" y1=\"30.0\" x2=\"110.0\" y2=\"100.0\" stroke-dasharray=\"4,3\"/><polyline points=\"110.0,93.0 117.0,93.0 117.0,100.0\" stroke-width=\"1\"/><text x=\"118.0\" y=\"34.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">a</text><text x=\"120.0\" y=\"112.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">b</text><text x=\"102.0\" y=\"66.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">h</text></svg>",
+   "width": 45,
+   "caption": "Area of trapezium $= \\frac{1}{2}(a + b)h$"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 132\" font-family=\"serif\" font-size=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linejoin=\"round\" stroke-linecap=\"round\"><polygon points=\"30.0,110.0 210.0,110.0 150.0,25.0\"/><text x=\"20.0\" y=\"116.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\">A</text><text x=\"220.0\" y=\"116.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\">B</text><text x=\"152.0\" y=\"14.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\">C</text><text x=\"120.0\" y=\"124.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">c</text><text x=\"188.0\" y=\"64.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">a</text><text x=\"80.0\" y=\"62.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">b</text></svg>",
+   "width": 45,
+   "caption": "In any triangle $ABC$: sine rule $\\dfrac{a}{\\sin A} = \\dfrac{b}{\\sin B} = \\dfrac{c}{\\sin C}$; cosine rule $a^2 = b^2 + c^2 - 2bc\\cos A$; area of triangle $= \\frac{1}{2}ab\\sin C$"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 135\" font-family=\"serif\" font-size=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linejoin=\"round\" stroke-linecap=\"round\"><polygon points=\"20.0,125.0 90.0,125.0 90.0,75.0 55.0,50.0 20.0,75.0\"/><line x1=\"90.0\" y1=\"125.0\" x2=\"165.0\" y2=\"90.0\"/><line x1=\"90.0\" y1=\"75.0\" x2=\"165.0\" y2=\"40.0\"/><line x1=\"55.0\" y1=\"50.0\" x2=\"130.0\" y2=\"15.0\"/><line x1=\"20.0\" y1=\"75.0\" x2=\"95.0\" y2=\"40.0\"/><polyline points=\"165.0,90.0 165.0,40.0 130.0,15.0 95.0,40.0\"/><text x=\"55.0\" y=\"95.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-size=\"10\">cross</text><text x=\"55.0\" y=\"107.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-size=\"10\">section</text><text x=\"150.0\" y=\"108.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-size=\"11\">length</text></svg>",
+   "width": 40,
+   "caption": "Volume of prism $=$ area of cross section $\\times$ length"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 150 135\" font-family=\"serif\" font-size=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"70\" cy=\"25\" rx=\"45\" ry=\"11\"/><ellipse cx=\"70\" cy=\"115\" rx=\"45\" ry=\"11\"/><line x1=\"25.0\" y1=\"25.0\" x2=\"25.0\" y2=\"115.0\"/><line x1=\"115.0\" y1=\"25.0\" x2=\"115.0\" y2=\"115.0\"/><line x1=\"70.0\" y1=\"25.0\" x2=\"115.0\" y2=\"25.0\" stroke-dasharray=\"4,3\"/><text x=\"92.0\" y=\"16.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">r</text><text x=\"125.0\" y=\"70.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">h</text></svg>",
+   "width": 32,
+   "caption": "Volume of cylinder $= \\pi r^2 h$; curved surface area of cylinder $= 2\\pi r h$"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 170 145\" font-family=\"serif\" font-size=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linejoin=\"round\" stroke-linecap=\"round\"><ellipse cx=\"80\" cy=\"120\" rx=\"50\" ry=\"13\"/><line x1=\"30.0\" y1=\"120.0\" x2=\"80.0\" y2=\"20.0\"/><line x1=\"130.0\" y1=\"120.0\" x2=\"80.0\" y2=\"20.0\"/><line x1=\"80.0\" y1=\"20.0\" x2=\"80.0\" y2=\"120.0\" stroke-dasharray=\"4,3\"/><line x1=\"80.0\" y1=\"120.0\" x2=\"130.0\" y2=\"120.0\" stroke-dasharray=\"4,3\"/><text x=\"72.0\" y=\"72.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">h</text><text x=\"105.0\" y=\"130.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">r</text><text x=\"112.0\" y=\"66.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">l</text></svg>",
+   "width": 34,
+   "caption": "Volume of cone $= \\frac{1}{3}\\pi r^2 h$; curved surface area of cone $= \\pi r l$"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 140 135\" font-family=\"serif\" font-size=\"13\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.4\" stroke-linejoin=\"round\" stroke-linecap=\"round\"><circle cx=\"70.0\" cy=\"70.0\" r=\"50.0\"/><path d=\"M20,70 A50,12 0 0 0 120,70\"/><line x1=\"70.0\" y1=\"70.0\" x2=\"120.0\" y2=\"70.0\"/><text x=\"95.0\" y=\"62.0\" text-anchor=\"middle\" dominant-baseline=\"middle\" fill=\"currentColor\" stroke=\"none\" font-style=\"italic\">r</text></svg>",
+   "width": 30,
+   "caption": "Volume of sphere $= \\frac{4}{3}\\pi r^3$; surface area of sphere $= 4\\pi r^2$"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "batch": "economics-009",
+ "answers": {
+  "economics.labour-evaluate-3.0006": {
+   "all": "Plan: gap may fall as more train as engineers (supply rises), automation/AI cuts demand, minimum wage raises shop pay; may persist: long training, rising tech demand, shop jobs automated; judgement short vs long run."
+  },
+  "economics.labour-explain.0009": {
+   "all": "Demand for delivery workers (derived demand) rises, D shifts right, so wage rises (and employment), as firms compete for UK delivery drivers."
+  },
+  "economics.labour-mcq-auth.0003": {
+   "all": "The school-leaving age"
+  },
+  "economics.labour-mcq-class.0008": {
+   "all": "Immigration of qualified nurses"
+  },
+  "economics.labour-mcq-def.0005": {
+   "all": "The price of labour paid per hour or per week"
+  },
+  "economics.labour-state.0007": {
+   "all": "May cause unemployment (excess supply of labour)."
+  },
+  "economics.labour-state-class.0001": {
+   "all": "Ageing population / higher demand for healthcare."
+  },
+  "economics.labour-state-id.0005": {
+   "all": "a decrease in the supply of nurses"
+  },
+  "economics.mixed-analyse-1.0004": {
+   "all": "Private sector gives choice, efficiency, profit incentive; government provides public/merit goods (defence, roads, healthcare, education) funded by 38% tax, correcting market failure, reducing inequality."
+  },
+  "economics.mixed-analyse-2.0001": {
+   "all": "Street lighting is a public good: non-excludable so free-rider problem, cannot charge, no profit; non-rival; so market fails to provide."
+  },
+  "economics.mixed-assess-1.0004": {
+   "all": "Reduce: lower tax (40%), incentives, private efficiency, less government failure. Keep: public goods, merit goods, equity, market failure. Judgement depends which services."
+  },
+  "economics.mixed-assess-2.0004": {
+   "all": "Yes: public good, free riders, reduce crime (external benefits). But opportunity cost, tax funding, could subsidise/contract private firms; judgement yes."
+  },
+  "economics.mixed-define1.0006": {
+   "all": "An economy where resources are allocated by the price mechanism with little or no government intervention."
+  },
+  "economics.mixed-define2.0004": {
+   "all": "A good that is non-excludable (1) and non-rival (1), e.g. street lighting."
+  },
+  "economics.mixed-describe.0011": {
+   "all": "People benefit from a good without paying for it (1), so firms cannot charge and will not provide it (1)."
+  },
+  "economics.mixed-evaluate-1.0004": {
+   "all": "Plan: as assess-1 with 34%; lower taxes/efficiency vs public/merit goods, equity; judgement."
+  },
+  "economics.mixed-evaluate-2.0006": {
+   "all": "Plan: public good, free-rider, crime reduction vs opportunity cost, funding, alternatives; judgement."
+  },
+  "economics.mixed-explain.0005": {
+   "all": "Flood barrier is a public good: non-excludable so cannot charge residents (free riders) (1,1), so no profit and private firms in Marrenia won't provide it (1)."
+  },
+  "economics.mixed-mcq-auth.0002": {
+   "all": "both the price mechanism and the government"
+  },
+  "economics.mixed-mcq-class.0010": {
+   "all": "Vaccinations"
+  },
+  "economics.mixed-mcq-def.0006": {
+   "all": "An economy where resources are allocated by the price mechanism with little or no government intervention"
+  },
+  "economics.mixed-state.0004": {
+   "all": "To provide public goods that the private sector would not provide."
+  },
+  "economics.mixed-state-class.0004": {
+   "all": "A state school / national health service / police."
+  },
+  "economics.mixed-state-id.0002": {
+   "all": "a public good"
+  },
+  "economics.monetary-analyse-1.0004": {
+   "all": "Higher mortgage/loan repayments cut disposable income; borrowing dearer so less spending on houses/durables; saving more attractive; savers gain; house sales slow."
+  },
+  "economics.monetary-analyse-2.0002": {
+   "all": "Cut lowers borrowing costs, more consumption and investment, AD rises, output and jobs rise (unemployment 7.5% falls), inflation rises toward 2%; weaker currency boosts exports."
+  },
+  "economics.monetary-assess-1.0003": {
+   "all": "Continue: inflation still above target? Raising reduces AD. Stop: inflation already falling, time lags, investment and housing hit, recession risk. Judgement: pause."
+  },
+  "economics.monetary-assess-2.0008": {
+   "all": "Effective: cheaper borrowing, AD rises. Limits: low confidence, banks not lending, rates may be near zero, time lags; may need fiscal policy. Judgement."
+  },
+  "economics.monetary-calc.0011": {
+   "all": "186,000 x (9% - 7.5%) = 186,000 x 0.015 = \u20ac2,790"
+  },
+  "economics.monetary-define1.0005": {
+   "all": "The rate of inflation the government/central bank aims to achieve, e.g. 2%."
+  }
+ },
+ "verdicts": {
+  "economics.labour-evaluate-3.0006": {
+   "result": "pass"
+  },
+  "economics.labour-explain.0009": {
+   "result": "pass"
+  },
+  "economics.labour-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.labour-mcq-class.0008": {
+   "result": "pass"
+  },
+  "economics.labour-mcq-def.0005": {
+   "result": "pass"
+  },
+  "economics.labour-state.0007": {
+   "result": "pass"
+  },
+  "economics.labour-state-class.0001": {
+   "result": "pass"
+  },
+  "economics.labour-state-id.0005": {
+   "result": "pass"
+  },
+  "economics.mixed-analyse-1.0004": {
+   "result": "pass"
+  },
+  "economics.mixed-analyse-2.0001": {
+   "result": "pass"
+  },
+  "economics.mixed-assess-1.0004": {
+   "result": "pass"
+  },
+  "economics.mixed-assess-2.0004": {
+   "result": "pass"
+  },
+  "economics.mixed-define1.0006": {
+   "result": "pass"
+  },
+  "economics.mixed-define2.0004": {
+   "result": "pass"
+  },
+  "economics.mixed-describe.0011": {
+   "result": "pass"
+  },
+  "economics.mixed-evaluate-1.0004": {
+   "result": "pass"
+  },
+  "economics.mixed-evaluate-2.0006": {
+   "result": "pass"
+  },
+  "economics.mixed-explain.0005": {
+   "result": "pass"
+  },
+  "economics.mixed-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.mixed-mcq-class.0010": {
+   "result": "pass"
+  },
+  "economics.mixed-mcq-def.0006": {
+   "result": "pass"
+  },
+  "economics.mixed-state.0004": {
+   "result": "pass"
+  },
+  "economics.mixed-state-class.0004": {
+   "result": "pass"
+  },
+  "economics.mixed-state-id.0002": {
+   "result": "pass"
+  },
+  "economics.monetary-analyse-1.0004": {
+   "result": "pass"
+  },
+  "economics.monetary-analyse-2.0002": {
+   "result": "pass"
+  },
+  "economics.monetary-assess-1.0003": {
+   "result": "pass"
+  },
+  "economics.monetary-assess-2.0008": {
+   "result": "pass"
+  },
+  "economics.monetary-calc.0011": {
+   "result": "pass"
+  },
+  "economics.monetary-define1.0005": {
+   "result": "pass"
+  }
+ }
+}

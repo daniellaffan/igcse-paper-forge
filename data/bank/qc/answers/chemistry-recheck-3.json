@@ -1,0 +1,44 @@
+{
+ "batch": "chemistry-recheck-3",
+ "answers": {
+  "chemistry.mixtures-explain-items.0002": {
+   "all": "pencil (graphite) is insoluble in the solvent so does not move/separate; ink would dissolve and its dyes would move up and interfere with results"
+  },
+  "chemistry.mixtures-extended-items.0005": {
+   "all": "use a magnet to remove iron filings; add water and stir to dissolve salt; filter - sand is residue, wash and dry it; heat filtrate to evaporate some water then leave to crystallise; filter/dry salt crystals"
+  },
+  "chemistry.mixtures-mcq-facts.0001": {
+   "all": "sodium chloride"
+  },
+  "chemistry.mixtures-practical-items.0007": {
+   "all": "mark solvent front before paper dries; measure with ruler from baseline to centre of spot and from baseline to solvent front"
+  },
+  "chemistry.mixtures-recall-facts.0003": {
+   "all": "fractional distillation"
+  },
+  "chemistry.mixtures-rf-calc.0009": {
+   "a": "D 3.8/8.5 = 0.45; J 6.4/8.5 = 0.75; E 7.2/8.5 = 0.85",
+   "b": "dye E"
+  }
+ },
+ "verdicts": {
+  "chemistry.mixtures-explain-items.0002": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-extended-items.0005": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-mcq-facts.0001": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-practical-items.0007": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-recall-facts.0003": {
+   "result": "pass"
+  },
+  "chemistry.mixtures-rf-calc.0009": {
+   "result": "pass"
+  }
+ }
+}

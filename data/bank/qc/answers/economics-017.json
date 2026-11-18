@@ -1,0 +1,189 @@
+{
+ "batch": "economics-017",
+ "answers": {
+  "economics.supply-define2.0003": {
+   "all": "A fall in quantity supplied (1) caused by a fall in the price of the product, shown as a movement down along the supply curve (1)."
+  },
+  "economics.supply-describe.0003": {
+   "all": "A movement along the supply curve is caused by a change in the price of the product itself (1); a shift is caused by a change in a non-price factor such as costs, technology, weather or taxes (1)."
+  },
+  "economics.supply-diagram.0008": {
+   "all": "Supply curve shifts left to S1 (1); new higher equilibrium price P1 above Pe (1); new lower equilibrium quantity Q1 below Qe (1)."
+  },
+  "economics.supply-explain.0011": {
+   "all": "Disease destroys cocoa trees / reduces yields (1) so less cocoa can be produced at each price (1), shifting the supply curve left and raising the price of cocoa (1)."
+  },
+  "economics.supply-mcq-auth.0001": {
+   "all": "higher prices make it more profitable to produce more"
+  },
+  "economics.supply-mcq-class.0010": {
+   "all": "A fall in the market price of rice"
+  },
+  "economics.supply-mcq-def.0002": {
+   "all": "A rise in quantity supplied caused by a rise in the price of the product (movement up the supply curve)"
+  },
+  "economics.supply-side-analyse-1.0005": {
+   "all": "R$3bn education/training reduces skills shortages -> fills vacancies, cuts structural unemployment, raises productivity; R$11bn infrastructure lowers transport costs, attracts investment; increases productive capacity -> LRAS/PPC shifts out -> long-run growth (also AD rise short run)."
+  },
+  "economics.supply-side-analyse-2.0002": {
+   "all": "Lower profit tax raises post-tax profit -> more retained profit for investment -> new capital, higher productivity; fewer labour regulations reduce costs of hiring/firing -> greater flexibility, lower unit costs -> competitiveness, higher output and exports."
+  },
+  "economics.supply-side-assess-1.0001": {
+   "all": "Advantages: training cuts skills shortages/structural unemployment, raises productivity; infrastructure lowers costs, attracts FDI; LRAS shift -> growth without inflation, better competitiveness. Evaluation: long time lags, high cost C\u20ac15bn/opportunity cost, may need borrowing, success depends on quality of training/firm demand."
+  },
+  "economics.supply-side-assess-2.0008": {
+   "all": "Benefits: higher post-tax profits -> investment, FDI, jobs, growth, productivity; deregulation lowers costs. Evaluation: lower tax revenue -> less public spending/deficit; worker protection reduced -> inequality, low morale; investment depends on business confidence/demand; time lags."
+  },
+  "economics.supply-side-define1.0001": {
+   "all": "Government policies that aim to increase the productive capacity (aggregate supply) of the economy, e.g. by improving the quality/quantity of labour and capital."
+  },
+  "economics.supply-side-define2.0005": {
+   "all": "Reductions in taxes (1) designed to encourage firms to invest or people to work (1)."
+  },
+  "economics.supply-side-describe.0015": {
+   "all": "Deregulation increases competition as new airlines enter (1), leading to lower fares/better choice and efficiency for consumers (1)."
+  },
+  "economics.supply-side-evaluate-1.0005": {
+   "all": "Analysis: training R$5bn reduces skills shortages and structural unemployment (8%), raises productivity; R$9bn transport infrastructure lowers firms' costs, attracts investment; LRAS shifts right -> growth, lower inflation pressure, competitiveness. Evaluation: time lags, cost R$14bn and opportunity cost/budget deficit, depends on take-up and quality, may not help cyclical unemployment; conclude advantages strong long-term if funded."
+  },
+  "economics.supply-side-evaluate-2.0007": {
+   "all": "Analysis: profit tax cuts raise retained profits and attract FDI -> investment, jobs, productivity, growth; deregulation lowers labour costs, flexibility. Evaluation: lower tax revenue/public services, firms may pay dividends rather than invest, reduced worker protection/inequality, depends on confidence and demand, time lags; conclusion depends on size and other conditions."
+  },
+  "economics.supply-side-explain.0002": {
+   "all": "Training in digital skills improves the skills of unemployed adults (1), reducing occupational immobility/skills mismatch (1), so they can fill vacancies in digital jobs, reducing structural unemployment in Kaleda (1)."
+  },
+  "economics.supply-side-mcq-auth.0003": {
+   "all": "Better education and training"
+  },
+  "economics.supply-side-mcq-class.0002": {
+   "all": "Increasing government spending on benefits"
+  },
+  "economics.supply-side-mcq-def.0005": {
+   "all": "Reductions in taxes designed to encourage firms to invest or people to work"
+  },
+  "economics.supply-side-state.0003": {
+   "all": "Education and training / deregulation / privatisation / tax incentives / infrastructure spending."
+  },
+  "economics.supply-side-state-class.0001": {
+   "all": "Cutting income tax / raising government spending / lowering interest rates (fiscal or monetary policy)."
+  },
+  "economics.supply-side-state-id.0003": {
+   "all": "a supply-side policy"
+  },
+  "economics.supply-state.0003": {
+   "all": "A fall in costs of production / improved technology / a subsidy / good weather / more firms."
+  },
+  "economics.supply-state-class.0003": {
+   "all": "A change in the price of rice."
+  },
+  "economics.supply-state-id.0008": {
+   "all": "a leftward shift of the supply curve for rice"
+  },
+  "economics.trade-analyse-1.0008": {
+   "all": "Specialisation in tea based on comparative advantage -> efficiency, economies of scale; export revenue (28% of GDP) -> income, jobs, growth; imports of manufactured goods give access to goods it cannot produce efficiently, more choice, lower prices; foreign currency earnings."
+  },
+  "economics.trade-analyse-2.0005": {
+   "all": "Removal of tariffs lowers prices of Rendova manufacturers' goods abroad -> more exports, larger market, economies of scale, higher revenue/profit; cheaper imported raw materials lower costs; competition spurs efficiency (though farmers face more competition)."
+  },
+  "economics.trade-assess-1.0002": {
+   "all": "Benefits: comparative advantage, export revenue (30% GDP), jobs, foreign currency, economies of scale. Costs: over-dependence on one commodity, volatile oil prices, finite resource, Dutch disease, dependence on manufactured imports. Conclude depends on oil price stability and diversification."
+  },
+  "economics.trade-assess-2.0004": {
+   "all": "Benefits: exporters sell more, lower prices/more choice for consumers, cheaper inputs, efficiency via competition. Costs: farmers lose out -> unemployment, loss of tariff revenue, structural adjustment, dependence. Conclude net gain likely if workers can move between sectors."
+  }
+ },
+ "verdicts": {
+  "economics.supply-define2.0003": {
+   "result": "pass"
+  },
+  "economics.supply-describe.0003": {
+   "result": "pass"
+  },
+  "economics.supply-diagram.0008": {
+   "result": "pass"
+  },
+  "economics.supply-explain.0011": {
+   "result": "fail",
+   "problem": "Context is factually implausible: cocoa is a tropical crop and is not grown on plantations in Ireland; MS repeats 'farmers in Ireland'.",
+   "fix": "Replace Ireland with a cocoa-producing country (e.g. Ghana or C\u00f4te d'Ivoire) in stem and mark scheme."
+  },
+  "economics.supply-mcq-auth.0001": {
+   "result": "pass"
+  },
+  "economics.supply-mcq-class.0010": {
+   "result": "pass"
+  },
+  "economics.supply-mcq-def.0002": {
+   "result": "pass"
+  },
+  "economics.supply-side-analyse-1.0005": {
+   "result": "pass"
+  },
+  "economics.supply-side-analyse-2.0002": {
+   "result": "pass"
+  },
+  "economics.supply-side-assess-1.0001": {
+   "result": "pass"
+  },
+  "economics.supply-side-assess-2.0008": {
+   "result": "pass"
+  },
+  "economics.supply-side-define1.0001": {
+   "result": "pass"
+  },
+  "economics.supply-side-define2.0005": {
+   "result": "pass"
+  },
+  "economics.supply-side-describe.0015": {
+   "result": "pass"
+  },
+  "economics.supply-side-evaluate-1.0005": {
+   "result": "pass"
+  },
+  "economics.supply-side-evaluate-2.0007": {
+   "result": "pass"
+  },
+  "economics.supply-side-explain.0002": {
+   "result": "pass"
+  },
+  "economics.supply-side-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.supply-side-mcq-class.0002": {
+   "result": "pass"
+  },
+  "economics.supply-side-mcq-def.0005": {
+   "result": "pass"
+  },
+  "economics.supply-side-state.0003": {
+   "result": "pass"
+  },
+  "economics.supply-side-state-class.0001": {
+   "result": "pass"
+  },
+  "economics.supply-side-state-id.0003": {
+   "result": "pass"
+  },
+  "economics.supply-state.0003": {
+   "result": "pass"
+  },
+  "economics.supply-state-class.0003": {
+   "result": "pass"
+  },
+  "economics.supply-state-id.0008": {
+   "result": "pass"
+  },
+  "economics.trade-analyse-1.0008": {
+   "result": "pass"
+  },
+  "economics.trade-analyse-2.0005": {
+   "result": "pass"
+  },
+  "economics.trade-assess-1.0002": {
+   "result": "pass"
+  },
+  "economics.trade-assess-2.0004": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "batch": "english-language-005",
+ "answers": {
+  "english-language.seca.afterwater.2": {
+   "a": "three cameras; eleven lenses; a notebook already half full of figures (any two)",
+   "b": "Issa, a boy of about ten, offers to carry the camera bag; writer refuses but he insists politely; he carries it holding it carefully and sets it down on driest floor; at end of afternoon writer asks his name, Issa points out his family house, asks whether photos will appear in a paper and whether people will learn Kanta had a good school and football team.",
+   "c": "Realises he only collected pictures of loss and never asked what Kanta was; feels ashamed/humbled; understands Issa wants dignity not pity; sees himself as a guest at a bad time not rescuer; later keeps photo as reminder each figure is a person.",
+   "d": "Plan: Alagiah (anthology text, not supplied) - language of emotion/contrast, first-person witness, structure of shift from detached reporting to personal involvement; AO2 only.",
+   "e": "Plan: compare reporters' initial detachment vs personal connection; Reyes learns from Issa, Alagiah from the people; compare language (similes, figures vs names) and structure; AO3."
+  },
+  "english-language.seca.cartrace.1": {
+   "a": "clings to the side of its mountain; drops four hundred metres; twisting back on itself seven times (any two)",
+   "b": "Teams sit on steps drinking coffee and arguing about wheels; man in flowered helmet asleep in cart; grandmother handing out pastries; nobody in charge; cart shaped like bathtub, fish, wardrobe; rules: four wheels, no engine, brakes recommended; Matteo says some skip brakes.",
+   "c": "Race is a tradition over sixty years; hill dominates the rest of the year, race lets townspeople win; community bonding, pride; communal meal; Matteo happy despite bandage.",
+   "d": "Plan: Levine (anthology text, not supplied) - humour, vivid description, hyperbole, structure.",
+   "e": "Plan: compare tone of humour/affection; both outsider observers of eccentric community events; language and structure."
+  },
+  "english-language.seca.chess.3": {
+   "a": "sat by the window; chessboard; playing against himself; face as still as a closed door (any two)",
+   "b": "Learned by watching her grandfather for months pretending to read; learned moves; never asked him to teach her for fear; practised secretly on a drawn board on a cereal box with buttons; entered the tournament without telling anyone; told grandfather she was going to library.",
+   "c": "Strict, disciplined, ran flat like timetable; ex-railway engineer; silent, gives instructions only; cold but not unkind, fed and paid for school; lonely, plays chess against himself; doesn't know how to relate to her.",
+   "d": "Plan: Yen Mah (anthology text, not supplied) - contrast of treatment, simple language, structure of listing.",
+   "e": "Plan: compare relationships with guardians: silence/coldness vs eventual warmth in Mei-hua; contrast with Yen Mah's rejection."
+  },
+  "english-language.seca.camels.2": {
+   "a": "strong coffee; engine oil; camel (any two)",
+   "b": "Long loop of raked sand marked with white posts; no stands; spectators bring chairs, sit on car bonnets or stand in sand with scarves up; several hundred people at 6am; camels in pen near start, tall slim long-legged, brushed coats, blankets and muzzles, looking superior.",
+   "c": "Khalid loves the camels because of family tradition; cars and robots are new but camels same; watching them he watches his family; race is about heritage not speed/money.",
+   "d": "Plan: Levine (anthology text, not supplied) - verbs, tension, short sentences.",
+   "e": "Plan: compare excitement and danger vs tradition; both observers; language/structure."
+  }
+ },
+ "verdicts": {
+  "english-language.seca.afterwater.2": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-language.seca.chess.3": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-language.seca.cartrace.1": {
+   "result": "pass",
+   "fix": "Rewrite (d)/(e) indicative content to the real Levine text (buzkashi, headless goat, riders, crowd), or use a different genuine Part 1 anthology text.",
+   "original_problem": "Text Two indicative content (donkey-carts, Yaqoob, Iqbal, car convoy, no licence) does not match the real anthology text 'A Game of Polo with a Headless Goat' (a buzkashi match in Afghanistan).",
+   "note": "Overridden by lead: the anthology extract by Emma Levine is the donkey-cart race (Yaqoob, Iqbal, convoy of cars), so the indicative content is correct; the checker confused the extract with the book title."
+  },
+  "english-language.seca.camels.2": {
+   "result": "pass",
+   "fix": "Rewrite the Levine content and the Farouk-Levine comparison points to the real buzkashi text.",
+   "original_problem": "Same error: Levine (d)/(e) content (donkey race, near pile-up, donkey tumbling, lack of licence) is not in 'A Game of Polo with a Headless Goat'.",
+   "note": "Overridden by lead: the anthology extract by Emma Levine is the donkey-cart race (Yaqoob, Iqbal, convoy of cars), so the indicative content is correct; the checker confused the extract with the book title."
+  }
+ }
+}

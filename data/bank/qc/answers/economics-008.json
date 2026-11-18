@@ -1,0 +1,191 @@
+{
+ "batch": "economics-008",
+ "answers": {
+  "economics.intervention-analyse-2.0001": {
+   "all": "Guaranteed price 20% above market raises and stabilises rice farmers' revenue; government buys surplus so nothing goes unsold; certainty supports investment; supply extends; rural jobs protected."
+  },
+  "economics.intervention-analyse-3.0001": {
+   "all": "M$5,000 subsidy cuts costs, S shifts right; price falls, quantity rises; EVs affordable to more households; fewer petrol cars, less pollution; size depends on PED."
+  },
+  "economics.intervention-assess-1.0006": {
+   "all": "Rent 23% lower helps tenants who have flats; but excess demand, landlords sell/stop maintaining, black market; housebuilding/housing benefit alternatives; depends on PES and enforcement."
+  },
+  "economics.intervention-assess-2.0002": {
+   "all": "Farm incomes stable, investment, rural jobs; vs surplus bought/stored by taxpayer, higher milk prices, inefficiency, opportunity cost; judgement depends on size of surplus."
+  },
+  "economics.intervention-assess-3.0002": {
+   "all": "Subsidy lowers EV price but costs govt; tax raises revenue and penalises pollution; subsidy may benefit rich; PED; charging infrastructure; judgement."
+  },
+  "economics.intervention-calc.0014": {
+   "all": "21.60 x 1.05 = M$22.68"
+  },
+  "economics.intervention-define1.0006": {
+   "all": "When the government directly provides a good or service, financed by taxation."
+  },
+  "economics.intervention-define2.0005": {
+   "all": "Rules/laws set by government (1) to control behaviour of firms or consumers (1)."
+  },
+  "economics.intervention-diagram.0006": {
+   "all": "Horizontal Pmax below Pe; Qs left of Qe, Qd right of Qe; shortage = Qd - Qs."
+  },
+  "economics.intervention-evaluate-1.0006": {
+   "all": "Plan: cheaper rent (25% less) for some; shortage, quality falls, black market; alternatives build homes/housing benefit; judgement on PES and short vs long run."
+  },
+  "economics.intervention-evaluate-2.0005": {
+   "all": "Plan: incomes up 13%, stability, rural jobs; surplus storage cost, higher consumer prices, inefficiency, dumping; judgement."
+  },
+  "economics.intervention-evaluate-3.0001": {
+   "all": "Plan: N\u20ac4,000 subsidy lowers price, S right; cost/opportunity cost; tax internalises externality and raises revenue; PED, infrastructure; judgement."
+  },
+  "economics.intervention-explain.0002": {
+   "all": "Below-equilibrium price causes excess demand (Qd rises, Qs falls) so shortages of cooking oil in Novaris and a black market."
+  },
+  "economics.intervention-mcq-auth.0004": {
+   "all": "a lower price and a higher quantity"
+  },
+  "economics.intervention-mcq-class.0009": {
+   "all": "A sales tax on clothing"
+  },
+  "economics.intervention-mcq-def.0006": {
+   "all": "When the government directly supplies a good or service usually financed through taxation"
+  },
+  "economics.labour-analyse-1.0003": {
+   "all": "Higher pay Z\u00a39.10 for employed, less poverty, motivation; but job losses/fewer hours in retail and hospitality."
+  },
+  "economics.labour-analyse-2.0001": {
+   "all": "Union bargaining/strike; 14,000 vacancies = excess demand; emigration cuts supply; wages rise."
+  },
+  "economics.labour-analyse-3.0002": {
+   "all": "Engineers scarce skills, inelastic supply, high demand/productivity; shop jobs low skill, large supply; D/S diagram."
+  },
+  "economics.labour-assess-1.0003": {
+   "all": "Income, poverty, AD vs unemployment, cost-push prices, automation; depends on gap above equilibrium."
+  },
+  "economics.labour-assess-2.0001": {
+   "all": "Strike power and 11,000 vacancies vs government budget, public support, laws; judgement."
+  },
+  "economics.labour-assess-3.0006": {
+   "all": "Could fall: more training, automation; may persist: long training, rising demand for tech; judgement."
+  },
+  "economics.labour-calc.0017": {
+   "all": "9 x 26.83 x 1.5 = 362.205; 490 + 362.205 = C$852.21"
+  },
+  "economics.labour-data.0003": {
+   "a": "6.54 x 33 = I$215.82 (inconsistent with Extract's I$8.40)",
+   "b": "Higher pay for employed, less poverty vs job losses in small firms.",
+   "c": "Plan: benefits income/AD; costs unemployment, prices, automation; judgement on elasticity."
+  },
+  "economics.labour-define1.0006": {
+   "all": "The number of people willing and able to work at each wage rate."
+  },
+  "economics.labour-define2.0008": {
+   "all": "Action by workers/unions (1), e.g. strike, work-to-rule, to put pressure on employers (1)."
+  },
+  "economics.labour-describe.0016": {
+   "all": "Workers lose pay (1) for days on strike (1)."
+  },
+  "economics.labour-diagram.0011": {
+   "all": "Demand for engineers shifts left to D1; lower wage W1; fewer employed Q1."
+  },
+  "economics.labour-evaluate-1.0002": {
+   "all": "Plan: income, poverty, AD vs unemployment, inflation, automation; judgement."
+  },
+  "economics.labour-evaluate-2.0003": {
+   "all": "Plan: strike power, 18,000 vacancies, emigration vs budget, public support; judgement."
+  }
+ },
+ "verdicts": {
+  "economics.intervention-analyse-2.0001": {
+   "result": "pass"
+  },
+  "economics.intervention-analyse-3.0001": {
+   "result": "pass"
+  },
+  "economics.intervention-assess-1.0006": {
+   "result": "pass"
+  },
+  "economics.intervention-assess-2.0002": {
+   "result": "pass"
+  },
+  "economics.intervention-assess-3.0002": {
+   "result": "pass"
+  },
+  "economics.intervention-calc.0014": {
+   "result": "pass"
+  },
+  "economics.intervention-define1.0006": {
+   "result": "pass"
+  },
+  "economics.intervention-define2.0005": {
+   "result": "pass"
+  },
+  "economics.intervention-diagram.0006": {
+   "result": "pass"
+  },
+  "economics.intervention-evaluate-1.0006": {
+   "result": "pass"
+  },
+  "economics.intervention-evaluate-2.0005": {
+   "result": "pass"
+  },
+  "economics.intervention-evaluate-3.0001": {
+   "result": "pass"
+  },
+  "economics.intervention-explain.0002": {
+   "result": "pass"
+  },
+  "economics.intervention-mcq-auth.0004": {
+   "result": "pass"
+  },
+  "economics.intervention-mcq-class.0009": {
+   "result": "pass"
+  },
+  "economics.intervention-mcq-def.0006": {
+   "result": "pass"
+  },
+  "economics.labour-analyse-1.0003": {
+   "result": "pass"
+  },
+  "economics.labour-analyse-2.0001": {
+   "result": "pass"
+  },
+  "economics.labour-analyse-3.0002": {
+   "result": "pass"
+  },
+  "economics.labour-assess-1.0003": {
+   "result": "pass"
+  },
+  "economics.labour-assess-2.0001": {
+   "result": "pass"
+  },
+  "economics.labour-assess-3.0006": {
+   "result": "pass"
+  },
+  "economics.labour-calc.0017": {
+   "result": "pass"
+  },
+  "economics.labour-data.0003": {
+   "result": "fail",
+   "problem": "(a) says the minimum wage is I$6.54 but Extract A gives I$8.40 (after a 9% rise), so the data contradict each other; MS 215.82 matches the stem only",
+   "fix": "Use I$8.40 in (a): 8.40 x 33 = I$277.20, or reword (a) as the old wage of I$7.71 (8.40/1.09)"
+  },
+  "economics.labour-define1.0006": {
+   "result": "pass"
+  },
+  "economics.labour-define2.0008": {
+   "result": "pass"
+  },
+  "economics.labour-describe.0016": {
+   "result": "pass"
+  },
+  "economics.labour-diagram.0011": {
+   "result": "pass"
+  },
+  "economics.labour-evaluate-1.0002": {
+   "result": "pass"
+  },
+  "economics.labour-evaluate-2.0003": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,193 @@
+{
+ "batch": "economics-recheck-2",
+ "answers": {
+  "economics.competition-mcq-class.0001": {
+   "all": "A single firm supplies the whole market"
+  },
+  "economics.competition-state-id.0006": {
+   "all": "an oligopoly"
+  },
+  "economics.costs-assess-3.0004": {
+   "all": "Raise revenue: raise price (depends on PED - smartphones branded, may be inelastic), increase sales via advertising/new models; cut costs: cheaper suppliers, efficiency, economies of scale, cut staff. Evaluate: price rise may lose customers to rivals; cost cutting may lower quality; depends on competition and which costs rose."
+  },
+  "economics.costs-calc.0009": {
+   "all": "Fuel 0.48x240 = 115.20; total = 120 + 115.20 + 22 = \u20ac257.20"
+  },
+  "economics.costs-data.0002": {
+   "a": "(29,000-25,200)/25,200 x100 = 15.08%",
+   "b": "Fuel up 33% raises variable costs; pay rise raises labour costs; total costs rise, profit (already small) falls, may cut investment/drivers or go into loss; may pass costs on to customers.",
+   "c": "For: maintain margin, all rival delivery firms face same fuel rise so may also raise prices; profit grew 15% 2024-25 though. Against: price elastic demand if competitive market, lose customers; alternatives - cut costs, more efficient routes. Judgement depends on PED, competitors, size of rise."
+  },
+  "economics.costs-evaluate-2.0001": {
+   "all": "For: doubles output, lower average fixed cost per unit if demand exists, economies of scale, higher revenue. Against: higher fixed costs \u00a36,000+, risk if demand doesn't double, financing/borrowing costs, maintenance. Judgement: depends on demand, cost of machine, cash flow."
+  },
+  "economics.costs-evaluate-3.0003": {
+   "all": "Raise prices (PED), increase sales/marketing, cut costs (suppliers, efficiency, wages), economies of scale; revenue rose 15% but costs faster so focus on cost control. Evaluate trade-offs: quality, competition, PED. Judgement."
+  },
+  "economics.costs-mcq-auth.0003": {
+   "all": "price x quantity sold"
+  },
+  "economics.costs-mcq-class.0003": {
+   "all": "Salary of the manager"
+  },
+  "economics.costs-mcq-def.0001": {
+   "all": "Costs that do not change when the level of output changes, such as rent"
+  },
+  "economics.demand-analyse-1.0004": {
+   "all": "Income up 5%: frozen yoghurt normal good -> demand rises (shift right); cheaper own-brand substitute -> demand falls; health campaigns change tastes - may raise (healthier than ice cream) or reduce (sugar) demand; overall net effect depends."
+  },
+  "economics.demand-analyse-2.0001": {
+   "all": "More consumers -> demand for local goods shifts right; young families -> more demand for schools, childcare, nappies, housing; new estates -> demand for local shops, transport; age structure changes composition of demand."
+  },
+  "economics.demand-calc.0017": {
+   "all": "15+19+12 = 46 loaves per week"
+  },
+  "economics.demand-define1.0007": {
+   "all": "A good for which demand rises when incomes rise."
+  },
+  "economics.demand-define2.0004": {
+   "all": "An increase in quantity demanded (1) caused by a fall in the product's own price - a movement down/along the demand curve (1)."
+  },
+  "economics.demand-describe.0016": {
+   "all": "More people means more households needing somewhere to live (1), so more buyers/renters at each price, demand curve shifts right (1)."
+  },
+  "economics.demand-diagram.0005": {
+   "all": "Shift D right to D1; new higher equilibrium price P1 and higher quantity Q1."
+  },
+  "economics.demand-explain.0020": {
+   "all": "Fall in price of coffee machines -> extension of demand for machines; complements (coffee pods/capsules, coffee beans) jointly demanded so demand for them increases, shifts right; more owners of machines buy more pods."
+  },
+  "economics.demand-mcq-auth.0006": {
+   "all": "Smartphones and phone cases"
+  },
+  "economics.demand-mcq-class.0002": {
+   "all": "A rise in the price of petrol"
+  },
+  "economics.demand-mcq-def.0001": {
+   "all": "The amount of a product that buyers want and can afford to purchase at each price over a period of time"
+  },
+  "economics.demand-state.0006": {
+   "all": "Cars"
+  },
+  "economics.demand-state-class.0003": {
+   "all": "A change in the price of fresh juice"
+  },
+  "economics.demand-state-id.0007": {
+   "all": "a leftward shift of the demand curve for fizzy drinks"
+  },
+  "economics.economic-problem-analyse-1.0003": {
+   "all": "Limited tax revenue (scarce resources) vs unlimited wants (health, education, roads); must choose/prioritise; opportunity cost - spending on healthcare means less on roads; growing 17m population increases demands; may borrow or raise taxes."
+  },
+  "economics.economic-problem-analyse-2.0003": {
+   "all": "Scarce skilled labour -> cannot expand output, may pay higher wages raising costs; raw materials up 11% -> higher costs, lower profit or higher prices; may substitute capital/train workers; growth limited."
+  },
+  "economics.economic-problem-analyse-3.0003": {
+   "all": "Opportunity cost = next best alternative forgone = full-time job, \u20ac376/week income (approx \u20ac19.5k/yr), work experience; versus future higher earnings as engineer; also leisure/independence forgone."
+  },
+  "economics.economic-problem-define1.0001": {
+   "all": "When there are not enough resources to satisfy unlimited wants."
+  },
+  "economics.economic-problem-define2.0005": {
+   "all": "The factor of production that organises the other factors (1) and takes risks to produce goods/services (1)."
+  },
+  "economics.economic-problem-describe.0004": {
+   "all": "Firms invest in new machinery/factories (1), funded by saving/profits or government subsidies/lower interest rates, adding to the capital stock (1)."
+  }
+ },
+ "verdicts": {
+  "economics.competition-mcq-class.0001": {
+   "result": "pass"
+  },
+  "economics.competition-state-id.0006": {
+   "result": "pass"
+  },
+  "economics.costs-assess-3.0004": {
+   "result": "pass"
+  },
+  "economics.costs-calc.0009": {
+   "result": "pass"
+  },
+  "economics.costs-data.0002": {
+   "result": "pass"
+  },
+  "economics.costs-evaluate-2.0001": {
+   "result": "pass"
+  },
+  "economics.costs-evaluate-3.0003": {
+   "result": "pass"
+  },
+  "economics.costs-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.costs-mcq-class.0003": {
+   "result": "pass"
+  },
+  "economics.costs-mcq-def.0001": {
+   "result": "pass"
+  },
+  "economics.demand-analyse-1.0004": {
+   "result": "pass"
+  },
+  "economics.demand-analyse-2.0001": {
+   "result": "pass"
+  },
+  "economics.demand-calc.0017": {
+   "result": "pass"
+  },
+  "economics.demand-define1.0007": {
+   "result": "pass"
+  },
+  "economics.demand-define2.0004": {
+   "result": "pass"
+  },
+  "economics.demand-describe.0016": {
+   "result": "pass"
+  },
+  "economics.demand-diagram.0005": {
+   "result": "fail",
+   "problem": "Grammatical error in the stem: 'Butter are a normal good'.",
+   "fix": "Change to 'Butter is a normal good.' Mark scheme is otherwise correct."
+  },
+  "economics.demand-explain.0020": {
+   "result": "pass"
+  },
+  "economics.demand-mcq-auth.0006": {
+   "result": "pass"
+  },
+  "economics.demand-mcq-class.0002": {
+   "result": "pass"
+  },
+  "economics.demand-mcq-def.0001": {
+   "result": "fail",
+   "problem": "Option C ('a want for a product that is backed by the ability to pay') is effective demand, which is itself a valid definition of demand, so two options are arguably correct.",
+   "fix": "Replace C with a clear distractor, e.g. 'The amount of a product that firms are willing and able to supply at each price'."
+  },
+  "economics.demand-state.0006": {
+   "result": "pass"
+  },
+  "economics.demand-state-class.0003": {
+   "result": "pass"
+  },
+  "economics.demand-state-id.0007": {
+   "result": "pass"
+  },
+  "economics.economic-problem-analyse-1.0003": {
+   "result": "pass"
+  },
+  "economics.economic-problem-analyse-2.0003": {
+   "result": "pass"
+  },
+  "economics.economic-problem-analyse-3.0003": {
+   "result": "pass"
+  },
+  "economics.economic-problem-define1.0001": {
+   "result": "pass"
+  },
+  "economics.economic-problem-define2.0005": {
+   "result": "pass"
+  },
+  "economics.economic-problem-describe.0004": {
+   "result": "pass"
+  }
+ }
+}

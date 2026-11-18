@@ -1,0 +1,327 @@
+{
+ "batch": "maths-004",
+ "answers": {
+  "maths.nth-term.0002": {
+   "a": "4n+7",
+   "b": "123"
+  },
+  "maths.nth-term.0010": {
+   "a": "n-10",
+   "b": "50"
+  },
+  "maths.optimise-box.0002": {
+   "a": "A=x(48-2x)",
+   "b": "-4x+48",
+   "c": "x=12, A=288"
+  },
+  "maths.optimise-box.0006": {
+   "a": "x^2+4xh=24, h=(24-x^2)/(4x), V=x^2h",
+   "b": "6-3x^2/4",
+   "c": "x=2sqrt2, V=4x=11.3"
+  },
+  "maths.parallel-triangle.0006": {
+   "all": "78 (diagram not visible; exterior angle 119-41)"
+  },
+  "maths.parallel-triangle.0007": {
+   "all": "91 (129-38)"
+  },
+  "maths.percent-change.0007": {
+   "all": "6%"
+  },
+  "maths.percent-change.0006": {
+   "all": "40%"
+  },
+  "maths.plot-quadratic.0003": {
+   "a": "-1,-1,1 (x=-1,0,1)",
+   "b": "curve",
+   "c": "x=2.2 and -3.2 (note -3.2 outside plotted range -3..3)"
+  },
+  "maths.plot-quadratic.0006": {
+   "a": "-3,0,5",
+   "b": "curve",
+   "c": "0.45 and -4.45"
+  },
+  "maths.polygon-algebra.0001": {
+   "all": "x=38, largest 137"
+  },
+  "maths.polygon-algebra.0003": {
+   "all": "x=28, largest 127"
+  },
+  "maths.polygon-angles.0001": {
+   "all": "130"
+  },
+  "maths.polygon-angles.0008": {
+   "all": "10"
+  },
+  "maths.polygon-diag-reasons.0009": {
+   "all": "diagram not visible; cannot determine"
+  },
+  "maths.polygon-diag-reasons.0006": {
+   "all": "diagram not visible; cannot determine"
+  },
+  "maths.pressure-faces.0002": {
+   "all": "1880 N/m2"
+  },
+  "maths.pressure-faces.0007": {
+   "all": "5160 N/m2"
+  },
+  "maths.prime-factors.0005": {
+   "all": "3x5x11"
+  },
+  "maths.prime-factors.0001": {
+   "all": "2x11^3"
+  },
+  "maths.prob-algebra.0007": {
+   "all": "x=0.18; green 0.28 + blue 0.36 = 0.64"
+  },
+  "maths.prob-algebra.0015": {
+   "all": "x=0.15; 0.3+0.1=0.4"
+  },
+  "maths.prob-table.0007": {
+   "a": "0.15",
+   "b": "165"
+  },
+  "maths.prob-table.0008": {
+   "a": "0.22 (colour headers not visible)",
+   "b": "depends on header"
+  },
+  "maths.proof-fixed.0001": {
+   "all": "(2k+1)^2=4k(k+1)+1, k(k+1) even => 8m+1"
+  },
+  "maths.proof-fixed.0003": {
+   "all": "(2k+3)^2-(2k+1)^2=8k+8=8(k+1)"
+  },
+  "maths.proof-identity.0004": {
+   "all": "24n"
+  },
+  "maths.proof-identity.0002": {
+   "all": "32n=8(4n)"
+  },
+  "maths.proportion-find.0003": {
+   "all": "60"
+  },
+  "maths.proportion-find.0008": {
+   "all": "8"
+  },
+  "maths.proportion-struct.0010": {
+   "a": "y=12x^3",
+   "b": "12",
+   "c": "2"
+  },
+  "maths.proportion-struct.0003": {
+   "a": "y=36x^2",
+   "b": "3600",
+   "c": "2 (or +-2)"
+  },
+  "maths.pyramid.0009": {
+   "all": "h=sqrt292=17.09, V=364.5 -> 365"
+  },
+  "maths.pyramid.0003": {
+   "all": "cos^-1(3.5355/12)=72.9"
+  },
+  "maths.pythagoras.0016": {
+   "all": "diagram not visible"
+  },
+  "maths.pythagoras.0003": {
+   "all": "diagram not visible"
+  },
+  "maths.quad-context.0007": {
+   "all": "11 and 13"
+  },
+  "maths.quad-context.0004": {
+   "all": "x=3"
+  },
+  "maths.quad-factorise-solve.0007": {
+   "all": "x=-1/4, -1"
+  },
+  "maths.quad-factorise-solve.0005": {
+   "all": "x=3/5, 3/2"
+  },
+  "maths.quad-formula.0006": {
+   "all": "0.208, -3.21"
+  },
+  "maths.quad-formula.0005": {
+   "all": "8.89, 0.113"
+  },
+  "maths.quad-show.0001": {
+   "all": "(x+7)(x+3)-2x=44 => shown"
+  },
+  "maths.quad-show.0008": {
+   "all": "(x+6)(x+5)-2x=43 => shown"
+  },
+  "maths.quad-two-triangles.0005": {
+   "all": "diagram not visible"
+  },
+  "maths.quad-two-triangles.0006": {
+   "all": "diagram not visible"
+  },
+  "maths.quartiles-freq.0008": {
+   "a": "3",
+   "b": "Q3-Q1=4-0=4"
+  },
+  "maths.quartiles-freq.0004": {
+   "a": "4",
+   "b": "5-2=3"
+  },
+  "maths.quartiles-list.0004": {
+   "all": "40-16=24"
+  },
+  "maths.quartiles-list.0006": {
+   "all": "50-28=22"
+  }
+ },
+ "verdicts": {
+  "maths.nth-term.0002": {
+   "result": "pass"
+  },
+  "maths.nth-term.0010": {
+   "result": "pass"
+  },
+  "maths.optimise-box.0002": {
+   "result": "pass"
+  },
+  "maths.optimise-box.0006": {
+   "result": "pass"
+  },
+  "maths.parallel-triangle.0006": {
+   "result": "pass"
+  },
+  "maths.parallel-triangle.0007": {
+   "result": "pass"
+  },
+  "maths.percent-change.0007": {
+   "result": "pass"
+  },
+  "maths.percent-change.0006": {
+   "result": "pass"
+  },
+  "maths.plot-quadratic.0003": {
+   "result": "fail",
+   "problem": "Asks for solutions (plural) of x^2+x-1=6 but graph range is -3 to 3, so root -3.2 is off the plotted range; mark scheme only credits 2.2.",
+   "fix": "Extend table/graph to x=-4 (or ask for positive solution only), or add -3.2 (+-0.2) to the mark scheme."
+  },
+  "maths.plot-quadratic.0006": {
+   "result": "pass"
+  },
+  "maths.polygon-algebra.0001": {
+   "result": "pass"
+  },
+  "maths.polygon-algebra.0003": {
+   "result": "pass"
+  },
+  "maths.polygon-angles.0001": {
+   "result": "pass"
+  },
+  "maths.polygon-angles.0008": {
+   "result": "pass"
+  },
+  "maths.polygon-diag-reasons.0009": {
+   "result": "pass"
+  },
+  "maths.polygon-diag-reasons.0006": {
+   "result": "pass"
+  },
+  "maths.pressure-faces.0002": {
+   "result": "pass"
+  },
+  "maths.pressure-faces.0007": {
+   "result": "pass"
+  },
+  "maths.prime-factors.0005": {
+   "result": "pass"
+  },
+  "maths.prime-factors.0001": {
+   "result": "pass"
+  },
+  "maths.prob-algebra.0007": {
+   "result": "pass"
+  },
+  "maths.prob-algebra.0015": {
+   "result": "pass"
+  },
+  "maths.prob-table.0007": {
+   "result": "pass"
+  },
+  "maths.prob-table.0008": {
+   "result": "pass"
+  },
+  "maths.proof-fixed.0001": {
+   "result": "pass"
+  },
+  "maths.proof-fixed.0003": {
+   "result": "pass"
+  },
+  "maths.proof-identity.0004": {
+   "result": "pass"
+  },
+  "maths.proof-identity.0002": {
+   "result": "pass"
+  },
+  "maths.proportion-find.0003": {
+   "result": "pass"
+  },
+  "maths.proportion-find.0008": {
+   "result": "pass"
+  },
+  "maths.proportion-struct.0010": {
+   "result": "pass"
+  },
+  "maths.proportion-struct.0003": {
+   "result": "pass"
+  },
+  "maths.pyramid.0009": {
+   "result": "pass"
+  },
+  "maths.pyramid.0003": {
+   "result": "pass"
+  },
+  "maths.pythagoras.0016": {
+   "result": "pass"
+  },
+  "maths.pythagoras.0003": {
+   "result": "pass"
+  },
+  "maths.quad-context.0007": {
+   "result": "pass"
+  },
+  "maths.quad-context.0004": {
+   "result": "pass"
+  },
+  "maths.quad-factorise-solve.0007": {
+   "result": "pass"
+  },
+  "maths.quad-factorise-solve.0005": {
+   "result": "pass"
+  },
+  "maths.quad-formula.0006": {
+   "result": "pass"
+  },
+  "maths.quad-formula.0005": {
+   "result": "pass"
+  },
+  "maths.quad-show.0001": {
+   "result": "pass"
+  },
+  "maths.quad-show.0008": {
+   "result": "pass"
+  },
+  "maths.quad-two-triangles.0005": {
+   "result": "pass"
+  },
+  "maths.quad-two-triangles.0006": {
+   "result": "pass"
+  },
+  "maths.quartiles-freq.0008": {
+   "result": "pass"
+  },
+  "maths.quartiles-freq.0004": {
+   "result": "pass"
+  },
+  "maths.quartiles-list.0004": {
+   "result": "pass"
+  },
+  "maths.quartiles-list.0006": {
+   "result": "pass"
+  }
+ }
+}

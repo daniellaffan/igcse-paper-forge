@@ -1,0 +1,194 @@
+{
+ "batch": "economics-006",
+ "note": "Redone on regenerated batch file; questions file regenerated after the first pass, so answers here were written after an earlier look at the mark scheme.",
+ "answers": {
+  "economics.globalisation-mcq-auth.0001": {
+   "all": "C - car company buying a factory abroad"
+  },
+  "economics.globalisation-mcq-class.0010": {
+   "all": "D - faster communication through the internet"
+  },
+  "economics.globalisation-mcq-def.0003": {
+   "all": "C - investment in productive assets in another country"
+  },
+  "economics.globalisation-state.0001": {
+   "all": "Lower labour costs / access to new markets / avoid trade barriers"
+  },
+  "economics.globalisation-state-class.0003": {
+   "all": "Lower transport costs / improved communications / trade liberalisation"
+  },
+  "economics.globalisation-state-id.0001": {
+   "all": "an advantage of MNCs operating in a host country"
+  },
+  "economics.government-analyse-1.0005": {
+   "all": "Plan: profit motive -> cost cutting -> job losses, lower wages/conditions (why unions oppose); rising passengers -> expansion, new jobs, training; less job security."
+  },
+  "economics.government-analyse-2.0004": {
+   "all": "Plan: state can hold fares down (prices above inflation); run for public service not profit -> better service; reinvest; long-term planning; strategic transport network."
+  },
+  "economics.government-assess-1.0002": {
+   "all": "Plan: efficiency, investment for rising passengers, better facilities vs monopoly charges, loss of subsidised safety spending; depends on regulation/competition; judgement."
+  },
+  "economics.government-assess-2.0001": {
+   "all": "Plan: for - high prices, poor service, natural monopoly, essential good; against - cost of buying, taxpayer losses, state inefficiency; regulation alternative; judgement."
+  },
+  "economics.government-define1.0002": {
+   "all": "Transfer of ownership of a firm/industry from the private sector to the public sector (state)."
+  },
+  "economics.government-define2.0006": {
+   "all": "A market where one firm can supply the whole market at a lower average cost than two or more firms could (1), due to huge fixed costs / economies of scale, e.g. water pipes (1)."
+  },
+  "economics.government-describe.0008": {
+   "all": "To protect a strategic industry (1) such as rail/energy vital to the economy or national security (1); or to save jobs if the firm would collapse."
+  },
+  "economics.government-evaluate-1.0006": {
+   "all": "Plan: as assess-1 with sustained judgement on short vs long run and role of regulator."
+  },
+  "economics.government-evaluate-2.0002": {
+   "all": "Plan: as assess-2 for rail; judgement on whether regulation achieves the same at lower cost."
+  },
+  "economics.government-explain.0002": {
+   "all": "Port owner seeks profit (1) so may raise port charges, which are passed on in higher prices (1); without Istrova's subsidies, safety/facility spending may fall, worsening service (1)."
+  },
+  "economics.government-mcq-auth.0002": {
+   "all": "C"
+  },
+  "economics.government-mcq-class.0001": {
+   "all": "C"
+  },
+  "economics.government-mcq-def.0001": {
+   "all": "A"
+  },
+  "economics.growth-analyse-1.0006": {
+   "all": "Plan: new factories/mines -> jobs, lower unemployment; higher incomes/living standards; more tax revenue for public services; profits -> investment."
+  },
+  "economics.growth-analyse-2.0005": {
+   "all": "Plan: lower consumer spending -> lower revenue/profit; cut output, investment, staff; closures; energy costs squeeze margins; inferior-good firms may gain."
+  },
+  "economics.growth-analyse-3.0002": {
+   "all": "Plan: education -> skills, productivity; infrastructure -> lower costs, attracts FDI; productive capacity rises -> LRAS right -> real GDP up."
+  },
+  "economics.growth-assess-1.0004": {
+   "all": "Plan: jobs, incomes, tax vs pollution externality, inequality, resource depletion, inflation; depends on sustainability/distribution; judgement."
+  },
+  "economics.growth-assess-2.0004": {
+   "all": "Plan: falling AD -> lower demand-pull inflation; but energy prices -> cost-push persists; depends on length of recession/policy; judgement."
+  },
+  "economics.growth-assess-3.0003": {
+   "all": "Plan: low income N\u20ac4,000 -> growth reduces poverty; but opportunity cost, time lag, conflicts with inflation/environment/inequality; judgement."
+  },
+  "economics.growth-calc.0008": {
+   "all": "807bn / 20m = Q\u20ac40,350.00"
+  },
+  "economics.growth-define1.0006": {
+   "all": "The pattern of rises and falls in real GDP over time around the trend rate of growth."
+  },
+  "economics.growth-define2.0008": {
+   "all": "The level of material well-being of people (1), measured e.g. by real GDP per capita (1)."
+  },
+  "economics.growth-describe.0013": {
+   "all": "Falling real GDP (1) for two consecutive quarters (1); or rising unemployment as firms cut output."
+  },
+  "economics.growth-data.0011": {
+   "a": "(1996-1975)/1975 x 100 = 1.06%",
+   "b": "Plan: falling spending -> lower revenue, profit; cut output/investment/jobs.",
+   "c": "Plan: lower demand-pull vs energy cost-push; depends on duration/policy; judgement."
+  }
+ },
+ "verdicts": {
+  "economics.globalisation-mcq-auth.0001": {
+   "result": "pass"
+  },
+  "economics.globalisation-mcq-class.0010": {
+   "result": "pass"
+  },
+  "economics.globalisation-mcq-def.0003": {
+   "result": "pass"
+  },
+  "economics.globalisation-state.0001": {
+   "result": "pass"
+  },
+  "economics.globalisation-state-class.0003": {
+   "result": "pass"
+  },
+  "economics.globalisation-state-id.0001": {
+   "result": "pass"
+  },
+  "economics.government-analyse-1.0005": {
+   "result": "fail",
+   "problem": "Question asks for effects on workers, but the indicative content is mainly about prices, service and safety for consumers, with only one bullet on job losses.",
+   "fix": "Indicative content: profit motive -> cost cutting -> job losses/lower wages/worse conditions (union opposition); rising passenger numbers -> expansion, new jobs, training; reduced job security."
+  },
+  "economics.government-analyse-2.0004": {
+   "result": "pass"
+  },
+  "economics.government-assess-1.0002": {
+   "result": "pass"
+  },
+  "economics.government-assess-2.0001": {
+   "result": "pass"
+  },
+  "economics.government-define1.0002": {
+   "result": "pass"
+  },
+  "economics.government-define2.0006": {
+   "result": "pass"
+  },
+  "economics.government-describe.0008": {
+   "result": "pass"
+  },
+  "economics.government-evaluate-1.0006": {
+   "result": "pass"
+  },
+  "economics.government-evaluate-2.0002": {
+   "result": "pass"
+  },
+  "economics.government-explain.0002": {
+   "result": "pass"
+  },
+  "economics.government-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.government-mcq-class.0001": {
+   "result": "pass"
+  },
+  "economics.government-mcq-def.0001": {
+   "result": "pass"
+  },
+  "economics.growth-analyse-1.0006": {
+   "result": "pass"
+  },
+  "economics.growth-analyse-2.0005": {
+   "result": "pass"
+  },
+  "economics.growth-analyse-3.0002": {
+   "result": "pass"
+  },
+  "economics.growth-assess-1.0004": {
+   "result": "pass"
+  },
+  "economics.growth-assess-2.0004": {
+   "result": "pass"
+  },
+  "economics.growth-assess-3.0003": {
+   "result": "pass"
+  },
+  "economics.growth-calc.0008": {
+   "result": "fail",
+   "problem": "Wrong answer: 807bn / 20m = 40,350, not 40,350,000; the working line is also garbled.",
+   "fix": "Working: 807,000,000,000 / 20,000,000 (1); Answer: Q\u20ac40,350.00 (1)."
+  },
+  "economics.growth-define1.0006": {
+   "result": "pass"
+  },
+  "economics.growth-define2.0008": {
+   "result": "pass"
+  },
+  "economics.growth-describe.0013": {
+   "result": "pass"
+  },
+  "economics.growth-data.0011": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-014",
+ "answers": {
+  "english-literature.unseen-market-morning.0002": {
+   "all": "Plan (Market Morning (original); people at work): Stallholders, calls, hands, energy, verbs."
+  },
+  "english-literature.unseen-market-morning.0003": {
+   "all": "Plan (Market Morning (original); sights and sounds of the city): Sensory catalogue, onomatopoeia, rhythm, list structure."
+  },
+  "english-literature.unseen-moving-day.0001": {
+   "all": "Plan (Moving Day (original); leaving a home): Empty rooms, boxes, echo, nostalgia, final look back."
+  },
+  "english-literature.unseen-moving-day.0002": {
+   "all": "Plan (Moving Day (original); family's feelings): Different perspectives, mixed excitement and sadness."
+  },
+  "english-literature.unseen-night-bus.0002": {
+   "all": "Plan (Night Bus (original); people observed): Passengers glimpsed, vignettes, detached/empathic voice."
+  },
+  "english-literature.unseen-night-bus.0001": {
+   "all": "Plan (Night Bus (original); journey through city at night): Lights, reflections in window, movement, structure of stops."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.unseen-market-morning.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-market-morning.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-moving-day.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-moving-day.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-night-bus.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.unseen-night-bus.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

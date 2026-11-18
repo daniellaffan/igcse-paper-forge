@@ -1,0 +1,46 @@
+{
+ "id": "physics-equations",
+ "title": "Physics equation list",
+ "blocks": [
+  {
+   "type": "source",
+   "label": "Equation list",
+   "text": "You may find these equations useful. Where necessary, take g = 10 N/kg (10 m/s²)."
+  },
+  {
+   "type": "source",
+   "label": "1. Forces and motion",
+   "text": "average speed = distance moved ÷ time taken\nacceleration = change in velocity ÷ time taken    $a = \\dfrac{(v - u)}{t}$\n(final speed)² = (initial speed)² + (2 × acceleration × distance moved)    $v^2 = u^2 + (2 \\times a \\times s)$\nforce = mass × acceleration    $F = m \\times a$\nweight = mass × gravitational field strength    $W = m \\times g$"
+  },
+  {
+   "type": "source",
+   "label": "2. Electricity",
+   "text": "power = current × voltage    $P = I \\times V$\nenergy transferred = current × voltage × time    $E = I \\times V \\times t$\nvoltage = current × resistance    $V = I \\times R$\ncharge = current × time    $Q = I \\times t$\nenergy transferred = charge × voltage    $E = Q \\times V$"
+  },
+  {
+   "type": "source",
+   "label": "3. Waves",
+   "text": "wave speed = frequency × wavelength    $v = f \\times \\lambda$\nfrequency = 1 ÷ time period    $f = \\dfrac{1}{T}$\nrefractive index = sin(angle of incidence) ÷ sin(angle of refraction)    $n = \\dfrac{\\sin i}{\\sin r}$\nsin(critical angle) = 1 ÷ refractive index    $\\sin c = \\dfrac{1}{n}$"
+  },
+  {
+   "type": "source",
+   "label": "4. Energy resources and energy transfers",
+   "text": "efficiency = (useful energy output ÷ total energy output) × 100%\nwork done = force × distance moved    $W = F \\times d$\ngravitational potential energy = mass × gravitational field strength × height    $GPE = m \\times g \\times h$\nkinetic energy = ½ × mass × speed²    $KE = \\frac{1}{2} \\times m \\times v^2$\npower = work done ÷ time taken    $P = \\dfrac{W}{t}$"
+  },
+  {
+   "type": "source",
+   "label": "5. Solids, liquids and gases",
+   "text": "density = mass ÷ volume    $\\rho = \\dfrac{m}{V}$\npressure = force ÷ area    $p = \\dfrac{F}{A}$\npressure difference = height × density × gravitational field strength    $p = h \\times \\rho \\times g$\npressure ÷ temperature = constant    $\\dfrac{p_1}{T_1} = \\dfrac{p_2}{T_2}$\npressure × volume = constant    $p_1 \\times V_1 = p_2 \\times V_2$"
+  },
+  {
+   "type": "source",
+   "label": "8. Astrophysics",
+   "text": "orbital speed = (2 × π × orbital radius) ÷ time period    $v = \\dfrac{2 \\times \\pi \\times r}{T}$"
+  },
+  {
+   "type": "source",
+   "label": "Paper 2 only: additional equations",
+   "text": "momentum = mass × velocity    $p = m \\times v$\nforce = change in momentum ÷ time taken    $F = \\dfrac{(mv - mu)}{t}$\nmoment = force × perpendicular distance from the pivot\nchange in thermal energy = mass × specific heat capacity × change in temperature    $\\Delta Q = m \\times c \\times \\Delta T$\ninput (primary) voltage ÷ output (secondary) voltage = primary turns ÷ secondary turns    $\\dfrac{V_p}{V_s} = \\dfrac{n_p}{n_s}$\ninput power = output power (for 100% efficiency)    $V_p I_p = V_s I_s$\nchange in wavelength ÷ reference wavelength = velocity of a galaxy ÷ speed of light    $\\dfrac{\\lambda - \\lambda_0}{\\lambda_0} = \\dfrac{\\Delta\\lambda}{\\lambda_0} = \\dfrac{v}{c}$"
+  }
+ ]
+}

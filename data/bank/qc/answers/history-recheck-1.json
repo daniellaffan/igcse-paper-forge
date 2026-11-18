@@ -1,0 +1,64 @@
+{
+ "batch": "history-recheck-1",
+ "answers": {
+  "history.america-judgement.0056": {
+   "all": "Plan: 13th Amendment (passed Congress Jan 1865, ratified Dec 1865) abolished slavery legally - huge symbolic and legal change. But limited: Black Codes, sharecropping, little land (no '40 acres'). Freedmen's Bureau (1865) schools, labour contracts, food; 14th (1868) and 15th (1870) Amendments, Civil Rights Act 1866, Black officeholders. Undermined by KKK, Johnson, end of Reconstruction 1877. Judgement: necessary foundation, but other measures and later reversal shaped lives more."
+  },
+  "history.russia-investigation.0044": {
+   "b": "Agree: both show a desperate/hard-fought war and Red weakness/pressure (A's harsh discipline implies desertion and retreats; B says Reds falling back in disorder). Disagree: A shows Red determination and foreign intervention aiding Whites; B claims White success and popular welcome. Provenance: A is propaganda/order meant to stiffen troops; B a biased British officer in 1919 during Denikin's advance (Orel, Oct 1919) - optimistic, later reversed. Limited support overall.",
+   "c": "Plan: Agree geography mattered - C: Whites scattered on periphery, poor communications; Reds held central core, railways, Moscow/Petrograd, industry. Other factors: White disunity (C), peasants' fear of landlords (C), Trotsky's leadership and discipline (A), War Communism, Cheka; foreign aid limited (B shows dependence). Judgement: geography important but White political failings and Red organisation as important."
+  },
+  "history.russia-support.0030": {
+   "all": "Limited support. Both mention the PG's freedoms (A: abolished death penalty, equal rights; B: decrees on press/religion admirable). But A portrays a strong government defending against Germany; B shows weakness - June offensive collapsed, desertion, orders ignored outside capital, power up for grabs. Provenance: A is pro-government speech May 1917, before June offensive; B hindsight memoir 1923 by foreign observer. Overall A supports B only on liberal reforms, not on effectiveness."
+  },
+  "history.world-divided-judgement.0054": {
+   "all": "Plan: Post-1962 thaw: hotline 1963, Test Ban Treaty 1963, Outer Space 1967, NPT 1968, SALT talks. Vietnam: US costs pushed towards d\u00e9tente with USSR/China. Other: Cuban Missile Crisis lessons (main trigger), Sino-Soviet split (USSR wanted to secure West; Nixon triangulation), MAD/nuclear cost, Brezhnev/Nixon leadership. Judgement: Cuban crisis and nuclear fear main; Vietnam contributed later."
+  },
+  "history.world-divided-judgement.0005": {
+   "all": "Plan: Atomic bomb: Truman told Stalin at Potsdam; Soviet suspicion, arms race, Hiroshima Aug 1945. Other: ideological differences capitalism vs communism, Poland (Lublin vs London Poles), Yalta/Potsdam disagreements, Roosevelt death/Truman's tougher attitude, Stalin's security demands, Germany reparations. Judgement: bomb deepened distrust but ideology/Poland were longer-term main causes."
+  },
+  "history.world-divided-judgement.0032": {
+   "all": "Plan: R\u00e1kosi: Stalinist terror, AVH secret police, purges, poverty, collectivisation. De-Stalinisation: Khrushchev's Secret Speech Feb 1956 raised hopes; R\u00e1kosi removed July 1956, Ger\u0151 unpopular. Other: Poland's success Oct 1956 (Gomulka), nationalism and hatred of Soviet troops, student demands (16 points), Nagy, hope of Western help (Radio Free Europe). Judgement: harshness long-term cause, de-Stalinisation/Poland triggers."
+  },
+  "history.world-divided-judgement.0015": {
+   "all": "Plan: Truman Doctrine Mar 1947 - containment, aid to Greece/Turkey, ideological framing - turning point. Marshall Plan June 1947 - economic containment, Cominform/Comecon response, split Europe. Others: Berlin Blockade/airlift 1948-49, NATO April 1949, creation of FRG/GDR, Soviet atomic bomb Aug 1949. Judgement: TD set policy but Berlin Blockade/NATO arguably most significant in formalising division."
+  },
+  "history.world-divided-judgement.0014": {
+   "all": "Plan: Soviet expansion: satellite states, salami tactics, Poland, Czechoslovakia coup 1948, Iron Curtain speech 1946. Truman Doctrine/containment and Marshall Plan as US response seen by USSR as dollar imperialism. Others: ideology, atomic bomb, Berlin Blockade, Long and Novikov telegrams. Judgement: expansion central trigger but mutual suspicion and US actions co-responsible."
+  },
+  "history.world-divided-judgement.0003": {
+   "all": "Plan: Stalin's security demands: buffer zone, Poland, reparations from Germany, Yalta/Potsdam. Truman's attitude: tougher than FDR, lectured Molotov, atomic bomb diplomacy at Potsdam. Others: ideology, atomic bomb, elections in Eastern Europe, Germany. Judgement: security demands key but Truman's change in attitude made breakdown sharper."
+  }
+ },
+ "verdicts": {
+  "history.america-judgement.0056": {
+   "result": "pass"
+  },
+  "history.russia-investigation.0044": {
+   "result": "fail",
+   "problem": "In (c) the indicative content mislabels evidence: Source A's Red discipline is listed as 'support' for the geography interpretation and Source B's Red disorder as a 'challenge' to it, though neither bears on geography (A is an alternative factor, i.e. a challenge); 'White poor leadership and unity' is also listed as challenging C although C itself names White disunity.",
+   "fix": "Relabel: Source A (Red discipline/Trotsky) challenges by offering an alternative factor; Source B (Denikin near Moscow, reliance on British supplies) supports that Whites operated from the periphery dependent on outside supply lines; White disunity is part of C's own argument, so treat it as supporting C's broader view, not challenging geography."
+  },
+  "history.russia-support.0030": {
+   "result": "pass"
+  },
+  "history.world-divided-judgement.0054": {
+   "result": "pass"
+  },
+  "history.world-divided-judgement.0005": {
+   "result": "pass"
+  },
+  "history.world-divided-judgement.0032": {
+   "result": "pass"
+  },
+  "history.world-divided-judgement.0015": {
+   "result": "pass"
+  },
+  "history.world-divided-judgement.0014": {
+   "result": "pass"
+  },
+  "history.world-divided-judgement.0003": {
+   "result": "pass"
+  }
+ }
+}

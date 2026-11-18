@@ -1,0 +1,193 @@
+{
+ "batch": "economics-007",
+ "answers": {
+  "economics.growth-diagram.0002": {
+   "all": "Boom (peak above trend), downturn/recession (falling), slump/trough (lowest point) - in order boom, recession, slump before recovery."
+  },
+  "economics.growth-evaluate-1.0003": {
+   "all": "Plan: jobs, incomes, tax revenue vs air pollution, inequality, resource depletion, inflation; depends on sustainability/distribution; judgement not always."
+  },
+  "economics.growth-evaluate-2.0001": {
+   "all": "Plan: falling AD/spending -> lower demand-pull, possible deflation; energy prices -> cost-push persists (stagflation); depends on duration, exchange rate, policy; judgement."
+  },
+  "economics.growth-evaluate-3.0003": {
+   "all": "Plan: low income C\u20ac4,000 -> growth reduces poverty, funds services; but time lags, opportunity cost, conflicts (inflation, environment, inequality, BoP); judgement."
+  },
+  "economics.growth-explain.0016": {
+   "all": "Population grew faster than GDP (1), so real GDP per capita fell by about 1% (1), so average living standards in Belmora likely fell (1)."
+  },
+  "economics.growth-mcq-auth.0004": {
+   "all": "D - falling unemployment"
+  },
+  "economics.growth-mcq-class.0004": {
+   "all": "C - discovery of new natural resources"
+  },
+  "economics.growth-mcq-def.0008": {
+   "all": "B"
+  },
+  "economics.inflation-analyse-1.0005": {
+   "all": "Plan: cost-push - energy and food prices raise firms' costs; wage-price spiral from wage demands; demand-pull if AD exceeds supply."
+  },
+  "economics.inflation-analyse-2.0003": {
+   "all": "Plan: higher rate (4.5%) raises borrowing costs, encourages saving -> lower C and I -> AD falls -> lower demand-pull inflation; stronger currency cheaper imports; time lags."
+  },
+  "economics.inflation-analyse-3.0003": {
+   "all": "Plan: delayed spending -> lower AD -> lower output, profits, jobs -> further price falls (deflationary spiral); real debt burden rises."
+  },
+  "economics.inflation-assess-1.0003": {
+   "all": "Plan: consumers - lower real incomes, savings eroded; firms - higher costs, menu costs, uncertainty, less competitive exports; but borrowers gain, wages may rise; judgement."
+  },
+  "economics.inflation-assess-2.0005": {
+   "all": "Plan: rates cut AD/demand-pull; but inflation here is cost-push (energy) so less effective, time lags, hurt growth; alternatives fiscal, supply-side; judgement."
+  },
+  "economics.inflation-assess-3.0004": {
+   "all": "Plan: harmful - delayed purchases, falling AD, unemployment, real debt; but if from productivity/cheaper imports (benign) raises real incomes; depends on cause/duration."
+  },
+  "economics.inflation-calc.0006": {
+   "all": "(6.8+9.4+11.7+9.6)/4 = 37.5/4 = 9.38% (9.375)"
+  },
+  "economics.inflation-define1.0007": {
+   "all": "Income adjusted for inflation; the quantity of goods and services that money income can buy."
+  },
+  "economics.inflation-define2.0006": {
+   "all": "Costs to firms of changing prices (1), e.g. reprinting menus/price lists (1)."
+  },
+  "economics.inflation-describe.0018": {
+   "all": "Rise in consumer spending (1), e.g. due to an income tax cut or lower interest rates, so AD exceeds productive capacity (1)."
+  },
+  "economics.inflation-evaluate-1.0004": {
+   "all": "Plan: as assess-1 with sustained judgement (depends on wage growth, duration)."
+  },
+  "economics.inflation-evaluate-2.0001": {
+   "all": "Plan: as assess-2 for Gallendra; judgement."
+  },
+  "economics.inflation-evaluate-3.0004": {
+   "all": "Plan: as assess-3 for Sundara, 16 months suggests entrenched expectations; judgement."
+  },
+  "economics.inflation-explain.0006": {
+   "all": "Prices rose faster than pay (1), so real incomes fell by about 4% (1), so workers can buy fewer goods/services (1)."
+  },
+  "economics.inflation-mcq-auth.0004": {
+   "all": "A - raising interest rates"
+  },
+  "economics.inflation-mcq-class.0004": {
+   "all": "A - a large cut in income tax"
+  },
+  "economics.inflation-mcq-def.0004": {
+   "all": "A"
+  },
+  "economics.inflation-state.0001": {
+   "all": "Menu costs / higher costs of raw materials / loss of international competitiveness"
+  },
+  "economics.inflation-state-class.0002": {
+   "all": "Cut in income tax / lower interest rates / rise in government spending"
+  },
+  "economics.inflation-state-id.0001": {
+   "all": "cost-push inflation"
+  },
+  "economics.intervention-analyse-1.0001": {
+   "all": "Plan: rent 24% below market -> tenants who get flats pay less, more disposable income; but supply falls (landlords sell), demand rises -> shortage, queues; poorer maintenance/quality; black market."
+  },
+  "economics.inflation-data.0004": {
+   "a": "108/88 x 100 = 122.73",
+   "b": "Plan: cost-push from energy/food; wage-price spiral; demand-pull.",
+   "c": "Plan: consumers real income/savings vs firms costs/competitiveness; judgement."
+  }
+ },
+ "verdicts": {
+  "economics.growth-diagram.0002": {
+   "result": "pass"
+  },
+  "economics.growth-evaluate-1.0003": {
+   "result": "pass"
+  },
+  "economics.growth-evaluate-2.0001": {
+   "result": "pass"
+  },
+  "economics.growth-evaluate-3.0003": {
+   "result": "pass"
+  },
+  "economics.growth-explain.0016": {
+   "result": "pass"
+  },
+  "economics.growth-mcq-auth.0004": {
+   "result": "pass"
+  },
+  "economics.growth-mcq-class.0004": {
+   "result": "pass"
+  },
+  "economics.growth-mcq-def.0008": {
+   "result": "pass"
+  },
+  "economics.inflation-analyse-1.0005": {
+   "result": "fail",
+   "problem": "Question asks for causes of inflation, but 3 of the 5 indicative points (falling real incomes, savers lose, menu costs/uncertainty) are effects, not causes.",
+   "fix": "Replace effect bullets with causes: demand-pull (AD exceeding capacity, e.g. rising spending/credit), wage-price spiral expectations, depreciation raising import prices."
+  },
+  "economics.inflation-analyse-2.0003": {
+   "result": "pass"
+  },
+  "economics.inflation-analyse-3.0003": {
+   "result": "pass"
+  },
+  "economics.inflation-assess-1.0003": {
+   "result": "pass"
+  },
+  "economics.inflation-assess-2.0005": {
+   "result": "pass"
+  },
+  "economics.inflation-assess-3.0004": {
+   "result": "pass"
+  },
+  "economics.inflation-calc.0006": {
+   "result": "pass"
+  },
+  "economics.inflation-define1.0007": {
+   "result": "pass"
+  },
+  "economics.inflation-define2.0006": {
+   "result": "pass"
+  },
+  "economics.inflation-describe.0018": {
+   "result": "pass"
+  },
+  "economics.inflation-evaluate-1.0004": {
+   "result": "pass"
+  },
+  "economics.inflation-evaluate-2.0001": {
+   "result": "pass"
+  },
+  "economics.inflation-evaluate-3.0004": {
+   "result": "pass"
+  },
+  "economics.inflation-explain.0006": {
+   "result": "pass"
+  },
+  "economics.inflation-mcq-auth.0004": {
+   "result": "pass"
+  },
+  "economics.inflation-mcq-class.0004": {
+   "result": "pass"
+  },
+  "economics.inflation-mcq-def.0004": {
+   "result": "pass"
+  },
+  "economics.inflation-state.0001": {
+   "result": "pass"
+  },
+  "economics.inflation-state-class.0002": {
+   "result": "pass"
+  },
+  "economics.inflation-state-id.0001": {
+   "result": "pass"
+  },
+  "economics.intervention-analyse-1.0001": {
+   "result": "pass"
+  },
+  "economics.inflation-data.0004": {
+   "result": "fail",
+   "problem": "Part (b): Question asks for causes of inflation, but 3 of the 5 indicative points (falling real incomes, savers lose, menu costs/uncertainty) are effects, not causes.",
+   "fix": "(a) 122.73 is correct. (b) Replace effect bullets with causes: demand-pull (AD exceeding capacity, e.g. rising spending/credit), wage-price spiral expectations, depreciation raising import prices."
+  }
+ }
+}

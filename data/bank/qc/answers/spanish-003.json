@@ -1,0 +1,160 @@
+{
+ "batch": "spanish-003",
+ "answers": {
+  "spanish.l-interview-4.d2.0002": {
+   "a": "C",
+   "b": "C",
+   "c": "B",
+   "d": "C",
+   "e": "C",
+   "f": "A"
+  },
+  "spanish.l-interview-4.e1.0013": {
+   "a": "D",
+   "b": "C",
+   "c": "D",
+   "d": "D",
+   "e": "C",
+   "f": "C"
+  },
+  "spanish.l-interview-4.e2.0009": {
+   "a": "B",
+   "b": "B",
+   "c": "C",
+   "d": "D",
+   "e": "C",
+   "f": "D"
+  },
+  "spanish.l-match.a1.0006": {
+   "a": "A",
+   "b": "E",
+   "c": "F",
+   "d": "C",
+   "e": "B"
+  },
+  "spanish.l-match.a2.0001": {
+   "a": "F",
+   "b": "C",
+   "c": "E",
+   "d": "D",
+   "e": "A"
+  },
+  "spanish.l-match.a3.0009": {
+   "a": "E",
+   "b": "F",
+   "c": "A",
+   "d": "C",
+   "e": "B"
+  },
+  "spanish.l-match.a4.0013": {
+   "a": "B",
+   "b": "F",
+   "c": "E",
+   "d": "C",
+   "e": "A"
+  },
+  "spanish.l-match.b1.0005": {
+   "a": "E",
+   "b": "B",
+   "c": "F",
+   "d": "C",
+   "e": "A"
+  },
+  "spanish.l-match.b2.0008": {
+   "a": "B",
+   "b": "E",
+   "c": "D",
+   "d": "F",
+   "e": "C"
+  },
+  "spanish.l-match.b4.0011": {
+   "a": "B",
+   "b": "C",
+   "c": "F",
+   "d": "D",
+   "e": "A"
+  },
+  "spanish.l-match.b5.0002": {
+   "a": "B",
+   "b": "E",
+   "c": "C",
+   "d": "F",
+   "e": "A"
+  },
+  "spanish.l-match.c1.0008": {
+   "a": "C",
+   "b": "B",
+   "c": "F",
+   "d": "D",
+   "e": "E"
+  },
+  "spanish.l-match.c2.0013": {
+   "a": "D",
+   "b": "C",
+   "c": "E",
+   "d": "A",
+   "e": "B"
+  },
+  "spanish.l-match.c3.0011": {
+   "a": "F",
+   "b": "E",
+   "c": "A",
+   "d": "C",
+   "e": "D"
+  },
+  "spanish.l-match.c4.0010": {
+   "a": "B",
+   "b": "F",
+   "c": "E",
+   "d": "C",
+   "e": "A"
+  }
+ },
+ "verdicts": {
+  "spanish.l-interview-4.d2.0002": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.e1.0013": {
+   "result": "pass"
+  },
+  "spanish.l-interview-4.e2.0009": {
+   "result": "pass"
+  },
+  "spanish.l-match.a1.0006": {
+   "result": "pass"
+  },
+  "spanish.l-match.a2.0001": {
+   "result": "pass"
+  },
+  "spanish.l-match.a3.0009": {
+   "result": "pass"
+  },
+  "spanish.l-match.a4.0013": {
+   "result": "pass"
+  },
+  "spanish.l-match.b1.0005": {
+   "result": "pass"
+  },
+  "spanish.l-match.b2.0008": {
+   "result": "pass"
+  },
+  "spanish.l-match.b4.0011": {
+   "result": "pass"
+  },
+  "spanish.l-match.b5.0002": {
+   "result": "pass"
+  },
+  "spanish.l-match.c1.0008": {
+   "result": "pass"
+  },
+  "spanish.l-match.c2.0013": {
+   "result": "pass"
+  },
+  "spanish.l-match.c3.0011": {
+   "result": "pass"
+  },
+  "spanish.l-match.c4.0010": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "batch": "english-language-000",
+ "answers": {
+  "english-language.q1.cliffharvest.1": {
+   "all": "any two of: 'a loaf of dark bread' (dropped into the sea) [line 1-2]; 'sheer'; 'three hundred metres'; 'black rock streaked white'"
+  },
+  "english-language.q1.chess.3": {
+   "all": "any two of: sat by the window; chessboard; playing against himself; face as still as a closed door"
+  },
+  "english-language.q1.afterwater.3": {
+   "all": "any two of: upper floor crowded with everyone; washing hung from the windows; goat on a corrugated roof bleating; line of women rinsing pots"
+  },
+  "english-language.q1.postcard.1": {
+   "all": "any two of: best bread I have ever eaten; river that turns copper-coloured at sunset; brass band that has played every Sunday; for 112 years"
+  }
+ },
+ "verdicts": {
+  "english-language.q1.cliffharvest.1": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-language.q1.chess.3": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-language.q1.afterwater.3": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-language.q1.postcard.1": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

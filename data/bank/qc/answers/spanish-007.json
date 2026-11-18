@@ -1,0 +1,225 @@
+{
+ "batch": "spanish-007",
+ "answers": {
+  "spanish.r-long.b4.0002": {
+   "a": "Guatemala",
+   "b": "por la mañana no pierde tiempo eligiendo ropa",
+   "c": "en tiendas de segunda mano",
+   "d": "le quedaba pequeña (tuvo que devolverla)",
+   "e": "los zapatos nuevos le hacían daño",
+   "f": "la gente gasta demasiado dinero en ropa que solo se pone una o dos veces",
+   "g": "lo odiaba",
+   "h": "compra más rápido",
+   "i": "un abrigo muy caliente / unos guantes",
+   "j": "para hacer su propia ropa",
+   "k": "viajar"
+  },
+  "spanish.r-long.b5.0013": {
+   "a": "España",
+   "b": "con una cena",
+   "c": "puede verlas cuando quiere",
+   "d": "el profesor era muy exigente",
+   "e": "las entradas son caras",
+   "f": "(a hacer) surf",
+   "g": "pasan demasiado tiempo con los videojuegos y poco al aire libre",
+   "h": "poder desconectar de los estudios",
+   "i": "juega a juegos de mesa con su familia",
+   "j": "a un club de ajedrez del barrio",
+   "k": "en salir con sus amigos"
+  },
+  "spanish.r-long.c1.0011": {
+   "a": "España",
+   "b": "muy abierta y acogedora",
+   "c": "para buscar trabajo",
+   "d": "lo diferentes que son las casas",
+   "e": "es tranquila / está al lado del mar",
+   "f": "Asia",
+   "g": "sus padres trabajaban allí como médicos",
+   "h": "te ayuda a entender mejor a otras personas",
+   "i": "hace las clases más interesantes",
+   "j": "en tren y en autobús",
+   "k": "está en el centro del país; buen sitio para viajar a todas partes"
+  },
+  "spanish.r-long.c2.0012": {
+   "a": "España",
+   "b": "por el tráfico",
+   "c": "hubo un incendio enorme en el bosque (murieron muchos animales)",
+   "d": "cada persona",
+   "e": "está en peligro de extinción",
+   "f": "paneles solares",
+   "g": "una bolsa de tela",
+   "h": "suave",
+   "i": "en un centro de recuperación de tortugas",
+   "j": "prohibiría los coches en el centro",
+   "k": "se esconde debajo de la cama"
+  },
+  "spanish.r-long.c3.0010": {
+   "a": "Paraguay",
+   "b": "puede hablar con su prima que vive en Canadá",
+   "c": "a veces la gente escribe comentarios crueles",
+   "d": "cada mes",
+   "e": "es demasiado",
+   "f": "a hacer videollamadas",
+   "g": "la pantalla le cansa los ojos",
+   "h": "está de acuerdo",
+   "i": "videojuegos",
+   "j": "no necesitarán conductor",
+   "k": "a las diez"
+  },
+  "spanish.r-long.c4.0008": {
+   "a": "Colombia",
+   "b": "peatonales",
+   "c": "los pisos son muy caros",
+   "d": "una biblioteca nueva",
+   "e": "está todo en el mismo sitio",
+   "f": "la policía",
+   "g": "tiendas / autobuses",
+   "h": "la vida es más tranquila",
+   "i": "le recomienda libros",
+   "j": "una estación de metro",
+   "k": "compara los precios en internet"
+  },
+  "spanish.r-long.d1.0002": {
+   "a": "Argentina",
+   "b": "va a clases particulares (de matemáticas)",
+   "c": "con películas",
+   "d": "no pueden salir del instituto en el recreo",
+   "e": "su francés",
+   "f": "hace resúmenes / se graba leyendo en voz alta",
+   "g": "más actividades al aire libre",
+   "h": "Medicina",
+   "i": "electricista",
+   "j": "los profesores mandan demasiados",
+   "k": "delegado de su clase"
+  },
+  "spanish.r-long.d2.0001": {
+   "a": "España",
+   "b": "sus compañeros son simpáticos",
+   "c": "para comprarse una moto",
+   "d": "solo hacía fotocopias",
+   "e": "cinco",
+   "f": "hacer algo útil",
+   "g": "en su país no encontraba trabajo",
+   "h": "muchas personas trabajarán desde casa",
+   "i": "monitor en un campamento para niños",
+   "j": "necesita dormir mucho",
+   "k": "le ayudó a escribir el currículum"
+  },
+  "spanish.r-long.e1.0001": {
+   "a": "Venezuela",
+   "b": "la pronunciación (la letra erre)",
+   "c": "con una familia en Cusco",
+   "d": "hablaban muy rápido",
+   "e": "en el bolsillo de su chaqueta",
+   "f": "aprendes mucho",
+   "g": "es útil pero no es suficiente",
+   "h": "probar la comida típica",
+   "i": "traductora",
+   "j": "por su cultura",
+   "k": "el avión tuvo un retraso de seis horas"
+  },
+  "spanish.r-long.e2.0005": {
+   "a": "Ecuador",
+   "b": "el premio al mejor disfraz",
+   "c": "no come durante el día",
+   "d": "probó muchos platos nuevos",
+   "e": "hasta las cuatro de la mañana",
+   "f": "hay demasiado ruido",
+   "g": "forman parte de nuestra identidad",
+   "h": "le parecen crueles y deberían prohibirse",
+   "i": "con su padre",
+   "j": "en una casa de campo",
+   "k": "los toros"
+  },
+  "spanish.r-match-ads.a2.0004": {
+   "a": "2",
+   "b": "6",
+   "c": "3",
+   "d": "1",
+   "e": "4"
+  },
+  "spanish.r-match-ads.a3.0001": {
+   "a": "4",
+   "b": "3",
+   "c": "8",
+   "d": "1",
+   "e": "7"
+  },
+  "spanish.r-match-ads.b2.0004": {
+   "a": "8",
+   "b": "7",
+   "c": "1",
+   "d": "6",
+   "e": "4"
+  },
+  "spanish.r-match-ads.b4.0002": {
+   "a": "2",
+   "b": "7",
+   "c": "4",
+   "d": "5",
+   "e": "3"
+  },
+  "spanish.r-match-ads.b5.0008": {
+   "a": "2",
+   "b": "1",
+   "c": "5",
+   "d": "3",
+   "e": "6"
+  }
+ },
+ "verdicts": {
+  "spanish.r-long.b4.0002": {
+   "result": "fail",
+   "problem": "(h) hinges on 'pero solo compro más rápido', where 'solo' reads as 'only', so the advantage of shopping alone is not clearly stated.",
+   "fix": "Text: 'Me gusta ir de compras con mis amigos, pero cuando voy solo compro más rápido.'"
+  },
+  "spanish.r-long.b5.0013": {
+   "result": "pass"
+  },
+  "spanish.r-long.c1.0011": {
+   "result": "fail",
+   "problem": "Factual error: Elisa is from Santander, which is on the north coast of Spain, not 'en el centro del país' (the basis of part k).",
+   "fix": "Make her from Madrid (or Valladolid), or change the last line to 'Mi ciudad está en la costa norte y tiene buenas conexiones', adjusting (k)."
+  },
+  "spanish.r-long.c2.0012": {
+   "result": "fail",
+   "problem": "Factual error: Andrés is from Sevilla, but the text says his region's summers are not very hot; Seville has famously very hot summers (basis of part h).",
+   "fix": "Change the city to one with a mild climate (e.g. Santander or A Coruña), or rewrite (h) as 'en verano hace muchísimo calor'."
+  },
+  "spanish.r-long.c3.0010": {
+   "result": "pass"
+  },
+  "spanish.r-long.c4.0008": {
+   "result": "pass"
+  },
+  "spanish.r-long.d1.0002": {
+   "result": "pass"
+  },
+  "spanish.r-long.d2.0001": {
+   "result": "pass"
+  },
+  "spanish.r-long.e1.0001": {
+   "result": "fail",
+   "problem": "Implausible context: Paula is from Caracas (a native Spanish speaker), yet she finds Spanish pronunciation of the 'erre' hard, and in Cusco she did not understand anything because people spoke fast; the mark scheme ('Refuse el español') assumes she is learning Spanish.",
+   "fix": "Make her from a non-Spanish-speaking city (e.g. Lisboa / Londres), or make the difficulty another language (e.g. la pronunciación del francés) and the exchange in a non-Spanish-speaking country."
+  },
+  "spanish.r-long.e2.0005": {
+   "result": "pass"
+  },
+  "spanish.r-match-ads.a2.0004": {
+   "result": "pass"
+  },
+  "spanish.r-match-ads.a3.0001": {
+   "result": "pass"
+  },
+  "spanish.r-match-ads.b2.0004": {
+   "result": "pass"
+  },
+  "spanish.r-match-ads.b4.0002": {
+   "result": "pass"
+  },
+  "spanish.r-match-ads.b5.0008": {
+   "result": "pass"
+  }
+ }
+}

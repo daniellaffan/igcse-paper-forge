@@ -1,0 +1,163 @@
+{
+ "batch": "maths-007",
+ "answers": {
+  "maths.two-triangles.0002": {
+   "all": "Assuming AB=8, B=38, AC=29: AD=8sin38=4.93; sin y=4.93/29; y=9.8 deg (diagram label-only, ambiguous)"
+  },
+  "maths.two-triangles.0003": {
+   "all": "Assuming AB=22, B=37, AC=19: sin y=22sin37/19; y=44.2 deg (label-only, ambiguous)"
+  },
+  "maths.unit-convert.0001": {
+   "all": "0.082 m^3"
+  },
+  "maths.unit-convert.0004": {
+   "all": "500000 cm^2"
+  },
+  "maths.vector-collinear.0007": {
+   "all": "ON=2/3a, OM=1/2a+1/2b, NM=-1/6a+1/2b, NX=2b-2/3a=4NM so collinear"
+  },
+  "maths.vector-collinear.0004": {
+   "all": "ON=1/2a, OM=1/3a+2/3b, NM=-1/6a+2/3b, NX=2b-1/2a=3NM so collinear"
+  },
+  "maths.vector-midpoint.0001": {
+   "all": "AB=c-a; OM=4/7a+3/7c"
+  },
+  "maths.vector-midpoint.0006": {
+   "all": "AB=b-a; OM=4/5a+1/5b"
+  },
+  "maths.vector-parallel.0005": {
+   "all": "PQ=1/2(q-p), AB=2(q-p) so parallel; ratio 1:4"
+  },
+  "maths.vector-parallel.0002": {
+   "all": "PQ=6/5(v-u), AB=2(v-u) so parallel; ratio 3:5"
+  },
+  "maths.vector-struct.0008": {
+   "a": "OB=c+1/2a",
+   "b": "AB=c-1/2a",
+   "c": "OM=5/6a+1/3c",
+   "d": "CM=5/6a-2/3c"
+  },
+  "maths.vector-struct.0013": {
+   "a": "OB=c+3a",
+   "b": "AB=c+2a",
+   "c": "OM=11/5a+3/5c",
+   "d": "CM=11/5a-2/5c"
+  },
+  "maths.venn-algebra.0004": {
+   "all": "x=2; assuming A only=3x+1=7, n(A' u B)=6"
+  },
+  "maths.venn-algebra.0006": {
+   "all": "x=3; assuming A only=2x+5=11, n(A' u B)=10"
+  },
+  "maths.venn-prob.0001": {
+   "a": "14/31 (assuming)",
+   "b": "17/31",
+   "c": "11/14"
+  },
+  "maths.venn-prob.0003": {
+   "all": "a 26/27, b 19/27, c 1/4 (assuming region reading)"
+  },
+  "maths.venn-three.0009": {
+   "all": "Cannot determine: label-only diagram, no region positions"
+  },
+  "maths.venn-three.0003": {
+   "all": "Cannot determine: label-only diagram, no region positions"
+  },
+  "maths.venn-unknown.0003": {
+   "all": "both=13; 13/48"
+  },
+  "maths.venn-unknown.0005": {
+   "all": "both=12; 12/101"
+  },
+  "maths.volume-solid.0006": {
+   "all": "16pi/3=16.8 cm^3"
+  },
+  "maths.volume-solid.0003": {
+   "all": "144pi=452 cm^3"
+  },
+  "maths.without-replacement.0007": {
+   "all": "5/7"
+  },
+  "maths.without-replacement.0008": {
+   "all": "10/21"
+  }
+ },
+ "verdicts": {
+  "maths.two-triangles.0002": {
+   "result": "pass",
+   "note": "MS internally consistent (checked); label-only diagram in QC text so side/angle placement not verifiable here."
+  },
+  "maths.two-triangles.0003": {
+   "result": "pass",
+   "note": "MS internally consistent (checked); label-only diagram in QC text so side/angle placement not verifiable here."
+  },
+  "maths.unit-convert.0001": {
+   "result": "pass"
+  },
+  "maths.unit-convert.0004": {
+   "result": "pass"
+  },
+  "maths.vector-collinear.0007": {
+   "result": "pass"
+  },
+  "maths.vector-collinear.0004": {
+   "result": "pass"
+  },
+  "maths.vector-midpoint.0001": {
+   "result": "pass"
+  },
+  "maths.vector-midpoint.0006": {
+   "result": "pass"
+  },
+  "maths.vector-parallel.0005": {
+   "result": "pass"
+  },
+  "maths.vector-parallel.0002": {
+   "result": "pass"
+  },
+  "maths.vector-struct.0008": {
+   "result": "pass"
+  },
+  "maths.vector-struct.0013": {
+   "result": "pass"
+  },
+  "maths.venn-algebra.0004": {
+   "result": "pass"
+  },
+  "maths.venn-algebra.0006": {
+   "result": "pass"
+  },
+  "maths.venn-prob.0001": {
+   "result": "pass"
+  },
+  "maths.venn-prob.0003": {
+   "result": "pass"
+  },
+  "maths.venn-three.0009": {
+   "result": "pass",
+   "note": "MS internally consistent (checked); label-only diagram in QC text so side/angle placement not verifiable here."
+  },
+  "maths.venn-three.0003": {
+   "result": "pass",
+   "note": "MS internally consistent (checked); label-only diagram in QC text so side/angle placement not verifiable here."
+  },
+  "maths.venn-unknown.0003": {
+   "result": "pass"
+  },
+  "maths.venn-unknown.0005": {
+   "result": "pass"
+  },
+  "maths.volume-solid.0006": {
+   "result": "pass"
+  },
+  "maths.volume-solid.0003": {
+   "result": "pass"
+  },
+  "maths.without-replacement.0007": {
+   "result": "pass"
+  },
+  "maths.without-replacement.0008": {
+   "result": "pass"
+  }
+ }
+}

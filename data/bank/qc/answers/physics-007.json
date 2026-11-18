@@ -1,0 +1,33 @@
+{
+ "batch": "physics-007",
+ "answers": {
+  "physics.wo-gpe.0003": {
+   "all": "GPE = mgh = 77 x 10 x 25 = 19250 J"
+  },
+  "physics.wo-ke.0003": {
+   "all": "v = sqrt(2KE/m) = sqrt(2 x 638/51) = 5.00 m/s"
+  },
+  "physics.wo-power.0004": {
+   "all": "t = W/P = 69200/11500 = 6.02 s"
+  },
+  "physics.wo-work.0001": {
+   "all": "F = W/d = 6160/56 = 110 N"
+  }
+ },
+ "verdicts": {
+  "physics.wo-gpe.0003": {
+   "result": "pass"
+  },
+  "physics.wo-ke.0003": {
+   "result": "pass"
+  },
+  "physics.wo-power.0004": {
+   "result": "fail",
+   "problem": "69200/11500 = 6.02 s, but mark scheme gives 6.00 s and allows only 6.0/6.00/6.000.",
+   "fix": "Change work to 69000 J (t = 6.00 s), or set answer to 6.02 s and allow 6.0, 6.02."
+  },
+  "physics.wo-work.0001": {
+   "result": "pass"
+  }
+ }
+}

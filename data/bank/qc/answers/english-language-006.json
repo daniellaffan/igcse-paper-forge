@@ -1,0 +1,31 @@
+{
+  "batch": "english-language-006",
+  "answers": {
+    "english-language.w.article.exams": {
+      "all": "Plan: article, engaging headline, hook; balanced-to-persuasive view that exams are partly fair (standardised, objective, motivating) but narrow (stress, memory, one-day luck); alternatives (coursework, portfolios, continuous assessment, practicals); strong close. Formal-ish magazine register, varied sentences, accurate SPaG. AO4 27 + AO5 18."
+    },
+    "english-language.w.article.volunteer": {
+      "all": "Plan: local-newspaper article, headline; argue for volunteering (skills, CV, community benefit, wellbeing) with local examples; barriers (time, exams, transport, cost, lack of information); suggest solutions, not compulsion; persuasive close. AO4 27 + AO5 18."
+    },
+    "english-language.w.article.music": {
+      "all": "Plan: school magazine article under 'Creativity Counts'; value of arts (wellbeing, skills, employment, expression, culture); why seen as less important (exam focus, funding, 'useful' subjects); rebut; call to action. Student audience, lively tone. AO4 27 + AO5 18."
+    },
+    "english-language.w.article.gaming": {
+      "all": "Plan: local newspaper article; positives (teamwork, problem solving, social, careers, relaxation); risks (addiction, sleep, violence, cost, screen time); balanced view with moderation, address parents/older readers; strong ending. AO4 27 + AO5 18."
+    }
+  },
+  "verdicts": {
+    "english-language.w.article.exams": {
+      "result": "pass"
+    },
+    "english-language.w.article.volunteer": {
+      "result": "pass"
+    },
+    "english-language.w.article.music": {
+      "result": "pass"
+    },
+    "english-language.w.article.gaming": {
+      "result": "pass"
+    }
+  }
+}

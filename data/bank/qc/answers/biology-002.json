@@ -1,0 +1,292 @@
+{
+ "batch": "biology-002",
+ "answers": {
+  "biology.cloning-recall.0005": {
+   "all": "electric shock / electrical stimulation"
+  },
+  "biology.cloning-recall-fact.0002": {
+   "all": "enucleated egg (cell)"
+  },
+  "biology.cloning-recall-multi.0004": {
+   "a": "e.g. antithrombin / alpha-1-antitrypsin / clotting factor in milk",
+   "b": "agar"
+  },
+  "biology.co2_change.0001": {
+   "all": "(383-343)/343 x 100 = 11.7%"
+  },
+  "biology.comprehension-altitude.0001": {
+   "a": "Fewer oxygen molecules per breath; so breathe faster to take in enough oxygen for respiration",
+   "b": "Biconcave/large SA for diffusion; no nucleus so more haemoglobin; haemoglobin binds oxygen",
+   "c": "dissolved in the blood plasma",
+   "d": "(6.1-5.0)/5.0 x 100 = 22%",
+   "e": "Mutation produced allele / variation; those with allele survived better in low oxygen; reproduced and passed allele on; frequency increased over generations",
+   "f": "Not enough oxygen supplied to muscles; anaerobic respiration; glucose to lactic acid",
+   "g": "More haemoglobin so more oxygen carried to muscles; more aerobic respiration / more energy, less lactic acid",
+   "h": "Thicker blood more likely to clot / flows slowly; clot blocks coronary artery so heart muscle starved of oxygen"
+  },
+  "biology.comprehension-bees.0001": {
+   "a": "anther (stamen)",
+   "b": "Large brightly coloured petals; strong scent; nectar (nectaries) as food reward",
+   "c": "Dissolved in water absorbed by roots; transported in xylem in transpiration stream to all parts",
+   "d": "Neurotransmitter released from end of neurone, diffuses across gap, binds to receptors on next neurone triggering impulse",
+   "e": "(13.7-2.0)/13.7 x 100 = 85.4%",
+   "f": "Any two: same number of colonies (25), same food (pollen and sugar solution), same time of exposure (6 weeks), same field, same concentration",
+   "g": "Fewer flowers pollinated; fewer fertilised; fewer fruits/seeds; lower yield",
+   "h": "Specific to pest so does not harm bees/other organisms; no chemical residues/bioaccumulation; no resistance; long-lasting"
+  },
+  "biology.comprehension-cassava.0001": {
+   "a": "starch",
+   "b": "Phloem carries sucrose/amino acids (translocation); source of food/energy for whitefly",
+   "c": "Cuttings produced by asexual reproduction / mitosis; virus present in all tissues/sap of parent so passed on",
+   "d": "ligase",
+   "e": "152/200 x 100 = 76%",
+   "f": "22.5/9.0 = 2.5 times",
+   "g": "Cross resistant variety with high-yield variety; select offspring with both resistance and high yield; breed these; repeat over many generations",
+   "h": "Adv: resistant, higher yield (22.5 vs 9), reduces famine; Disadv: genes may spread to wild relatives, effects on insects, cost/seed",
+   "i": "transgenic"
+  },
+  "biology.comprehension-coral.0001": {
+   "a": "protoctists",
+   "b": "Tentacles/mouth catch small animals (feed on other organisms); soft body; produce nitrogenous waste; cannot photosynthesise",
+   "c": "Algae photosynthesise giving coral glucose and amino acids; coral provides CO2 for photosynthesis and nitrogen waste for amino acid/protein synthesis; algae get shelter",
+   "d": "(42-17)/42 x 100 = 59.5%",
+   "e": "Burning fossil fuels / deforestation release CO2 (and methane from cattle); enhanced greenhouse effect; more heat/infrared trapped; global warming raises sea temperature",
+   "f": "methane",
+   "g": "Coral died so less food/shelter; fish starve or move away / eaten by predators",
+   "h": "Sewage adds nutrients causing algal growth blocking light; bacteria decompose and respire using oxygen; less oxygen/light for coral and algae; pathogens"
+  },
+  "biology.comprehension-dengue.0001": {
+   "a": "virus",
+   "b": "vector",
+   "c": "plasmids",
+   "d": "Bacterium lives in cytoplasm of eggs; every egg receives cytoplasm from mother so all offspring infected",
+   "e": "(2940-680)/2940 x 100 = 76.9%",
+   "f": "Antibodies produced by lymphocytes only in response to dengue antigens; specific so presence shows infection",
+   "g": "Other half acts as control for comparison; to show reduction caused by Wolbachia not other factors",
+   "h": "Random mutation gives resistance; resistant mosquitoes survive spraying; reproduce passing on allele; resistance becomes common",
+   "i": "Fish/dragonfly larvae/birds/bats lose food source so their populations fall; may eat other prey instead"
+  },
+  "biology.comprehension-diabetes.0001": {
+   "a": "pancreas",
+   "b": "Insulin causes liver and muscle cells to take up glucose; liver converts glucose to glycogen to store; blood glucose falls",
+   "c": "537 x 0.9 = 483 million",
+   "d": "Working muscles respire more, using more glucose; take up glucose from blood even without insulin",
+   "e": "More aerobic respiration; more energy (ATP) released for contraction; less lactic acid",
+   "f": "Large sample (3000); long period (3 years); control group given no advice",
+   "g": "proximal convoluted tubule",
+   "h": "Too much glucose filtered; cannot all be reabsorbed (carriers saturated) so some remains in urine",
+   "i": "Inherit alleles that increase risk; families share similar diet/lifestyle"
+  },
+  "biology.comprehension-lactose.0001": {
+   "a": "protein (enzyme)",
+   "b": "37 near optimum - frequent collisions/substrate fits active site; at 60 denatured - active site shape changed so substrate cannot bind",
+   "c": "Ll x Ll -> LL, Ll, Ll, ll; ll non-persistent; probability 1/4 (0.25, 25%)",
+   "d": "heterozygous",
+   "e": "Mutation produced L allele; people with L could digest milk, more likely to survive food shortage and reproduce; pass on L; frequency increases over generations",
+   "f": "Bacteria convert lactose to lactic acid so less lactose; less lactose reaches large intestine for gas-producing bacteria",
+   "g": "Lactase breaks down lactose to glucose and galactose; glucose absorbed into blood in small intestine",
+   "h": "Undigested lactose reaches large intestine; bacteria respire anaerobically on it producing gases (CO2)",
+   "i": "Healthy bones/teeth; blood clotting; muscle contraction"
+  },
+  "biology.comprehension-seagrass.0001": {
+   "a": "pollination",
+   "b": "6CO2 + 6H2O -> C6H12O6 + 6O2",
+   "c": "Little oxygen; decomposers (bacteria/fungi) cannot respire aerobically so decomposition slow",
+   "d": "830/230 = 3.6",
+   "e": "Nitrates cause algal growth/bloom blocking light; seagrass cannot photosynthesise and dies; (decomposers use up oxygen)",
+   "f": "(30-8)/8 x 100 = 275%",
+   "g": "Place frames at random; count shoots in each of many frames; calculate mean per 0.25 m2; multiply to per m2 (x4) then by 360 000 m2",
+   "h": "Seagrass absorbs CO2 in photosynthesis and stores carbon in roots/mud; less CO2 in atmosphere reduces greenhouse effect"
+  },
+  "biology.comprehension-sickle.0001": {
+   "a": "mutation",
+   "b": "Each amino acid coded by triplet of bases (codon); change in one base changes the codon so a different amino acid",
+   "c": "Sickle cells destroyed quickly / carry less oxygen; less oxygen to cells; less aerobic respiration so less energy",
+   "d": "protoctists",
+   "e": "AS x AS -> AA, AS, AS, SS; SS has disease; probability 1/4",
+   "f": "Carriers less likely to die from malaria; survive and reproduce; pass on S allele; so allele frequency high (natural selection)",
+   "g": "Donor marrow stem cells have normal alleles; divide and differentiate into red blood cells with normal haemoglobin",
+   "h": "Adv: early treatment/care; Disadv: stress/anxiety, cost, small risk/consent issues",
+   "i": "25% x 2400 = 600"
+  },
+  "biology.comprehension-soil-antibiotic.0001": {
+   "a": "fungi",
+   "b": "Reduces competition for nutrients/space; so more resources for them to grow and reproduce",
+   "c": "Diffusion through the partially permeable membrane; from high concentration in soil to low in holes; membrane lets small molecules through but not bacteria",
+   "d": "25/10000 x 100 = 0.25%",
+   "e": "Control; to show that survival was due to the antibiotic, not the injection itself",
+   "f": "human cells do not have a cell wall",
+   "g": "Mutation gives resistance; antibiotic kills non-resistant bacteria; resistant ones survive and reproduce; overuse of antibiotics in hospitals; spread between patients",
+   "h": "Target is not a protein so not coded directly by a gene; one mutation changes one protein only",
+   "i": "May be toxic to humans/side effects; check safe dose; may work differently in humans"
+  },
+  "biology.comprehension-tb.0001": {
+   "a": "bacterium",
+   "b": "Phagocytes engulf bacteria (phagocytosis); digest them with enzymes",
+   "c": "Reduced surface area for gas exchange; less oxygen diffuses into blood; scar tissue thickens - longer diffusion distance; so breathe faster",
+   "d": "1.3/10.6 x 100 = 12.3%",
+   "e": "Contains antigens similar to TB; lymphocytes produce antibodies and memory cells; on infection memory cells produce antibodies rapidly in large numbers",
+   "f": "Not all bacteria killed; resistant ones survive; reproduce; resistant strain spreads",
+   "g": "Double blind to avoid bias; placebo effect; doctors' judgement not influenced",
+   "h": "a placebo"
+  },
+  "biology.comprehension-vertical-farm.0001": {
+   "a": "Farms built close to the shops so vegetables travel only a few km",
+   "b": "Nitrate for amino acids/proteins; magnesium for chlorophyll",
+   "c": "Supply oxygen to roots for aerobic respiration; energy for active transport of mineral ions",
+   "d": "Chlorophyll absorbs red and blue light; used for photosynthesis; green reflected so wasted",
+   "e": "CO2 is a reactant/limiting factor so more photosynthesis; 24 C near optimum for enzymes; more glucose for growth",
+   "f": "105/3.5 = 30 times",
+   "g": "photosynthesis",
+   "h": "No chemical residues/specific to pest/does not harm other organisms; no resistance",
+   "i": "Better: less water, no pesticides, less transport fuel, less land; Worse: electricity from fossil fuels contributes to climate change"
+  },
+  "biology.crop_yield.0011": {
+   "all": "(52-36)/36 x 100 = 44.4%"
+  },
+  "biology.crops-data-graph.0004": {
+   "a": "Yield increases as fertiliser increases then levels off at high fertiliser; quote data",
+   "b": "Fertiliser provides nitrate; used to make amino acids/proteins for growth; more growth/photosynthesis so higher yield; levels off as another factor limits"
+  },
+  "biology.crops-data-pct.0001": {
+   "a": "(46-24)/24 x 100 = 92%",
+   "b": "Yield increases as CO2 increases because CO2 is limiting factor for photosynthesis; levels off at high CO2 because another factor (light/temperature) limits"
+  },
+  "biology.crops-data-plot.0004": {
+   "a": "Axes correct with labels/units; linear scale; points plotted; smooth curve",
+   "b": "Yield increases with fertiliser up to 200 kg/ha then levels off at 5.6 t/ha; increase becomes smaller"
+  },
+  "biology.crops-data-read.0002": {
+   "a": "Read graph ~34 kg per m2",
+   "b": "(yield at 1100 - yield at 500)/600, e.g. (46-34)/600 = 0.02 kg per m2 per ppm",
+   "c": "CO2 limiting so photosynthesis rises; then levels off as another factor limits"
+  },
+  "biology.crops-describe.0001": {
+   "all": "Control temperature (heaters) for enzymes; add CO2 (paraffin heaters) for photosynthesis; artificial lighting extends day; control water/humidity; exclude pests; fertilisers"
+  },
+  "biology.crops-describe-multi.0003": {
+   "a": "temperature; carbon dioxide concentration (or light)",
+   "b": "Add fertiliser containing nitrates/phosphate/potassium; nitrate used to make proteins for growth; add correct amount at right time"
+  },
+  "biology.crops-explain.0006": {
+   "all": "Pesticides may kill non-target organisms e.g. pollinators; bioaccumulation along food chain; toxic concentration in top predators"
+  },
+  "biology.crops-explain-multi.0002": {
+   "a": "fertiliser",
+   "b": "Kill non-target species; accumulate in food chains; reach toxic levels in top consumers"
+  },
+  "biology.crops-mcq.0002": {
+   "all": "rate of photosynthesis increases"
+  },
+  "biology.crops-mcq-fwd.0002": {
+   "all": "insecticide"
+  },
+  "biology.crops-mcq-rev.0008": {
+   "all": "Supplies mineral ions such as nitrate to the soil"
+  },
+  "biology.crops-prac-method.0001": {
+   "all": "Two glasshouses/areas with different CO2 concentrations (paraffin heater/CO2 supply); same lettuce variety/number, temperature, light, water; grow for same time; measure mass of lettuces; repeat and calculate mean"
+  },
+  "biology.crops-prac-plan.0002": {
+   "all": "Groups of tomato plants given different masses of fertiliser (include zero control); control variety, age, soil, water, light, temperature; several plants per group; measure mass of tomatoes after set time; calculate mean; compare"
+  }
+ },
+ "verdicts": {
+  "biology.cloning-recall.0005": {
+   "result": "pass"
+  },
+  "biology.cloning-recall-fact.0002": {
+   "result": "pass"
+  },
+  "biology.cloning-recall-multi.0004": {
+   "result": "pass"
+  },
+  "biology.co2_change.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-altitude.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-bees.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-cassava.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-coral.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-dengue.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-diabetes.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-lactose.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-seagrass.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-sickle.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-soil-antibiotic.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-tb.0001": {
+   "result": "pass"
+  },
+  "biology.comprehension-vertical-farm.0001": {
+   "result": "pass"
+  },
+  "biology.crop_yield.0011": {
+   "result": "pass"
+  },
+  "biology.crops-data-graph.0004": {
+   "result": "pass",
+   "problem": "Diagram not visible; pass as mark scheme values (3.8 to 8.2 t/ha) are consistent with axis labels."
+  },
+  "biology.crops-data-pct.0001": {
+   "result": "fail",
+   "problem": "Part b says 'Explain the shape of the graph' but the question gives only a table and no graph.",
+   "fix": "Reword to 'Explain the trend shown by the data in the table.'"
+  },
+  "biology.crops-data-plot.0004": {
+   "result": "pass"
+  },
+  "biology.crops-data-read.0002": {
+   "result": "pass",
+   "problem": "Diagram not visible; pass as readings (27 at 500 ppm, 36 at 1100 ppm) are consistent with axis labels."
+  },
+  "biology.crops-describe.0001": {
+   "result": "pass"
+  },
+  "biology.crops-describe-multi.0003": {
+   "result": "pass"
+  },
+  "biology.crops-explain.0006": {
+   "result": "pass"
+  },
+  "biology.crops-explain-multi.0002": {
+   "result": "pass"
+  },
+  "biology.crops-mcq.0002": {
+   "result": "pass"
+  },
+  "biology.crops-mcq-fwd.0002": {
+   "result": "pass"
+  },
+  "biology.crops-mcq-rev.0008": {
+   "result": "pass"
+  },
+  "biology.crops-prac-method.0001": {
+   "result": "fail",
+   "problem": "Stem introduces 'a grower' but the question then asks how 'the student' could carry out the investigation.",
+   "fix": "Change 'the student' to 'the grower'."
+  },
+  "biology.crops-prac-plan.0002": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,227 @@
+{
+ "batch": "physics-001",
+ "answers": {
+  "physics.de-prac-irreg.0002": {
+   "a": "part-fill measuring cylinder with water, read level; lower stone in gently (on thread) so fully submerged; read new level; volume = difference",
+   "b": "V = 51 - 36 = 15 cm3; density = 39.0/15 = 2.6 g/cm3",
+   "c": "parallax reading meniscus - read at eye level at bottom of meniscus; or splashing/air bubbles - lower gently on thread"
+  },
+  "physics.de-prac-reg.0006": {
+   "a": "ruler (or vernier calipers) for lengths; balance for mass",
+   "b": "V = 4.1x2x2.7 = 22.14 cm3; rho = 175/22.14 = 7.90 g/cm3 = 7900 kg/m3",
+   "c": "to calculate a mean and reduce effect of random errors"
+  },
+  "physics.de-rho.0003": {
+   "a": "density = mass / volume",
+   "b": "V = 119 cm3; rho = 109/119 = 0.92 g/cm3"
+  },
+  "physics.el-data.0006": {
+   "a": "CANNOT: force values missing from table",
+   "b": "no - extension not proportional to force: increments of extension increase (2.4, 2.9, 4.0, 4.5, 5.2, 6.0), assuming equal force steps; graph is a curve, not straight line through origin"
+  },
+  "physics.el-prac-band.0002": {
+   "a": "clamp wire from stand, attach marker/hanger at bottom; measure initial length/marker position with ruler; add 50 g masses one at a time; measure new position, extension = new - original; force = weight (0.49 N per 50 g); repeat and plot extension vs force",
+   "b": "wire may snap / masses fall on feet - wear goggles, keep feet clear, place tray/cushion below",
+   "c": "to check whether wire returns to original length (exceeded elastic limit / shows elastic behaviour) and to give repeat readings"
+  },
+  "physics.el-prac-spring.0004": {
+   "a": "IV load (force/weight); DV length (extension) of spring",
+   "b": "same spring / temperature",
+   "c": "CANNOT determine directly: load values not given in table; if loads 0-5 N in 1 N steps, extension = 23.7 - 9.0 = 14.7 cm",
+   "d": "read ruler at eye level (avoid parallax); use pointer/fiducial marker; ruler vertical and close to spring; wait for spring to stop moving"
+  },
+  "physics.electricity-charge-explain-kb.0008": {
+   "a": "charge is conserved - not created or destroyed; all electrons entering must leave (rate of flow in = out)",
+   "b": "same electrons flow through each part, only one path; electrons not used up, so rate of flow of charge is same everywhere",
+   "c": "1.5 J of energy transferred per coulomb of charge passing through the cell"
+  },
+  "physics.electricity-charge-mcq-kb.0007": {
+   "all": "60 J"
+  },
+  "physics.electricity-charge-recall-kb.0003": {
+   "a": "charge = current x time (Q = I t)",
+   "b": "coulomb (C)"
+  },
+  "physics.electricity-circuits-describe-kb.0014": {
+   "a": "current increases but by smaller amounts as voltage increases (not proportional); curve levels off",
+   "b": "changing the resistor's resistance (slider moves, changes length of wire) - increasing resistance decreases current, decreasing resistance increases it"
+  },
+  "physics.electricity-circuits-explain-kb.0013": {
+   "a": "total resistance increases so current decreases; voltage shared among more lamps so less power each",
+   "b": "current heats filament; temperature rises so metal ions vibrate more; electrons collide more often with ions so resistance increases"
+  },
+  "physics.electricity-circuits-extended-kb.0008": {
+   "a": "ammeter; lamp (or LED, buzzer)",
+   "b": "LDR resistance high in dark; thermistor resistance high in cold; each in potential divider with fixed resistor; voltage across LDR/thermistor rises when dark/cold; this voltage operates a switch (transistor/relay) turning on lamps / heater; relay allows small sensor current to switch large mains current; adjust with variable resistor to set threshold"
+  },
+  "physics.electricity-circuits-mcq-kb.0006": {
+   "all": "it decreases"
+  },
+  "physics.electricity-circuits-recall-kb.0012": {
+   "a": "ammeter in series with lamp; voltmeter in parallel across lamp",
+   "b": "if one lamp breaks the others stay on / each lamp gets full voltage so brighter / can be switched independently"
+  },
+  "physics.electricity-mains-describe-kb.0013": {
+   "a": "fuse in live wire contains thin wire; if current exceeds rating, wire heats and melts; circuit broken so current stops, preventing overheating/fire",
+   "b": "cell gives direct current (one direction, constant); mains is alternating current (direction reverses, 50 Hz, 230 V)",
+   "c": "casing made of plastic insulator, live parts cannot touch an accessible conducting part; so case cannot become live - no earth wire needed"
+  },
+  "physics.electricity-mains-explain-kb.0006": {
+   "a": "electrons collide with ions in the resistor lattice; transfer energy to ions, which vibrate more - thermal energy store increases",
+   "b": "fuse melting disconnects appliance from the high voltage live wire; if in neutral, appliance would remain live after fuse blew, risk of shock"
+  },
+  "physics.electricity-mains-extended-kb.0010": {
+   "a": "kettle; toaster (electric heater, hair dryer, iron)",
+   "b": "I = P/V = 2000/230 = 8.7 A; choose fuse just above normal current: 13 A (3 A and 5 A would blow in normal use); too large a fuse would let dangerous current flow in fault without melting, wires overheat - fire; too small blows immediately"
+  },
+  "physics.electricity-mains-mcq-kb.0014": {
+   "a": "earth",
+   "b": "circuit breaker",
+   "c": "joule"
+  },
+  "physics.electricity-mains-recall-kb.0002": {
+   "all": "earth wire; fuse (or circuit breaker / double insulation)"
+  },
+  "physics.electricity-static-explain-kb.0013": {
+   "a": "friction transfers electrons from jumper to balloon; balloon gains electrons so has excess negative charge",
+   "b": "negative balloon repels electrons in wall surface away; surface of wall nearest becomes positive (induced charge); attraction between opposite charges (closer, stronger than repulsion) holds balloon"
+  },
+  "physics.electricity-static-extended-kb.0004": {
+   "a": "photocopier / inkjet printer / electrostatic paint spraying / precipitator",
+   "b": "rub two polythene rods with cloth; suspend one on thread; bring other near - repel; rub acetate rod, bring near suspended polythene - attract. Polythene gains electrons (negative), acetate loses electrons (positive); like charges repel, unlike attract, so two types of charge exist"
+  },
+  "physics.electricity-static-mcq-kb.0014": {
+   "a": "charge flows through the metal and the person to earth",
+   "b": "inkjet printer"
+  },
+  "physics.electricity-static-recall-kb.0013": {
+   "a": "plastic (polythene); rubber (glass, wood)",
+   "b": "photocopier/ paint spraying / inkjet printer"
+  },
+  "physics.em-c.0001": {
+   "all": "lambda = v/f = 3.0e8/210000 = 1430 m (1428.6)"
+  },
+  "physics.em-flhr.0003": {
+   "a": "force down the page (towards bottom of page, in plane of page)",
+   "b": "concentric circles around the wire; spacing increases further from wire (direction by right-hand grip rule)",
+   "c": "increase the current; use a stronger magnet (or longer wire in field)"
+  },
+  "physics.em-motor.0004": {
+   "a": "depends on diagram: forces on the two sides perpendicular to field are opposite (one up, one down) by FLHR",
+   "b": "to make electrical contact with the rotating commutator, conducting current to the coil",
+   "c": "reverse the current direction (battery); reverse the magnetic field (swap magnet poles)"
+  },
+  "physics.em-solenoid.0003": {
+   "a": "uniform parallel field lines inside, evenly spaced; outside field like bar magnet, loops from one end to the other; arrows from N to S outside",
+   "b": "increase current; more turns (per unit length) / add iron core",
+   "c": "field direction reverses (poles swap)"
+  },
+  "physics.em-time.0005": {
+   "all": "t = 2d/v = 7.2e7/3.0e8 = 0.24 s"
+  },
+  "physics.energy-resources-describe-kb.0002": {
+   "all": "kinetic energy of wind transferred to kinetic energy of rotating blades/generator; generator transfers it electrically (to electrical energy) - some wasted as sound/thermal"
+  },
+  "physics.energy-resources-explain-kb.0005": {
+   "all": "plants absorb CO2 by photosynthesis as they grow; burning releases the same amount of CO2, so no net increase"
+  }
+ },
+ "verdicts": {
+  "physics.de-prac-irreg.0002": {
+   "result": "pass"
+  },
+  "physics.de-prac-reg.0006": {
+   "result": "pass"
+  },
+  "physics.de-rho.0003": {
+   "result": "pass"
+  },
+  "physics.el-data.0006": {
+   "result": "void",
+   "fix": "Add a force row, e.g. force in N | 0 | 1 | 2 | 3 | 4 | 5 | 6.",
+   "original_problem": "Results table has only the extension row; force values are missing, so the graph cannot be plotted and Hooke's law cannot be judged.",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.el-prac-band.0002": {
+   "result": "pass"
+  },
+  "physics.el-prac-spring.0004": {
+   "result": "void",
+   "fix": "Add load row: load in N | 0 | 1 | 2 | 3 | 4 | 5.",
+   "original_problem": "Results table gives lengths but no load row, so the length at 5 N (part c, MS 14.7 cm) cannot be identified from the data.",
+   "note": "QC export bug dropped the table header row; re-checked in physics-recheck-1"
+  },
+  "physics.electricity-charge-explain-kb.0008": {
+   "result": "pass"
+  },
+  "physics.electricity-charge-mcq-kb.0007": {
+   "result": "pass"
+  },
+  "physics.electricity-charge-recall-kb.0003": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-describe-kb.0014": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-explain-kb.0013": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-extended-kb.0008": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-mcq-kb.0006": {
+   "result": "pass"
+  },
+  "physics.electricity-circuits-recall-kb.0012": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-describe-kb.0013": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-explain-kb.0006": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-extended-kb.0010": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-mcq-kb.0014": {
+   "result": "pass"
+  },
+  "physics.electricity-mains-recall-kb.0002": {
+   "result": "pass"
+  },
+  "physics.electricity-static-explain-kb.0013": {
+   "result": "pass"
+  },
+  "physics.electricity-static-extended-kb.0004": {
+   "result": "pass"
+  },
+  "physics.electricity-static-mcq-kb.0014": {
+   "result": "pass"
+  },
+  "physics.electricity-static-recall-kb.0013": {
+   "result": "pass"
+  },
+  "physics.em-c.0001": {
+   "result": "pass"
+  },
+  "physics.em-flhr.0003": {
+   "result": "pass"
+  },
+  "physics.em-motor.0004": {
+   "result": "pass"
+  },
+  "physics.em-solenoid.0003": {
+   "result": "pass"
+  },
+  "physics.em-time.0005": {
+   "result": "pass"
+  },
+  "physics.energy-resources-describe-kb.0002": {
+   "result": "pass"
+  },
+  "physics.energy-resources-explain-kb.0005": {
+   "result": "pass"
+  }
+ }
+}

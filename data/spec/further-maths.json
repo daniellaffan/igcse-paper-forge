@@ -1,0 +1,1003 @@
+{
+ "subject": "further-maths",
+ "code": "4PM1",
+ "board": "Pearson Edexcel",
+ "title": "International GCSE Further Pure Mathematics",
+ "short": "Further Pure Maths",
+ "official_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-further-pure-mathematics-2017.html",
+ "spec_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-further-pure-mathematics-2017.html#%2Ftab-1",
+ "papers": [
+  {
+   "id": "p1",
+   "name": "Paper 1",
+   "paper_code": "4PM1/01",
+   "minutes": 120,
+   "marks": 100,
+   "calculator": true,
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Correct answers given without enough working may be awarded no marks.",
+    "Answer the questions in the spaces provided; there may be more space than you need.",
+    "Do not write on the formulae page: anything written there will gain no credit."
+   ],
+   "information": [
+    "The total mark for this paper is 100.",
+    "The marks for each question are shown in brackets; use them as a guide to how much time to spend on each question.",
+    "Calculators may be used."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Check your answers if you have time at the end."
+   ],
+   "materials": "You must have: ruler graduated in centimetres and millimetres, protractor, compasses, pen, HB pencil, eraser, calculator.",
+   "reference_sheet": "further-maths-formulae",
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "main",
+     "title": "Answer all questions",
+     "instructions": "Write your answers in the spaces provided. You must write down all the stages in your working.",
+     "marks": 100
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "name": "Paper 2",
+   "paper_code": "4PM1/02",
+   "minutes": 120,
+   "marks": 100,
+   "calculator": true,
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Correct answers given without enough working may be awarded no marks.",
+    "Answer the questions in the spaces provided; there may be more space than you need.",
+    "Do not write on the formulae page: anything written there will gain no credit."
+   ],
+   "information": [
+    "The total mark for this paper is 100.",
+    "The marks for each question are shown in brackets; use them as a guide to how much time to spend on each question.",
+    "Calculators may be used."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Check your answers if you have time at the end."
+   ],
+   "materials": "You must have: ruler graduated in centimetres and millimetres, protractor, compasses, pen, HB pencil, eraser, calculator.",
+   "reference_sheet": "further-maths-formulae",
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "main",
+     "title": "Answer all questions",
+     "instructions": "Write your answers in the spaces provided. You must write down all the stages in your working.",
+     "marks": 100
+    }
+   ]
+  }
+ ],
+ "qtypes": [
+  {
+   "id": "short",
+   "label": "Short structured question",
+   "marks": "3-6",
+   "description": "One idea tested in one or two parts: solve, find, evaluate or simplify with full working."
+  },
+  {
+   "id": "multi-part",
+   "label": "Multi-part problem",
+   "marks": "7-16",
+   "description": "A longer question whose parts (a), (b), (c) build on each other, often ending with a 'hence'."
+  },
+  {
+   "id": "show-that",
+   "label": "Show that / proof",
+   "marks": "3-8",
+   "description": "A printed result must be established with every step shown; usually followed by a part that uses it."
+  },
+  {
+   "id": "graph",
+   "label": "Graph sketching / graphical solution",
+   "marks": "4-12",
+   "description": "Sketch a curve with asymptotes and intercepts, complete a table and draw a graph, or shade a region."
+  },
+  {
+   "id": "applied",
+   "label": "Applied problem",
+   "marks": "5-12",
+   "description": "Calculus or trigonometry in a context: kinematics, connected rates, optimisation, 3D shapes, linear programming."
+  }
+ ],
+ "topics": [
+  {
+   "id": "fm.logs",
+   "ref": "1",
+   "title": "Logarithmic functions and indices",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.logs.graphs",
+     "ref": "1A",
+     "title": "Exponential and logarithmic graphs",
+     "summary": "Know the shapes of y = a^x and y = log_b x and use them to sketch and solve.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "graph",
+      "short"
+     ],
+     "points": [
+      {
+       "ref": "1A",
+       "summary": "Recognise and sketch exponential and logarithmic curves, including where they cross the axes and their asymptotes."
+      }
+     ]
+    },
+    {
+     "id": "fm.logs.laws",
+     "ref": "1B",
+     "title": "Laws of indices and logarithms",
+     "summary": "Combine and simplify logs, change the base, and solve equations with unknown powers.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "show-that",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "1B",
+       "summary": "Use the multiplication, division and power laws of logs, change of base, and solve a^x = b type equations."
+      }
+     ]
+    },
+    {
+     "id": "fm.logs.surds",
+     "ref": "1C/1D",
+     "title": "Surds",
+     "summary": "Simplify surds and remove surds from the denominator of a fraction.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "show-that"
+     ],
+     "points": [
+      {
+       "ref": "1C",
+       "summary": "Simplify and combine simple surds, using them to keep answers exact."
+      },
+      {
+       "ref": "1D",
+       "summary": "Rationalise denominators, including denominators of the form a + b√c."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fm.quadratics",
+   "ref": "2",
+   "title": "The quadratic function",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.quad.manip",
+     "ref": "2A",
+     "title": "Factorising and completing the square",
+     "summary": "Factorise quadratics and write them in completed-square form to find turning points.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "2A",
+       "summary": "Factorise quadratic expressions and rewrite them in completed-square form."
+      }
+     ]
+    },
+    {
+     "id": "fm.quad.discriminant",
+     "ref": "2B",
+     "title": "The discriminant",
+     "summary": "Use b² − 4ac to decide whether roots are real and distinct, equal, or not real.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "show-that"
+     ],
+     "points": [
+      {
+       "ref": "2B",
+       "summary": "Use the discriminant to classify roots and to find unknown coefficients."
+      }
+     ]
+    },
+    {
+     "id": "fm.quad.roots",
+     "ref": "2C",
+     "title": "Sums and products of roots",
+     "summary": "Work with α + β and αβ, evaluate symmetric expressions and form new equations from given roots.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part",
+      "show-that"
+     ],
+     "points": [
+      {
+       "ref": "2C",
+       "summary": "Use α + β = −b/a and αβ = c/a to evaluate expressions in the roots and form equations with related roots."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fm.identities",
+   "ref": "3",
+   "title": "Identities and inequalities",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.ident.factor",
+     "ref": "3A/3B",
+     "title": "Algebraic division, factor and remainder theorems",
+     "summary": "Divide polynomials, use the factor and remainder theorems and factorise cubics.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "show-that",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "3A",
+       "summary": "Divide a polynomial by a linear expression to find the quotient and remainder."
+      },
+      {
+       "ref": "3B",
+       "summary": "Use f(a) to test for factors and find remainders, and fully factorise cubic expressions."
+      }
+     ]
+    },
+    {
+     "id": "fm.ident.simul",
+     "ref": "3C",
+     "title": "Simultaneous and cubic equations",
+     "summary": "Solve one linear and one quadratic equation together, and solve cubics with a rational root.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "3C",
+       "summary": "Solve a linear and a quadratic equation simultaneously, and solve cubic equations."
+      }
+     ]
+    },
+    {
+     "id": "fm.ident.ineq",
+     "ref": "3D",
+     "title": "Linear and quadratic inequalities",
+     "summary": "Solve linear and quadratic inequalities and combine solution sets.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "3D",
+       "summary": "Solve linear and quadratic inequalities, giving the answer as a set of values."
+      }
+     ]
+    },
+    {
+     "id": "fm.ident.regions",
+     "ref": "3E",
+     "title": "Regions and linear programming",
+     "summary": "Show inequalities as regions on a graph and find the best value of an expression in a region.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "graph",
+      "applied"
+     ],
+     "points": [
+      {
+       "ref": "3E",
+       "summary": "Represent linear inequalities in two variables graphically and solve simple linear programming problems."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fm.graphs",
+   "ref": "4",
+   "title": "Graphs",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.graphs.sketch",
+     "ref": "4A",
+     "title": "Polynomial and rational graphs",
+     "summary": "Sketch cubics and curves like y = (ax + b)/(cx + d), showing intercepts and asymptotes.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "graph",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "4A",
+       "summary": "Sketch graphs of polynomials and rational functions with linear denominators, including asymptotes parallel to the axes."
+      }
+     ]
+    },
+    {
+     "id": "fm.graphs.solve",
+     "ref": "4B",
+     "title": "Solving equations graphically",
+     "summary": "Complete a table, draw a curve and add a suitable straight line to estimate roots.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "graph",
+      "short"
+     ],
+     "points": [
+      {
+       "ref": "4B",
+       "summary": "Solve equations (including ones with exponentials or trig) by drawing graphs and reading intersections."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fm.series",
+   "ref": "5",
+   "title": "Series",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.series.sigma",
+     "ref": "5A",
+     "title": "Sigma notation",
+     "summary": "Read and use ∑ notation for sums of terms.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "show-that"
+     ],
+     "points": [
+      {
+       "ref": "5A",
+       "summary": "Interpret and evaluate sums written with ∑ notation."
+      }
+     ]
+    },
+    {
+     "id": "fm.series.ap",
+     "ref": "5B",
+     "title": "Arithmetic series",
+     "summary": "Use the nth term and the sum of an arithmetic series.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part",
+      "applied"
+     ],
+     "points": [
+      {
+       "ref": "5B",
+       "summary": "Use the general term and the sum to n terms of arithmetic and geometric series, and the sum to infinity when |r| < 1."
+      }
+     ]
+    },
+    {
+     "id": "fm.series.gp",
+     "ref": "5B",
+     "title": "Geometric series",
+     "summary": "Use the nth term, the sum of n terms and the sum to infinity of a geometric series.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part",
+      "applied"
+     ],
+     "points": [
+      {
+       "ref": "5B",
+       "summary": "Use the general term and the sum to n terms of arithmetic and geometric series, and the sum to infinity when |r| < 1."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fm.binomial",
+   "ref": "6",
+   "title": "The binomial series",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.binom.posint",
+     "ref": "6A(i)",
+     "title": "Binomial expansion for positive integer powers",
+     "summary": "Expand (a + bx)^n for whole-number n and pick out given terms.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "6A(i)",
+       "summary": "Expand (1 + x)^n when n is a positive integer and find particular coefficients."
+      }
+     ]
+    },
+    {
+     "id": "fm.binom.rational",
+     "ref": "6A(ii)",
+     "title": "Binomial series for any rational power",
+     "summary": "Expand (1 + x)^n for fractional or negative n, state when it is valid, and use it to approximate.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part",
+      "show-that"
+     ],
+     "points": [
+      {
+       "ref": "6A(ii)",
+       "summary": "Expand (1 + x)^n for rational n with |x| < 1, stating the range of validity, and use it for approximations."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fm.vectors",
+   "ref": "7",
+   "title": "Scalar and vector quantities",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.vec.basic",
+     "ref": "7A-7E",
+     "title": "Vector arithmetic, magnitude and unit vectors",
+     "summary": "Add and scale vectors, use i and j, find magnitudes, position vectors and unit vectors.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "7A",
+       "summary": "Add, subtract and scale coplanar vectors and compare coefficients of non-parallel vectors."
+      },
+      {
+       "ref": "7B",
+       "summary": "Work with components and the unit vectors i and j."
+      },
+      {
+       "ref": "7C",
+       "summary": "Find the magnitude of a vector."
+      },
+      {
+       "ref": "7D",
+       "summary": "Use position vectors, with AB = b − a."
+      },
+      {
+       "ref": "7E",
+       "summary": "Find a unit vector in a given direction."
+      }
+     ]
+    },
+    {
+     "id": "fm.vec.geometry",
+     "ref": "7F",
+     "title": "Vectors in geometry",
+     "summary": "Use vectors to prove points are collinear, lines are parallel, and find where lines meet.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "show-that",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "7F",
+       "summary": "Use vectors to show collinearity and parallel lines, find intersection ratios, and divide a line in a ratio."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fm.coordinates",
+   "ref": "8",
+   "title": "Rectangular Cartesian coordinates",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.coord.points",
+     "ref": "8A/8B",
+     "title": "Distance and dividing a line in a ratio",
+     "summary": "Find the length of a line segment and the point that splits it in a given ratio.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "8A",
+       "summary": "Find the distance between two points."
+      },
+      {
+       "ref": "8B",
+       "summary": "Find the coordinates of the point dividing a line segment in the ratio m : n."
+      }
+     ]
+    },
+    {
+     "id": "fm.coord.lines",
+     "ref": "8C-8E",
+     "title": "Straight lines, parallel and perpendicular",
+     "summary": "Find gradients and equations of lines and use the conditions for parallel and perpendicular lines.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part",
+      "show-that"
+     ],
+     "points": [
+      {
+       "ref": "8C",
+       "summary": "Find the gradient of the line joining two points."
+      },
+      {
+       "ref": "8D",
+       "summary": "Find and use equations of straight lines in the forms y = mx + c, y − y₁ = m(x − x₁) and ax + by = c."
+      },
+      {
+       "ref": "8E",
+       "summary": "Use m₁ = m₂ for parallel lines and m₁m₂ = −1 for perpendicular lines."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fm.calculus",
+   "ref": "9",
+   "title": "Calculus",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.calc.diff",
+     "ref": "9A",
+     "title": "Differentiating powers, trig and exponentials",
+     "summary": "Differentiate sums of powers of x, sin ax, cos ax and e^(ax).",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "show-that"
+     ],
+     "points": [
+      {
+       "ref": "9A",
+       "summary": "Differentiate and integrate sums of multiples of powers of x, sin ax, cos ax and e^(ax) (not 1/x for integration)."
+      }
+     ]
+    },
+    {
+     "id": "fm.calc.rules",
+     "ref": "9B",
+     "title": "Product, quotient and chain rules",
+     "summary": "Differentiate products, quotients and composite functions.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "show-that"
+     ],
+     "points": [
+      {
+       "ref": "9B",
+       "summary": "Differentiate products, quotients and simple functions of a function."
+      }
+     ]
+    },
+    {
+     "id": "fm.calc.integration",
+     "ref": "9A",
+     "title": "Integration",
+     "summary": "Integrate powers of x, sin ax, cos ax and e^(ax), with limits or a given point.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short"
+     ],
+     "points": [
+      {
+       "ref": "9A",
+       "summary": "Differentiate and integrate sums of multiples of powers of x, sin ax, cos ax and e^(ax) (not 1/x for integration)."
+      }
+     ]
+    },
+    {
+     "id": "fm.calc.area",
+     "ref": "9C",
+     "title": "Areas under and between curves",
+     "summary": "Use definite integrals to find areas bounded by curves, lines and the axes.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "multi-part",
+      "short"
+     ],
+     "points": [
+      {
+       "ref": "9C",
+       "summary": "Apply calculus to straight-line kinematics, to areas, and to volumes of revolution about the coordinate axes."
+      }
+     ]
+    },
+    {
+     "id": "fm.calc.volume",
+     "ref": "9C",
+     "title": "Volumes of revolution",
+     "summary": "Find the volume when a region is rotated through 360° about the x-axis or the y-axis.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "9C",
+       "summary": "Apply calculus to straight-line kinematics, to areas, and to volumes of revolution about the coordinate axes."
+      }
+     ]
+    },
+    {
+     "id": "fm.calc.kinematics",
+     "ref": "9C",
+     "title": "Kinematics",
+     "summary": "Move between displacement, velocity and acceleration by differentiating and integrating.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "applied",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "9C",
+       "summary": "Apply calculus to straight-line kinematics, to areas, and to volumes of revolution about the coordinate axes."
+      }
+     ]
+    },
+    {
+     "id": "fm.calc.stationary",
+     "ref": "9D/9E",
+     "title": "Stationary points, maxima and minima",
+     "summary": "Find turning points, decide their nature and solve optimisation problems.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part",
+      "applied"
+     ],
+     "points": [
+      {
+       "ref": "9D",
+       "summary": "Find stationary points and turning points of a curve."
+      },
+      {
+       "ref": "9E",
+       "summary": "Find and justify maxima and minima, including in practical problems."
+      }
+     ]
+    },
+    {
+     "id": "fm.calc.tangents",
+     "ref": "9F",
+     "title": "Tangents and normals",
+     "summary": "Find equations of tangents and normals to curves.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "9F",
+       "summary": "Find the equations of tangents and normals to y = f(x)."
+      }
+     ]
+    },
+    {
+     "id": "fm.calc.rates",
+     "ref": "9G",
+     "title": "Rates of change and small changes",
+     "summary": "Link rates with the chain rule and use δy ≈ (dy/dx)δx.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "applied",
+      "short"
+     ],
+     "points": [
+      {
+       "ref": "9G",
+       "summary": "Use calculus for rates of change, connected rates of change and small-change approximations."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fm.trigonometry",
+   "ref": "10",
+   "title": "Trigonometry",
+   "papers": [
+    "p1",
+    "p2"
+   ],
+   "subtopics": [
+    {
+     "id": "fm.trig.radians",
+     "ref": "10A",
+     "title": "Radians, arcs and sectors",
+     "summary": "Use radians with s = rθ and A = ½r²θ for arcs, sectors and segments.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part",
+      "show-that"
+     ],
+     "points": [
+      {
+       "ref": "10A",
+       "summary": "Use radian measure, including arc length and sector area."
+      }
+     ]
+    },
+    {
+     "id": "fm.trig.ratios",
+     "ref": "10B",
+     "title": "Trig ratios of any angle and their graphs",
+     "summary": "Use exact values and the graphs of sin, cos and tan for any angle.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "graph"
+     ],
+     "points": [
+      {
+       "ref": "10B",
+       "summary": "Find sine, cosine and tangent of any angle in degrees or radians, use exact values and sketch the graphs."
+      }
+     ]
+    },
+    {
+     "id": "fm.trig.3d",
+     "ref": "10C",
+     "title": "Problems in two and three dimensions",
+     "summary": "Find lengths and angles in 3D shapes, including line–plane and plane–plane angles.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "applied",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "10C",
+       "summary": "Solve 2D and 3D problems, including the angle between a line and a plane and between two planes."
+      }
+     ]
+    },
+    {
+     "id": "fm.trig.triangles",
+     "ref": "10D",
+     "title": "Sine rule, cosine rule and area",
+     "summary": "Use the sine rule, cosine rule and ½ab sin C in any triangle.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "10D",
+       "summary": "Use the sine and cosine rules and the area formula ½ab sin C."
+      }
+     ]
+    },
+    {
+     "id": "fm.trig.identities",
+     "ref": "10E-10G",
+     "title": "Identities and addition formulae",
+     "summary": "Use sin² + cos² = 1, tan = sin/cos and the addition formulae to simplify and prove.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "show-that",
+      "short"
+     ],
+     "points": [
+      {
+       "ref": "10E",
+       "summary": "Use the identity cos²θ + sin²θ = 1."
+      },
+      {
+       "ref": "10F",
+       "summary": "Use tan θ = sin θ / cos θ."
+      },
+      {
+       "ref": "10G",
+       "summary": "Use the addition formulae for sin(A ± B), cos(A ± B) and tan(A ± B)."
+      }
+     ]
+    },
+    {
+     "id": "fm.trig.equations",
+     "ref": "10H",
+     "title": "Trigonometric equations",
+     "summary": "Solve trig equations in a given interval, including ones that need an identity first.",
+     "papers": [
+      "p1",
+      "p2"
+     ],
+     "qtypes": [
+      "short",
+      "multi-part"
+     ],
+     "points": [
+      {
+       "ref": "10H",
+       "summary": "Solve simple trigonometric equations in a stated interval, in degrees or radians."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,341 @@
+{
+ "batch": "maths-001",
+ "answers": {
+  "maths.combined-transform.0001": {
+   "all": "Rotation 90 deg clockwise about (2,-2) (reflection lines y=-x and x=2 meet at (2,-2), angle between 45 deg; checked with a point)"
+  },
+  "maths.combined-transform.0003": {
+   "all": "Rotation 90 deg anticlockwise about (-5,-2) (net map (x,y)->(-7-y, x+3))"
+  },
+  "maths.compare-distributions.0014": {
+   "a": "median 50, Q1 37, Q3 61, IQR 24",
+   "b": "Team B median 54 higher so higher scores on average; IQR 28 larger so B less consistent / more spread"
+  },
+  "maths.compare-distributions.0007": {
+   "a": "median 48, Q1 24, Q3 61, IQR 37",
+   "b": "Friday median 44 lower: shorter journeys on average; IQR 33 smaller: more consistent"
+  },
+  "maths.composite-semicircle.0003": {
+   "all": "Diagram not visible. If semicircle diameter is 24: 32+32+24+12pi = 125.7 -> 126 cm. (if diameter 32: 80+16pi = 130 cm)"
+  },
+  "maths.composite-semicircle.0006": {
+   "all": "Diagram not visible. If semicircle diameter is 16: 35+35+16+8pi = 111.1 -> 111 cm. (if diameter 35: 67+17.5pi = 122 cm)"
+  },
+  "maths.compound-short.0017": {
+   "all": "205/(0.45*0.24)=1898.1 -> 1900 N/m^2"
+  },
+  "maths.compound-short.0007": {
+   "all": "2500*0.975^5 = 2202.7 -> 2203 dollars"
+  },
+  "maths.compound-years.0002": {
+   "all": "1.08^n > 1.5; n=5 gives 1.469, n=6 gives 1.587 -> 6 years"
+  },
+  "maths.compound-years.0001": {
+   "all": "1.025^n > 1.2; n=7 gives 1.189, n=8 gives 1.218 -> 8 years"
+  },
+  "maths.construct-bisect.0010": {
+   "a": "Construction: bisector of angle EDF (arcs from D on DE and DF, equal arcs from those points, line through D)",
+   "b": "Region between DE and the bisector, outside circle centre F radius 3 cm. Not checkable from text."
+  },
+  "maths.construct-bisect.0009": {
+   "a": "Bisector of angle QPR",
+   "b": "Region between PQ and the bisector, outside circle centre R radius 5 cm (in scaled terms). Not checkable from text."
+  },
+  "maths.construct-triangle.0009": {
+   "a": "Construct triangle 8, 5.5, 9",
+   "b": "cos K=(64+30.25-81)/88 -> angle LKM = 81.3 deg"
+  },
+  "maths.construct-triangle.0007": {
+   "a": "Construct triangle 8.5, 4, 7.5",
+   "b": "cos P=(72.25+16-56.25)/68 -> angle QPR = 61.9 deg"
+  },
+  "maths.conversion-graph.0001": {
+   "a": "72 euros",
+   "b": "80 pounds",
+   "c": "300 = 3x100 pounds -> 3x120 = 360 euros"
+  },
+  "maths.conversion-graph.0004": {
+   "a": "108 pesos",
+   "b": "4 dollars",
+   "c": "30 = 3x10 dollars -> 3x180 = 540 pesos"
+  },
+  "maths.cosine-rule-angle.0004": {
+   "all": "Angle position unseen. Opp 20: 99.4; opp 15: 47.7; opp 11: 32.9 (largest angle likely 99.4)"
+  },
+  "maths.cosine-rule-angle.0015": {
+   "all": "Angle position unseen. Opp 24: 75.9; opp 20: 53.9; opp 19: 50.1 (largest likely 75.9)"
+  },
+  "maths.cosine-rule-side.0001": {
+   "all": "x^2=10.3^2+16.6^2-2*10.3*16.6*cos55 -> 13.6"
+  },
+  "maths.cosine-rule-side.0002": {
+   "all": "x^2=14.2^2+10.6^2-2*14.2*10.6*cos65 -> 13.7"
+  },
+  "maths.cts-hard.0003": {
+   "all": "5(x+2)^2 - 12 : a=5,b=2,c=-12"
+  },
+  "maths.cts-hard.0005": {
+   "all": "5(x+1)^2 - 6 : a=5,b=1,c=-6"
+  },
+  "maths.cts-simple.0006": {
+   "all": "(x+5)^2 - 31"
+  },
+  "maths.cts-simple.0005": {
+   "all": "(x+5)^2 - 35"
+  },
+  "maths.cts-structured.0011": {
+   "a": "(x-6)^2 - 19",
+   "b": "(6,-19)",
+   "c": "x = 6 +/- sqrt19"
+  },
+  "maths.cts-structured.0002": {
+   "a": "(x+5)^2 - 44",
+   "b": "(-5,-44)",
+   "c": "x = -5 +/- sqrt44 = -5 +/- 2sqrt11"
+  },
+  "maths.cuboid-angle.0009": {
+   "all": "Assuming vertical edge CG=11, base 14 by 9: tan=11/sqrt(277) -> 33.5 deg (if vertical edge were 9: 26.8; 14: 44.6)"
+  },
+  "maths.cuboid-angle.0001": {
+   "all": "Assuming CG=10, base 12 by 13: tan=10/sqrt(313) -> 29.5 deg (if vertical 13: 39.8; 12: 36.2)"
+  },
+  "maths.currency-convert.0005": {
+   "all": "297/1.16 = 256.03 pounds"
+  },
+  "maths.currency-convert.0006": {
+   "all": "344/1.09 = 315.60 euros"
+  },
+  "maths.cyclic-reasons.0002": {
+   "all": "Diagram not visible; cannot determine which angle 78 deg is. Unverifiable cold; check mark scheme for internal consistency."
+  },
+  "maths.cyclic-reasons.0003": {
+   "a": "Diagram not visible. If 43 deg is angle BAD at circumference: BOD = 86 deg (angle at centre twice angle at circumference)",
+   "b": "BCD = 180-43 = 137 deg (opposite angles of cyclic quadrilateral)"
+  },
+  "maths.depreciation-structured.0006": {
+   "a": "10000*0.92^2 = 8464",
+   "b": "0.92^5 = 65.9%",
+   "c": "100-65.9082 = 34.1% lost"
+  },
+  "maths.depreciation-structured.0004": {
+   "a": "34000*0.85^3 = 20880.25",
+   "b": "0.85^4 = 52.2%",
+   "c": "17748.21/34000=52.2006% so 47.8% lost"
+  },
+  "maths.describe-transform.0001": {
+   "all": "Diagram only; not answerable from text. Check mark scheme for consistency."
+  },
+  "maths.describe-transform.0002": {
+   "all": "Diagram only; not answerable from text. Check mark scheme for consistency."
+  },
+  "maths.diff-basic.0001": {
+   "a": "-5x^4 - 1 - 6x^-2",
+   "b": "-12"
+  },
+  "maths.diff-basic.0007": {
+   "a": "3x^2 - 8 - x^-2",
+   "b": "-6"
+  },
+  "maths.diff-tangent-point.0006": {
+   "all": "6x^2-4x-3=-1 -> 3x^2-2x-1=0 -> x=1,-1/3; points (1,-4) and (-1/3,-8/27)"
+  },
+  "maths.diff-tangent-point.0003": {
+   "all": "6x^2+14x+1=13 -> 3x^2+7x-6=0 -> x=2/3,-3; points (2/3,10/27) and (-3,2)"
+  },
+  "maths.distance-time.0006": {
+   "a": "graph not visible",
+   "b": "graph not visible",
+   "c": "graph not visible"
+  },
+  "maths.distance-time.0003": {
+   "a": "graph not visible",
+   "b": "graph not visible",
+   "c": "graph not visible"
+  },
+  "maths.draw-transform.0005": {
+   "all": "Diagram only; rotate P 90 deg anticlockwise about origin: (x,y)->(-y,x)."
+  },
+  "maths.draw-transform.0003": {
+   "all": "Diagram only; reflect P in y=2: (x,y)->(x,4-y)."
+  },
+  "maths.elevation-two.0017": {
+   "all": "h = 93/(cot35 - cot53) = 137.9 -> 138 m"
+  },
+  "maths.elevation-two.0013": {
+   "all": "h = 76/(cot24 - cot38) = 78.7 m"
+  },
+  "maths.estimate-sf.0007": {
+   "a": "12029.2243902",
+   "b": "12000",
+   "c": "800*6/0.4 = 12000"
+  },
+  "maths.estimate-sf.0004": {
+   "a": "37.2180...",
+   "b": "37.2",
+   "c": "7*3/0.6 = 35"
+  },
+  "maths.eval-powers.0008": {
+   "all": "1/5"
+  },
+  "maths.eval-powers.0002": {
+   "all": "8"
+  }
+ },
+ "verdicts": {
+  "maths.combined-transform.0001": {
+   "result": "pass"
+  },
+  "maths.combined-transform.0003": {
+   "result": "pass"
+  },
+  "maths.compare-distributions.0014": {
+   "result": "pass"
+  },
+  "maths.compare-distributions.0007": {
+   "result": "pass"
+  },
+  "maths.composite-semicircle.0003": {
+   "result": "pass"
+  },
+  "maths.composite-semicircle.0006": {
+   "result": "pass"
+  },
+  "maths.compound-short.0017": {
+   "result": "pass"
+  },
+  "maths.compound-short.0007": {
+   "result": "pass"
+  },
+  "maths.compound-years.0002": {
+   "result": "pass"
+  },
+  "maths.compound-years.0001": {
+   "result": "pass"
+  },
+  "maths.construct-bisect.0010": {
+   "result": "pass"
+  },
+  "maths.construct-bisect.0009": {
+   "result": "pass"
+  },
+  "maths.construct-triangle.0009": {
+   "result": "pass"
+  },
+  "maths.construct-triangle.0007": {
+   "result": "pass"
+  },
+  "maths.conversion-graph.0001": {
+   "result": "pass"
+  },
+  "maths.conversion-graph.0004": {
+   "result": "pass"
+  },
+  "maths.cosine-rule-angle.0004": {
+   "result": "pass"
+  },
+  "maths.cosine-rule-angle.0015": {
+   "result": "pass"
+  },
+  "maths.cosine-rule-side.0001": {
+   "result": "pass"
+  },
+  "maths.cosine-rule-side.0002": {
+   "result": "pass"
+  },
+  "maths.cts-hard.0003": {
+   "result": "pass"
+  },
+  "maths.cts-hard.0005": {
+   "result": "pass"
+  },
+  "maths.cts-simple.0006": {
+   "result": "pass"
+  },
+  "maths.cts-simple.0005": {
+   "result": "pass"
+  },
+  "maths.cts-structured.0011": {
+   "result": "pass"
+  },
+  "maths.cts-structured.0002": {
+   "result": "pass"
+  },
+  "maths.cuboid-angle.0009": {
+   "result": "pass"
+  },
+  "maths.cuboid-angle.0001": {
+   "result": "pass"
+  },
+  "maths.currency-convert.0005": {
+   "result": "pass"
+  },
+  "maths.currency-convert.0006": {
+   "result": "pass"
+  },
+  "maths.cyclic-reasons.0002": {
+   "result": "pass",
+   "note": "diagram not visible; mark-scheme values internally consistent"
+  },
+  "maths.cyclic-reasons.0003": {
+   "result": "pass"
+  },
+  "maths.depreciation-structured.0006": {
+   "result": "pass"
+  },
+  "maths.depreciation-structured.0004": {
+   "result": "pass"
+  },
+  "maths.describe-transform.0001": {
+   "result": "pass"
+  },
+  "maths.describe-transform.0002": {
+   "result": "pass"
+  },
+  "maths.diff-basic.0001": {
+   "result": "pass"
+  },
+  "maths.diff-basic.0007": {
+   "result": "pass"
+  },
+  "maths.diff-tangent-point.0006": {
+   "result": "pass"
+  },
+  "maths.diff-tangent-point.0003": {
+   "result": "pass"
+  },
+  "maths.distance-time.0006": {
+   "result": "pass",
+   "note": "graph not visible; values internally consistent"
+  },
+  "maths.distance-time.0003": {
+   "result": "pass",
+   "note": "graph not visible; values internally consistent"
+  },
+  "maths.draw-transform.0005": {
+   "result": "pass",
+   "note": "diagram not visible; vertices consistent with 90 deg anticlockwise rotation"
+  },
+  "maths.draw-transform.0003": {
+   "result": "pass",
+   "note": "diagram not visible; vertices consistent with reflection in y=2"
+  },
+  "maths.elevation-two.0017": {
+   "result": "pass"
+  },
+  "maths.elevation-two.0013": {
+   "result": "pass"
+  },
+  "maths.estimate-sf.0007": {
+   "result": "pass"
+  },
+  "maths.estimate-sf.0004": {
+   "result": "pass"
+  },
+  "maths.eval-powers.0008": {
+   "result": "pass"
+  },
+  "maths.eval-powers.0002": {
+   "result": "pass"
+  }
+ }
+}

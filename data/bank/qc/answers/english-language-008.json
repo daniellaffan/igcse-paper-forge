@@ -1,0 +1,43 @@
+{
+ "batch": "english-language-008",
+ "answers": {
+  "english-language.w.guide.camping": {
+   "all": "Plan: guide for young visitors, friendly but informative tone, headed sections (pack, choose site, stay safe, respect countryside), subheadings, bullet lists, imperatives, closing encouragement. AO4 27 + AO5 18 = 45."
+  },
+  "english-language.w.guide.green": {
+   "all": "Plan: household guide, practical headed sections (home energy/waste, travel, shopping), tips with reasons, some statistics, motivating conclusion. AO4 27 + AO5 18 = 45."
+  },
+  "english-language.w.guide.festival": {
+   "all": "Plan: guide to a named festival (e.g. Diwali/Eid/Lunar New Year), what happens and meaning, visitor etiquette, practical tips, engaging descriptive register for website. AO4 27 + AO5 18 = 45."
+  },
+  "english-language.w.guide.hobby": {
+   "all": "Plan: library guide, steps to start (choose, kit, learn), keeping going through difficulty (small goals, community), encouraging tone, headings. AO4 27 + AO5 18 = 45."
+  }
+ },
+ "verdicts": {
+  "english-language.w.guide.camping": {
+   "result": "pass",
+   "fix": "Complete the descriptor: '...a full range of sentence structures is used accurately and selectively to achieve particular effects.'",
+   "note": "original fail was a truncation in the QC batch file (make_batches.py cuts descriptors at 140 chars); the bank descriptor is complete",
+   "original_problem": "AO5 Level 5 descriptor is truncated mid-word ('used accurately and s'); indicative content otherwise accurate and fits the task."
+  },
+  "english-language.w.guide.green": {
+   "result": "pass",
+   "fix": "Complete the descriptor: '...a full range of sentence structures is used accurately and selectively to achieve particular effects.'",
+   "note": "original fail was a truncation in the QC batch file (make_batches.py cuts descriptors at 140 chars); the bank descriptor is complete",
+   "original_problem": "AO5 Level 5 descriptor is truncated mid-word ('used accurately and s'); indicative content otherwise accurate and fits the task."
+  },
+  "english-language.w.guide.festival": {
+   "result": "pass",
+   "fix": "Complete the descriptor: '...a full range of sentence structures is used accurately and selectively to achieve particular effects.'",
+   "note": "original fail was a truncation in the QC batch file (make_batches.py cuts descriptors at 140 chars); the bank descriptor is complete",
+   "original_problem": "AO5 Level 5 descriptor is truncated mid-word ('used accurately and s'); indicative content otherwise accurate and fits the task."
+  },
+  "english-language.w.guide.hobby": {
+   "result": "pass",
+   "fix": "Complete the descriptor: '...a full range of sentence structures is used accurately and selectively to achieve particular effects.'",
+   "note": "original fail was a truncation in the QC batch file (make_batches.py cuts descriptors at 140 chars); the bank descriptor is complete",
+   "original_problem": "AO5 Level 5 descriptor is truncated mid-word ('used accurately and s'); indicative content otherwise accurate and fits the task."
+  }
+ }
+}

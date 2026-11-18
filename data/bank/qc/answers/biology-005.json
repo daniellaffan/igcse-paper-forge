@@ -1,0 +1,215 @@
+{
+ "batch": "biology-005",
+ "answers": {
+  "biology.environment-recall-multi.0001": {
+   "a": "light intensity; temperature (also water, pH, oxygen)",
+   "b": "population",
+   "c": "ecosystem"
+  },
+  "biology.enzyme_rate.0001": {
+   "all": "1000/125 = 8 (s^-1)"
+  },
+  "biology.evolution-data-graph.0001": {
+   "a": "resistant % increases with years; slowly at first, then rapidly, then levels off (S-shaped); quote data",
+   "b": "mutation gives resistance; antibiotic kills non-resistant bacteria; resistant survive and reproduce passing on allele (natural selection)"
+  },
+  "biology.evolution-data-pct.0002": {
+   "a": "(55-5)/5 x100 = 1000%",
+   "b": "mutation; non-resistant killed; resistant survive, reproduce, pass on gene"
+  },
+  "biology.evolution-data-plot.0001": {
+   "a": "labelled axes, scale, points, smooth curve",
+   "b": "increases slowly 0-2 yr, rapidly 2-10, levels off ~45% by 12 years"
+  },
+  "biology.evolution-data-read.0001": {
+   "a": "about 1% (read from graph)",
+   "b": "about 23-1 = 22 percentage points (graph dependent)",
+   "c": "mutation; selection by antibiotic; resistant reproduce"
+  },
+  "biology.evolution-explain.0001": {
+   "all": "random mutation produces resistant bacterium; antibiotic kills non-resistant bacteria; resistant ones survive (less competition) and reproduce; pass on resistance allele so population becomes resistant"
+  },
+  "biology.evolution-explain-multi.0006": {
+   "a": "differences between individuals of the same species",
+   "b": "bacteria reproduce very rapidly / short generation time; so mutations and selection spread through many generations quickly"
+  },
+  "biology.evolution-ext.0012": {
+   "all": "doctors: don't prescribe for viral infections / minor infections; use specific antibiotic; hospital hygiene, isolation. Patients: finish course so all bacteria killed; don't share/save antibiotics; hygiene. Reduce selection pressure for resistant strains; reduce spread of resistant bacteria."
+  },
+  "biology.evolution-mcq.0002": {
+   "all": "so that all the bacteria are killed and none can develop resistance"
+  },
+  "biology.evolution-mcq-fwd.0001": {
+   "all": "natural selection"
+  },
+  "biology.evolution-mcq-rev.0003": {
+   "all": "The change in the inherited characteristics of a population over many generations"
+  },
+  "biology.evolution-recall.0002": {
+   "all": "differences in characteristics between individuals of the same species"
+  },
+  "biology.evolution-recall-fact.0002": {
+   "all": "adaptation"
+  },
+  "biology.evolution-recall-multi.0004": {
+   "a": "antibiotic",
+   "b": "(antibiotic) resistance / a mutation (resistance allele)"
+  },
+  "biology.excretion-data-graph.0002": {
+   "a": "as water drunk increases, urine volume increases (positive, roughly linear/proportional); quote data",
+   "b": "blood water potential rises; detected by hypothalamus; less ADH released by pituitary; collecting ducts less permeable; less water reabsorbed, more dilute urine"
+  },
+  "biology.excretion-data-pct.0001": {
+   "a": "(1140-72)/72 x100 = 1483%",
+   "b": "less ADH; collecting duct less permeable; less water reabsorbed"
+  },
+  "biology.excretion-data-plot.0002": {
+   "a": "axes, scale, points, line of best fit",
+   "b": "urine volume increases as water drunk increases; linear/positive correlation"
+  },
+  "biology.excretion-data-read.0001": {
+   "a": "read y-intercept from graph (approx 50-70 cm3)",
+   "b": "(reading at 750 - reading at 0)/750 cm3 per cm3",
+   "c": "less ADH; collecting duct less permeable; less water reabsorbed"
+  },
+  "biology.excretion-describe.0003": {
+   "all": "two kidneys connected by ureters to the bladder; bladder stores urine; urethra carries urine out; kidneys supplied by renal artery and drained by renal vein"
+  },
+  "biology.excretion-describe-multi.0001": {
+   "a": "loop of Henle",
+   "b": "kidneys - ureters - bladder - urethra"
+  },
+  "biology.excretion-diag-desc.0003": {
+   "a": "depends on diagram",
+   "b": "depends on diagram"
+  },
+  "biology.excretion-diag-func.0001": {
+   "a": "letter of distal convoluted tubule (diagram)",
+   "b": "distal convoluted tubule"
+  },
+  "biology.excretion-diag-mcq.0001": {
+   "all": "depends on diagram (A usually glomerulus/Bowman's capsule)"
+  },
+  "biology.excretion-diag-name.0002": {
+   "all": "depends on diagram"
+  },
+  "biology.excretion-explain.0007": {
+   "all": "more sweating so water lost; blood water potential falls; more ADH released; collecting duct more permeable, more water reabsorbed; less, more concentrated urine"
+  },
+  "biology.excretion-explain-multi.0005": {
+   "a": "urethra",
+   "b": "water is reabsorbed from filtrate (PCT, loop, collecting duct) but urea is not reabsorbed (much), so urea concentrated"
+  },
+  "biology.excretion-ext.0006": {
+   "all": "ultrafiltration in glomerulus/Bowman's capsule under high pressure: urea, water, glucose, ions filtered; selective reabsorption of glucose in PCT; water reabsorption controlled by ADH in collecting duct (osmoregulation); urea excreted in urine to bladder via ureter"
+  },
+  "biology.excretion-mcq.0003": {
+   "all": "ureter"
+  },
+  "biology.excretion-mcq-fwd.0002": {
+   "all": "Bowman's capsule"
+  }
+ },
+ "verdicts": {
+  "biology.environment-recall-multi.0001": {
+   "result": "pass"
+  },
+  "biology.enzyme_rate.0001": {
+   "result": "pass"
+  },
+  "biology.evolution-data-graph.0001": {
+   "result": "pass",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.evolution-data-pct.0002": {
+   "result": "pass"
+  },
+  "biology.evolution-data-plot.0001": {
+   "result": "pass"
+  },
+  "biology.evolution-data-read.0001": {
+   "result": "pass",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.evolution-explain.0001": {
+   "result": "pass"
+  },
+  "biology.evolution-explain-multi.0006": {
+   "result": "pass"
+  },
+  "biology.evolution-ext.0012": {
+   "result": "pass"
+  },
+  "biology.evolution-mcq.0002": {
+   "result": "pass"
+  },
+  "biology.evolution-mcq-fwd.0001": {
+   "result": "pass"
+  },
+  "biology.evolution-mcq-rev.0003": {
+   "result": "pass"
+  },
+  "biology.evolution-recall.0002": {
+   "result": "pass"
+  },
+  "biology.evolution-recall-fact.0002": {
+   "result": "pass"
+  },
+  "biology.evolution-recall-multi.0004": {
+   "result": "pass"
+  },
+  "biology.excretion-data-graph.0002": {
+   "result": "pass",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.excretion-data-pct.0001": {
+   "result": "pass"
+  },
+  "biology.excretion-data-plot.0002": {
+   "result": "pass"
+  },
+  "biology.excretion-data-read.0001": {
+   "result": "pass",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.excretion-describe.0003": {
+   "result": "pass"
+  },
+  "biology.excretion-describe-multi.0001": {
+   "result": "pass"
+  },
+  "biology.excretion-diag-desc.0003": {
+   "result": "pass",
+   "note": "Diagram not visible; MS letters (A glomerulus, B Bowman's capsule, C PCT, D loop of Henle, E DCT) are mutually consistent with labels A-F."
+  },
+  "biology.excretion-diag-func.0001": {
+   "result": "pass",
+   "note": "Diagram not visible; MS letters (A glomerulus, B Bowman's capsule, C PCT, D loop of Henle, E DCT) are mutually consistent with labels A-F."
+  },
+  "biology.excretion-diag-mcq.0001": {
+   "result": "pass",
+   "note": "Diagram not visible; MS letters (A glomerulus, B Bowman's capsule, C PCT, D loop of Henle, E DCT) are mutually consistent with labels A-F."
+  },
+  "biology.excretion-diag-name.0002": {
+   "result": "pass",
+   "note": "Diagram not visible; MS letters (A glomerulus, B Bowman's capsule, C PCT, D loop of Henle, E DCT) are mutually consistent with labels A-F."
+  },
+  "biology.excretion-explain.0007": {
+   "result": "pass"
+  },
+  "biology.excretion-explain-multi.0005": {
+   "result": "pass"
+  },
+  "biology.excretion-ext.0006": {
+   "result": "fail",
+   "problem": "Indicative content is about excretion organs in general (lungs, skin) and omits how the kidneys work (ultrafiltration, selective reabsorption, ADH/water reabsorption), so it does not fit a question on the roles of the kidneys.",
+   "fix": "Replace lung/skin points with: ultrafiltration in glomerulus/Bowman's capsule under high pressure; glucose selectively reabsorbed in PCT; water reabsorbed in loop of Henle/collecting duct under ADH control; urea, excess water and ions leave as urine via ureter to bladder."
+  },
+  "biology.excretion-mcq.0003": {
+   "result": "pass"
+  },
+  "biology.excretion-mcq-fwd.0002": {
+   "result": "pass"
+  }
+ }
+}

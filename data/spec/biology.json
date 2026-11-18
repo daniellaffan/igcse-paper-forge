@@ -1,0 +1,1682 @@
+{
+ "subject": "biology",
+ "code": "4BI1",
+ "board": "Pearson Edexcel",
+ "title": "International GCSE Biology (9-1)",
+ "short": "Biology",
+ "official_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-biology-2017.html",
+ "spec_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-biology-2017.html",
+ "papers": [
+  {
+   "id": "1B",
+   "name": "Paper 1B",
+   "paper_code": "4BI1/1B",
+   "minutes": 120,
+   "marks": 110,
+   "calculator": true,
+   "materials": "You must have: ruler, calculator.",
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "If you use pencil for diagrams, sketches or graphs it must be dark (HB or B).",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Answer the questions in the spaces provided; there may be more space than you need."
+   ],
+   "information": [
+    "The total mark for this paper is 110.",
+    "The marks for each question are shown in brackets; use them as a guide to how much time to spend on each question."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Try to answer every question.",
+    "Check your answers if you have time at the end."
+   ],
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "main",
+     "title": "Answer ALL questions",
+     "instructions": "Some questions must be answered with a cross in a box. If you change your mind, put a line through the box and then mark your new answer with a cross.",
+     "marks": 110
+    }
+   ]
+  },
+  {
+   "id": "2B",
+   "name": "Paper 2B",
+   "paper_code": "4BI1/2B",
+   "minutes": 75,
+   "marks": 70,
+   "calculator": true,
+   "materials": "You must have: ruler, calculator.",
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "If you use pencil for diagrams, sketches or graphs it must be dark (HB or B).",
+    "Fill in the boxes at the top of this page with your name, centre number and candidate number.",
+    "Answer all questions.",
+    "Answer the questions in the spaces provided; there may be more space than you need."
+   ],
+   "information": [
+    "The total mark for this paper is 70.",
+    "The marks for each question are shown in brackets; use them as a guide to how much time to spend on each question."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "Try to answer every question.",
+    "Check your answers if you have time at the end."
+   ],
+   "answer_style": "in-booklet",
+   "sections": [
+    {
+     "id": "main",
+     "title": "Answer ALL questions",
+     "instructions": "Some questions must be answered with a cross in a box. If you change your mind, put a line through the box and then mark your new answer with a cross.",
+     "marks": 70,
+     "slots": [
+      {
+       "label": "1",
+       "qtypes": [
+        "comprehension"
+       ],
+       "marks": 17
+      },
+      {
+       "label": "2",
+       "qtypes": [
+        "data"
+       ],
+       "marks": 7
+      },
+      {
+       "label": "3",
+       "qtypes": [
+        "genetics"
+       ],
+       "marks": 6
+      },
+      {
+       "label": "4",
+       "qtypes": [
+        "practical"
+       ],
+       "marks": 6
+      },
+      {
+       "label": "5",
+       "qtypes": [
+        "explain"
+       ],
+       "marks": 4
+      },
+      {
+       "label": "6",
+       "qtypes": [
+        "describe"
+       ],
+       "marks": 4
+      },
+      {
+       "label": "7",
+       "qtypes": [
+        "calculation"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "8",
+       "qtypes": [
+        "recall"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "9",
+       "qtypes": [
+        "data"
+       ],
+       "marks": 6
+      },
+      {
+       "label": "10",
+       "qtypes": [
+        "diagram"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "11",
+       "qtypes": [
+        "explain"
+       ],
+       "marks": 3
+      },
+      {
+       "label": "12",
+       "qtypes": [
+        "calculation"
+       ],
+       "marks": 2
+      },
+      {
+       "label": "13",
+       "qtypes": [
+        "mcq"
+       ],
+       "marks": 1
+      },
+      {
+       "label": "14",
+       "qtypes": [
+        "extended"
+       ],
+       "marks": 6
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "qtypes": [
+  {
+   "id": "mcq",
+   "label": "Multiple choice",
+   "marks": "1",
+   "description": "Four options A-D, one correct answer, marked with a cross in a box."
+  },
+  {
+   "id": "recall",
+   "label": "State / name / give",
+   "marks": "1-3",
+   "description": "Short factual recall: name a structure, state a function, give a definition."
+  },
+  {
+   "id": "describe",
+   "label": "Describe",
+   "marks": "2-4",
+   "description": "Give an account of a process, structure or trend without needing reasons."
+  },
+  {
+   "id": "explain",
+   "label": "Explain",
+   "marks": "2-5",
+   "description": "Give reasons: link a feature or change to its biological cause or effect."
+  },
+  {
+   "id": "calculation",
+   "label": "Calculation",
+   "marks": "1-4",
+   "description": "Magnification, percentage change, rates, means, ratios, energy efficiency, estimates."
+  },
+  {
+   "id": "genetics",
+   "label": "Genetic crosses",
+   "marks": "2-6",
+   "description": "Genetic diagrams, Punnett squares, ratios, probabilities and family pedigrees."
+  },
+  {
+   "id": "practical",
+   "label": "Practical and experimental design",
+   "marks": "1-6",
+   "description": "Variables, controls, method, safety and reliability; six-mark plan-an-investigation questions."
+  },
+  {
+   "id": "data",
+   "label": "Data and graph analysis",
+   "marks": "2-6",
+   "description": "Read and interpret tables and graphs, describe trends, plot graphs, draw conclusions."
+  },
+  {
+   "id": "diagram",
+   "label": "Diagram labelling",
+   "marks": "1-4",
+   "description": "Identify and name labelled structures on a drawing and give their functions."
+  },
+  {
+   "id": "extended",
+   "label": "Extended response",
+   "marks": "6",
+   "description": "Six-mark open response, point-marked: any six creditable points from a list (max 6)."
+  },
+  {
+   "id": "comprehension",
+   "label": "Article comprehension",
+   "marks": "16-18",
+   "description": "Paper 2 Question 1: an article with numbered lines, answered from the passage and own knowledge across the specification."
+  }
+ ],
+ "topics": [
+  {
+   "id": "variety",
+   "ref": "1",
+   "title": "The nature and variety of living organisms",
+   "papers": [
+    "1B",
+    "2B"
+   ],
+   "subtopics": [
+    {
+     "id": "biology.variety.characteristics",
+     "ref": "1(a)",
+     "title": "Characteristics of living organisms",
+     "summary": "The life processes that every living thing carries out.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "comprehension"
+     ],
+     "points": [
+      {
+       "ref": "1.1",
+       "summary": "All living things need nutrition, respire, excrete, respond, move, control their internal conditions, reproduce, and grow and develop."
+      }
+     ]
+    },
+    {
+     "id": "biology.variety.groups",
+     "ref": "1(b)",
+     "title": "Variety of living organisms",
+     "summary": "Key features of plants, animals, fungi, protoctists, bacteria and viruses, and what a pathogen is.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "1.2",
+       "summary": "Recognise the shared features of the four eukaryote groups (plants, animals, fungi, protoctists) with named examples."
+      },
+      {
+       "ref": "1.3",
+       "summary": "Recognise the features of prokaryotes such as bacteria, with named examples."
+      },
+      {
+       "ref": "1.4",
+       "summary": "A pathogen is anything that causes disease; it can be a fungus, bacterium, protoctist or virus; viruses are non-living particles."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "structures",
+   "ref": "2",
+   "title": "Structures and functions in living organisms",
+   "papers": [
+    "1B",
+    "2B"
+   ],
+   "subtopics": [
+    {
+     "id": "biology.structures.cells",
+     "ref": "2(a)-(b)",
+     "title": "Levels of organisation and cell structure",
+     "summary": "From organelles to systems; what each cell structure does; plant versus animal cells; specialised cells and stem cells.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.1",
+       "summary": "Living things are organised as organelles, cells, tissues, organs and organ systems."
+      },
+      {
+       "ref": "2.2",
+       "summary": "Recognise nucleus, cytoplasm, membrane, wall, mitochondria, chloroplasts, ribosomes and vacuole."
+      },
+      {
+       "ref": "2.3",
+       "summary": "State what each of those cell structures does."
+      },
+      {
+       "ref": "2.4",
+       "summary": "Compare the structures found in plant cells and animal cells."
+      },
+      {
+       "ref": "2.5B",
+       "summary": "Explain why cells becoming specialised matters as an organism develops.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.6B",
+       "summary": "Weigh up the benefits and drawbacks of using stem cells in medicine.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.molecules",
+     "ref": "2(c)",
+     "title": "Biological molecules and enzymes",
+     "summary": "Elements and building blocks of carbohydrates, proteins and lipids, food tests, and how temperature and pH affect enzymes.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.7",
+       "summary": "Name the elements found in carbohydrates, proteins and lipids."
+      },
+      {
+       "ref": "2.8",
+       "summary": "Large food molecules are built from small units: sugars, amino acids, fatty acids and glycerol."
+      },
+      {
+       "ref": "2.9",
+       "summary": "Practical: test foods for glucose, starch, protein and fat."
+      },
+      {
+       "ref": "2.10",
+       "summary": "Enzymes are biological catalysts that speed up metabolic reactions."
+      },
+      {
+       "ref": "2.11",
+       "summary": "Temperature changes enzyme activity, and high temperatures change the shape of the active site."
+      },
+      {
+       "ref": "2.12",
+       "summary": "Practical: investigate the effect of temperature on enzyme activity."
+      },
+      {
+       "ref": "2.13",
+       "summary": "pH affects enzyme function by changing the active site."
+      },
+      {
+       "ref": "2.14B",
+       "summary": "Practical: investigate the effect of pH on enzyme activity.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.movement",
+     "ref": "2(d)",
+     "title": "Movement of substances into and out of cells",
+     "summary": "Diffusion, osmosis and active transport and the factors that change their rates.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "2.15",
+       "summary": "Describe diffusion, osmosis and active transport as ways substances cross cell membranes."
+      },
+      {
+       "ref": "2.16",
+       "summary": "Surface area to volume ratio, distance, temperature and concentration gradient change the rate of movement."
+      },
+      {
+       "ref": "2.17",
+       "summary": "Practical: investigate diffusion and osmosis in living and non-living systems."
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.plant-nutrition",
+     "ref": "2(e) plants",
+     "title": "Nutrition in flowering plants",
+     "summary": "Photosynthesis, its equations and limiting factors, leaf structure, mineral ions and photosynthesis practicals.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.18",
+       "summary": "Photosynthesis converts light energy into chemical energy stored in glucose."
+      },
+      {
+       "ref": "2.19",
+       "summary": "Write the word and balanced symbol equations for photosynthesis."
+      },
+      {
+       "ref": "2.20",
+       "summary": "Carbon dioxide concentration, light intensity and temperature change the rate of photosynthesis."
+      },
+      {
+       "ref": "2.21",
+       "summary": "Describe leaf structure and explain how it suits photosynthesis."
+      },
+      {
+       "ref": "2.22",
+       "summary": "Plants need mineral ions: magnesium for chlorophyll and nitrate for amino acids."
+      },
+      {
+       "ref": "2.23",
+       "summary": "Practical: show oxygen release by a water plant, starch production and the need for light, carbon dioxide and chlorophyll."
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.human-nutrition",
+     "ref": "2(e) humans",
+     "title": "Human nutrition and digestion",
+     "summary": "Balanced diet, nutrient sources and roles, energy needs, the alimentary canal, enzymes, bile and absorption.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.24",
+       "summary": "A balanced diet has the right proportions of each food group, water and fibre."
+      },
+      {
+       "ref": "2.25",
+       "summary": "Sources and functions of carbohydrate, protein, lipid, vitamins A, C and D, calcium, iron, water and fibre."
+      },
+      {
+       "ref": "2.26",
+       "summary": "Energy needs depend on activity, age and pregnancy."
+      },
+      {
+       "ref": "2.27",
+       "summary": "Structure and function of the parts of the alimentary canal and the pancreas."
+      },
+      {
+       "ref": "2.28",
+       "summary": "Peristalsis moves food along the gut."
+      },
+      {
+       "ref": "2.29",
+       "summary": "Amylase and maltase digest starch, proteases digest protein and lipases digest lipids."
+      },
+      {
+       "ref": "2.30",
+       "summary": "Bile is made in the liver and stored in the gall bladder."
+      },
+      {
+       "ref": "2.31",
+       "summary": "Bile neutralises stomach acid and emulsifies fats."
+      },
+      {
+       "ref": "2.32",
+       "summary": "The small intestine, including its villi, is adapted for absorption."
+      },
+      {
+       "ref": "2.33B",
+       "summary": "Practical: find the energy content of a food by burning it.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.respiration",
+     "ref": "2(f)",
+     "title": "Respiration",
+     "summary": "ATP, aerobic versus anaerobic respiration, the equations and respiring-organism practicals.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "2.34",
+       "summary": "Respiration releases energy and makes ATP."
+      },
+      {
+       "ref": "2.35",
+       "summary": "ATP supplies energy to cells."
+      },
+      {
+       "ref": "2.36",
+       "summary": "Compare aerobic and anaerobic respiration."
+      },
+      {
+       "ref": "2.37",
+       "summary": "Word and balanced symbol equations for aerobic respiration."
+      },
+      {
+       "ref": "2.38",
+       "summary": "Word equations for anaerobic respiration in animals and in plants or yeast."
+      },
+      {
+       "ref": "2.39",
+       "summary": "Practical: show carbon dioxide and heat released by respiring seeds or other organisms."
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.gas-exchange-plants",
+     "ref": "2(g) plants",
+     "title": "Gas exchange in flowering plants",
+     "summary": "How leaves exchange oxygen and carbon dioxide by diffusion, stomata, and net exchange in light and dark.",
+     "papers": [
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "2.40B",
+       "summary": "Gas exchange in plants happens by diffusion.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.41B",
+       "summary": "Link oxygen and carbon dioxide exchange to respiration and photosynthesis.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.42B",
+       "summary": "How leaf structure suits gas exchange.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.43B",
+       "summary": "Stomata let gases in and out of the leaf.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.44B",
+       "summary": "Respiration never stops, but the net gas exchange depends on light intensity.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.45B",
+       "summary": "Practical: use hydrogencarbonate indicator to show how light affects net gas exchange.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.gas-exchange-humans",
+     "ref": "2(g) humans",
+     "title": "Gas exchange in humans",
+     "summary": "Structure of the thorax, ventilation, alveoli, the effects of smoking and breathing practicals.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.46",
+       "summary": "Structures of the thorax: ribs, intercostal muscles, diaphragm, trachea, bronchi, bronchioles, alveoli, pleural membranes."
+      },
+      {
+       "ref": "2.47",
+       "summary": "How the intercostal muscles and diaphragm ventilate the lungs."
+      },
+      {
+       "ref": "2.48",
+       "summary": "How alveoli are adapted for diffusion of gases between air and blood."
+      },
+      {
+       "ref": "2.49",
+       "summary": "Effects of smoking on the lungs and circulation, including coronary heart disease."
+      },
+      {
+       "ref": "2.50",
+       "summary": "Practical: investigate breathing, carbon dioxide release and the effect of exercise."
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.transport-plants",
+     "ref": "2(h) plants",
+     "title": "Transport in flowering plants",
+     "summary": "Why transport systems are needed, xylem and phloem, root hair cells and transpiration.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "2.51",
+       "summary": "Small single-celled organisms can rely on diffusion alone."
+      },
+      {
+       "ref": "2.52",
+       "summary": "Large multicellular organisms need a transport system."
+      },
+      {
+       "ref": "2.53",
+       "summary": "Phloem carries sucrose and amino acids around the plant."
+      },
+      {
+       "ref": "2.54",
+       "summary": "Xylem carries water and mineral ions up from the roots."
+      },
+      {
+       "ref": "2.55B",
+       "summary": "How root hair cells absorb water.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.56B",
+       "summary": "Transpiration is evaporation of water from the plant surface.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.57B",
+       "summary": "Humidity, wind speed, temperature and light intensity change the rate of transpiration.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.58B",
+       "summary": "Practical: investigate environmental factors and the rate of transpiration of a leafy shoot.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.blood",
+     "ref": "2(h) blood",
+     "title": "Blood and immunity",
+     "summary": "Blood components, plasma transport, red cell adaptations, white cells, vaccination and clotting.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.59",
+       "summary": "Blood is red cells, white cells, platelets and plasma."
+      },
+      {
+       "ref": "2.60",
+       "summary": "Plasma carries carbon dioxide, digested food, urea, hormones and heat."
+      },
+      {
+       "ref": "2.61",
+       "summary": "Red blood cells are adapted for carrying oxygen."
+      },
+      {
+       "ref": "2.62",
+       "summary": "Phagocytes engulf pathogens and lymphocytes make specific antibodies."
+      },
+      {
+       "ref": "2.63B",
+       "summary": "Vaccination produces memory cells, so later antibody production is quicker and larger.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.64B",
+       "summary": "Platelets help clot blood, preventing blood loss and infection.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.heart",
+     "ref": "2(h) heart",
+     "title": "The heart and circulation",
+     "summary": "Structure of the heart, heart rate, coronary heart disease, blood vessels and the circulation plan.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "data",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.65",
+       "summary": "Structure of the heart and how it pumps blood."
+      },
+      {
+       "ref": "2.66",
+       "summary": "Heart rate rises during exercise and with adrenaline."
+      },
+      {
+       "ref": "2.67",
+       "summary": "Risk factors for coronary heart disease."
+      },
+      {
+       "ref": "2.68",
+       "summary": "Structure of arteries, veins and capillaries related to their functions."
+      },
+      {
+       "ref": "2.69",
+       "summary": "Plan of the circulation, including vessels serving heart, lungs, liver and kidneys."
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.excretion",
+     "ref": "2(i)",
+     "title": "Excretion",
+     "summary": "Waste gases in plants, excretory organs, and how the kidney filters blood and controls water.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "data",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.70",
+       "summary": "Carbon dioxide and oxygen are metabolic wastes leaving a leaf through stomata."
+      },
+      {
+       "ref": "2.71",
+       "summary": "Excretory products of the lungs, kidneys and skin."
+      },
+      {
+       "ref": "2.72B",
+       "summary": "The kidney excretes waste and controls body water (osmoregulation).",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.73B",
+       "summary": "Structure of the urinary system.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.74B",
+       "summary": "Structure of a nephron.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.75B",
+       "summary": "Ultrafiltration in the Bowman's capsule and what the filtrate contains.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.76B",
+       "summary": "Water is reabsorbed from the collecting duct.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.77B",
+       "summary": "Glucose is selectively reabsorbed in the proximal convoluted tubule.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.78B",
+       "summary": "ADH controls the water content of the blood.",
+       "paper2_only": true
+      },
+      {
+       "ref": "2.79B",
+       "summary": "Urine is water, urea and ions.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.plant-responses",
+     "ref": "2(j) plants",
+     "title": "Co-ordination and response in plants",
+     "summary": "Stimulus-receptor-effector, homeostasis basics, tropisms and the role of auxin.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "2.80",
+       "summary": "Organisms respond to changes in their surroundings."
+      },
+      {
+       "ref": "2.82",
+       "summary": "A co-ordinated response needs a stimulus, a receptor and an effector."
+      },
+      {
+       "ref": "2.83",
+       "summary": "Plants respond to stimuli."
+      },
+      {
+       "ref": "2.84",
+       "summary": "Roots and shoots show geotropism and phototropism."
+      },
+      {
+       "ref": "2.85",
+       "summary": "Auxin causes the phototropic response of shoots."
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.nervous",
+     "ref": "2(j) nervous",
+     "title": "The nervous system and the eye",
+     "summary": "Nervous and hormonal control compared, the CNS, synapses, reflex arcs and the eye.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "practical",
+      "data",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "2.86",
+       "summary": "Compare nervous and hormonal control of responses."
+      },
+      {
+       "ref": "2.87",
+       "summary": "The CNS is the brain and spinal cord, linked to sense organs by nerves."
+      },
+      {
+       "ref": "2.88",
+       "summary": "Receptors send electrical impulses along nerves, giving rapid responses."
+      },
+      {
+       "ref": "2.89",
+       "summary": "Neurotransmitters carry the signal across synapses."
+      },
+      {
+       "ref": "2.90",
+       "summary": "Structure and function of a simple reflex arc."
+      },
+      {
+       "ref": "2.91",
+       "summary": "Structure and function of the eye."
+      },
+      {
+       "ref": "2.92",
+       "summary": "How the eye focuses on near and far objects and responds to light intensity."
+      }
+     ]
+    },
+    {
+     "id": "biology.structures.homeostasis",
+     "ref": "2(j) homeostasis",
+     "title": "Homeostasis and hormones",
+     "summary": "Keeping internal conditions constant, temperature control by the skin and the main human hormones.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "2.81",
+       "summary": "Homeostasis keeps the internal environment constant, for example water content and temperature."
+      },
+      {
+       "ref": "2.93",
+       "summary": "How the skin controls body temperature by sweating, vasoconstriction and vasodilation."
+      },
+      {
+       "ref": "2.94",
+       "summary": "Sources, roles and effects of adrenaline, insulin, testosterone, progesterone and oestrogen."
+      },
+      {
+       "ref": "2.95B",
+       "summary": "Sources, roles and effects of ADH, FSH and LH.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "reproduction",
+   "ref": "3",
+   "title": "Reproduction and inheritance",
+   "papers": [
+    "1B",
+    "2B"
+   ],
+   "subtopics": [
+    {
+     "id": "biology.reproduction.plant-reproduction",
+     "ref": "3(a) plants",
+     "title": "Reproduction in flowering plants",
+     "summary": "Sexual versus asexual reproduction, fertilisation, flowers and pollination, germination and asexual methods.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "practical",
+      "data",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "3.1",
+       "summary": "Differences between sexual and asexual reproduction."
+      },
+      {
+       "ref": "3.2",
+       "summary": "Fertilisation is fusion of gametes to make a zygote that divides into an embryo."
+      },
+      {
+       "ref": "3.3",
+       "summary": "Structures of insect- and wind-pollinated flowers and how each suits pollination."
+      },
+      {
+       "ref": "3.4",
+       "summary": "Pollen tube growth and fertilisation lead to seeds and fruit."
+      },
+      {
+       "ref": "3.5",
+       "summary": "Practical: find the conditions seeds need to germinate."
+      },
+      {
+       "ref": "3.6",
+       "summary": "Germinating seeds use stored food until they can photosynthesise."
+      },
+      {
+       "ref": "3.7",
+       "summary": "Plants reproduce asexually naturally (runners) and artificially (cuttings)."
+      }
+     ]
+    },
+    {
+     "id": "biology.reproduction.human-reproduction",
+     "ref": "3(a) humans",
+     "title": "Human reproduction",
+     "summary": "Reproductive systems, the menstrual cycle hormones, the placenta, amniotic fluid and puberty.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "data",
+      "diagram"
+     ],
+     "points": [
+      {
+       "ref": "3.8",
+       "summary": "How the male and female reproductive systems are adapted for their functions."
+      },
+      {
+       "ref": "3.9",
+       "summary": "Oestrogen and progesterone in the menstrual cycle."
+      },
+      {
+       "ref": "3.10B",
+       "summary": "FSH and LH in the menstrual cycle.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.11",
+       "summary": "The placenta supplies the embryo with nutrients."
+      },
+      {
+       "ref": "3.12",
+       "summary": "Amniotic fluid protects the developing embryo."
+      },
+      {
+       "ref": "3.13",
+       "summary": "Oestrogen and testosterone cause secondary sexual characteristics."
+      }
+     ]
+    },
+    {
+     "id": "biology.reproduction.dna",
+     "ref": "3(b) DNA",
+     "title": "DNA, genes and protein synthesis",
+     "summary": "Genome, genes and chromosomes, DNA and RNA structure, transcription and translation.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation"
+     ],
+     "points": [
+      {
+       "ref": "3.14",
+       "summary": "The genome is all of an organism's DNA; a gene is a length of DNA coding for one protein."
+      },
+      {
+       "ref": "3.15",
+       "summary": "Genes are found on chromosomes in the nucleus."
+      },
+      {
+       "ref": "3.16B",
+       "summary": "DNA is a double helix of two strands joined by base pairs A-T and C-G.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.17B",
+       "summary": "RNA is single stranded and has uracil in place of thymine.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.18B",
+       "summary": "Protein synthesis: transcription and translation using mRNA, ribosomes, tRNA, codons and anticodons.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.reproduction.inheritance",
+     "ref": "3(b) inheritance",
+     "title": "Monohybrid inheritance",
+     "summary": "Alleles and genetic terms, codominance, genetic diagrams, pedigrees, probabilities and sex determination.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "genetics"
+     ],
+     "points": [
+      {
+       "ref": "3.19",
+       "summary": "Alleles are different forms of a gene that cause inherited differences."
+      },
+      {
+       "ref": "3.20",
+       "summary": "Meaning of dominant, recessive, homozygous, heterozygous, phenotype and genotype."
+      },
+      {
+       "ref": "3.21B",
+       "summary": "Meaning of codominance.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.22",
+       "summary": "Most features are controlled by many genes (polygenic)."
+      },
+      {
+       "ref": "3.23",
+       "summary": "Use genetic diagrams to show monohybrid inheritance."
+      },
+      {
+       "ref": "3.24",
+       "summary": "Interpret family pedigrees."
+      },
+      {
+       "ref": "3.25",
+       "summary": "Predict probabilities from monohybrid crosses."
+      },
+      {
+       "ref": "3.26",
+       "summary": "Sex is set by one pair of chromosomes: XX female, XY male."
+      },
+      {
+       "ref": "3.27",
+       "summary": "Show sex determination at fertilisation with a genetic diagram."
+      }
+     ]
+    },
+    {
+     "id": "biology.reproduction.division-variation",
+     "ref": "3(b) division",
+     "title": "Cell division, variation and mutation",
+     "summary": "Mitosis and meiosis, chromosome numbers, causes of variation and how mutations arise and act.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "3.28",
+       "summary": "Mitosis of a diploid cell gives two genetically identical cells."
+      },
+      {
+       "ref": "3.29",
+       "summary": "Mitosis happens in growth, repair, cloning and asexual reproduction."
+      },
+      {
+       "ref": "3.30",
+       "summary": "Meiosis gives four genetically different haploid gametes."
+      },
+      {
+       "ref": "3.31",
+       "summary": "Random fertilisation adds genetic variation."
+      },
+      {
+       "ref": "3.32",
+       "summary": "Human body cells have 46 chromosomes and gametes have 23."
+      },
+      {
+       "ref": "3.33",
+       "summary": "Variation can be genetic, environmental or both."
+      },
+      {
+       "ref": "3.34",
+       "summary": "A mutation is a rare, random change to genetic material that can be inherited."
+      },
+      {
+       "ref": "3.35B",
+       "summary": "A DNA change can alter the amino acid sequence and so the phenotype.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.36B",
+       "summary": "Most mutations have no effect, some a small effect and very few a large effect.",
+       "paper2_only": true
+      },
+      {
+       "ref": "3.37B",
+       "summary": "Ionising radiation and some chemicals increase the mutation rate.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.reproduction.evolution",
+     "ref": "3(b) evolution",
+     "title": "Natural selection and antibiotic resistance",
+     "summary": "Darwin's theory of evolution by natural selection and how antibiotic resistance spreads.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calculation",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "3.38",
+       "summary": "Explain evolution by natural selection."
+      },
+      {
+       "ref": "3.39",
+       "summary": "How antibiotic resistance increases in bacteria and why that makes infections hard to treat."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ecology",
+   "ref": "4",
+   "title": "Ecology and the environment",
+   "papers": [
+    "1B",
+    "2B"
+   ],
+   "subtopics": [
+    {
+     "id": "biology.ecology.environment",
+     "ref": "4(a)",
+     "title": "The organism in the environment",
+     "summary": "Ecological terms, quadrat sampling, biodiversity and how abiotic and biotic factors affect populations.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "explain",
+      "calculation",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "4.1",
+       "summary": "Meaning of population, community, habitat and ecosystem."
+      },
+      {
+       "ref": "4.2",
+       "summary": "Practical: use quadrats to compare a population in two areas."
+      },
+      {
+       "ref": "4.3B",
+       "summary": "Meaning of biodiversity.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.4B",
+       "summary": "Practical: use quadrats to study distribution and measure biodiversity.",
+       "paper2_only": true
+      },
+      {
+       "ref": "4.5",
+       "summary": "Abiotic and biotic factors change population size and distribution."
+      }
+     ]
+    },
+    {
+     "id": "biology.ecology.feeding",
+     "ref": "4(b)",
+     "title": "Feeding relationships",
+     "summary": "Trophic levels, food chains and webs, ecological pyramids and energy transfer between levels.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "4.6",
+       "summary": "Names of trophic levels: producers, primary, secondary and tertiary consumers, decomposers."
+      },
+      {
+       "ref": "4.7",
+       "summary": "Food chains, food webs and pyramids of number, biomass and energy."
+      },
+      {
+       "ref": "4.8",
+       "summary": "Energy and materials pass along food chains."
+      },
+      {
+       "ref": "4.9",
+       "summary": "Why only about 10% of energy passes from one trophic level to the next."
+      }
+     ]
+    },
+    {
+     "id": "biology.ecology.cycles",
+     "ref": "4(c)",
+     "title": "Cycles within ecosystems",
+     "summary": "The carbon cycle and the nitrogen cycle and the organisms that drive them.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "4.10",
+       "summary": "Stages of the carbon cycle: respiration, photosynthesis, decomposition and combustion."
+      },
+      {
+       "ref": "4.11B",
+       "summary": "Stages of the nitrogen cycle and the roles of fixing, decomposing, nitrifying and denitrifying bacteria.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.ecology.human-impact",
+     "ref": "4(d)",
+     "title": "Human influences on the environment",
+     "summary": "Air pollution, greenhouse gases and global warming, sewage, eutrophication and deforestation.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "data",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "4.12",
+       "summary": "Biological effects of sulfur dioxide and carbon monoxide pollution."
+      },
+      {
+       "ref": "4.13",
+       "summary": "Water vapour, carbon dioxide, nitrous oxide, methane and CFCs are greenhouse gases."
+      },
+      {
+       "ref": "4.14",
+       "summary": "Human activities that release greenhouse gases."
+      },
+      {
+       "ref": "4.15",
+       "summary": "More greenhouse gases cause an enhanced greenhouse effect, global warming and its effects."
+      },
+      {
+       "ref": "4.16",
+       "summary": "Biological effects of sewage in water."
+      },
+      {
+       "ref": "4.17",
+       "summary": "Eutrophication caused by fertiliser leaching and its consequences."
+      },
+      {
+       "ref": "4.18B",
+       "summary": "Effects of deforestation on soil, water cycle, carbon cycle and atmospheric gases.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "resources",
+   "ref": "5",
+   "title": "Use of biological resources",
+   "papers": [
+    "1B",
+    "2B"
+   ],
+   "subtopics": [
+    {
+     "id": "biology.resources.crops",
+     "ref": "5(a) crops",
+     "title": "Food production: crop plants",
+     "summary": "Glasshouses and polythene tunnels, carbon dioxide and temperature, fertilisers and pest control.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data"
+     ],
+     "points": [
+      {
+       "ref": "5.1",
+       "summary": "Glasshouses and polythene tunnels raise crop yields."
+      },
+      {
+       "ref": "5.2",
+       "summary": "Extra carbon dioxide and warmth in glasshouses increase yield."
+      },
+      {
+       "ref": "5.3",
+       "summary": "Fertiliser increases crop yield."
+      },
+      {
+       "ref": "5.4",
+       "summary": "Why pests are controlled, and the pros and cons of pesticides and biological control."
+      }
+     ]
+    },
+    {
+     "id": "biology.resources.microorganisms",
+     "ref": "5(a) microbes",
+     "title": "Food production: micro-organisms and fish farming",
+     "summary": "Yeast in bread, Lactobacillus in yoghurt, industrial fermenters and fish farming.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "calculation",
+      "practical",
+      "data",
+      "diagram",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "5.5",
+       "summary": "Yeast is used to make food such as bread."
+      },
+      {
+       "ref": "5.6",
+       "summary": "Practical: investigate anaerobic respiration of yeast in different conditions."
+      },
+      {
+       "ref": "5.7",
+       "summary": "Lactobacillus bacteria are used to make yoghurt."
+      },
+      {
+       "ref": "5.8",
+       "summary": "Industrial fermenters and why aseptic conditions, nutrients, temperature, pH, oxygen and stirring are controlled."
+      },
+      {
+       "ref": "5.9B",
+       "summary": "How fish are farmed intensively: water quality, predation, disease, waste, feeding and breeding.",
+       "paper2_only": true
+      }
+     ]
+    },
+    {
+     "id": "biology.resources.breeding-gm",
+     "ref": "5(b)-(c)",
+     "title": "Selective breeding and genetic modification",
+     "summary": "Selective breeding of plants and animals, restriction enzymes, ligase, vectors, GM insulin and GM crops.",
+     "papers": [
+      "1B",
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain",
+      "extended"
+     ],
+     "points": [
+      {
+       "ref": "5.10",
+       "summary": "Selective breeding of plants with useful features."
+      },
+      {
+       "ref": "5.11",
+       "summary": "Selective breeding of animals with useful features."
+      },
+      {
+       "ref": "5.12",
+       "summary": "Restriction enzymes cut DNA at specific sites and ligase joins DNA."
+      },
+      {
+       "ref": "5.13",
+       "summary": "Plasmids and viruses act as vectors carrying recombinant DNA into cells."
+      },
+      {
+       "ref": "5.14",
+       "summary": "Making human insulin with GM bacteria grown in a fermenter."
+      },
+      {
+       "ref": "5.15",
+       "summary": "GM crops can improve food production."
+      },
+      {
+       "ref": "5.16",
+       "summary": "Transgenic means carrying genetic material from another species."
+      }
+     ]
+    },
+    {
+     "id": "biology.resources.cloning",
+     "ref": "5(d)",
+     "title": "Cloning",
+     "summary": "Micropropagation of plants and cloning mammals by nuclear transfer, and uses of cloned transgenic animals.",
+     "papers": [
+      "2B"
+     ],
+     "qtypes": [
+      "mcq",
+      "recall",
+      "describe",
+      "explain"
+     ],
+     "points": [
+      {
+       "ref": "5.17B",
+       "summary": "Micropropagation grows explants into plants in vitro.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.18B",
+       "summary": "Micropropagation gives large numbers of identical plants with useful features.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.19B",
+       "summary": "Cloning a mammal by putting a diploid nucleus into an enucleated egg, as with Dolly the sheep.",
+       "paper2_only": true
+      },
+      {
+       "ref": "5.20B",
+       "summary": "Cloned transgenic animals can make human proteins.",
+       "paper2_only": true
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

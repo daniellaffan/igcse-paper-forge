@@ -1,0 +1,56 @@
+{
+ "batch": "english-literature-002",
+ "answers": {
+  "english-literature.anth-open-power.0006": {
+   "all": "Half-caste: speaker defies the powerful figure, the person who uses the term, subverts via irony; compare with e.g. The Tyger (creator as powerful) or La Belle Dame (powerful femme fatale)."
+  },
+  "english-literature.anth-open-power.0016": {
+   "all": "The Tyger (Blake): creator imagery, blacksmith metaphors 'hammer', 'chain', rhetorical questions, rhymed couplets, regular trochaic rhythm, control/awe at creation; compare with e.g. Prayer Before Birth or War Photographer for control."
+  },
+  "english-literature.anth-pair-advice.0006": {
+   "all": "Do not go gentle: instruction to father to resist death, villanelle; Half-caste: speaker demands to be treated as equal; both address imperative/advice but differ in tone, form (strict villanelle vs free verse dialect)."
+  },
+  "english-literature.anth-pair-advice.0005": {
+   "all": "Both about speakers' beliefs about death: Thomas defiant/rage, Rossetti accepting; sonnet vs villanelle; imperatives in both."
+  },
+  "english-literature.anth-pair-death.0010": {
+   "all": "War Photographer (Duffy): photographer develops photos of dead; end of life in war; Poem at Thirty-Nine: father's death remembered; both about those who die, different focus: public vs private. Quatrains/rhyme vs free verse."
+  },
+  "english-literature.anth-pair-death.0011": {
+   "all": "Poem at Thirty-Nine: daughter's loss of father, ordinary language; La Belle Dame: knight's near-death, knights in thrall to enchantress, death-pale warriors; ballad quatrains vs free verse."
+  }
+ },
+ "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+ "verdicts": {
+  "english-literature.anth-open-power.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-open-power.0016": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-advice.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-advice.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-death.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "english-literature.anth-pair-death.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

@@ -1,0 +1,282 @@
+{
+ "batch": "physics-recheck-4",
+ "answers": {
+  "physics.forces-motion-describe-kb.0014": {
+   "a": "gradient = change in distance / change in time = speed; steeper = faster (choose two points, divide rise by run)",
+   "b": "area under velocity-time graph = distance travelled; calculate area (e.g. triangles/rectangles)"
+  },
+  "physics.forces-motion-mcq-kb.0014": {
+   "a": "m/s\u00b2",
+   "b": "velocity",
+   "c": "uniform deceleration"
+  },
+  "physics.forces-motion-recall-kb.0012": {
+   "a": "acceleration",
+   "b": "velocity has direction (vector), speed does not (scalar)"
+  },
+  "physics.hl-graph.0004": {
+   "a": "read time for count rate to halve from graph (e.g. 600 to 300); cannot read exact value from labels only",
+   "b": "use half-lives elapsed in 60 days; value depends on (a)",
+   "c": "radioactive decay is random"
+  },
+  "physics.magnetism-em-describe-kb.0011": {
+   "a": "wrap insulated wire coil around soft iron core (nail), connect to d.c. supply/cell, switch on; test by picking up paperclips",
+   "b": "wire vertically through horizontal card; place compasses around wire; switch on current; mark direction of needles; join to show concentric circles"
+  },
+  "physics.magnetism-em-explain-kb.0012": {
+   "a": "current produces magnetic field around wire; interacts with permanent magnet field giving force (motor effect)",
+   "b": "electromagnet can be switched off to release scrap; strength can be varied/very strong",
+   "c": "a.c. current reverses direction at supply frequency; force on coil in magnetic field reverses each time so cone moves back and forth at same frequency"
+  },
+  "physics.magnetism-em-extended-kb.0008": {
+   "a": "more turns; larger current (or soft iron core)",
+   "b": "current in coil in magnetic field; force on each side (motor effect) in opposite directions -> turning effect; split-ring commutator reverses current every half turn so continues rotating; brushes contact. Speed up: more current, stronger magnet, more turns. Reverse direction: reverse current or reverse magnet poles"
+  },
+  "physics.magnetism-em-mcq-kb.0002": {
+   "all": "more turns of wire"
+  },
+  "physics.magnetism-em-recall-kb.0012": {
+   "a": "increase current; stronger magnetic field (or longer wire in field)",
+   "b": "more turns; larger current/iron core",
+   "c": "beam deflected in a circular path (force perpendicular to motion)"
+  },
+  "physics.magnetism-induction-describe-kb.0010": {
+   "a": "needle deflects one way as magnet enters, then opposite way (larger, as faster) as it leaves; zero in middle",
+   "b": "kinetic energy of wind -> kinetic energy of blades/rotor -> electrical energy (some wasted as heat/sound)"
+  },
+  "physics.magnetism-induction-explain-kb.0007": {
+   "a": "current flows in coil; current-carrying coil in magnetic field experiences force opposing motion (Lenz), so more work needed",
+   "b": "faster rate of cutting field lines / change of flux -> larger induced voltage/current"
+  },
+  "physics.magnetism-induction-extended-kb.0006": {
+   "a": "move magnet faster; stronger magnet; more turns on coil",
+   "b": "connect coil to sensitive ammeter/galvanometer; push magnet in -> deflection; hold still -> zero; pull out -> opposite deflection. Size: speed, magnet strength, turns, coil area. Direction: direction of motion, which pole"
+  },
+  "physics.magnetism-induction-mcq-kb.0008": {
+   "a": "induces a current in the opposite direction",
+   "b": "kinetic to electrical",
+   "c": "zero"
+  },
+  "physics.magnetism-induction-recall-kb.0002": {
+   "all": "reverse direction of motion of magnet; reverse the poles (turn magnet round)"
+  },
+  "physics.magnetism-magnets-describe-kb.0012": {
+   "a": "field lines from N to S pole, curving around magnet; lines closest/strongest at poles; lines never cross",
+   "b": "paperclip becomes induced magnet (attracted); steel retains magnetism when removed (permanent magnet, hard material)"
+  },
+  "physics.magnetism-magnets-mcq-kb.0004": {
+   "all": "from north to south"
+  },
+  "physics.magnetism-magnets-recall-kb.0013": {
+   "a": "hard material retains magnetism (hard to magnetise/demagnetise, e.g. steel); soft loses it easily (e.g. iron)",
+   "b": "parallel, equally spaced lines (same direction)"
+  },
+  "physics.magnetism-transformers-explain-kb.0008": {
+   "a": "a.c. in primary produces changing magnetic field; iron core carries it to secondary; changing field induces alternating voltage in secondary",
+   "b": "for same power P=IV, high V means low current; power loss I\u00b2R in cables smaller so less heating",
+   "c": "high voltages dangerous in homes; reduce to safe 230 V for appliances"
+  },
+  "physics.magnetism-transformers-mcq-kb.0014": {
+   "a": "more turns on the secondary coil than the primary",
+   "b": "60 V",
+   "c": "soft iron"
+  },
+  "physics.magnetism-transformers-recall-kb.0003": {
+   "a": "Vp/Vs = Np/Ns",
+   "b": "between transmission lines and homes/consumers (local substations)"
+  },
+  "physics.matter-density-explain-kb.0009": {
+   "a": "sharp knife smaller area; same force gives greater pressure",
+   "b": "pressure increases with depth (p = \u03c1gh); greater force at bottom",
+   "c": "wood less dense than water; iron denser than water"
+  },
+  "physics.matter-density-mcq-kb.0011": {
+   "a": "3000 kg/m\u00b3",
+   "b": "100 Pa",
+   "c": "displacement (eureka) can and measuring cylinder"
+  },
+  "physics.matter-density-recall-kb.0010": {
+   "a": "balance (top-pan)",
+   "b": "N/m\u00b2"
+  },
+  "physics.matter-gases-explain-kb.0005": {
+   "all": "gas molecules gain kinetic energy, move faster; hit walls harder/more often, pressure rises inside so balloon expands"
+  },
+  "physics.matter-gases-mcq-kb.0003": {
+   "all": "molecules colliding with the container walls"
+  },
+  "physics.matter-gases-recall-kb.0012": {
+   "a": "323 K",
+   "b": "p1V1 = p2V2",
+   "c": "random motion, high speeds, in all directions, colliding with each other and walls"
+  },
+  "physics.matter-state-describe-kb.0007": {
+   "a": "solid: vibrate about fixed positions; liquid: move around/slide past each other; gas: move randomly at high speed, far apart",
+   "b": "particles gain energy, vibrate more, break free of fixed positions, can move past each other",
+   "c": "particles lose energy, slow down, move closer together, form liquid (attractive forces hold them)"
+  },
+  "physics.matter-state-explain-kb.0007": {
+   "a": "sweat evaporates; most energetic molecules escape, taking energy from skin so it cools",
+   "b": "gas particles far apart with space between; solid particles tightly packed touching"
+  },
+  "physics.matter-state-extended-kb.0001": {
+   "all": "measure mass of block with balance; insert heater and thermometer; insulate; record initial temp; heat with joulemeter or V, I, t (E=VIt); record final temp; c = E/(m\u0394\u03b8). Improve: insulate, oil in thermometer hole, repeat, measure max temp after switching off"
+  },
+  "physics.matter-state-mcq-kb.0010": {
+   "a": "42 000 J",
+   "b": "the fastest particles escape from the surface"
+  }
+ },
+ "verdicts": {
+  "physics.forces-motion-describe-kb.0014": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.forces-motion-mcq-kb.0014": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.forces-motion-recall-kb.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.hl-graph.0004": {
+   "result": "pass",
+   "problem": "pass assuming rendered graph shows 12-day half-life; text-only labels cannot confirm it",
+   "fix": ""
+  },
+  "physics.magnetism-em-describe-kb.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-em-explain-kb.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-em-extended-kb.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-em-mcq-kb.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-em-recall-kb.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-induction-describe-kb.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-induction-explain-kb.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-induction-extended-kb.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-induction-mcq-kb.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-induction-recall-kb.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-magnets-describe-kb.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-magnets-mcq-kb.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-magnets-recall-kb.0013": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-transformers-explain-kb.0008": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-transformers-mcq-kb.0014": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.magnetism-transformers-recall-kb.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-density-explain-kb.0009": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-density-mcq-kb.0011": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-density-recall-kb.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-gases-explain-kb.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-gases-mcq-kb.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-gases-recall-kb.0012": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-state-describe-kb.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-state-explain-kb.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-state-extended-kb.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "physics.matter-state-mcq-kb.0010": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

@@ -1,0 +1,228 @@
+{
+ "batch": "spanish-010",
+ "answers": {
+  "spanish.r-short.b5.0003": {
+   "a": "Panamá",
+   "b": "tiene muchos deberes",
+   "c": "la cámara",
+   "d": "antes de dormir",
+   "e": "las entradas son caras",
+   "f": "surf",
+   "g": "pasan demasiado tiempo con los videojuegos y poco al aire libre",
+   "h": "su madre",
+   "i": "con su prima",
+   "j": "poder desconectar de los estudios",
+   "k": "a un club de ajedrez del barrio",
+   "l": "en salir con sus amigos"
+  },
+  "spanish.r-short.c1.0006": {
+   "a": "Colombia",
+   "b": "en el sur (text also says centro – contradiction)",
+   "c": "sus montañas / el queso",
+   "d": "dos",
+   "e": "inglés",
+   "f": "muy abierta y acogedora",
+   "g": "lo diferentes que son las casas",
+   "h": "es tranquila / está al lado del mar",
+   "i": "sus padres trabajaban allí como médicos",
+   "j": "en tren y en autobús",
+   "k": "hace mucho frío",
+   "l": "es un buen sitio para viajar a todas partes (está en el centro)"
+  },
+  "spanish.r-short.c2.0001": {
+   "a": "Ecuador",
+   "b": "los reciclan / los ponen en contenedores diferentes",
+   "c": "cinco minutos",
+   "d": "por el tráfico",
+   "e": "hubo un incendio enorme en el bosque",
+   "f": "cada persona",
+   "g": "está en peligro de extinción",
+   "h": "hace senderismo por las montañas",
+   "i": "una bolsa de tela",
+   "j": "suave",
+   "k": "prohibiría los coches en el centro",
+   "l": "se esconde debajo de la cama"
+  },
+  "spanish.r-short.c3.0013": {
+   "a": "México",
+   "b": "para hablar con sus amigos",
+   "c": "durante la cena",
+   "d": "hacer los deberes / buscar información",
+   "e": "puede hablar con su prima en Canadá",
+   "f": "le robaron la contraseña y alguien publicó fotos en su cuenta",
+   "g": "es demasiado",
+   "h": "a hacer videollamadas",
+   "i": "la pantalla le cansa los ojos",
+   "j": "veinte palabras en japonés",
+   "k": "no necesitarán conductor",
+   "l": "una receta nueva"
+  },
+  "spanish.r-short.c4.0010": {
+   "a": "España",
+   "b": "cine",
+   "c": "peatonales",
+   "d": "los pisos son muy caros",
+   "e": "una biblioteca nueva",
+   "f": "está todo en el mismo sitio",
+   "g": "la policía",
+   "h": "más zonas verdes / menos coches",
+   "i": "la vida es más tranquila",
+   "j": "le recomienda libros",
+   "k": "una estación de metro",
+   "l": "compara los precios en internet"
+  },
+  "spanish.r-short.d1.0004": {
+   "a": "Argentina",
+   "b": "más de mil",
+   "c": "a las tres",
+   "d": "le interesan mucho los animales",
+   "e": "va a clases particulares (de matemáticas)",
+   "f": "con películas",
+   "g": "no pueden salir del instituto en el recreo",
+   "h": "no estudió bastante",
+   "i": "hace resúmenes / se graba leyendo en voz alta",
+   "j": "más actividades al aire libre",
+   "k": "electricista",
+   "l": "delegada de su clase"
+  },
+  "spanish.r-short.d2.0006": {
+   "a": "Ecuador",
+   "b": "en el hospital de la ciudad",
+   "c": "trabaja desde casa",
+   "d": "para comprarse una moto",
+   "e": "solo hacía fotocopias",
+   "f": "un trabajo más activo",
+   "g": "le encantan los animales / quiere ayudarlos",
+   "h": "hacer algo útil",
+   "i": "en su país no encontraba trabajo",
+   "j": "necesita dormir mucho",
+   "k": "le ayudó a escribir el currículum",
+   "l": "cuatro días"
+  },
+  "spanish.r-short.e1.0009": {
+   "a": "Uruguay",
+   "b": "el español",
+   "c": "ve series en versión original con subtítulos",
+   "d": "hablaban muy rápido",
+   "e": "a las cuatro",
+   "f": "en el bolsillo de su chaqueta",
+   "g": "aprendes mucho",
+   "h": "su madre es portuguesa",
+   "i": "en Berlín",
+   "j": "probar la comida típica del país",
+   "k": "traductor",
+   "l": "por su cultura"
+  },
+  "spanish.r-short.e2.0009": {
+   "a": "Chile",
+   "b": "el veinticuatro de diciembre",
+   "c": "el premio al mejor disfraz",
+   "d": "probó muchos platos nuevos",
+   "e": "en agosto",
+   "f": "hasta las cuatro de la mañana",
+   "g": "hay demasiado ruido",
+   "h": "son crueles y deberían prohibirse",
+   "i": "con su padre",
+   "j": "en una casa de campo",
+   "k": "los toros",
+   "l": "doce uvas"
+  },
+  "spanish.r-signs.a1.0012": {
+   "a": "A",
+   "b": "E",
+   "c": "B",
+   "d": "F",
+   "e": "D"
+  },
+  "spanish.r-signs.a2.0001": {
+   "a": "A",
+   "b": "F",
+   "c": "E",
+   "d": "H",
+   "e": "C"
+  },
+  "spanish.r-signs.a3.0001": {
+   "a": "C",
+   "b": "A",
+   "c": "G",
+   "d": "B",
+   "e": "E"
+  },
+  "spanish.r-signs.a4.0003": {
+   "a": "E",
+   "b": "B",
+   "c": "C",
+   "d": "H",
+   "e": "D"
+  },
+  "spanish.r-signs.b2.0001": {
+   "a": "G",
+   "b": "C",
+   "c": "A",
+   "d": "D",
+   "e": "F"
+  },
+  "spanish.r-signs.b4.0009": {
+   "a": "E",
+   "b": "H",
+   "c": "C",
+   "d": "G",
+   "e": "F"
+  }
+ },
+ "verdicts": {
+  "spanish.r-short.b5.0003": {
+   "result": "pass"
+  },
+  "spanish.r-short.c1.0006": {
+   "result": "fail",
+   "problem": "Text contradicts itself: Medellín is called a small village in the south 30 km from the coast, later 'en el centro del país'; and 'mi madre es de aquí, pero mi padre es colombiano' gives no basis for two nationalities. Q(b) and Q(l) clash.",
+   "fix": "Make the mother from another country (e.g. 'Mi madre es inglesa, pero mi padre es colombiano'), drop 'pueblo pequeño... sur... costa' or the final 'centro' sentence so (b) has one answer."
+  },
+  "spanish.r-short.c2.0001": {
+   "result": "pass"
+  },
+  "spanish.r-short.c3.0013": {
+   "result": "pass"
+  },
+  "spanish.r-short.c4.0010": {
+   "result": "pass"
+  },
+  "spanish.r-short.d1.0004": {
+   "result": "pass"
+  },
+  "spanish.r-short.d2.0006": {
+   "result": "pass"
+  },
+  "spanish.r-short.e1.0009": {
+   "result": "fail",
+   "problem": "Text is incoherent: Machu Picchu appears with no trip mentioned (a sentence seems dropped), and a Uruguayan says his favourite foreign-study language is 'el español'.",
+   "fix": "Add 'El año pasado viajé a Perú con mi clase.' before the Machu Picchu sentence and change the favourite language to e.g. 'el francés' (or study languages to inglés y alemán with favourite inglés), updating (b)."
+  },
+  "spanish.r-short.e2.0009": {
+   "result": "fail",
+   "problem": "A sentence introducing the friend is missing: 'Al final del Ramadán me invitó...' has no subject, and Q(d) refers to 'su amiga' who never appears in the text.",
+   "fix": "Insert e.g. 'Mi mejor amiga, Amira, es musulmana.' before the Ramadán sentence."
+  },
+  "spanish.r-signs.a1.0012": {
+   "result": "fail",
+   "problem": "Sentence (b) 'antes de las ocho menos veinte' (19:40) does not match sign E 'Último pase: 19:30'.",
+   "fix": "Hay que entrar antes de las siete y media / a las siete y media como muy tarde."
+  },
+  "spanish.r-signs.a2.0001": {
+   "result": "pass"
+  },
+  "spanish.r-signs.a3.0001": {
+   "result": "pass"
+  },
+  "spanish.r-signs.a4.0003": {
+   "result": "pass"
+  },
+  "spanish.r-signs.b2.0001": {
+   "result": "pass"
+  },
+  "spanish.r-signs.b4.0009": {
+   "result": "pass"
+  }
+ }
+}

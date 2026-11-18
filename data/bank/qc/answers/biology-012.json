@@ -1,0 +1,268 @@
+{
+ "batch": "biology-012",
+ "answers": {
+  "biology.inheritance-mcq.0002": {
+   "all": "height in humans"
+  },
+  "biology.inheritance-mcq-fwd.0004": {
+   "all": "homozygous"
+  },
+  "biology.inheritance-mcq-rev.0007": {
+   "all": "An allele expressed even when only one copy is present"
+  },
+  "biology.inheritance-recall.0004": {
+   "all": "alleles"
+  },
+  "biology.inheritance-recall-fact.0005": {
+   "all": "heterozygous"
+  },
+  "biology.inheritance-recall-multi.0001": {
+   "a": "a characteristic controlled by many genes (giving continuous variation)",
+   "b": "allele",
+   "c": "homozygous"
+  },
+  "biology.kidney.0001": {
+   "all": "(180-1.5)/180 x100 = 99.2%"
+  },
+  "biology.magnification.0013": {
+   "all": "20 mm = 20000 um; 20000/5 = x4000"
+  },
+  "biology.microorganisms-data-graph.0002": {
+   "a": "CO2 volume increases with temperature up to an optimum (~40 C, max value), then decreases sharply above it; quote values",
+   "b": "enzymes in yeast: more kinetic energy, more collisions, faster anaerobic respiration; above optimum enzymes denature, active site changes shape, respiration slows"
+  },
+  "biology.microorganisms-data-pct.0002": {
+   "a": "(10-8)/8 x100 = 25%",
+   "b": "rises to 40 C: more KE, more enzyme-substrate collisions, faster respiration; above 40 C enzymes denature so less CO2"
+  },
+  "biology.microorganisms-data-plot.0003": {
+   "a": "axes time (x) pH (y) labelled, sensible scale, 7 points plotted correctly, smooth curve",
+   "b": "pH falls from 6.6 quickly then more slowly, levels off at 4.5 from 5 h"
+  },
+  "biology.microorganisms-data-read.0006": {
+   "a": "5.0",
+   "b": "(6.2-4.5)/4 = 0.425 (0.43) pH units per hour decrease",
+   "c": "Lactobacillus bacteria ferment lactose by anaerobic respiration producing lactic acid, which lowers pH"
+  },
+  "biology.microorganisms-describe.0005": {
+   "all": "yeast + sugar solution in tubes in water baths at range of temps; equilibrate; measure CO2 (gas syringe/bubbles counted) in fixed time; control yeast mass, sugar conc/volume; repeat"
+  },
+  "biology.microorganisms-describe-multi.0003": {
+   "a": "Lactobacillus",
+   "b": "control water quality/oxygen/waste removal; control predators (nets); control disease/parasites (antibiotics, pesticides); feed high protein diet controlled frequency; separate by size/age; selective breeding"
+  },
+  "biology.microorganisms-diag-desc.0002": {
+   "a": "cannot judge without diagram (e.g. motor/paddles)",
+   "b": "depends on diagram"
+  },
+  "biology.microorganisms-diag-func.0003": {
+   "a": "letter of water jacket (diagram)",
+   "b": "water jacket"
+  },
+  "biology.microorganisms-diag-mcq.0001": {
+   "all": "cannot judge without diagram"
+  },
+  "biology.microorganisms-diag-name.0007": {
+   "all": "cannot judge without diagram"
+  },
+  "biology.microorganisms-explain.0001": {
+   "all": "respiration of microorganisms releases heat; cold water absorbs/removes heat, keeping temperature at optimum; prevents enzymes denaturing / microorganisms dying so yield maximised"
+  },
+  "biology.microorganisms-explain-multi.0004": {
+   "a": "air supply",
+   "b": "bacteria may become resistant to antibiotics; antibiotics enter water/environment killing useful bacteria; may enter food chain/humans; cost"
+  },
+  "biology.microorganisms-ext.0004": {
+   "all": "Plan: water quality (O2, waste removal, temp); separate by size to prevent intraspecific predation; nets exclude predators/interspecific; disease control antibiotics/pesticides/low stocking density; high-protein food, controlled frequency; selective breeding for fast growth"
+  },
+  "biology.microorganisms-mcq.0002": {
+   "all": "to prevent intraspecific predation"
+  },
+  "biology.microorganisms-mcq-fwd.0003": {
+   "all": "air supply"
+  },
+  "biology.microorganisms-mcq-rev.0002": {
+   "all": "Stir the mixture so nutrients and oxygen are spread evenly"
+  },
+  "biology.microorganisms-prac-method.0002": {
+   "all": "same mass of yeast with same volume of different sugar concs; constant temperature water bath; collect CO2 in gas syringe/measuring cylinder over fixed time; repeat and calculate mean"
+  },
+  "biology.microorganisms-prac-plan.0002": {
+   "all": "Plan: IV range of 5 sugar concs; DV CO2 volume in fixed time via gas syringe; control yeast mass, temp, volume, pH; repeats + means; equilibrate; anaerobic via oil layer"
+  },
+  "biology.microorganisms-prac-reliab.0002": {
+   "a": "identify anomalies, calculate mean, make results more reliable/repeatable",
+   "b": "boiled (dead) yeast with sugar, or yeast with water no sugar; shows CO2 is due to yeast respiring sugar"
+  },
+  "biology.microorganisms-prac-risk.0002": {
+   "a": "hot water/glassware breaking/yeast allergy; handle with care/goggles/gloves",
+   "b": "use gas syringe instead of counting bubbles"
+  },
+  "biology.microorganisms-prac-step.0001": {
+   "all": "to allow the mixture to reach the temperature of the water bath (equilibrate), so the rate measured is at the stated temperature"
+  },
+  "biology.microorganisms-prac-vars.0001": {
+   "a": "temperature",
+   "b": "number of bubbles (rate of gas release) per unit time",
+   "c": "mass of yeast, sugar concentration/volume, type of sugar, time counted"
+  }
+ },
+ "verdicts": {
+  "biology.inheritance-mcq.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.inheritance-mcq-fwd.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.inheritance-mcq-rev.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.inheritance-recall.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.inheritance-recall-fact.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.inheritance-recall-multi.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.kidney.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.magnification.0013": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-data-graph.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Graph not visible; MS values consistent with axis labels."
+  },
+  "biology.microorganisms-data-pct.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-data-plot.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-data-read.0006": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-describe.0005": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-describe-multi.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-diag-desc.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across fermenter questions."
+  },
+  "biology.microorganisms-diag-func.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across fermenter questions."
+  },
+  "biology.microorganisms-diag-mcq.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across fermenter questions."
+  },
+  "biology.microorganisms-diag-name.0007": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Diagram not visible; passed as mark scheme letters are mutually consistent across fermenter questions."
+  },
+  "biology.microorganisms-explain.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-explain-multi.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-ext.0004": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-mcq.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-mcq-fwd.0003": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-mcq-rev.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-prac-method.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-prac-plan.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-prac-reliab.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": "",
+   "note": "Boiled yeast control should also be accepted."
+  },
+  "biology.microorganisms-prac-risk.0002": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-prac-step.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  },
+  "biology.microorganisms-prac-vars.0001": {
+   "result": "pass",
+   "problem": "",
+   "fix": ""
+  }
+ }
+}

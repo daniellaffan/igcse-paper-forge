@@ -1,0 +1,216 @@
+{
+ "batch": "spanish-009",
+ "answers": {
+  "spanish.r-pictures.c3.0003": {
+   "a": "E",
+   "b": "D",
+   "c": "A",
+   "d": "C",
+   "e": "F"
+  },
+  "spanish.r-pictures.c4.0002": {
+   "a": "F",
+   "b": "A",
+   "c": "E",
+   "d": "B",
+   "e": "C"
+  },
+  "spanish.r-pictures.c5.0003": {
+   "a": "A",
+   "b": "D",
+   "c": "E",
+   "d": "B",
+   "e": "C"
+  },
+  "spanish.r-pictures.c6.0011": {
+   "a": "C",
+   "b": "B",
+   "c": "A",
+   "d": "F",
+   "e": "E"
+  },
+  "spanish.r-pictures.d1.0001": {
+   "a": "F",
+   "b": "E",
+   "c": "C",
+   "d": "D",
+   "e": "A"
+  },
+  "spanish.r-pictures.d2.0004": {
+   "a": "E",
+   "b": "C",
+   "c": "B",
+   "d": "A",
+   "e": "F"
+  },
+  "spanish.r-pictures.e1.0013": {
+   "a": "B",
+   "b": "E",
+   "c": "A",
+   "d": "F",
+   "e": "C"
+  },
+  "spanish.r-pictures.e2.0009": {
+   "a": "A",
+   "b": "E",
+   "c": "F",
+   "d": "C",
+   "e": "D"
+  },
+  "spanish.r-short.a1.0001": {
+   "a": "Ecuador",
+   "b": "clase de piano",
+   "c": "ya es de noche",
+   "d": "el tres de mayo",
+   "e": "ve películas con su hermano",
+   "f": "se aburría un poco",
+   "g": "solo llega cinco minutos tarde de vez en cuando",
+   "h": "estudiar dos horas",
+   "i": "hace buen tiempo / los días son más largos",
+   "j": "quince minutos",
+   "k": "en casa de sus abuelos",
+   "l": "perdió el tren de las ocho"
+  },
+  "spanish.r-short.a2.0012": {
+   "a": "Perú",
+   "b": "un café con leche y una tostada",
+   "c": "siempre está fría",
+   "d": "quiere proteger a los animales",
+   "e": "beber más agua",
+   "f": "a las nueve y media",
+   "g": "dos",
+   "h": "las espinacas",
+   "i": "a hacer tortilla de patatas",
+   "j": "comida japonesa / de otros países",
+   "k": "no es muy sana",
+   "l": "en casa de sus tíos"
+  },
+  "spanish.r-short.a3.0012": {
+   "a": "Perú",
+   "b": "tres",
+   "c": "se queda despierta mirando el móvil",
+   "d": "se rompió la pierna (jugando al fútbol)",
+   "e": "sale a caminar con su perro",
+   "f": "fiebre / dolor de garganta",
+   "g": "relajarse / dormir mejor",
+   "h": "es una buena idea",
+   "i": "es tan importante como la salud física",
+   "j": "para trabajar en la piscina",
+   "k": "toma mucha fruta con vitamina C",
+   "l": "iría al gimnasio todos los días"
+  },
+  "spanish.r-short.a4.0013": {
+   "a": "España",
+   "b": "vive lejos (a diez kilómetros)",
+   "c": "en hora punta está lleno de gente",
+   "d": "leer / mirar el paisaje",
+   "e": "hay un carril bici nuevo",
+   "f": "de los atascos",
+   "g": "andando",
+   "h": "diez euros",
+   "i": "sacarse el carné de conducir",
+   "j": "dos trenes y un autobús",
+   "k": "un señor muy amable",
+   "l": "hubo huelga de metro"
+  },
+  "spanish.r-short.b1.0010": {
+   "a": "Colombia",
+   "b": "seis años",
+   "c": "en casa de su padre",
+   "d": "para leer",
+   "e": "es un poco impaciente",
+   "f": "duerme",
+   "g": "un mes",
+   "h": "escuchar y no criticar a los demás",
+   "i": "todos los veranos",
+   "j": "a jugar al ajedrez",
+   "k": "antes de las diez",
+   "l": "una familia grande con tres o cuatro hijos"
+  },
+  "spanish.r-short.b2.0008": {
+   "a": "Uruguay",
+   "b": "en la cuarta planta",
+   "c": "uno",
+   "d": "cenan",
+   "e": "pósteres",
+   "f": "planchar",
+   "g": "que tiene razón",
+   "h": "su padre encontró trabajo allí",
+   "i": "el ruido de los coches por la noche",
+   "j": "para que tenga más luz",
+   "k": "cerca del mar",
+   "l": "un gato"
+  },
+  "spanish.r-short.b4.0002": {
+   "a": "Panamá",
+   "b": "azul",
+   "c": "no pierde tiempo por la mañana eligiendo ropa",
+   "d": "en tiendas de segunda mano",
+   "e": "le quedaba pequeña",
+   "f": "los zapatos le hacían daño",
+   "g": "la gente gasta demasiado dinero en ropa que solo se pone una o dos veces",
+   "h": "le hacen descuento",
+   "i": "lo odiaba",
+   "j": "compra más rápido",
+   "k": "viajar",
+   "l": "pendientes"
+  }
+ },
+ "verdicts": {
+  "spanish.r-pictures.c3.0003": {
+   "result": "fail",
+   "problem": "Sentence (c) 'Lo que más hago con el móvil es buscar información' names the mobile phone, so F is as defensible as A (search engine).",
+   "fix": "Change (c) to 'Siempre busco información en internet' (no mention of móvil)."
+  },
+  "spanish.r-pictures.c4.0002": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.c5.0003": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.c6.0011": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.d1.0001": {
+   "result": "fail",
+   "problem": "Sentence (d) 'vamos a el gimnasio' is ungrammatical (no contraction).",
+   "fix": "Ahora vamos al gimnasio."
+  },
+  "spanish.r-pictures.d2.0004": {
+   "result": "pass"
+  },
+  "spanish.r-pictures.e1.0013": {
+   "result": "fail",
+   "problem": "Pictures B (Portuguese flag) and E (Portuguese) both fit (a) 'portuguesa' and (b) 'el portugués', so the two answers are interchangeable.",
+   "fix": "Make E clearly the language (e.g. a speech bubble 'Olá' / a Portuguese textbook) or change one sentence to another nationality/language."
+  },
+  "spanish.r-pictures.e2.0009": {
+   "result": "pass"
+  },
+  "spanish.r-short.a1.0001": {
+   "result": "fail",
+   "problem": "Text has a factual error (Guayaquil is on the equator, so winter days are not 'muy cortos') and an internal contradiction (exams start next month, yet he was late for an English exam yesterday).",
+   "fix": "Set the blog in a non-equatorial city (e.g. Santiago, Chile) and change 'examen de inglés' to 'clase de inglés'."
+  },
+  "spanish.r-short.a2.0012": {
+   "result": "pass"
+  },
+  "spanish.r-short.a3.0012": {
+   "result": "pass"
+  },
+  "spanish.r-short.a4.0013": {
+   "result": "pass"
+  },
+  "spanish.r-short.b1.0010": {
+   "result": "pass"
+  },
+  "spanish.r-short.b2.0008": {
+   "result": "pass"
+  },
+  "spanish.r-short.b4.0002": {
+   "result": "fail",
+   "problem": "Agreement error in the text: the female narrator says 'Si fuera rico'.",
+   "fix": "Si fuera rica, no compraría ropa cara."
+  }
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "batch": "english-literature-recheck-1",
+ "answers": {
+  "english-literature.omam-setting.0012": {
+   "all": "Plan: Partly agree. Cyclical structure (opens/closes at Salinas pool, heron and water snake), six scenes like a play-novella, foreshadowing (Candy's dog, puppy, mouse, Curley's wife) make tragedy inevitable and show the futility of the dream. But characters (George/Lennie bond, Crooks, Candy, Curley's wife) carry the themes of loneliness and powerlessness. Context: Depression, migrant ranch workers, racism (Jim Crow), 1930s women, American Dream; structure and characters work together."
+  },
+  "english-literature.unseen-brothers-room.0003": {
+   "all": "Plan: Personification ('held its breath', boots 'sulk') makes room suspended, waiting. Mum's routine (hoovering, 'for the air') shows quiet grief/denial. Speaker's memories of petty arguments in enjambed list spill across stanzas; hyperbole 'all the cereal in the world'; ending paradox 'turn it up. Just to hear the quiet' shows absence. Free verse, regular quatrains, colloquial direct address 'you' - change is loss and longing."
+  },
+  "english-literature.unseen-lighthouse.0001": {
+   "all": "Plan: Metaphor 'grew up inside a candle', simile 'rock the size of a church' - home is tiny, sacred, isolated. Father 'climbed...to light the sea' - hyperbolic, mythic. Logbook capitals as alphabet, animals as friends - isolation and loneliness; 'like a film with the sound off' shows separation. Final stanza contrast with city, cyclical return of 'one hundred and twelve' - the unusual home stays with her. Five-line stanzas, free verse, past to present shift."
+  }
+ },
+ "verdicts": {
+  "english-literature.omam-setting.0012": {
+   "result": "pass"
+  },
+  "english-literature.unseen-brothers-room.0003": {
+   "result": "pass"
+  },
+  "english-literature.unseen-lighthouse.0001": {
+   "result": "pass"
+  }
+ }
+}

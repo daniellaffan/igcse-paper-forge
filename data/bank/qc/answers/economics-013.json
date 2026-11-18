@@ -1,0 +1,191 @@
+{
+ "batch": "economics-013",
+ "answers": {
+  "economics.ped-mcq-def.0007": {
+   "all": "When quantity demanded does not change at all whatever happens to price (PED = 0)"
+  },
+  "economics.pes-analyse-1.0005": {
+   "all": "Textiles: spare capacity, so output can rise quickly with price -> elastic. Cotton: harvested once a year, time to grow, so cannot respond quickly -> inelastic (short run); may store stocks."
+  },
+  "economics.pes-analyse-2.0007": {
+   "all": "Land shortage, skilled labour shortage, slow planning -> long production time, so quantity supplied barely responds to 15% price rise -> inelastic; price rises further when demand rises."
+  },
+  "economics.pes-assess-1.0002": {
+   "all": "Plan: spare capacity -> textiles elastic; rice one harvest -> inelastic SR; but textile capacity limited once full, need workers/materials; rice stocks can be stored, long run more land planted; judgement: textiles more responsive in SR."
+  },
+  "economics.pes-assess-2.0003": {
+   "all": "Plan: rising demand with inelastic supply -> large price rises, small quantity increase; affordability, homelessness, renting; builders profit; long run supply more elastic; government planning reform; depends on demand trend."
+  },
+  "economics.pes-calc.0014": {
+   "all": "%dQs=900/2900=31.03%; %dP=3/10=30%; PES=31.03/30=1.03"
+  },
+  "economics.pes-define1.0006": {
+   "all": "Quantity supplied does not change whatever the price; PES = 0."
+  },
+  "economics.pes-define2.0001": {
+   "all": "Responsiveness of quantity supplied to a change in price; %dQs / %dP."
+  },
+  "economics.pes-describe.0007": {
+   "all": "With spare capacity firms can increase output quickly using idle resources when price rises, so quantity supplied rises proportionately more."
+  },
+  "economics.pes-diagram.0016": {
+   "all": "Steep upward-sloping supply curve labelled S; P1 to P2 on price axis; Q1 to Q2 small increase, proportionately smaller than price rise."
+  },
+  "economics.pes-explain.0017": {
+   "all": "Stocks can be released quickly to market when price rises (1), so quantity supplied responds quickly (1), making supply of Tamarind's winter coats more price elastic (1)."
+  },
+  "economics.pes-mcq-auth.0003": {
+   "all": "crops take time to grow"
+  },
+  "economics.pes-mcq-class.0003": {
+   "all": "Original paintings"
+  },
+  "economics.pes-mcq-def.0006": {
+   "all": "When quantity supplied cannot change whatever the price (PES = 0)"
+  },
+  "economics.ppc-calc.0012": {
+   "all": "Fish falls 810-700=110 tonnes for 60 extra furniture; OC = 110 tonnes of fish (1.83 tonnes per item)."
+  },
+  "economics.ppc-define1.0001": {
+   "all": "Curve showing maximum combinations of two goods an economy can produce with all resources fully and efficiently used."
+  },
+  "economics.ppc-define2.0004": {
+   "all": "Increase in productive potential of economy (1), shown by outward shift of PPC (1)."
+  },
+  "economics.ppc-diagram.0016": {
+   "all": "Draw PPC1 shifted outward parallel(ish) to right of original, labelled PPC1, with arrows showing outward shift."
+  },
+  "economics.ppc-explain.0016": {
+   "all": "More capital goods increase productive capacity in future (1), so PPC shifts outward (1); Novaris can produce more of both goods later, though fewer consumer goods now (1)."
+  },
+  "economics.ppc-mcq-auth.0002": {
+   "all": "opportunity cost"
+  },
+  "economics.ppc-mcq-class.0006": {
+   "all": "Large-scale emigration of workers"
+  },
+  "economics.ppc-mcq-def.0003": {
+   "all": "A combination of goods outside the curve which cannot be produced with the current resources and technology"
+  },
+  "economics.price-analyse-1.0004": {
+   "all": "Supply shifts left (poor harvests), demand shifts right (emerging markets) -> both raise price, so large 75% rise; quantity effect ambiguous; inelastic supply amplifies."
+  },
+  "economics.price-analyse-2.0003": {
+   "all": "Demand for flats up (migration of students/workers) -> D right; supply inelastic/limited (scarce land, higher costs shift S left) -> rents rise 19%."
+  },
+  "economics.price-analyse-3.0003": {
+   "all": "Price CHF 447 set below equilibrium; Qd > Qs at that price -> excess demand; supply fixed in SR; resale near double shows willingness to pay much higher."
+  },
+  "economics.price-assess-1.0003": {
+   "all": "Plan: stays high if demand keeps growing and supply constraints persist; falls if harvests recover, new planting, substitutes, demand falls at high prices; judgement depends on weather/time horizon."
+  },
+  "economics.price-assess-2.0002": {
+   "all": "Plan: continued migration and scarce land -> rents keep rising; but high rents deter migrants, new building, government policy (rent controls, housing); depends on supply response."
+  },
+  "economics.price-assess-3.0003": {
+   "all": "Plan: for - excess demand, higher revenue/profit, clears shortage, deters resellers; against - goodwill/reputation, fairness, temporary demand surge, supply increasing soon, competitors; judgement."
+  },
+  "economics.price-calc.0004": {
+   "all": "At EUR9: Qs 500 - Qd 380 = excess supply of 120 T-shirts."
+  },
+  "economics.price-data.0013": {
+   "a": "Equilibrium price AED16 (Qd=Qs=760); TR = 16 x 760 = AED12,160",
+   "b": "Price AED383 below equilibrium -> Qd exceeds Qs -> shortage; supply fixed in short run; resale at near double shows excess demand.",
+   "c": "Plan: raise price to clear shortage and capture revenue vs. reputation, fairness, temporary demand, supply increases; but Figure 1 is about tomatoes so cannot be used for scooter."
+  }
+ },
+ "verdicts": {
+  "economics.ped-mcq-def.0007": {
+   "result": "pass"
+  },
+  "economics.pes-analyse-1.0005": {
+   "result": "pass"
+  },
+  "economics.pes-analyse-2.0007": {
+   "result": "pass"
+  },
+  "economics.pes-assess-1.0002": {
+   "result": "pass"
+  },
+  "economics.pes-assess-2.0003": {
+   "result": "pass"
+  },
+  "economics.pes-calc.0014": {
+   "result": "pass"
+  },
+  "economics.pes-define1.0006": {
+   "result": "pass"
+  },
+  "economics.pes-define2.0001": {
+   "result": "pass"
+  },
+  "economics.pes-describe.0007": {
+   "result": "pass"
+  },
+  "economics.pes-diagram.0016": {
+   "result": "pass"
+  },
+  "economics.pes-explain.0017": {
+   "result": "pass"
+  },
+  "economics.pes-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.pes-mcq-class.0003": {
+   "result": "pass"
+  },
+  "economics.pes-mcq-def.0006": {
+   "result": "pass"
+  },
+  "economics.ppc-calc.0012": {
+   "result": "pass"
+  },
+  "economics.ppc-define1.0001": {
+   "result": "pass"
+  },
+  "economics.ppc-define2.0004": {
+   "result": "pass"
+  },
+  "economics.ppc-diagram.0016": {
+   "result": "pass"
+  },
+  "economics.ppc-explain.0016": {
+   "result": "pass"
+  },
+  "economics.ppc-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.ppc-mcq-class.0006": {
+   "result": "pass"
+  },
+  "economics.ppc-mcq-def.0003": {
+   "result": "pass"
+  },
+  "economics.price-analyse-1.0004": {
+   "result": "pass"
+  },
+  "economics.price-analyse-2.0003": {
+   "result": "pass"
+  },
+  "economics.price-analyse-3.0003": {
+   "result": "pass"
+  },
+  "economics.price-assess-1.0003": {
+   "result": "pass"
+  },
+  "economics.price-assess-2.0002": {
+   "result": "pass"
+  },
+  "economics.price-assess-3.0003": {
+   "result": "pass"
+  },
+  "economics.price-calc.0004": {
+   "result": "pass"
+  },
+  "economics.price-data.0013": {
+   "result": "fail",
+   "problem": "Figure 1 is a tomato market schedule (AED 5-19) unrelated to Extract A's AED 383 scooter, yet part (c) tells students to use Figure 1 to judge the scooter price.",
+   "fix": "Make Figure 1 the scooter's demand/supply schedule around AED 383 (or drop 'and Figure 1' from (c) and make (a) about the scooter)."
+  }
+ }
+}

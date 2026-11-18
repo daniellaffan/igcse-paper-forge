@@ -1,0 +1,39 @@
+{
+ "batch": "english-language-007",
+ "answers": {
+  "english-language.wchoice.029": {
+   "all": "Plan. (a) Online magazine article, semi-formal persuasive: case for zoos (conservation, breeding programmes, education, research) vs against (welfare, captivity, small enclosures); alternatives such as documentaries, sanctuaries, virtual reality; clear stance, rhetorical devices, strong conclusion. (b) Guide for first-time visitors on a travel website: engaging, informative, headed sections, main attractions, things to do, transport and food tips, accurate and welcoming tone. AO4 27 + AO5 18 = 45."
+  },
+  "english-language.wchoice.051": {
+   "all": "Plan. (a) Formal letter to editor (Dear Sir/Madam, Yours faithfully): reasons parents set rules (safety, exams), how much freedom teens need (trust, independence), balanced view, clear opinion. (b) School magazine article 'Village or City?': village attractions (community, nature, safety) vs city (jobs, culture, transport), engaging tone for teen readers, conclusion. AO4 27 + AO5 18 = 45."
+  },
+  "english-language.wchoice.059": {
+   "all": "Plan. (a) Formal letter to headteacher: view on ending foreign-language lessons after 14; effects on students (careers, skills, workload) and school (timetable, staffing); alternatives (optional clubs, exchange visits, apps). (b) Persuasive leaflet for households: why saving water matters (shortages, bills, climate); practical tips (shorter showers, fix leaks, water butts); headings, imperatives, direct address. AO4 27 + AO5 18 = 45."
+  },
+  "english-language.wchoice.049": {
+   "all": "Plan. (a) Formal letter to magazine editor: exams' strengths (standardised, objective, comparable) and weaknesses (stress, memory, one-off); other methods (coursework, projects, continuous assessment); clear opinion. (b) Review of a market/shopping area for local paper: range of stalls/shops, atmosphere, sights and smells, prices, evaluative and recommending tone. AO4 27 + AO5 18 = 45."
+  }
+ },
+ "verdicts": {
+  "english-language.wchoice.029": {
+   "result": "pass",
+   "problem": "AO4 27 + AO5 18 = 45 with contiguous bands; form, audience and indicative content fit both options.",
+   "fix": ""
+  },
+  "english-language.wchoice.051": {
+   "result": "pass",
+   "problem": "AO4 27 + AO5 18 = 45 with contiguous bands; form, audience and indicative content fit both options.",
+   "fix": ""
+  },
+  "english-language.wchoice.059": {
+   "result": "pass",
+   "problem": "AO4 27 + AO5 18 = 45 with contiguous bands; form, audience and indicative content fit both options.",
+   "fix": ""
+  },
+  "english-language.wchoice.049": {
+   "result": "pass",
+   "problem": "AO4 27 + AO5 18 = 45 with contiguous bands; form, audience and indicative content fit both options.",
+   "fix": ""
+  }
+ }
+}

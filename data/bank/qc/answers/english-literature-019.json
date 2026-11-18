@@ -1,0 +1,56 @@
+{
+  "batch": "english-literature-019",
+  "answers": {
+    "english-literature.unseen-swimming-lesson.0002": {
+      "all": "Plan (Swimming Lesson (original); fear and trust): Water, parent's hand, letting go, trust."
+    },
+    "english-literature.unseen-swimming-lesson.0003": {
+      "all": "Plan (Swimming Lesson (original); growing independence): Child moves from clutching to swimming alone."
+    },
+    "english-literature.unseen-sympathy.0001": {
+      "all": "Plan (Dunbar Sympathy; freedom and captivity): Caged bird vs free bird, 'I know why the caged bird sings' refrain, bruised wing, bars, pulsing; 3 septets."
+    },
+    "english-literature.unseen-sympathy.0002": {
+      "all": "Plan (Dunbar Sympathy; suffering): Bleeding wing, 'old, old scars', 'pain still throbs', beating wing; prayer rising; metaphor for oppression."
+    },
+    "english-literature.unseen-the-allotment.0003": {
+      "all": "Plan (The Allotment (original); memory and ageing): Digging, old hands, remembered, time."
+    },
+    "english-literature.unseen-the-allotment.0001": {
+      "all": "Plan (The Allotment (original); father and child): Shared work, learning, tenderness."
+    }
+  },
+  "note": "cold answers carried over from the first checker run (written before any mark scheme was opened)",
+  "verdicts": {
+    "english-literature.unseen-swimming-lesson.0002": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-swimming-lesson.0003": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-sympathy.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-sympathy.0002": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-the-allotment.0003": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-literature.unseen-the-allotment.0001": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

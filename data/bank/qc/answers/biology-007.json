@@ -1,0 +1,208 @@
+{
+ "batch": "biology-007",
+ "answers": {
+  "biology.gas-exchange-humans-explain-multi.0004": {
+   "a": "large surface area; thin walls (one cell thick)/short diffusion distance; good blood supply; moist",
+   "b": "nicotine/CO raise heart rate/blood pressure and damage artery lining; fatty deposits build up in coronary arteries narrowing them; less blood/oxygen to heart muscle, clots; CO reduces oxygen carried"
+  },
+  "biology.gas-exchange-humans-ext.0012": {
+   "all": "many alveoli give large surface area; walls one cell thick and capillary walls thin so short diffusion distance; dense capillary network and constant blood flow plus ventilation maintain steep concentration gradients; moist lining for gases to dissolve; O2 diffuses into blood, CO2 out"
+  },
+  "biology.gas-exchange-humans-mcq.0002": {
+   "all": "emphysema"
+  },
+  "biology.gas-exchange-humans-mcq-fwd.0007": {
+   "all": "tar"
+  },
+  "biology.gas-exchange-humans-mcq-rev.0001": {
+   "all": "Held open by rings of cartilage and carries air to the bronchi"
+  },
+  "biology.gas-exchange-humans-prac-method.0001": {
+   "all": "sit at rest and count breaths per minute (repeat, mean); exercise e.g. step-ups for set time (1,2,3,4,5 min) at same intensity; immediately count breaths for one minute; rest until back to resting rate between; repeat and calculate means"
+  },
+  "biology.gas-exchange-humans-prac-plan.0001": {
+   "all": "C: vary exercise duration (0-5 min); O: same person/similar age and fitness; R: repeat three times, mean; M1: count breaths for 1 minute with stopwatch; M2: immediately after exercise; S: same type/intensity of exercise, rest to baseline between tests"
+  },
+  "biology.gas-exchange-humans-prac-reliab.0002": {
+   "a": "identify anomalies; calculate mean; results more reliable",
+   "b": "volume/concentration of limewater - use same volume measured with measuring cylinder; or breathing rate/depth - breathe at same rate"
+  },
+  "biology.gas-exchange-humans-prac-risk.0001": {
+   "a": "over-exertion/fainting or tripping - students with health conditions (asthma) don't take part/stop if dizzy; clear space",
+   "b": "count for a full minute (not 15 s x4) / repeat count / use a stopwatch / have partner count"
+  },
+  "biology.gas-exchange-humans-prac-step.0001": {
+   "all": "so starting rate is the same for each test; otherwise raised breathing from previous exercise would affect result making it invalid"
+  },
+  "biology.gas-exchange-humans-prac-vars.0002": {
+   "a": "inhaled or exhaled air",
+   "b": "time taken for limewater to turn cloudy",
+   "c": "volume of limewater; concentration of limewater; size of tubes; rate/depth of breathing"
+  },
+  "biology.gas-exchange-humans-recall.0005": {
+   "all": "increases breathing rate (and depth)"
+  },
+  "biology.gas-exchange-humans-recall-fact.0008": {
+   "all": "carbon monoxide"
+  },
+  "biology.gas-exchange-humans-recall-multi.0001": {
+   "a": "bronchi",
+   "b": "trachea",
+   "c": "diaphragm"
+  },
+  "biology.gas-exchange-plants-data-graph.0003": {
+   "a": "net uptake increases with light intensity, negative at 0, becomes positive (compensation point ~10-15), then levels off at high intensity; quote data",
+   "b": "no light so no photosynthesis; plant still respires; CO2 released so net uptake negative"
+  },
+  "biology.gas-exchange-plants-data-pct.0004": {
+   "a": "(14-9)/9 x100 = 56%",
+   "b": "no photosynthesis in dark; respiration continues releasing CO2"
+  },
+  "biology.gas-exchange-plants-data-plot.0004": {
+   "a": "axes (x light), scale incl negative y, points, smooth curve",
+   "b": "increases from -8 to 21; crosses zero just above 10; levels off at 21 from 50"
+  },
+  "biology.gas-exchange-plants-data-read.0002": {
+   "a": "read from graph (approx -1)",
+   "b": "(reading at 50 - reading at 10)/40",
+   "c": "no photosynthesis; respiration releases CO2"
+  },
+  "biology.gas-exchange-plants-explain.0007": {
+   "all": "control; shows that colour change is caused by the leaf (not light/heat/the air) so result valid"
+  },
+  "biology.gas-exchange-plants-explain-multi.0005": {
+   "a": "spongy mesophyll cells (cell surfaces lining air spaces)",
+   "b": "light increases in morning so photosynthesis rate increases; rate of photosynthesis exceeds respiration; CO2 used faster than released, glasshouse enclosed"
+  },
+  "biology.gas-exchange-plants-mcq.0001": {
+   "all": "when the rates of photosynthesis and respiration are equal"
+  },
+  "biology.gas-exchange-plants-mcq-fwd.0003": {
+   "all": "stomata"
+  },
+  "biology.gas-exchange-plants-mcq-rev.0002": {
+   "all": "Taken in by a leaf in bright light because it is used in photosynthesis"
+  },
+  "biology.gas-exchange-plants-prac-method.0002": {
+   "all": "use leaves of same species/size; coat upper surface of one, lower of another (and uncoated/both coated controls); record initial mass on balance; hang in same conditions; weigh daily for several days; calculate % mass loss; most loss = surface with more stomata uncoated"
+  },
+  "biology.gas-exchange-plants-prac-plan.0001": {
+   "all": "C: vary light intensity by lamp distance (e.g. 5 distances); O: same species/size leaves; R: repeat 3 times; M: colour of hydrogencarbonate indicator after set time vs colour standards; S: same volume indicator, same temperature (heat filter), same time; sealed tubes, control tube without leaf"
+  },
+  "biology.gas-exchange-plants-prac-reliab.0002": {
+   "a": "identify anomalies, calculate mean, leaves vary",
+   "b": "uncoated leaf (and/or leaf coated on both surfaces) to compare - shows water loss with no stomata blocked / that loss is through stomata"
+  },
+  "biology.gas-exchange-plants-prac-risk.0001": {
+   "a": "hot lamp - don't touch / let cool; or electrical with water - keep water away",
+   "b": "compare with colour chart/standards or use a colorimeter"
+  },
+  "biology.gas-exchange-plants-prac-step.0002": {
+   "all": "prevents gas exchange with surrounding air; so any change in CO2 (indicator colour) is due only to the leaf"
+  },
+  "biology.gas-exchange-plants-prac-vars.0002": {
+   "a": "which surface is coated (upper or lower)",
+   "b": "mass of leaf / mass lost (water lost)",
+   "c": "same species/size of leaf; temperature; humidity; light; air movement"
+  },
+  "biology.gas-exchange-plants-recall.0004": {
+   "all": "oxygen"
+  }
+ },
+ "verdicts": {
+  "biology.gas-exchange-humans-explain-multi.0004": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-ext.0012": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-mcq.0002": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-mcq-fwd.0007": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-mcq-rev.0001": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-prac-method.0001": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-prac-plan.0001": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-prac-reliab.0002": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-prac-risk.0001": {
+   "result": "pass",
+   "note": "(b) generic MS wording, but digital timer fits and rider accepts sensible methods."
+  },
+  "biology.gas-exchange-humans-prac-step.0001": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-prac-vars.0002": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-recall.0005": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-recall-fact.0008": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-humans-recall-multi.0001": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-data-graph.0003": {
+   "result": "pass",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.gas-exchange-plants-data-pct.0004": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-data-plot.0004": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-data-read.0002": {
+   "result": "pass",
+   "note": "Graph not visible; MS readings consistent with axis labels."
+  },
+  "biology.gas-exchange-plants-explain.0007": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-explain-multi.0005": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-mcq.0001": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-mcq-fwd.0003": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-mcq-rev.0002": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-prac-method.0002": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-prac-plan.0001": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-prac-reliab.0002": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-prac-risk.0001": {
+   "result": "pass",
+   "note": "(b) generic MS wording; 'sensor' (colorimeter) and the 'any sensible method' rider cover colour standards."
+  },
+  "biology.gas-exchange-plants-prac-step.0002": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-prac-vars.0002": {
+   "result": "pass"
+  },
+  "biology.gas-exchange-plants-recall.0004": {
+   "result": "pass"
+  }
+ }
+}

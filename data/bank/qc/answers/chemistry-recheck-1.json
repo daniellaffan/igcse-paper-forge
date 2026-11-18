@@ -1,0 +1,212 @@
+{
+ "batch": "chemistry-recheck-1",
+ "answers": {
+  "chemistry.covalent-structure-table.0014": {
+   "a": "S (or X)",
+   "b": "none - all boiling points are above 20 C (lowest is S at 80 C)",
+   "c": "simple molecular: low mp/bp so weak intermolecular forces easily overcome; does not conduct solid or molten so no ions or delocalised electrons"
+  },
+  "chemistry.energetics-temp-graph.0015": {
+   "a": "points plotted; rising line through first points, falling line through last points, extrapolated to intersect",
+   "b": "about 14-15 cm3 (intersection of lines)",
+   "c": "reaction complete/no more heat released; excess cooler acid added absorbs heat and heat lost to surroundings"
+  },
+  "chemistry.group7-explain-items.0004": {
+   "all": "Cl2 + 2I- -> 2Cl- + I2; chlorine atoms gain electrons (reduced); iodide ions lose electrons (oxidised); both oxidation and reduction occur so redox"
+  },
+  "chemistry.rates-graph-data.0012": {
+   "a": "cannot read - graph has no plotted curve/data given",
+   "b": "volume at 60 s / 60",
+   "c": "hydrogen peroxide used up (limiting reactant), reaction stops",
+   "d": "steeper initial curve levelling off earlier at same final volume"
+  },
+  "chemistry.states-sol-curve.0008": {
+   "a": "points plotted, smooth curve",
+   "b": "about 19.5 g per 100 g",
+   "c": "about 30 C",
+   "d": "21 - 11 = 10 g"
+  },
+  "chemistry.tests-identify-data.0014": {
+   "a": "lithium chloride",
+   "b": "copper(II) sulfate",
+   "c": "calcium bromide"
+  },
+  "chemistry.acids-describe-items.0004": {
+   "all": "pH starts low (about 1); rises slowly then rapidly near the end point to 7 at neutralisation; rises above 7 and levels off at high pH (about 13) when alkali in excess"
+  },
+  "chemistry.acids-eq.0013": {
+   "all": "calcium methanoate + water + carbon dioxide; 2HCOOH + CaCO3 -> (HCOO)2Ca + H2O + CO2"
+  },
+  "chemistry.acids-mcq-facts.0009": {
+   "all": "pipette"
+  },
+  "chemistry.acids-practical-items.0010": {
+   "all": "liquid left in funnel may drip into burette during the titration, changing the reading so the titre is inaccurate (appears smaller)"
+  },
+  "chemistry.acids-recall.0006": {
+   "a": "ethanoic acid",
+   "b": "magnesium ethanoate and hydrogen"
+  },
+  "chemistry.acids-recall-facts.0011": {
+   "all": "titres within 0.10 cm3 of each other"
+  },
+  "chemistry.acids-titration-calc.0007": {
+   "all": "mol NaOH = 0.025 x 0.2 = 0.005; 1:1; conc = 0.005/0.025 = 0.200 mol/dm3"
+  },
+  "chemistry.air-describe-items.0003": {
+   "all": "burns with a pale blue flame / squeaky pop; collect/condense product on cold surface; turns anhydrous copper(II) sulfate white to blue (or cobalt chloride blue to pink); pure water boils at 100 C"
+  },
+  "chemistry.air-equations.0003": {
+   "all": "S(s) + O2(g) -> SO2(g)"
+  },
+  "chemistry.air-mcq-facts.0010": {
+   "all": "they may lead to climate change"
+  },
+  "chemistry.air-oxygen-calc.0006": {
+   "all": "6.25/123.5 = 0.0506 mol; x44 = 2.23 g"
+  },
+  "chemistry.air-practical-items.0011": {
+   "all": "wear eye protection / do not heat a sealed tube / clamp tube"
+  },
+  "chemistry.air-recall-facts.0006": {
+   "all": "burning fossil fuels (or deforestation)"
+  },
+  "chemistry.alcohols-eq.0014": {
+   "all": "2C3H7OH(l) + 9O2(g) -> 6CO2(g) + 8H2O(l)"
+  },
+  "chemistry.alcohols-extended-items.0007": {
+   "all": "glucose/sugar solution + yeast in flask; warm 30-40 C; anaerobic with airlock/bung; leave several days; pass gas through limewater - turns milky = CO2; filter and fractionally distil to get ethanol"
+  },
+  "chemistry.alcohols-name-recall.0003": {
+   "a": "propan-1-ol",
+   "b": "C3H8O",
+   "c": "propanoic acid"
+  },
+  "chemistry.alkanes-recall.0012": {
+   "a": "C5H12",
+   "b": "only single C-C bonds / no C=C",
+   "c": "chloropentane"
+  },
+  "chemistry.alkanes-subst-eq.0002": {
+   "all": "C2H6 + Cl2 -> C2H5Cl + HCl"
+  },
+  "chemistry.alkenes-add-eq.0006": {
+   "all": "C3H6 + H2 -> C3H8"
+  },
+  "chemistry.alkenes-recall.0001": {
+   "a": "ethene",
+   "b": "C2H4",
+   "c": "1,2-dibromoethane"
+  },
+  "chemistry.atoms-ar-calc.0019": {
+   "all": "(69x15 + 71x85)/100 = 70.7"
+  },
+  "chemistry.atoms-explain-items.0008": {
+   "all": "magnesium atom loses 2 electrons; 12 protons but 10 electrons so more positive than negative charge"
+  },
+  "chemistry.atoms-mcq-facts.0012": {
+   "all": "the number of protons in an atom"
+  },
+  "chemistry.atoms-particle-mcq.0005": {
+   "all": "12"
+  }
+ },
+ "verdicts": {
+  "chemistry.covalent-structure-table.0014": {
+   "result": "pass"
+  },
+  "chemistry.energetics-temp-graph.0015": {
+   "result": "pass"
+  },
+  "chemistry.group7-explain-items.0004": {
+   "result": "pass"
+  },
+  "chemistry.rates-graph-data.0012": {
+   "result": "pass",
+   "note": "verified by rendering the SVG: curve reads 42 cm\u00b3 at 60 s, matching the mark scheme",
+   "checker_original": {
+    "result": "fail",
+    "problem": "The graph is given only as axis labels with no curve or data points, so the 42 cm3 reading at 60 s cannot be read and (a), (b) and (d) cannot be answered.",
+    "fix": "Render the curve (passing through 42 cm3 at 60 s) or give a data table of volume against time."
+   }
+  },
+  "chemistry.states-sol-curve.0008": {
+   "result": "pass"
+  },
+  "chemistry.tests-identify-data.0014": {
+   "result": "pass"
+  },
+  "chemistry.acids-describe-items.0004": {
+   "result": "pass"
+  },
+  "chemistry.acids-eq.0013": {
+   "result": "pass"
+  },
+  "chemistry.acids-mcq-facts.0009": {
+   "result": "pass"
+  },
+  "chemistry.acids-practical-items.0010": {
+   "result": "pass"
+  },
+  "chemistry.acids-recall.0006": {
+   "result": "pass"
+  },
+  "chemistry.acids-recall-facts.0011": {
+   "result": "pass"
+  },
+  "chemistry.acids-titration-calc.0007": {
+   "result": "pass"
+  },
+  "chemistry.air-describe-items.0003": {
+   "result": "pass"
+  },
+  "chemistry.air-equations.0003": {
+   "result": "pass"
+  },
+  "chemistry.air-mcq-facts.0010": {
+   "result": "pass"
+  },
+  "chemistry.air-oxygen-calc.0006": {
+   "result": "pass"
+  },
+  "chemistry.air-practical-items.0011": {
+   "result": "pass"
+  },
+  "chemistry.air-recall-facts.0006": {
+   "result": "pass"
+  },
+  "chemistry.alcohols-eq.0014": {
+   "result": "pass"
+  },
+  "chemistry.alcohols-extended-items.0007": {
+   "result": "pass"
+  },
+  "chemistry.alcohols-name-recall.0003": {
+   "result": "pass"
+  },
+  "chemistry.alkanes-recall.0012": {
+   "result": "pass"
+  },
+  "chemistry.alkanes-subst-eq.0002": {
+   "result": "pass"
+  },
+  "chemistry.alkenes-add-eq.0006": {
+   "result": "pass"
+  },
+  "chemistry.alkenes-recall.0001": {
+   "result": "pass"
+  },
+  "chemistry.atoms-ar-calc.0019": {
+   "result": "pass"
+  },
+  "chemistry.atoms-explain-items.0008": {
+   "result": "pass"
+  },
+  "chemistry.atoms-mcq-facts.0012": {
+   "result": "pass"
+  },
+  "chemistry.atoms-particle-mcq.0005": {
+   "result": "pass"
+  }
+ }
+}

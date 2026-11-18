@@ -1,0 +1,39 @@
+{
+  "batch": "english-language-009",
+  "answers": {
+    "english-language.w.leaflet.festival": {
+      "all": "Leaflet: eye-catching title, headings, named events/performers/times/prices, practical info (venue, tickets, transport), persuasive direct address, call to action."
+    },
+    "english-language.w.leaflet.library": {
+      "all": "Teen-aimed leaflet: casual but controlled register, books/wifi/study space/events, free, why worth it, opening times, how to join."
+    },
+    "english-language.w.leaflet.wellbeing": {
+      "all": "Supportive tone; signs of stress (sleep, headaches, irritability), coping (exercise, planning, talking), support (counsellor, helplines), reassurance."
+    },
+    "english-language.w.leaflet.bullying": {
+      "all": "Define bullying incl. cyber; effects; steps: tell trusted adult, keep evidence, support friends; where to go; reassuring tone."
+    }
+  },
+  "verdicts": {
+    "english-language.w.leaflet.festival": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.leaflet.library": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.leaflet.wellbeing": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    },
+    "english-language.w.leaflet.bullying": {
+      "result": "pass",
+      "problem": "",
+      "fix": ""
+    }
+  }
+}

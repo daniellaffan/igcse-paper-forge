@@ -1,0 +1,214 @@
+{
+ "batch": "physics-002",
+ "answers": {
+  "physics.energy-resources-extended-kb.0013": {
+   "a": "wind; solar (also hydro, tidal, geothermal, biomass)",
+   "b": "Coal: reliable/constant output, controllable to demand, cheaper/existing tech; but non-renewable, CO2 (global warming), SO2 (acid rain). Wind: renewable, no CO2 when running, free fuel; but unreliable (wind varies), many turbines/large area, visual/noise, high initial cost. Judgement: wind better long-term with backup."
+  },
+  "physics.energy-resources-mcq-kb.0007": {
+   "all": "nuclear power station using uranium"
+  },
+  "physics.energy-resources-recall-kb.0007": {
+   "a": "a resource that will not run out / is replenished as used",
+   "b": "releases CO2 causing global warming (or SO2 acid rain; non-renewable)",
+   "c": "generator"
+  },
+  "physics.energy-thermal-describe-kb.0010": {
+   "a": "air near heater heated, expands, less dense, rises; cooler denser air sinks to replace it; circulation",
+   "b": "land heats faster than sea; air above land warms, less dense, rises; cooler air from over sea moves in to replace it (breeze from sea to land)",
+   "c": "Leslie cube with hot water, dull black and shiny faces; IR detector/thermometer at same distance from each face; black face gives higher reading"
+  },
+  "physics.energy-thermal-explain-kb.0002": {
+   "all": "white surfaces are poor absorbers / good reflectors of infrared radiation, so the house absorbs less heat and stays cooler"
+  },
+  "physics.energy-thermal-extended-kb.0013": {
+   "a": "wool / polystyrene / fibreglass / air",
+   "b": "loft insulation and cavity wall insulation trap air (poor conductor) and stop convection; double glazing - gap of air/vacuum reduces conduction; draught excluders reduce convection; reflective foil behind radiators/shiny surfaces reduce radiation loss; carpets reduce conduction"
+  },
+  "physics.energy-thermal-mcq-kb.0003": {
+   "all": "solids"
+  },
+  "physics.energy-thermal-recall-kb.0005": {
+   "a": "conduction, convection, radiation",
+   "b": "they have free (delocalised) electrons that transfer energy"
+  },
+  "physics.energy-transfers-describe-kb.0010": {
+   "a": "electrical energy -> thermal energy store of water (some wasted heating kettle/surroundings, sound)",
+   "b": "the energy transfers in a device: input, useful and wasted energy; width of arrows proportional to amount"
+  },
+  "physics.energy-transfers-mcq-kb.0002": {
+   "all": "20%"
+  },
+  "physics.energy-transfers-recall-kb.0002": {
+   "all": "any two of: mechanically (force/work), electrically, by heating, by radiation (light/sound)"
+  },
+  "physics.energy-work-explain-kb.0013": {
+   "a": "some energy transferred to thermal (and sound) on impact/air resistance, so less KE converted back to GPE",
+   "b": "same work done (same weight, same height) but in less time; power = work/time",
+   "c": "KE = 1/2 mv^2 so doubling speed quadruples KE; brakes must do 4x work; braking force same so braking distance x4"
+  },
+  "physics.energy-work-mcq-kb.0011": {
+   "a": "60 J",
+   "b": "the rate of doing work"
+  },
+  "physics.energy-work-recall-kb.0010": {
+   "a": "work done = force x distance moved",
+   "b": "GPE = m x g x h",
+   "c": "power = work done / time taken"
+  },
+  "physics.fo-fma.0005": {
+   "a": "1827 N forwards",
+   "b": "a = F/m = 1827/1350 = 1.35 m/s^2"
+  },
+  "physics.fo-force-diagram.0012": {
+   "a": "forward driving force and backward drag/friction, equal lengths; weight down and normal reaction up, equal",
+   "b": "0 N; no direction (balanced)"
+  },
+  "physics.fo-stopping.0004": {
+   "a": "22 x 0.5 = 11 m",
+   "b": "11 + 48 = 59 m",
+   "c": "stopping distance increases because reaction time increases so thinking distance increases"
+  },
+  "physics.fo-weight.0001": {
+   "all": "m = 1296/1.6 = 810 kg; W = 810 x 10 = 8100 N"
+  },
+  "physics.forces-elasticity-explain-kb.0008": {
+   "a": "extension not proportional to force; force-extension graph not a straight line",
+   "b": "spring may continue to extend / oscillate; wait for it to come to rest so reading is accurate"
+  },
+  "physics.forces-elasticity-mcq-kb.0004": {
+   "all": "the initial straight-line section through the origin"
+  },
+  "physics.forces-elasticity-recall-kb.0004": {
+   "a": "extension is directly proportional to force applied (up to limit of proportionality)",
+   "b": "limit of proportionality"
+  },
+  "physics.forces-forces-describe-kb.0001": {
+   "all": "at start only weight acts (air resistance zero), accelerates; as speed increases air resistance increases, resultant force decreases, acceleration decreases; at terminal velocity air resistance = weight, resultant zero"
+  },
+  "physics.forces-forces-explain-kb.0002": {
+   "all": "parachute increases surface area so air resistance increases greatly; air resistance > weight so resultant force upwards; decelerates until air resistance = weight again (new lower terminal velocity)"
+  },
+  "physics.forces-forces-extended-kb.0005": {
+   "a": "same direction: add; opposite directions: subtract (larger minus smaller), direction of larger",
+   "b": "stopping = thinking + braking. Thinking: speed, reaction time (tiredness, alcohol, drugs, distractions). Braking: speed, mass, condition of brakes/tyres, road surface (wet/icy). Speed affects both; braking distance increases more (KE ~ v^2)"
+  },
+  "physics.forces-forces-mcq-kb.0010": {
+   "a": "4 m/s^2",
+   "b": "drinking alcohol"
+  },
+  "physics.forces-forces-recall-kb.0011": {
+   "a": "force, velocity (also acceleration, momentum, displacement)",
+   "b": "wet/icy road, worn tyres/brakes, higher speed, greater mass"
+  },
+  "physics.forces-moments-explain-kb.0013": {
+   "a": "the force on the support nearer the person increases; at left end left support takes most; as person walks right, left support force decreases and right increases; total equals weight of plank+person (moments about a support)",
+   "b": "balance the rule on a knife edge/pivot, move until it balances horizontally; the balance point is the centre of gravity (should be at 50 cm)"
+  },
+  "physics.forces-moments-mcq-kb.0009": {
+   "a": "N m",
+   "b": "the sum of clockwise moments equals the sum of anticlockwise moments"
+  },
+  "physics.forces-moments-recall-kb.0011": {
+   "a": "moment = force x perpendicular distance from pivot",
+   "b": "increase the force; increase the perpendicular distance from pivot"
+  },
+  "physics.forces-momentum-explain-kb.0002": {
+   "all": "momentum before firing is zero; momentum conserved; bullet gains momentum forward so gun gains equal momentum backwards, gun moves backward (smaller velocity as larger mass)"
+  }
+ },
+ "verdicts": {
+  "physics.energy-resources-extended-kb.0013": {
+   "result": "pass"
+  },
+  "physics.energy-resources-mcq-kb.0007": {
+   "result": "pass",
+   "problem": "pass; note intro line 'about renewable energy' is a mismatched context for a nuclear fission item (cosmetic)"
+  },
+  "physics.energy-resources-recall-kb.0007": {
+   "result": "pass"
+  },
+  "physics.energy-thermal-describe-kb.0010": {
+   "result": "pass",
+   "problem": "pass; note intro 'about cooking' does not fit the parts (cosmetic)"
+  },
+  "physics.energy-thermal-explain-kb.0002": {
+   "result": "pass"
+  },
+  "physics.energy-thermal-extended-kb.0013": {
+   "result": "pass"
+  },
+  "physics.energy-thermal-mcq-kb.0003": {
+   "result": "pass"
+  },
+  "physics.energy-thermal-recall-kb.0005": {
+   "result": "pass"
+  },
+  "physics.energy-transfers-describe-kb.0010": {
+   "result": "pass"
+  },
+  "physics.energy-transfers-mcq-kb.0002": {
+   "result": "pass"
+  },
+  "physics.energy-transfers-recall-kb.0002": {
+   "result": "pass"
+  },
+  "physics.energy-work-explain-kb.0013": {
+   "result": "pass"
+  },
+  "physics.energy-work-mcq-kb.0011": {
+   "result": "pass"
+  },
+  "physics.energy-work-recall-kb.0010": {
+   "result": "pass"
+  },
+  "physics.fo-fma.0005": {
+   "result": "pass"
+  },
+  "physics.fo-force-diagram.0012": {
+   "result": "pass"
+  },
+  "physics.fo-stopping.0004": {
+   "result": "pass"
+  },
+  "physics.fo-weight.0001": {
+   "result": "pass"
+  },
+  "physics.forces-elasticity-explain-kb.0008": {
+   "result": "pass"
+  },
+  "physics.forces-elasticity-mcq-kb.0004": {
+   "result": "pass"
+  },
+  "physics.forces-elasticity-recall-kb.0004": {
+   "result": "pass"
+  },
+  "physics.forces-forces-describe-kb.0001": {
+   "result": "pass"
+  },
+  "physics.forces-forces-explain-kb.0002": {
+   "result": "pass"
+  },
+  "physics.forces-forces-extended-kb.0005": {
+   "result": "pass"
+  },
+  "physics.forces-forces-mcq-kb.0010": {
+   "result": "pass"
+  },
+  "physics.forces-forces-recall-kb.0011": {
+   "result": "pass"
+  },
+  "physics.forces-moments-explain-kb.0013": {
+   "result": "pass"
+  },
+  "physics.forces-moments-mcq-kb.0009": {
+   "result": "pass"
+  },
+  "physics.forces-moments-recall-kb.0011": {
+   "result": "pass"
+  },
+  "physics.forces-momentum-explain-kb.0002": {
+   "result": "pass"
+  }
+ }
+}

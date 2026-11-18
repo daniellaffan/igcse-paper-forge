@@ -1,0 +1,189 @@
+{
+ "batch": "economics-003",
+ "answers": {
+  "economics.environment-analyse-1.0007": {
+   "all": "Pollution raises health problems, raising healthcare costs and lowering labour productivity (days lost). Damages tourism/agriculture. External costs not paid by firms, so market failure/overproduction. Govt spending on clean-up has opportunity cost; policies (carbon tax, regs) raise firms' costs."
+  },
+  "economics.environment-analyse-2.0007": {
+   "all": "Coal is non-renewable; overuse depletes reserves so future export earnings (36%) fall, hitting GDP, jobs, balance of payments/current account. Over-reliance on one export. Environmental damage and global shift away from coal reduce demand; stranded assets."
+  },
+  "economics.environment-assess-1.0007": {
+   "all": "Carbon tax: internalises externality, raises revenue, but inelastic demand/firms pass on costs, hard to set rate. Regulation: direct, certain limits but costly to enforce, no incentive beyond limit. Subsidies: encourage clean tech long-term but opportunity cost of govt spending. Judgement: combination; depends on enforcement, elasticity."
+  },
+  "economics.environment-assess-2.0008": {
+   "all": "For: sustainability, future timber supply, avoid deforestation costs (floods, biodiversity), ecotourism. Against: 23% of export earnings, jobs, current account, growth. Judgement: reduce gradually with replanting/sustainable forestry, diversify exports."
+  },
+  "economics.environment-define1.0004": {
+   "all": "A resource that cannot be replaced once used / will run out, e.g. oil, coal."
+  },
+  "economics.environment-define2.0003": {
+   "all": "A resource that can be replenished/replaced naturally (1) so does not run out if used sustainably, e.g. wind, solar, timber (1)."
+  },
+  "economics.environment-describe.0011": {
+   "all": "Give subsidies to renewable energy producers (1), lowering their costs so renewable energy becomes cheaper and more is produced/used (1). Alternatives: tax coal, regulation, grants for solar panels."
+  },
+  "economics.environment-explain.0001": {
+   "all": "Tax raises firms' costs of emitting carbon (1); incentive to cut emissions/switch to cleaner tech or reduce output (1), so less carbon emitted in Eskaria at E$36/tonne (1). Revenue could fund clean-up."
+  },
+  "economics.environment-mcq-auth.0003": {
+   "all": "does not harm the ability of future generations to meet their needs"
+  },
+  "economics.environment-mcq-class.0001": {
+   "all": "A factory releasing chemicals into a river"
+  },
+  "economics.environment-mcq-def.0002": {
+   "all": "The release of harmful substances or noise into the environment which damages health and ecosystems"
+  },
+  "economics.environment-state.0002": {
+   "all": "Air pollution from factories / deforestation / depletion of non-renewable resources."
+  },
+  "economics.environment-state-class.0003": {
+   "all": "Wind / solar power."
+  },
+  "economics.environment-state-id.0009": {
+   "all": "a renewable resource"
+  },
+  "economics.exchange-analyse-1.0004": {
+   "all": "Exports cheaper abroad: price competitiveness, more export sales, revenue, profits for manufacturers. Imported fuel and raw materials dearer: costs rise, squeezes margins, cost-push inflation. Net depends on PED of exports and import content."
+  },
+  "economics.exchange-analyse-2.0006": {
+   "all": "Imports cheaper so consumers pay lower prices for foreign goods, higher real income, lower inflation; foreign holidays cheaper. But higher interest rates raise loan/mortgage costs; jobs at risk in export industries, lowering incomes."
+  },
+  "economics.exchange-analyse-3.0002": {
+   "all": "Uncertainty over export revenue and import costs (12% monthly swings) makes pricing, planning, contracts difficult; risk of losses; hedging costs; reduces investment and trade."
+  },
+  "economics.exchange-assess-1.0002": {
+   "all": "Benefit: tourism cheaper for foreigners, more tourists, export revenue, jobs, current account improves. Cost: imported fuel and food dearer, cost-push inflation, lower living standards. Judgement: depends on PED for tourism, import dependence, time lag (J-curve)."
+  },
+  "economics.exchange-assess-2.0005": {
+   "all": "Good: cheaper imports, lower inflation, cheaper raw materials, reflects investor confidence/FDI. Bad: exports less competitive, current account worsens, jobs lost in export sectors; high interest rates slow growth. Judgement: depends on export reliance, PED."
+  },
+  "economics.exchange-assess-3.0001": {
+   "all": "For: stability aids planning, trade, investment for exporters. Against: needs foreign reserves (finite), interest rate changes conflict with domestic aims, may fail vs markets. Judgement: limited intervention for short-term swings of 6%."
+  },
+  "economics.exchange-calc.0013": {
+   "all": "(1.80-1.86)/1.86 x100 = -3.23%"
+  },
+  "economics.exchange-data.0016": {
+   "a": "(176.35-152.03)/152.03 x100 = +16.00% (15.9968)",
+   "b": "Uncertain revenue/costs, hard to price and plan, contracts risk, hedging costs, lower investment/trade.",
+   "c": "For intervention: stability, confidence, exports. Against: uses reserves, interest rate changes harm domestic economy, may be ineffective, floating rate self-corrects. Judgement: depends on cause, reserves, scale (12%)."
+  },
+  "economics.exchange-define1.0004": {
+   "all": "An exchange rate determined by market demand and supply of the currency, without government intervention."
+  },
+  "economics.exchange-define2.0006": {
+   "all": "Holdings of foreign currencies (and gold) by the central bank (1), used to intervene in the foreign exchange market / pay for imports (1)."
+  },
+  "economics.exchange-describe.0016": {
+   "all": "Raise interest rates (1), attracting hot money inflows, increasing demand for the currency so its value rises (1). Or buy own currency using reserves."
+  },
+  "economics.exchange-diagram.0013": {
+   "all": "Demand for Valdoria currency shifts right D1; exchange rate rises ER1 > ERe; quantity rises Q1 > Qe."
+  },
+  "economics.exchange-evaluate-1.0001": {
+   "all": "Coffee exports cheaper, more sales if PED elastic, current account improves, jobs. But coffee commodity demand may be inelastic; imported fuel and food dearer, inflation, poorer consumers hurt. Judgement: depends on PED (Marshall-Lerner), time, import dependence."
+  },
+  "economics.exchange-evaluate-2.0005": {
+   "all": "Benefits: lower import prices, lower inflation, FDI inflow sign of confidence. Costs: exports less competitive, current account deficit, jobs, high interest rates hit growth/borrowing. Judgement: depends on structure, whether short-term."
+  },
+  "economics.exchange-evaluate-3.0006": {
+   "all": "For: reduces 12% monthly swings, aids exporters planning, investment. Against: reserve depletion, interest rate changes conflict with inflation/growth, speculation may defeat it. Judgement: short-term smoothing yes, fixing no."
+  },
+  "economics.exchange-explain.0020": {
+   "all": "Exports become dearer in foreign currency (1), so foreign demand for its textiles falls (1), reducing Brightway's revenue/profits by losing price competitiveness after 15% rise (1). (Note: firm named 'Steel' exports textiles.)"
+  }
+ },
+ "verdicts": {
+  "economics.environment-analyse-1.0007": {
+   "result": "pass"
+  },
+  "economics.environment-analyse-2.0007": {
+   "result": "pass"
+  },
+  "economics.environment-assess-1.0007": {
+   "result": "pass"
+  },
+  "economics.environment-assess-2.0008": {
+   "result": "pass"
+  },
+  "economics.environment-define1.0004": {
+   "result": "pass"
+  },
+  "economics.environment-define2.0003": {
+   "result": "pass"
+  },
+  "economics.environment-describe.0011": {
+   "result": "pass"
+  },
+  "economics.environment-explain.0001": {
+   "result": "pass"
+  },
+  "economics.environment-mcq-auth.0003": {
+   "result": "pass"
+  },
+  "economics.environment-mcq-class.0001": {
+   "result": "pass"
+  },
+  "economics.environment-mcq-def.0002": {
+   "result": "pass"
+  },
+  "economics.environment-state.0002": {
+   "result": "pass"
+  },
+  "economics.environment-state-class.0003": {
+   "result": "pass"
+  },
+  "economics.environment-state-id.0009": {
+   "result": "pass"
+  },
+  "economics.exchange-analyse-1.0004": {
+   "result": "pass"
+  },
+  "economics.exchange-analyse-2.0006": {
+   "result": "pass"
+  },
+  "economics.exchange-analyse-3.0002": {
+   "result": "pass"
+  },
+  "economics.exchange-assess-1.0002": {
+   "result": "pass"
+  },
+  "economics.exchange-assess-2.0005": {
+   "result": "pass"
+  },
+  "economics.exchange-assess-3.0001": {
+   "result": "pass"
+  },
+  "economics.exchange-calc.0013": {
+   "result": "pass"
+  },
+  "economics.exchange-data.0016": {
+   "result": "pass"
+  },
+  "economics.exchange-define1.0004": {
+   "result": "pass"
+  },
+  "economics.exchange-define2.0006": {
+   "result": "pass"
+  },
+  "economics.exchange-describe.0016": {
+   "result": "pass"
+  },
+  "economics.exchange-diagram.0013": {
+   "result": "pass"
+  },
+  "economics.exchange-evaluate-1.0001": {
+   "result": "pass"
+  },
+  "economics.exchange-evaluate-2.0005": {
+   "result": "pass"
+  },
+  "economics.exchange-evaluate-3.0006": {
+   "result": "pass"
+  },
+  "economics.exchange-explain.0020": {
+   "result": "pass"
+  }
+ }
+}

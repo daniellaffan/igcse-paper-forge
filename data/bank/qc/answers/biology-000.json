@@ -1,0 +1,206 @@
+{
+ "batch": "biology-000",
+ "answers": {
+  "biology.bacteria.0001": {
+   "all": "360/40 = 9 divisions; 100 x 2^9 = 51200 = 5.12 x 10^4"
+  },
+  "biology.bases.0009": {
+   "all": "451 x 3 = 1353 bases"
+  },
+  "biology.blood-data-graph.0002": {
+   "a": "Concentration rises after vaccination to a peak then falls (cannot read exact values without graph); quote data",
+   "b": "Antigen in vaccine detected by lymphocytes; lymphocytes divide and secrete antibodies so concentration rises; antibodies then broken down / not produced once antigen removed so falls; memory cells remain"
+  },
+  "biology.blood-data-pct.0004": {
+   "a": "(12-10)/10 x 100 = 20%",
+   "b": "Pathogen infection; lymphocytes/phagocytes divide (mitosis) to produce more cells to fight pathogen; phagocytosis/antibody production"
+  },
+  "biology.blood-data-plot.0004": {
+   "a": "Axes labelled with units, time on x; sensible linear scale; points plotted correctly; smooth curve",
+   "b": "Rises from 6 to a peak of 14 at day 3, then falls to 7 by day 6"
+  },
+  "biology.blood-data-read.0001": {
+   "a": "Read from graph (likely 0 au)",
+   "b": "(value at 20 - value at 0)/20 au per day",
+   "c": "Lymphocytes produce antibodies in response to antigen, rise; then fall as antigen removed/antibodies broken down"
+  },
+  "biology.blood-describe.0003": {
+   "all": "Platelets exposed to air/damaged tissue release chemicals/enzymes; soluble fibrinogen converted to insoluble fibrin; fibrin forms mesh of fibres trapping red blood cells/platelets forming clot (scab)"
+  },
+  "biology.blood-describe-multi.0007": {
+   "a": "Prevents blood loss; prevents entry of pathogens",
+   "b": "Platelets release enzymes; fibrinogen to fibrin; mesh traps red blood cells"
+  },
+  "biology.blood-explain.0003": {
+   "all": "Antibodies are specific/complementary in shape to one antigen; different pathogen has different-shaped antigens so antibodies cannot bind"
+  },
+  "biology.blood-explain-multi.0006": {
+   "a": "platelets",
+   "b": "Less oxygen in air / lower partial pressure at altitude; more red blood cells / haemoglobin to carry more oxygen; so enough oxygen reaches tissues for respiration"
+  },
+  "biology.blood-ext.0003": {
+   "all": "Biconcave shape - large SA:V for diffusion of oxygen; thin so short diffusion distance; no nucleus - more room for haemoglobin; haemoglobin binds oxygen forming oxyhaemoglobin in lungs, releases at tissues; small/flexible to pass through capillaries"
+  },
+  "biology.blood-mcq.0001": {
+   "all": "it has no nucleus"
+  },
+  "biology.blood-mcq-fwd.0005": {
+   "all": "plasma"
+  },
+  "biology.blood-mcq-rev.0004": {
+   "all": "Cell fragments involved in blood clotting"
+  },
+  "biology.blood-recall.0003": {
+   "all": "haemoglobin"
+  },
+  "biology.blood-recall-fact.0004": {
+   "all": "platelets"
+  },
+  "biology.blood-recall-multi.0001": {
+   "a": "red blood cells, white blood cells, platelets, plasma",
+   "b": "red blood cells",
+   "c": "platelets"
+  },
+  "biology.breathing.0006": {
+   "all": "(28-15)/15 x 100 = 86.7 = 87%"
+  },
+  "biology.breeding-gm-describe.0004": {
+   "all": "Restriction enzymes cut DNA at specific sites to remove gene and open plasmid leaving sticky ends; ligase joins gene into plasmid (joins sugar-phosphate backbone) forming recombinant DNA"
+  },
+  "biology.breeding-gm-describe-multi.0007": {
+   "a": "ligase",
+   "b": "Select parent plants with high yield; cross-breed them; select offspring with highest yield; repeat over many generations"
+  },
+  "biology.breeding-gm-explain.0004": {
+   "all": "Reduces genetic variation / inbreeding; increases chance of harmful recessive alleles being inherited together (homozygous) so genetic disorders; less resistance to disease; physical problems from exaggerated features"
+  },
+  "biology.breeding-gm-explain-multi.0002": {
+   "a": "recombinant DNA",
+   "b": "Reproduce quickly so large amounts of protein produced fast; have plasmids / same genetic code so human gene expressed; few ethical issues/cheap to grow"
+  },
+  "biology.breeding-gm-ext.0002": {
+   "all": "Select cows with high milk yield and bulls from high-yield mothers; breed them; select offspring with highest milk yield; breed those; repeat over many generations; until all offspring produce high yield; mention variation, alleles, artificial insemination possible, reduced variation/inbreeding risk"
+  },
+  "biology.breeding-gm-mcq.0001": {
+   "all": "they can be made resistant to pests"
+  },
+  "biology.breeding-gm-mcq-fwd.0003": {
+   "all": "plasmid"
+  },
+  "biology.breeding-gm-mcq-rev.0007": {
+   "all": "Choosing parents with desired features to breed together"
+  },
+  "biology.breeding-gm-recall.0003": {
+   "all": "Inbreeding / reduced genetic variation leading to genetic disorders"
+  },
+  "biology.breeding-gm-recall-fact.0008": {
+   "all": "insulin"
+  },
+  "biology.breeding-gm-recall-multi.0003": {
+   "a": "Reduced genetic variation / inbreeding",
+   "b": "plasmid",
+   "c": "recombinant DNA"
+  },
+  "biology.bubbles.0011": {
+   "all": "63 is anomalous so ignore; (26+24)/2 = 25 per 2 min; 12.5 per minute"
+  }
+ },
+ "verdicts": {
+  "biology.bacteria.0001": {
+   "result": "pass"
+  },
+  "biology.bases.0009": {
+   "result": "pass"
+  },
+  "biology.blood-data-graph.0002": {
+   "result": "pass",
+   "problem": "Diagram not visible; pass as mark scheme values (peak 22 at 15 days) are consistent with axis labels."
+  },
+  "biology.blood-data-pct.0004": {
+   "result": "pass"
+  },
+  "biology.blood-data-plot.0004": {
+   "result": "pass"
+  },
+  "biology.blood-data-read.0001": {
+   "result": "pass",
+   "problem": "Diagram not visible; pass as readings (0, 11 at 20 days) are consistent with axis labels."
+  },
+  "biology.blood-describe.0003": {
+   "result": "pass"
+  },
+  "biology.blood-describe-multi.0007": {
+   "result": "pass"
+  },
+  "biology.blood-explain.0003": {
+   "result": "pass"
+  },
+  "biology.blood-explain-multi.0006": {
+   "result": "pass"
+  },
+  "biology.blood-ext.0003": {
+   "result": "fail",
+   "problem": "Question asks only about red blood cell adaptations but mark scheme credits plasma transport, platelets and clotting points, and omits thin shape/short diffusion distance.",
+   "fix": "Replace plasma/platelet/clotting points with: thin/biconcave gives short diffusion distance; oxyhaemoglobin forms in lungs; releases oxygen in tissues; large surface area for diffusion of oxygen."
+  },
+  "biology.blood-mcq.0001": {
+   "result": "pass"
+  },
+  "biology.blood-mcq-fwd.0005": {
+   "result": "pass"
+  },
+  "biology.blood-mcq-rev.0004": {
+   "result": "pass"
+  },
+  "biology.blood-recall.0003": {
+   "result": "pass"
+  },
+  "biology.blood-recall-fact.0004": {
+   "result": "pass"
+  },
+  "biology.blood-recall-multi.0001": {
+   "result": "pass"
+  },
+  "biology.breathing.0006": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-describe.0004": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-describe-multi.0007": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-explain.0004": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-explain-multi.0002": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-ext.0002": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-mcq.0001": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-mcq-fwd.0003": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-mcq-rev.0007": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-recall.0003": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-recall-fact.0008": {
+   "result": "pass"
+  },
+  "biology.breeding-gm-recall-multi.0003": {
+   "result": "pass"
+  },
+  "biology.bubbles.0011": {
+   "result": "fail",
+   "problem": "63 is clearly anomalous versus 26 and 24 but the mark scheme includes it in the mean (18.8).",
+   "fix": "Ignore 63: mean = (26+24)/2 = 25 per 2 min = 12.5 bubbles per minute; or change data so no anomaly."
+  }
+ }
+}

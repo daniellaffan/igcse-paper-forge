@@ -1,0 +1,193 @@
+{
+ "batch": "economics-012",
+ "answers": {
+  "economics.objectives-define2.0001": {
+   "all": "Firm aims to produce output where TR minus TC is greatest (MC=MR), earning the largest possible profit."
+  },
+  "economics.objectives-describe.0015": {
+   "all": "New/struggling firm or recession: priority is covering costs to stay in business, since a firm that closes cannot earn any profit later."
+  },
+  "economics.objectives-evaluate-1.0001": {
+   "all": "Plan: For - excess demand (classes full), more revenue, economies of scale, spread risk. Against - costs/risk of new premises, demand may not exist in other area, management stretched, quality loss. Judgement depends on demand evidence and finance."
+  },
+  "economics.objectives-evaluate-2.0001": {
+   "all": "Plan: Benefits - economies of scale may lower prices, more investment/innovation. Costs - 47% share gives market power, higher prices, less choice, less incentive to be efficient. Depends on regulator, remaining competition, whether savings passed on."
+  },
+  "economics.objectives-evaluate-3.0002": {
+   "all": "Plan: Profit max - rewards owners, funds investment. Market share/sustainability - long-run growth, brand, consumer loyalty, may sacrifice short-run profit. Principal-agent conflict; judgement: long-run profit may be served by sustainability."
+  },
+  "economics.objectives-explain.0003": {
+   "all": "Manager may aim for sales/market share growth (or own bonus tied to sales); discount attracts bulk buyers, raising sales volume and market share though lowering profit margin per unit."
+  },
+  "economics.objectives-mcq-auth.0002": {
+   "all": "survival"
+  },
+  "economics.objectives-mcq-class.0014": {
+   "all": "To benefit from economies of scale"
+  },
+  "economics.objectives-mcq-def.0002": {
+   "all": "When a firm grows internally by increasing output, for example opening new branches"
+  },
+  "economics.objectives-state.0001": {
+   "all": "Survival (or growth, market share, CSR)"
+  },
+  "economics.objectives-state-class.0001": {
+   "all": "Owner wants to keep control (or small/local market, personal service)"
+  },
+  "economics.objectives-state-id.0015": {
+   "all": "wants to grow"
+  },
+  "economics.ped-analyse-1.0004": {
+   "all": "Monopoly and commuters rely on buses -> inelastic -> %fall in Qd < 18%, TR rises. But trains/bike hire are substitutes -> demand on those routes more elastic -> larger fall in Qd, TR may fall. Net effect depends on overall PED."
+  },
+  "economics.ped-analyse-2.0005": {
+   "all": "PED -0.3: Qd falls about 5.4% for 18% price rise; consumers pay more, spend more of income on cigarettes, reduced real income esp. poor (regressive); some quit/cut down, health gains; possible black market."
+  },
+  "economics.ped-analyse-3.0001": {
+   "all": "Premium brand elastic (many substitutes): cut price raises TR. Basic habit product inelastic: raise price raises TR. Knowing PED lets firm set different strategies for each product."
+  },
+  "economics.ped-assess-1.0006": {
+   "all": "Plan: inelastic for commuters/monopoly -> TR rises; substitutes on some routes -> elastic -> TR falls; long-run elasticity higher; judgement depends on proportion of routes with alternatives."
+  },
+  "economics.ped-assess-2.0006": {
+   "all": "Plan: PED -0.3 inelastic -> Qd falls ~4.5%, so revenue rises (aim 1 met) but consumption reduction small (aim 2 weakly met); conflict between aims; smuggling, long-run elasticity higher."
+  },
+  "economics.ped-assess-3.0005": {
+   "all": "Plan: cut premium (elastic) price -> TR rises; cut basic (inelastic) price -> TR falls; so no, only cut premium; caveats: competitor reaction, PED estimates uncertain, costs."
+  },
+  "economics.ped-calc.0012": {
+   "all": "YED = %dQ/%dY = -10/7 = -1.43"
+  },
+  "economics.ped-data.0002": {
+   "a": "%dQ=(460-810)/810=-43.21%; %dP=(9-8)/8=12.5%; PED=-43.21/12.5=-3.46",
+   "b": "Commuters reliant + monopoly -> inelastic -> TR rises; substitutes (trains, bikes) on some routes -> more elastic -> TR may fall.",
+   "c": "Plan: inelastic overall -> TR rises; elastic on routes with substitutes; long run more elastic; depends on proportion of passengers with alternatives; overall likely TR rises short run."
+  },
+  "economics.ped-define1.0003": {
+   "all": "When % change in quantity demanded is smaller than the % change in price (PED between 0 and -1)."
+  },
+  "economics.ped-define2.0006": {
+   "all": "Total money received from selling output; price x quantity sold."
+  },
+  "economics.ped-describe.0010": {
+   "all": "With elastic demand, price and TR move in opposite directions: a price rise lowers TR and a price cut raises TR, because %dQd > %dP."
+  },
+  "economics.ped-diagram.0001": {
+   "all": "Draw a shallow (flat) downward-sloping demand curve; mark P1 and P2 (higher) on price axis, Q1 and Q2 on quantity axis, showing large fall in Qd from Q1 to Q2 (proportionately larger than price rise)."
+  },
+  "economics.ped-evaluate-1.0005": {
+   "all": "Plan: monopoly, commuters -> inelastic -> TR rises; substitutes trains/bikes -> elastic on some routes -> TR falls; long run, income, size of rise; judgement depends on PED value."
+  },
+  "economics.ped-evaluate-2.0001": {
+   "all": "Plan: PED -0.4 -> Qd falls ~12% for 30% price rise -> revenue rises; consumption falls modestly; conflict between aims; substitutes, long-run elasticity, regressive, alternative policies (education, regulation)."
+  },
+  "economics.ped-evaluate-3.0004": {
+   "all": "Plan: premium elastic -> price cut raises TR; basic inelastic -> price cut lowers TR; recommend cutting only premium; caveats: price war, costs/profit, PED estimates."
+  },
+  "economics.ped-explain.0009": {
+   "all": "PED -0.5 is inelastic, so quantity falls only slightly when tax raises price; government raises substantial tax revenue (or: to reduce consumption of a demerit good with negative externalities)."
+  },
+  "economics.ped-mcq-auth.0006": {
+   "all": "More close substitutes becoming available"
+  },
+  "economics.ped-mcq-class.0008": {
+   "all": "Foreign holidays"
+  }
+ },
+ "verdicts": {
+  "economics.objectives-define2.0001": {
+   "result": "pass"
+  },
+  "economics.objectives-describe.0015": {
+   "result": "pass"
+  },
+  "economics.objectives-evaluate-1.0001": {
+   "result": "pass"
+  },
+  "economics.objectives-evaluate-2.0001": {
+   "result": "pass"
+  },
+  "economics.objectives-evaluate-3.0002": {
+   "result": "pass"
+  },
+  "economics.objectives-explain.0003": {
+   "result": "pass"
+  },
+  "economics.objectives-mcq-auth.0002": {
+   "result": "pass"
+  },
+  "economics.objectives-mcq-class.0014": {
+   "result": "pass"
+  },
+  "economics.objectives-mcq-def.0002": {
+   "result": "pass"
+  },
+  "economics.objectives-state.0001": {
+   "result": "pass"
+  },
+  "economics.objectives-state-class.0001": {
+   "result": "fail",
+   "problem": "Grammatical error in stem: 'a firm may stays small'.",
+   "fix": "State one reason why a firm may stay small."
+  },
+  "economics.objectives-state-id.0015": {
+   "result": "pass"
+  },
+  "economics.ped-analyse-1.0004": {
+   "result": "pass"
+  },
+  "economics.ped-analyse-2.0005": {
+   "result": "pass"
+  },
+  "economics.ped-analyse-3.0001": {
+   "result": "pass"
+  },
+  "economics.ped-assess-1.0006": {
+   "result": "pass"
+  },
+  "economics.ped-assess-2.0006": {
+   "result": "pass"
+  },
+  "economics.ped-assess-3.0005": {
+   "result": "pass"
+  },
+  "economics.ped-calc.0012": {
+   "result": "pass"
+  },
+  "economics.ped-data.0002": {
+   "result": "fail",
+   "problem": "Part (a) asks about smartphones priced EUR8 to EUR9 sold by a bus operator, which contradicts Extract A (bus fares) and is implausible.",
+   "fix": "Reword (a) to bus fares, e.g. 'Northgate Holdings changed a single fare from EUR8 to EUR9; weekly passengers fell from 810 to 460' (answer -3.46 unchanged)."
+  },
+  "economics.ped-define1.0003": {
+   "result": "pass"
+  },
+  "economics.ped-define2.0006": {
+   "result": "pass"
+  },
+  "economics.ped-describe.0010": {
+   "result": "pass"
+  },
+  "economics.ped-diagram.0001": {
+   "result": "pass"
+  },
+  "economics.ped-evaluate-1.0005": {
+   "result": "pass"
+  },
+  "economics.ped-evaluate-2.0001": {
+   "result": "pass"
+  },
+  "economics.ped-evaluate-3.0004": {
+   "result": "pass"
+  },
+  "economics.ped-explain.0009": {
+   "result": "pass"
+  },
+  "economics.ped-mcq-auth.0006": {
+   "result": "pass"
+  },
+  "economics.ped-mcq-class.0008": {
+   "result": "pass"
+  }
+ }
+}

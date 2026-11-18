@@ -1,0 +1,57 @@
+{
+ "batch": "history-002",
+ "answers": {
+  "history.america-judgement.0018": {
+   "all": "Plan: economic (land hunger, cotton, fur, gold 1848, Louisiana Purchase for New Orleans trade) vs Manifest Destiny, security/Mexico, politics (Polk), slavery extension, transport. Texas 1845 was partly political/slavery. Judge: economics important but combined with ideology."
+  },
+  "history.america-judgement.0019": {
+   "all": "Plan: Texas 1845 added land, led to Mexican War 1846-48 and Mexican Cession; but Louisiana Purchase 1803 (stimulus says 'doubled', roughly right) bigger, Oregon 1846, Mexican Cession larger, Gadsden. Texas significant as trigger of war, slavery debate; not the largest."
+  },
+  "history.germany-effects.0010": {
+   "all": "1) Kaiser abdicated, Germany became republic (Weimar). 2) Armistice 11 Nov 1918 ending war; or Spartacist/ Ebert-Groener pact, Freikorps violence, lasting divisions/stab in the back myth."
+  },
+  "history.germany-effects.0044": {
+   "all": "1) Control of information - only Nazi ideas, propaganda by Goebbels, books burned May 1933. 2) Culture: artists/writers fled or silenced; Reich Chamber of Culture; fear of criticism."
+  },
+  "history.germany-effects.0039": {
+   "all": "1) Decree for Protection of People and State suspended civil rights, KPD arrests. 2) Enabling Act in March 1933 passed, Nazis gained dictatorship; increased Nazi vote in March election (43.9%)."
+  },
+  "history.germany-effects.0005": {
+   "all": "1) Passive resistance, Germany stopped reparations, economy damaged. 2) Hyperinflation 1923, savings wiped out; Stresemann called off resistance, led to Dawes Plan; fed extremism (Munich Putsch)."
+  },
+  "history.germany-effects.0017": {
+   "all": "1) Reduced reparations total (to 37 billion marks over 59 years) lower annual payments. 2) Allied troops left Rhineland early 1930; nationalists (Hugenberg, Nazis) attacked it, gaining publicity."
+  },
+  "history.germany-effects.0061": {
+   "all": "1) Civilian casualties/destruction of cities (Hamburg, Dresden), homelessness, morale. 2) Disrupted industry/transport/oil, diverted resources to air defence, reduced war production; evacuation."
+  }
+ },
+ "verdicts": {
+  "history.america-judgement.0018": {
+   "result": "pass"
+  },
+  "history.germany-effects.0010": {
+   "result": "pass"
+  },
+  "history.germany-effects.0044": {
+   "result": "pass"
+  },
+  "history.germany-effects.0039": {
+   "result": "pass"
+  },
+  "history.germany-effects.0005": {
+   "result": "pass"
+  },
+  "history.germany-effects.0017": {
+   "result": "pass"
+  },
+  "history.germany-effects.0061": {
+   "result": "pass"
+  },
+  "history.america-judgement.0019": {
+   "result": "fail",
+   "problem": "Second stimulus bullet 'It doubled the size of the country in 1803' is an unattached pronoun for the Louisiana Purchase, not Texas annexation; mark scheme treats it as the opposing factor.",
+   "fix": "Replace with a Texas-relevant bullet, e.g. 'It led to war with Mexico in 1846'; keep the Louisiana Purchase as an own-knowledge factor."
+  }
+ }
+}

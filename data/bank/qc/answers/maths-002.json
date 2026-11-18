@@ -1,0 +1,329 @@
+{
+ "batch": "maths-002",
+ "answers": {
+  "maths.expand-double.0007": {
+   "all": "2w^2+2w-24"
+  },
+  "maths.expand-double.0004": {
+   "all": "4p^2-12p+8"
+  },
+  "maths.expand-triple.0008": {
+   "all": "2x^3+10x^2-36x-144"
+  },
+  "maths.expand-triple.0002": {
+   "all": "y^3+2y^2-21y+18"
+  },
+  "maths.f-composite-solve.0004": {
+   "all": "gf(x)=(1-4x)^2=49; x=2 or x=-1.5"
+  },
+  "maths.f-composite-solve.0003": {
+   "all": "fg(x)=6-(x+1)^2=2; x=1 or x=-3"
+  },
+  "maths.f-evaluate.0004": {
+   "a": "3",
+   "b": "-9/4"
+  },
+  "maths.f-evaluate.0010": {
+   "a": "9/5",
+   "b": "-9/11"
+  },
+  "maths.f-inverse.0001": {
+   "all": "(2x+7)/4"
+  },
+  "maths.f-inverse.0004": {
+   "all": "1/x+5 = (5x+1)/x"
+  },
+  "maths.f-structured.0012": {
+   "a": "-1/2",
+   "b": "6",
+   "c": "-(x+8)/5",
+   "d": "-3/(5x+14)",
+   "e": "-14/5"
+  },
+  "maths.f-structured.0013": {
+   "a": "9/2",
+   "b": "4",
+   "c": "(8-x)/4",
+   "d": "9/(4-4x)",
+   "e": "1"
+  },
+  "maths.factorise-hard.0005": {
+   "all": "(3x-2)(4x+1); x=2/3 or -1/4"
+  },
+  "maths.factorise-hard.0006": {
+   "all": "(3x-1)(x+5); x=1/3 or -5"
+  },
+  "maths.factorise-simple.0006": {
+   "all": "3px(2p+3x)"
+  },
+  "maths.factorise-simple.0005": {
+   "all": "(2t-3)(2t+3)"
+  },
+  "maths.fill-container.0005": {
+   "all": "221 min (220.77)"
+  },
+  "maths.fill-container.0002": {
+   "all": "54 min (53.996)"
+  },
+  "maths.find-n-index.0002": {
+   "all": "3/2"
+  },
+  "maths.find-n-index.0003": {
+   "all": "4"
+  },
+  "maths.fraction-of-amount.0006": {
+   "all": "70"
+  },
+  "maths.fraction-of-amount.0002": {
+   "all": "1/2"
+  },
+  "maths.fraction-show.0001": {
+   "all": "55/9 = 6 1/9 true"
+  },
+  "maths.fraction-show.0007": {
+   "all": "127/21 = 6 1/21 true"
+  },
+  "maths.freq-table-mean.0010": {
+   "all": "187/56 = 3.34"
+  },
+  "maths.freq-table-mean.0016": {
+   "all": "124/49 = 2.53"
+  },
+  "maths.frustum.0004": {
+   "all": "2746 cm3 -> 2750"
+  },
+  "maths.frustum.0002": {
+   "all": "5327.6 cm3 -> 5330"
+  },
+  "maths.graph-line-curve.0006": {
+   "a": "26,16,8",
+   "c": "y=2-x; x about -1.2 and 3.2"
+  },
+  "maths.graph-line-curve.0003": {
+   "a": "24,0,3",
+   "c": "y=-x; x=0 and 1"
+  },
+  "maths.graph-reciprocal.0004": {
+   "all": "blanks -1.7,-4.2,-5.3; gradient at x=3 about -1.4"
+  },
+  "maths.graph-reciprocal.0006": {
+   "all": "blanks 7.0,7.0,8.0; gradient at x=2 about -2"
+  },
+  "maths.grouped-mean.0005": {
+   "a": "50<t<=60",
+   "b": "30<t<=40",
+   "c": "2445/73=33.5"
+  },
+  "maths.grouped-mean.0016": {
+   "a": "130<h<=140",
+   "b": "130<h<=140",
+   "c": "8285/65=127.5"
+  },
+  "maths.gt-point.0012": {
+   "a": "(3,-4)",
+   "b": "(4,4)"
+  },
+  "maths.gt-point.0010": {
+   "a": "(-2,-15)",
+   "b": "(1,-5)"
+  },
+  "maths.gt-sketch.0004": {
+   "all": "turning point not determinable from text (diagram only); b) translate 3 right"
+  },
+  "maths.gt-sketch.0003": {
+   "all": "turning point not determinable from text; b) translate 2 left"
+  },
+  "maths.gt-trig.0003": {
+   "all": "y=cos x+2; (90,2)"
+  },
+  "maths.gt-trig.0002": {
+   "all": "y=-sin x; (90,-1)"
+  },
+  "maths.hcf-context.0007": {
+   "all": "HCF 14; 24 pieces"
+  },
+  "maths.hcf-context.0008": {
+   "all": "HCF 18; 23 pieces"
+  },
+  "maths.hcf-lcm-index.0001": {
+   "all": "HCF 3x5^2x7^2; LCM 3^3x5^3x7^3"
+  },
+  "maths.hcf-lcm-index.0006": {
+   "all": "HCF 2^2x3x5^3; LCM 2^2x3^4x5^3"
+  },
+  "maths.hist-draw.0007": {
+   "all": "FD 0.4,1.4,3.8,2,3"
+  },
+  "maths.hist-draw.0008": {
+   "all": "FD 0.4,2.8,2,0.8,4.4"
+  },
+  "maths.hist-read.0003": {
+   "all": "bar heights only in diagram; not answerable from text"
+  },
+  "maths.hist-read.0006": {
+   "all": "bar heights only in diagram; not answerable from text"
+  },
+  "maths.hist-total.0005": {
+   "all": "bar heights only in diagram; not answerable from text"
+  },
+  "maths.hist-total.0007": {
+   "all": "bar heights only in diagram; not answerable from text"
+  }
+ },
+ "verdicts": {
+  "maths.expand-double.0007": {
+   "result": "pass"
+  },
+  "maths.expand-double.0004": {
+   "result": "pass"
+  },
+  "maths.expand-triple.0008": {
+   "result": "pass"
+  },
+  "maths.expand-triple.0002": {
+   "result": "pass"
+  },
+  "maths.f-composite-solve.0004": {
+   "result": "pass"
+  },
+  "maths.f-composite-solve.0003": {
+   "result": "pass"
+  },
+  "maths.f-evaluate.0004": {
+   "result": "pass"
+  },
+  "maths.f-evaluate.0010": {
+   "result": "pass"
+  },
+  "maths.f-inverse.0001": {
+   "result": "pass"
+  },
+  "maths.f-inverse.0004": {
+   "result": "pass"
+  },
+  "maths.f-structured.0012": {
+   "result": "pass"
+  },
+  "maths.f-structured.0013": {
+   "result": "pass"
+  },
+  "maths.factorise-hard.0005": {
+   "result": "pass"
+  },
+  "maths.factorise-hard.0006": {
+   "result": "pass"
+  },
+  "maths.factorise-simple.0006": {
+   "result": "pass"
+  },
+  "maths.factorise-simple.0005": {
+   "result": "pass"
+  },
+  "maths.fill-container.0005": {
+   "result": "pass"
+  },
+  "maths.fill-container.0002": {
+   "result": "pass"
+  },
+  "maths.find-n-index.0002": {
+   "result": "pass"
+  },
+  "maths.find-n-index.0003": {
+   "result": "pass"
+  },
+  "maths.fraction-of-amount.0006": {
+   "result": "pass"
+  },
+  "maths.fraction-of-amount.0002": {
+   "result": "pass"
+  },
+  "maths.fraction-show.0001": {
+   "result": "pass"
+  },
+  "maths.fraction-show.0007": {
+   "result": "pass"
+  },
+  "maths.freq-table-mean.0010": {
+   "result": "pass"
+  },
+  "maths.freq-table-mean.0016": {
+   "result": "pass"
+  },
+  "maths.frustum.0004": {
+   "result": "pass"
+  },
+  "maths.frustum.0002": {
+   "result": "pass"
+  },
+  "maths.graph-line-curve.0006": {
+   "result": "pass"
+  },
+  "maths.graph-line-curve.0003": {
+   "result": "pass"
+  },
+  "maths.graph-reciprocal.0004": {
+   "result": "pass"
+  },
+  "maths.graph-reciprocal.0006": {
+   "result": "pass"
+  },
+  "maths.grouped-mean.0005": {
+   "result": "pass"
+  },
+  "maths.grouped-mean.0016": {
+   "result": "pass"
+  },
+  "maths.gt-point.0012": {
+   "result": "pass"
+  },
+  "maths.gt-point.0010": {
+   "result": "pass"
+  },
+  "maths.gt-sketch.0004": {
+   "result": "pass"
+  },
+  "maths.gt-sketch.0003": {
+   "result": "pass"
+  },
+  "maths.gt-trig.0003": {
+   "result": "pass"
+  },
+  "maths.gt-trig.0002": {
+   "result": "pass"
+  },
+  "maths.hcf-context.0007": {
+   "result": "pass"
+  },
+  "maths.hcf-context.0008": {
+   "result": "pass"
+  },
+  "maths.hcf-lcm-index.0001": {
+   "result": "pass"
+  },
+  "maths.hcf-lcm-index.0006": {
+   "result": "pass"
+  },
+  "maths.hist-draw.0007": {
+   "result": "pass"
+  },
+  "maths.hist-draw.0008": {
+   "result": "pass"
+  },
+  "maths.hist-read.0003": {
+   "result": "pass",
+   "problem": "Depends on diagram bars (not visible in text); mark scheme internally consistent."
+  },
+  "maths.hist-read.0006": {
+   "result": "pass",
+   "problem": "Depends on diagram bars (not visible in text); mark scheme internally consistent."
+  },
+  "maths.hist-total.0005": {
+   "result": "pass",
+   "problem": "Depends on diagram bars (not visible in text); mark scheme internally consistent."
+  },
+  "maths.hist-total.0007": {
+   "result": "pass",
+   "problem": "Depends on diagram bars (not visible in text); mark scheme internally consistent."
+  }
+ }
+}

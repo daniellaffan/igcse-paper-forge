@@ -1,0 +1,143 @@
+{
+ "batch": "spanish-014",
+ "answers": {
+  "spanish.s-roleplay.c1.0005": {
+   "1": "Soy de Inglaterra, de Londres.",
+   "2": "Vivo en el sur del país, cerca de la costa.",
+   "3": "En mi región llueve mucho y en invierno hace frío.",
+   "4": "Llegué a Montevideo hace tres días / el lunes pasado.",
+   "5": "Me gustaría visitar Japón porque me interesa su cultura."
+  },
+  "spanish.s-roleplay.c2.0006": {
+   "1": "Busco una excursión a pie por la montaña / para ver animales. (Note: context is volunteering, Q1 assumes an excursion)",
+   "2": "Somos cuatro, mis padres, mi hermano y yo.",
+   "3": "Reciclo el papel y el plástico y apago las luces.",
+   "4": "Sí, el año pasado subí una montaña con mi familia.",
+   "5": "Voy a llevar agua, un bocadillo y una gorra."
+  },
+  "spanish.s-roleplay.c3.0010": {
+   "1": "Quiero usar el ordenador para mandar un correo a mi familia. (Note: context is a phone shop / broken phone; 'ordenador' unexplained)",
+   "2": "Lo necesito media hora.",
+   "3": "Prefiero el móvil porque es más práctico.",
+   "4": "Saqué fotos en la playa y se me cayó al agua.",
+   "5": "Voy a comprar un móvil nuevo / volveré mañana."
+  },
+  "spanish.s-roleplay.c4.0005": {
+   "1": "Quiero ir al museo de arte / a la plaza Bolívar.",
+   "2": "Voy a estar cinco días.",
+   "3": "Me interesa visitar los museos porque me encanta la historia.",
+   "4": "Ayer visité el centro histórico y la catedral.",
+   "5": "Me gustaría comprar recuerdos para mi familia."
+  },
+  "spanish.s-roleplay.d1.0006": {
+   "1": "Tengo dieciséis años.",
+   "2": "Estudio matemáticas, inglés, ciencias e historia.",
+   "3": "Mi asignatura favorita es la historia porque el profesor es divertido.",
+   "4": "Ayer hice un examen de matemáticas en clase.",
+   "5": "Me gustaría jugar al fútbol con mis compañeros."
+  },
+  "spanish.s-roleplay.d2.0007": {
+   "1": "Me interesa trabajar en la recepción.",
+   "2": "Hablo inglés, español y un poco de francés.",
+   "3": "Prefiero trabajar por la mañana porque por la tarde salgo con amigos.",
+   "4": "El verano pasado trabajé en una cafetería.",
+   "5": "Voy a ahorrar el dinero para viajar."
+  },
+  "spanish.s-roleplay.e1.0003": {
+   "1": "Quiero una habitación doble con baño.",
+   "2": "Estudio español desde hace tres años.",
+   "3": "Lo más difícil son los verbos porque hay muchos tiempos.",
+   "4": "El viaje fue largo pero cómodo.",
+   "5": "Voy a visitar la playa y el palacio de la Magdalena. (Note: Q2/Q3 off-context for a hotel receptionist and register switches usted/tú)"
+  },
+  "spanish.s-roleplay.e2.0005": {
+   "1": "El regalo es para mi madre. (Note: context never mentions a gift)",
+   "2": "La fiesta más importante es la Navidad.",
+   "3": "A mi madre le gusta leer; prefiero regalarle un libro. (two unrelated halves)",
+   "4": "El año pasado le regalé un perfume.",
+   "5": "Esta noche voy a cenar con mi familia."
+  },
+  "spanish.w-extended.a2.0010": {
+   "all": "Plan: mi madre cocina normalmente (present); describe paella/típico plato; preterite: last time I cooked pasta for family; conditional: me gustaría aprender... porque; future: voy a comer más fruta, menos dulces. 130-140 words, opinions and justifications, range of tenses."
+  },
+  "spanish.w-extended.a3.0013": {
+   "all": "Plan: duermo ocho horas; ideal healthy day (desayuno sano, deporte); preterite: corrí, fui al gimnasio; conditional: me gustaría ser enfermero porque...; future: voy a beber más agua. Note: bullet 5 contains template leak 'san<o|a>'."
+  },
+  "spanish.w-extended.a4.0011": {
+   "all": "Plan: favourite transport tren + reason; plane pros (rápido) cons (caro, contamina); preterite: fuimos en coche a la costa; conditional: el transporte ideal sería eléctrico y gratuito; future: voy a viajar a España en tren."
+  },
+  "spanish.w-extended.b1.0004": {
+   "all": "Plan: tengo un perro; describe abuela (physical+character); preterite: fuimos al cine; conditional: me gustaría una familia grande porque...; future: voy a hacer una fiesta en casa."
+  },
+  "spanish.w-extended.b2.0001": {
+   "all": "Plan: describe habitación; imperfect: la casa era pequeña, tenía jardín; opinion: sí es justo porque todos viven allí; future: voy a hacer los deberes y limpiar; conditional: mi casa ideal tendría piscina."
+  },
+  "spanish.w-extended.b4.0011": {
+   "all": "Plan: compro en el centro comercial/online; preterite: llevé un vestido azul; opinion: no es importante, es caro; future: voy a llevar traje; future: voy a comprar pantalones cortos."
+  },
+  "spanish.w-extended.b5.0005": {
+   "all": "Plan: leo, juego al fútbol; preterite: fui a un concierto, fue increíble; conditional: mi fin de semana ideal sería...; future: voy a ir al cine; future: voy a viajar a la playa."
+  }
+ },
+ "verdicts": {
+  "spanish.s-roleplay.c1.0005": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.c2.0006": {
+   "result": "fail",
+   "problem": "Context is volunteering in a natural park but Q1 asks what type of excursion the candidate is looking for; Q2/Q4/Q5 also read as a hiking-trip scenario.",
+   "fix": "Change context to 'Quieres hacer una excursión en un parque natural' or change Q1 to '¿Qué tipo de trabajo voluntario te interesa?'."
+  },
+  "spanish.s-roleplay.c3.0010": {
+   "result": "fail",
+   "problem": "Context is a mobile phone shop because the phone is broken, but Q1/Q2 ask why and how long the candidate needs 'el ordenador', which the context never mentions.",
+   "fix": "Add to context that the shop rents computers/internet while the phone is repaired, or change Q1 to '¿Qué problema tiene tu móvil?' and Q2 to '¿Cuándo lo compraste?'."
+  },
+  "spanish.s-roleplay.c4.0005": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.d1.0006": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.d2.0007": {
+   "result": "pass"
+  },
+  "spanish.s-roleplay.e1.0003": {
+   "result": "fail",
+   "problem": "Hotel receptionist asks how long the candidate has studied Spanish and what is hardest about Spanish (off-context), and switches register between usted (Q1, Q5) and tú (Q2, Q3).",
+   "fix": "Replace Q2/Q3 with hotel-relevant tasks (e.g. '¿Cuántas noches quiere quedarse?', '¿Prefiere una habitación con vista al mar o a la ciudad? ‖ ¿Por qué?') and keep usted throughout."
+  },
+  "spanish.s-roleplay.e2.0005": {
+   "result": "fail",
+   "problem": "Context is chatting with a friend about festivals, but Q1 opens with 'Buenos días, ¿para quién es el regalo?' (no gift in context) and Q3 pairs '¿Qué le gusta hacer?' with an unrelated '¿Qué regalo prefieres?'; also 'amigo español' in Buenos Aires.",
+   "fix": "Context: 'Estás en Buenos Aires y buscas un regalo con un amigo argentino'; Q3: '¿Qué le gusta hacer? ‖ ¿Qué regalo le vas a comprar?'."
+  },
+  "spanish.w-extended.a2.0010": {
+   "result": "fail",
+   "problem": "Rubric contains a grammatical error shown to candidates: 'hablar de el tema'.",
+   "fix": "'hablar del tema'."
+  },
+  "spanish.w-extended.a3.0013": {
+   "result": "fail",
+   "problem": "Bullet 5 shows an unrendered template token 'san<o|a>', and rubric says 'hablar de el tema'.",
+   "fix": "'¿Qué vas a hacer para estar más sano/sana en el futuro?' and 'hablar del tema'."
+  },
+  "spanish.w-extended.a4.0011": {
+   "result": "pass"
+  },
+  "spanish.w-extended.b1.0004": {
+   "result": "pass"
+  },
+  "spanish.w-extended.b2.0001": {
+   "result": "pass"
+  },
+  "spanish.w-extended.b4.0011": {
+   "result": "pass"
+  },
+  "spanish.w-extended.b5.0005": {
+   "result": "fail",
+   "problem": "Rubric contains 'hablar de el tema' (should be 'del').",
+   "fix": "'Quieres hablar del tema «El tiempo libre» en tu blog.'"
+  }
+ }
+}

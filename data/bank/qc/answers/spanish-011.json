@@ -1,0 +1,184 @@
+{
+ "batch": "spanish-011",
+ "answers": {
+  "spanish.r-signs.b5.0006": {
+   "a": "D",
+   "b": "G",
+   "c": "E",
+   "d": "H",
+   "e": "C"
+  },
+  "spanish.r-signs.c2.0010": {
+   "a": "A",
+   "b": "B",
+   "c": "D",
+   "d": "E",
+   "e": "G"
+  },
+  "spanish.r-signs.c4.0009": {
+   "a": "C",
+   "b": "F",
+   "c": "B",
+   "d": "A",
+   "e": "H"
+  },
+  "spanish.r-signs.d1.0003": {
+   "a": "E",
+   "b": "C",
+   "c": "H",
+   "d": "G",
+   "e": "D"
+  },
+  "spanish.r-signs.d2.0012": {
+   "a": "A",
+   "b": "G",
+   "c": "F",
+   "d": "D",
+   "e": "B",
+   "note": "a and e both fit A and B (closed afternoon / 9-14)"
+  },
+  "spanish.r-signs.e1.0011": {
+   "a": "H",
+   "b": "B",
+   "c": "C",
+   "d": "A",
+   "e": "F"
+  },
+  "spanish.r-text-mcq.a1.0013": {
+   "a": "B",
+   "b": "A",
+   "c": "A",
+   "d": "B",
+   "e": "A",
+   "f": "C",
+   "g": "A"
+  },
+  "spanish.r-text-mcq.a2.0009": {
+   "a": "C",
+   "b": "C",
+   "c": "A",
+   "d": "B",
+   "e": "B",
+   "f": "A",
+   "g": "C"
+  },
+  "spanish.r-text-mcq.a3.0007": {
+   "a": "C",
+   "b": "A",
+   "c": "A",
+   "d": "B",
+   "e": "A",
+   "f": "C",
+   "g": "B"
+  },
+  "spanish.r-text-mcq.a4.0009": {
+   "a": "A",
+   "b": "C",
+   "c": "A",
+   "d": "B",
+   "e": "A",
+   "f": "B",
+   "g": "A"
+  },
+  "spanish.r-text-mcq.b1.0010": {
+   "a": "B",
+   "b": "B",
+   "c": "B",
+   "d": "C",
+   "e": "B",
+   "f": "A",
+   "g": "B"
+  },
+  "spanish.r-text-mcq.b2.0007": {
+   "a": "C",
+   "b": "C",
+   "c": "B",
+   "d": "C",
+   "e": "A",
+   "f": "A",
+   "g": "A"
+  },
+  "spanish.r-text-mcq.b4.0009": {
+   "a": "A",
+   "b": "B",
+   "c": "A",
+   "d": "B",
+   "e": "A",
+   "f": "C",
+   "g": "A",
+   "note": "'pero solo compro más rápido' garbled; going alone not clearly stated"
+  },
+  "spanish.r-text-mcq.b5.0010": {
+   "a": "B",
+   "b": "A",
+   "c": "A",
+   "d": "A",
+   "e": "B",
+   "f": "B",
+   "g": "C"
+  },
+  "spanish.r-text-mcq.c1.0010": {
+   "a": "B",
+   "b": "C",
+   "c": "B",
+   "d": "C",
+   "e": "C",
+   "f": "B",
+   "g": "B",
+   "note": "text says pueblo in south, later 'mi ciudad está en el centro' - contradiction"
+  }
+ },
+ "verdicts": {
+  "spanish.r-signs.b5.0006": {
+   "result": "pass"
+  },
+  "spanish.r-signs.c2.0010": {
+   "result": "pass"
+  },
+  "spanish.r-signs.c4.0009": {
+   "result": "pass"
+  },
+  "spanish.r-signs.d1.0003": {
+   "result": "pass"
+  },
+  "spanish.r-signs.d2.0012": {
+   "result": "fail",
+   "problem": "Signs A (closed in the afternoon) and B (open 9:00-14:00) both fit (a) and (e); scheme has a=B, e=A, but a=A, e=B is equally valid.",
+   "fix": "Change sign A to something unrelated to opening times (e.g. 'Ofertas de trabajo en el extranjero') or reword (a)/(e) so only one sign fits each."
+  },
+  "spanish.r-signs.e1.0011": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.a1.0013": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.a2.0009": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.a3.0007": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.a4.0009": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.b1.0010": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.b2.0007": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.b4.0009": {
+   "result": "fail",
+   "problem": "Sentence 'Me gusta ir de compras con mis amigos, pero solo compro más rápido' is garbled and never states going alone, so (f) is not properly supported.",
+   "fix": "'Me gusta ir de compras con mis amigos, pero cuando voy solo compro más rápido.'"
+  },
+  "spanish.r-text-mcq.b5.0010": {
+   "result": "pass"
+  },
+  "spanish.r-text-mcq.c1.0010": {
+   "result": "fail",
+   "problem": "Text contradicts itself: Manuel lives in a small village in the south, then says 'Mi ciudad está en el centro del país'; (a)=south and (g) rely on incompatible locations.",
+   "fix": "Rewrite last sentence e.g. 'Mi pueblo está bien comunicado y es fácil viajar a todas partes.'"
+  }
+ }
+}

@@ -1,0 +1,1063 @@
+{
+ "subject": "history",
+ "code": "4HI1",
+ "board": "Pearson Edexcel",
+ "title": "Pearson Edexcel International GCSE (9–1) History 4HI1",
+ "short": "History",
+ "official_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-history-2017.html",
+ "spec_url": "https://qualifications.pearson.com/en/qualifications/edexcel-international-gcses/international-gcse-history-2017.html",
+ "papers": [
+  {
+   "id": "p1",
+   "name": "Paper 1 Depth Studies",
+   "paper_code": "4HI1/01",
+   "minutes": 90,
+   "marks": 60,
+   "calculator": null,
+   "answer_style": "separate-booklet",
+   "materials": "Sources/extracts booklet (inserted); answer booklet.",
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Answer questions from TWO depth studies: one question for each depth study.",
+    "In part (c) of each question, answer EITHER (i) OR (ii).",
+    "Write your answers in the separate answer booklet.",
+    "Fill in the boxes on the front of the answer booklet."
+   ],
+   "information": [
+    "The total mark for this paper is 60.",
+    "The marks for each question are shown in brackets: use this as a guide to how much time to spend on each question.",
+    "Spend about 45 minutes on each depth study."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "In part (a), refer closely to the extract and how the author presents the topic.",
+    "Check your answers if you have time at the end."
+   ],
+   "sections": [
+    {
+     "id": "depth-germany",
+     "title": "Germany: development of dictatorship, 1918–45",
+     "marks": 30,
+     "instructions": "Answer parts (a) and (b), and EITHER (c)(i) OR (c)(ii).",
+     "slots": [
+      {
+       "label": "(a)",
+       "qtypes": [
+        "impression"
+       ],
+       "marks": 6,
+       "option": "germany"
+      },
+      {
+       "label": "(b)",
+       "qtypes": [
+        "explain-effects"
+       ],
+       "marks": 8,
+       "option": "germany"
+      },
+      {
+       "label": "(c)",
+       "qtypes": [
+        "judgement"
+       ],
+       "marks": 16,
+       "choice": 2,
+       "option": "germany"
+      }
+     ]
+    },
+    {
+     "id": "depth-world-divided",
+     "title": "A world divided: superpower relations, 1943–72",
+     "marks": 30,
+     "instructions": "Answer parts (a) and (b), and EITHER (c)(i) OR (c)(ii).",
+     "slots": [
+      {
+       "label": "(a)",
+       "qtypes": [
+        "impression"
+       ],
+       "marks": 6,
+       "option": "world-divided"
+      },
+      {
+       "label": "(b)",
+       "qtypes": [
+        "explain-effects"
+       ],
+       "marks": 8,
+       "option": "world-divided"
+      },
+      {
+       "label": "(c)",
+       "qtypes": [
+        "judgement"
+       ],
+       "marks": 16,
+       "choice": 2,
+       "option": "world-divided"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "name": "Paper 2 Investigation and Breadth Studies",
+   "paper_code": "4HI1/02",
+   "minutes": 90,
+   "marks": 60,
+   "calculator": null,
+   "answer_style": "separate-booklet",
+   "materials": "Sources and extracts booklet (inserted); answer booklet.",
+   "instructions": [
+    "Use black ink or ball-point pen.",
+    "Answer ONE question from Section A and ONE question from Section B.",
+    "In Section B part (c), answer EITHER (i) OR (ii).",
+    "Write your answers in the separate answer booklet.",
+    "Fill in the boxes on the front of the answer booklet."
+   ],
+   "information": [
+    "The total mark for this paper is 60.",
+    "The marks for each question are shown in brackets: use this as a guide to how much time to spend on each question.",
+    "Spend about 45 minutes on each section."
+   ],
+   "advice": [
+    "Read each question carefully before you start to answer it.",
+    "In Section A, use the sources and the extract as the question directs.",
+    "Check your answers if you have time at the end."
+   ],
+   "sections": [
+    {
+     "id": "A",
+     "title": "Section A: Historical investigation — Russia and the Soviet Union, 1905–24",
+     "marks": 30,
+     "instructions": "Answer all parts of the question.",
+     "slots": [
+      {
+       "label": "(a)",
+       "qtypes": [
+        "describe-two"
+       ],
+       "marks": 6,
+       "option": "russia"
+      },
+      {
+       "label": "(b)–(c)",
+       "qtypes": [
+        "investigation"
+       ],
+       "marks": 24,
+       "option": "russia"
+      }
+     ]
+    },
+    {
+     "id": "B",
+     "title": "Section B: Breadth study in change — America: from new nation to divided union, 1783–1877",
+     "marks": 30,
+     "instructions": "Answer parts (a) and (b), and EITHER (c)(i) OR (c)(ii).",
+     "slots": [
+      {
+       "label": "(a)",
+       "qtypes": [
+        "explain-difference"
+       ],
+       "marks": 6,
+       "option": "america"
+      },
+      {
+       "label": "(b)",
+       "qtypes": [
+        "explain-causes"
+       ],
+       "marks": 8,
+       "option": "america"
+      },
+      {
+       "label": "(c)",
+       "qtypes": [
+        "breadth-judgement"
+       ],
+       "marks": 16,
+       "choice": 2,
+       "option": "america"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "qtypes": [
+  {
+   "id": "impression",
+   "label": "Impression from an extract (6 marks)",
+   "marks": "6",
+   "description": "Paper 1 (a): what impression the author of an extract gives about an issue (AO4)."
+  },
+  {
+   "id": "explain-effects",
+   "label": "Explain two effects (8 marks)",
+   "marks": "8",
+   "description": "Paper 1 (b): explain two effects of an event or development (AO1, AO2)."
+  },
+  {
+   "id": "judgement",
+   "label": "How far do you agree? (16 marks)",
+   "marks": "16",
+   "description": "Paper 1 (c): judge a statement using two stimulus points and own knowledge (AO1, AO2)."
+  },
+  {
+   "id": "describe-two",
+   "label": "Describe two features (6 marks)",
+   "marks": "6",
+   "description": "Paper 2 Section A (a): describe two features of one of two named topics (AO1)."
+  },
+  {
+   "id": "source-support",
+   "label": "How far does Source A support Source B? (8 marks)",
+   "marks": "8",
+   "description": "Paper 2 Section A (b): cross-reference two sources for agreement and difference (AO3)."
+  },
+  {
+   "id": "interpretation",
+   "label": "Evaluate an interpretation (16 marks)",
+   "marks": "16",
+   "description": "Paper 2 Section A (c): judge the view in Extract C using the sources and own knowledge (AO3, AO4)."
+  },
+  {
+   "id": "investigation",
+   "label": "Source investigation (8 + 16 marks)",
+   "marks": "24",
+   "description": "Paper 2 Section A (b) and (c) together, sharing Sources A and B and Extract C, as they appear on the paper."
+  },
+  {
+   "id": "explain-difference",
+   "label": "Explain two differences (6 marks)",
+   "marks": "6",
+   "description": "Paper 2 Section B (a): explain two ways in which something was different at two points in time (AO1, AO2)."
+  },
+  {
+   "id": "explain-causes",
+   "label": "Explain two causes (8 marks)",
+   "marks": "8",
+   "description": "Paper 2 Section B (b): explain two causes of an event or development (AO1, AO2)."
+  },
+  {
+   "id": "breadth-judgement",
+   "label": "How far / how significant? (16 marks)",
+   "marks": "16",
+   "description": "Paper 2 Section B (c): judgement across at least 25 years using two stimulus points and own knowledge (AO1, AO2)."
+  }
+ ],
+ "options": [
+  {
+   "id": "germany",
+   "name": "Germany: development of dictatorship, 1918–45",
+   "paper": "p1",
+   "section": "depth-germany"
+  },
+  {
+   "id": "world-divided",
+   "name": "A world divided: superpower relations, 1943–72",
+   "paper": "p1",
+   "section": "depth-world-divided"
+  },
+  {
+   "id": "russia",
+   "name": "Russia and the Soviet Union, 1905–24",
+   "paper": "p2",
+   "section": "A"
+  },
+  {
+   "id": "america",
+   "name": "America: from new nation to divided union, 1783–1877",
+   "paper": "p2",
+   "section": "B"
+  }
+ ],
+ "topics": [
+  {
+   "id": "germany",
+   "ref": "3",
+   "title": "Germany: development of dictatorship, 1918–45",
+   "papers": [
+    "p1"
+   ],
+   "option": "germany",
+   "subtopics": [
+    {
+     "id": "history.germany.weimar",
+     "ref": "3.1",
+     "title": "The establishment of the Weimar Republic and its early problems",
+     "summary": "How the Kaiser fell, how the new republic was set up and the crises it faced up to 1923.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "3.1a",
+       "summary": "The end of the monarchy and the revolution of 1918–19."
+      },
+      {
+       "ref": "3.1b",
+       "summary": "How the Weimar Constitution worked and its weaknesses."
+      },
+      {
+       "ref": "3.1c",
+       "summary": "German reactions to the Treaty of Versailles."
+      },
+      {
+       "ref": "3.1d",
+       "summary": "Threats from the left and right, such as the Spartacists and the Kapp Putsch."
+      },
+      {
+       "ref": "3.1e",
+       "summary": "The occupation of the Ruhr in 1923."
+      },
+      {
+       "ref": "3.1f",
+       "summary": "Hyperinflation and its effects on different groups."
+      }
+     ]
+    },
+    {
+     "id": "history.germany.recovery",
+     "ref": "3.2",
+     "title": "The recovery of Germany, 1924–29",
+     "summary": "How Stresemann helped Germany recover at home and abroad in the 'golden years'.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "3.2a",
+       "summary": "Stresemann's role and achievements."
+      },
+      {
+       "ref": "3.2b",
+       "summary": "Economic recovery: the Rentenmark, the Dawes and Young Plans and American loans."
+      },
+      {
+       "ref": "3.2c",
+       "summary": "Foreign policy: Locarno, the League of Nations and the Kellogg–Briand Pact."
+      }
+     ]
+    },
+    {
+     "id": "history.germany.rise",
+     "ref": "3.3",
+     "title": "The rise of Hitler and the Nazis to January 1933",
+     "summary": "How the Nazi Party grew from a tiny group into the largest party and Hitler became Chancellor.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "3.3a",
+       "summary": "The origins of the Nazi Party."
+      },
+      {
+       "ref": "3.3b",
+       "summary": "Changes to the party in 1920–22."
+      },
+      {
+       "ref": "3.3c",
+       "summary": "The Munich Putsch and its consequences."
+      },
+      {
+       "ref": "3.3d",
+       "summary": "Reorganising the party after 1924."
+      },
+      {
+       "ref": "3.3e",
+       "summary": "The impact of the Great Depression."
+      },
+      {
+       "ref": "3.3f",
+       "summary": "Nazi methods, propaganda and the SA."
+      },
+      {
+       "ref": "3.3g",
+       "summary": "Political deals of 1932 to January 1933."
+      }
+     ]
+    },
+    {
+     "id": "history.germany.nazi",
+     "ref": "3.4",
+     "title": "Nazi Germany 1933–39",
+     "summary": "How Hitler created a dictatorship and controlled German society and the economy.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "3.4a",
+       "summary": "Steps to dictatorship, 1933–34."
+      },
+      {
+       "ref": "3.4b",
+       "summary": "Methods of control: the police state, censorship and propaganda."
+      },
+      {
+       "ref": "3.4c",
+       "summary": "Policies towards education, young people, women and the Churches."
+      },
+      {
+       "ref": "3.4d",
+       "summary": "Racial policy and the persecution of Jews."
+      },
+      {
+       "ref": "3.4e",
+       "summary": "Economic policy: reducing unemployment, the RAD, the DAF and Strength Through Joy."
+      }
+     ]
+    },
+    {
+     "id": "history.germany.war",
+     "ref": "3.5",
+     "title": "Germany and the occupied territories during the Second World War",
+     "summary": "Life in Germany during the war, the Holocaust, opposition and the collapse of the Reich.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "3.5a",
+       "summary": "The treatment of Jews: ghettos, the Einsatzgruppen and the Final Solution."
+      },
+      {
+       "ref": "3.5b",
+       "summary": "The impact of war on the home front."
+      },
+      {
+       "ref": "3.5c",
+       "summary": "Opposition and resistance to the Nazis."
+      },
+      {
+       "ref": "3.5d",
+       "summary": "The defeat of Germany and the end of the Third Reich."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "world-divided",
+   "ref": "6",
+   "title": "A world divided: superpower relations, 1943–72",
+   "papers": [
+    "p1"
+   ],
+   "option": "world-divided",
+   "subtopics": [
+    {
+     "id": "history.world-divided.reasons",
+     "ref": "6.1",
+     "title": "Reasons for the Cold War",
+     "summary": "Why the wartime alliance broke down, including ideology, the conferences and Soviet control of Eastern Europe.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "6.1a",
+       "summary": "Long-term rivalry and ideological differences."
+      },
+      {
+       "ref": "6.1b",
+       "summary": "Tensions within the wartime alliance."
+      },
+      {
+       "ref": "6.1c",
+       "summary": "The Tehran, Yalta and Potsdam conferences."
+      },
+      {
+       "ref": "6.1d",
+       "summary": "Soviet expansion in Eastern Europe."
+      },
+      {
+       "ref": "6.1e",
+       "summary": "The attitudes of Truman and Stalin."
+      }
+     ]
+    },
+    {
+     "id": "history.world-divided.early",
+     "ref": "6.2",
+     "title": "Early developments in the Cold War, 1945–49",
+     "summary": "How Europe divided into two blocs, from the 'iron curtain' to the Berlin Crisis and NATO.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "6.2a",
+       "summary": "Soviet expansion and satellite states."
+      },
+      {
+       "ref": "6.2b",
+       "summary": "The 'iron curtain' speech."
+      },
+      {
+       "ref": "6.2c",
+       "summary": "The Truman Doctrine and the Marshall Plan."
+      },
+      {
+       "ref": "6.2d",
+       "summary": "Cominform and Comecon."
+      },
+      {
+       "ref": "6.2e",
+       "summary": "Disagreements over Germany and the creation of Bizonia."
+      },
+      {
+       "ref": "6.2f",
+       "summary": "The Berlin Crisis, NATO and the creation of two German states."
+      }
+     ]
+    },
+    {
+     "id": "history.world-divided.fifties",
+     "ref": "6.3",
+     "title": "The Cold War in the 1950s",
+     "summary": "The arms race, Khrushchev's peaceful co-existence and the crushing of the Hungarian Rising.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "6.3a",
+       "summary": "The Korean War and the Warsaw Pact."
+      },
+      {
+       "ref": "6.3b",
+       "summary": "Khrushchev and peaceful co-existence."
+      },
+      {
+       "ref": "6.3c",
+       "summary": "Rákosi's rule and the causes of the Hungarian Rising."
+      },
+      {
+       "ref": "6.3d",
+       "summary": "The Soviet invasion of Hungary and its effects."
+      },
+      {
+       "ref": "6.3e",
+       "summary": "The nuclear arms race."
+      }
+     ]
+    },
+    {
+     "id": "history.world-divided.crises",
+     "ref": "6.4",
+     "title": "Three Cold War crises: Berlin, Cuba and Czechoslovakia, c1957–69",
+     "summary": "The Berlin Wall, the Cuban Missile Crisis and the Prague Spring, and what they show about superpower relations.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "6.4a",
+       "summary": "The U2 incident and the Paris Summit."
+      },
+      {
+       "ref": "6.4b",
+       "summary": "Reasons for building the Berlin Wall."
+      },
+      {
+       "ref": "6.4c",
+       "summary": "Effects of the Berlin Wall."
+      },
+      {
+       "ref": "6.4d",
+       "summary": "The Bay of Pigs and the Cuban Missile Crisis."
+      },
+      {
+       "ref": "6.4e",
+       "summary": "The Prague Spring, the invasion of Czechoslovakia and the Brezhnev Doctrine."
+      }
+     ]
+    },
+    {
+     "id": "history.world-divided.detente",
+     "ref": "6.5",
+     "title": "The thaw and moves towards détente, 1963–72",
+     "summary": "How the superpowers tried to reduce tension after 1962, through to SALT I.",
+     "papers": [
+      "p1"
+     ],
+     "qtypes": [
+      "impression",
+      "explain-effects",
+      "judgement"
+     ],
+     "points": [
+      {
+       "ref": "6.5a",
+       "summary": "The Hotline and the arms treaties of the 1960s."
+      },
+      {
+       "ref": "6.5b",
+       "summary": "Reasons for détente."
+      },
+      {
+       "ref": "6.5c",
+       "summary": "The SALT talks and SALT I."
+      },
+      {
+       "ref": "6.5d",
+       "summary": "How far relations had improved by 1972."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "russia",
+   "ref": "A2",
+   "title": "Russia and the Soviet Union, 1905–24",
+   "papers": [
+    "p2"
+   ],
+   "option": "russia",
+   "subtopics": [
+    {
+     "id": "history.russia.tsarist",
+     "ref": "A2.1",
+     "title": "Tsarist rule in Russia, 1905–14",
+     "summary": "The 1905 Revolution, the Dumas, Stolypin and growing discontent before the First World War.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "describe-two",
+      "source-support",
+      "interpretation",
+      "investigation"
+     ],
+     "points": [
+      {
+       "ref": "A2.1a",
+       "summary": "The nature of Tsarist rule and discontent."
+      },
+      {
+       "ref": "A2.1b",
+       "summary": "Bloody Sunday, the Potemkin mutiny and the soviets."
+      },
+      {
+       "ref": "A2.1c",
+       "summary": "The October Manifesto and why the Tsar survived 1905."
+      },
+      {
+       "ref": "A2.1d",
+       "summary": "The Dumas and their limits."
+      },
+      {
+       "ref": "A2.1e",
+       "summary": "Opposition groups."
+      },
+      {
+       "ref": "A2.1f",
+       "summary": "Stolypin's repression and reforms."
+      },
+      {
+       "ref": "A2.1g",
+       "summary": "The Lena Goldfields Massacre and rising unrest."
+      }
+     ]
+    },
+    {
+     "id": "history.russia.war-feb",
+     "ref": "A2.2",
+     "title": "Opposition to Tsarist rule, 1914–17",
+     "summary": "How the First World War weakened the Tsar and led to the February Revolution and his abdication.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "describe-two",
+      "source-support",
+      "interpretation",
+      "investigation"
+     ],
+     "points": [
+      {
+       "ref": "A2.2a",
+       "summary": "Effects of the war on the army and the home front."
+      },
+      {
+       "ref": "A2.2b",
+       "summary": "Rasputin and the Tsarina."
+      },
+      {
+       "ref": "A2.2c",
+       "summary": "Causes and events of the February Revolution."
+      },
+      {
+       "ref": "A2.2d",
+       "summary": "Army mutiny and the Tsar's abdication."
+      },
+      {
+       "ref": "A2.2e",
+       "summary": "The setting up of the Provisional Government."
+      }
+     ]
+    },
+    {
+     "id": "history.russia.provisional",
+     "ref": "A2.3",
+     "title": "Provisional Government and the Bolshevik revolution, 1917",
+     "summary": "Why the Provisional Government failed and how the Bolsheviks seized power in October 1917.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "describe-two",
+      "source-support",
+      "interpretation",
+      "investigation"
+     ],
+     "points": [
+      {
+       "ref": "A2.3a",
+       "summary": "Weaknesses of the Provisional Government."
+      },
+      {
+       "ref": "A2.3b",
+       "summary": "The Petrograd Soviet and Dual Power."
+      },
+      {
+       "ref": "A2.3c",
+       "summary": "The April Theses and the July Days."
+      },
+      {
+       "ref": "A2.3d",
+       "summary": "The Kornilov Affair."
+      },
+      {
+       "ref": "A2.3e",
+       "summary": "The Bolshevik seizure of power."
+      },
+      {
+       "ref": "A2.3f",
+       "summary": "Reasons for success, including Lenin and Trotsky."
+      }
+     ]
+    },
+    {
+     "id": "history.russia.civil-war",
+     "ref": "A2.4",
+     "title": "The Bolshevik consolidation of power and the Civil War, 1917–21",
+     "summary": "How the Bolsheviks kept power: early decrees, the Constituent Assembly, Brest-Litovsk and the Civil War.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "describe-two",
+      "source-support",
+      "interpretation",
+      "investigation"
+     ],
+     "points": [
+      {
+       "ref": "A2.4a",
+       "summary": "Early Bolshevik decrees."
+      },
+      {
+       "ref": "A2.4b",
+       "summary": "The closing of the Constituent Assembly."
+      },
+      {
+       "ref": "A2.4c",
+       "summary": "The Treaty of Brest-Litovsk."
+      },
+      {
+       "ref": "A2.4d",
+       "summary": "The two sides in the Civil War."
+      },
+      {
+       "ref": "A2.4e",
+       "summary": "Events of the Civil War and reasons for Bolshevik victory."
+      }
+     ]
+    },
+    {
+     "id": "history.russia.nep",
+     "ref": "A2.5",
+     "title": "War Communism and the New Economic Policy, 1918–24",
+     "summary": "Why War Communism was replaced by the NEP, opposition to it and Lenin's achievements by 1924.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "describe-two",
+      "source-support",
+      "interpretation",
+      "investigation"
+     ],
+     "points": [
+      {
+       "ref": "A2.5a",
+       "summary": "War Communism and its effects."
+      },
+      {
+       "ref": "A2.5b",
+       "summary": "The Kronstadt Rising."
+      },
+      {
+       "ref": "A2.5c",
+       "summary": "The New Economic Policy."
+      },
+      {
+       "ref": "A2.5d",
+       "summary": "Opposition to the NEP."
+      },
+      {
+       "ref": "A2.5e",
+       "summary": "Lenin's achievements by 1924."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "america",
+   "ref": "B1",
+   "title": "America: from new nation to divided union, 1783–1877",
+   "papers": [
+    "p2"
+   ],
+   "option": "america",
+   "subtopics": [
+    {
+     "id": "history.america.new-nation",
+     "ref": "B1.1",
+     "title": "A new nation, 1783–1803",
+     "summary": "How the United States created its Constitution and system of government, and the divisions this caused.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "explain-difference",
+      "explain-causes",
+      "breadth-judgement"
+     ],
+     "points": [
+      {
+       "ref": "B1.1a",
+       "summary": "Large and small states and the question of slavery."
+      },
+      {
+       "ref": "B1.1b",
+       "summary": "Shays' Rebellion."
+      },
+      {
+       "ref": "B1.1c",
+       "summary": "The Constitutional Convention and the Connecticut Compromise."
+      },
+      {
+       "ref": "B1.1d",
+       "summary": "Federalists, Anti-federalists and the Bill of Rights."
+      },
+      {
+       "ref": "B1.1e",
+       "summary": "Strict and loose constructionists."
+      },
+      {
+       "ref": "B1.1f",
+       "summary": "Jefferson's presidency."
+      }
+     ]
+    },
+    {
+     "id": "history.america.westward",
+     "ref": "B1.2",
+     "title": "Westward expansion, 1803–53",
+     "summary": "How and why the USA expanded across the continent, and the impact on Native Americans and slavery.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "explain-difference",
+      "explain-causes",
+      "breadth-judgement"
+     ],
+     "points": [
+      {
+       "ref": "B1.2a",
+       "summary": "Opposition to expansion."
+      },
+      {
+       "ref": "B1.2b",
+       "summary": "The Louisiana Purchase, the Transcontinental Treaty and Texas."
+      },
+      {
+       "ref": "B1.2c",
+       "summary": "The Missouri Compromise."
+      },
+      {
+       "ref": "B1.2d",
+       "summary": "Indian Removal and the Trail of Tears."
+      },
+      {
+       "ref": "B1.2e",
+       "summary": "Manifest Destiny, Oregon, the Mexican War and the Gold Rush."
+      }
+     ]
+    },
+    {
+     "id": "history.america.slavery",
+     "ref": "B1.3",
+     "title": "The road to civil war, 1850–61",
+     "summary": "How disputes over slavery and the territories divided North and South and led to secession.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "explain-difference",
+      "explain-causes",
+      "breadth-judgement"
+     ],
+     "points": [
+      {
+       "ref": "B1.3a",
+       "summary": "The Compromise of 1850."
+      },
+      {
+       "ref": "B1.3b",
+       "summary": "The Kansas–Nebraska Act and Bleeding Kansas."
+      },
+      {
+       "ref": "B1.3c",
+       "summary": "The Dred Scott decision."
+      },
+      {
+       "ref": "B1.3d",
+       "summary": "Economic differences between North and South."
+      },
+      {
+       "ref": "B1.3e",
+       "summary": "John Brown, Lincoln's election, secession and Fort Sumter."
+      }
+     ]
+    },
+    {
+     "id": "history.america.civil-war",
+     "ref": "B1.4",
+     "title": "The Civil War, 1861–65",
+     "summary": "Why the Union won, the leaders on each side and the effects of the war on the South.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "explain-difference",
+      "explain-causes",
+      "breadth-judgement"
+     ],
+     "points": [
+      {
+       "ref": "B1.4a",
+       "summary": "Reasons for Union victory and the role of generals."
+      },
+      {
+       "ref": "B1.4b",
+       "summary": "The Union blockade."
+      },
+      {
+       "ref": "B1.4c",
+       "summary": "Lincoln, Davis, the Emancipation Proclamation and the Gettysburg Address."
+      },
+      {
+       "ref": "B1.4d",
+       "summary": "Key battles and campaigns: Gettysburg, Vicksburg and the March through Georgia."
+      },
+      {
+       "ref": "B1.4e",
+       "summary": "The impact of the war on the Southern economy."
+      }
+     ]
+    },
+    {
+     "id": "history.america.reconstruction",
+     "ref": "B1.5",
+     "title": "Reconstruction, 1865–77",
+     "summary": "How the South was rebuilt, what freedom meant for African Americans, and policy towards Native Americans.",
+     "papers": [
+      "p2"
+     ],
+     "qtypes": [
+      "explain-difference",
+      "explain-causes",
+      "breadth-judgement"
+     ],
+     "points": [
+      {
+       "ref": "B1.5a",
+       "summary": "Johnson and the Reconstruction Acts."
+      },
+      {
+       "ref": "B1.5b",
+       "summary": "The Freedmen's Bureau and the Black Codes."
+      },
+      {
+       "ref": "B1.5c",
+       "summary": "The Civil Rights Acts and the 13th–15th Amendments."
+      },
+      {
+       "ref": "B1.5d",
+       "summary": "The Peace Policy and the Battle of the Little Bighorn."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

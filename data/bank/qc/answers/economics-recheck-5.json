@@ -1,0 +1,37 @@
+{
+ "batch": "economics-recheck-5",
+ "answers": {
+  "economics.labour-define2.0005": {
+   "all": "The price paid for labour (1), the amount a worker is paid per unit of time, e.g. per hour (1)"
+  },
+  "economics.labour-describe.0004": {
+   "all": "Raises pay of the lowest-paid (1), so improves their living standards / reduces exploitation and poverty (1)"
+  },
+  "economics.labour-diagram.0007": {
+   "all": "Supply of labour shifts right to S1; new wage W1 below We; new number employed Q1 above Qe; labelled."
+  },
+  "economics.labour-evaluate-1.0006": {
+   "all": "Benefits: higher incomes, spending/multiplier, less poverty, motivation. Costs: unemployment in small retail/hospitality firms, higher prices, automation. Judgement: depends on how far above equilibrium 9% rise sets it and elasticity."
+  },
+  "economics.labour-evaluate-2.0005": {
+   "all": "For: strike and bargaining power, 6,000 vacancies and emigration show shortage strengthening case. Against: government budget, public support, laws on union power. Judgement: shortage may be more important than union action."
+  }
+ },
+ "verdicts": {
+  "economics.labour-define2.0005": {
+   "result": "pass"
+  },
+  "economics.labour-describe.0004": {
+   "result": "pass"
+  },
+  "economics.labour-diagram.0007": {
+   "result": "pass"
+  },
+  "economics.labour-evaluate-1.0006": {
+   "result": "pass"
+  },
+  "economics.labour-evaluate-2.0005": {
+   "result": "pass"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "batch": "physics-recheck-1",
+ "answers": {
+  "physics.at-prac-thick.0002": {
+   "a": "IV aluminium thickness; DV count (in 1 min)",
+   "b": "508-26=482 per min",
+   "c": "beta; count falls with a few mm of aluminium and is reduced to about background by 3 mm (not alpha since passes 0.5 mm Al; not gamma since absorbed)",
+   "d": "radioactive decay is random so average to reduce effect of random variation"
+  },
+  "physics.ci-data-iv.0006": {
+   "a": "axes labelled, points plotted, smooth curve through origin, gradient decreasing",
+   "b": "R=V/I=4/0.423=9.5 ohm",
+   "c": "resistance increases as voltage increases (curve gets less steep); filament gets hotter"
+  },
+  "physics.ci-data-ldr.0006": {
+   "a": "points plotted, smooth curve getting steeper",
+   "b": "about 5.6 kOhm (5.5-5.8)",
+   "c": "resistance increases as distance increases (light intensity decreases); not proportional, increases at an increasing rate"
+  },
+  "physics.el-data.0006": {
+   "a": "points plotted, smooth curve through origin getting steeper",
+   "b": "does not obey Hooke's law: extension not proportional to force, graph not a straight line through origin"
+  },
+  "physics.el-prac-spring.0004": {
+   "a": "IV load/force; DV length (extension)",
+   "b": "same spring / temperature / ruler position",
+   "c": "23.7-9.0=14.7 cm",
+   "d": "read at eye level to avoid parallax; ruler vertical/fixed close to spring, use a pointer/fiducial marker"
+  },
+  "physics.ga-data-pt.0002": {
+   "a": "points plotted, straight line of best fit",
+   "b": "about -270 C (absolute zero, -273 C)",
+   "c": "molecules move faster/more KE; collide with walls more often and with more force, so greater force per unit area"
+  },
+  "physics.ga-data-pv.0003": {
+   "a": "10x460=4600, 20x230=4600, 40x115=4600 (all ~4600)",
+   "b": "p=4600/35=131 kPa",
+   "c": "temperature; mass/amount of gas"
+  },
+  "physics.st-cooling.0006": {
+   "a": "points plotted, lines with horizontal section 4-8 min",
+   "b": "52 C",
+   "c": "substance is changing state (freezing); energy released as bonds form balances energy lost to surroundings, so no change in KE/temperature"
+  },
+  "physics.th-prac-insul.0003": {
+   "a": "same volume of hot water at 65 C in beaker, wrap with same thickness of material, measure starting temperature with thermometer, start stopwatch, measure temperature after 10 min, repeat for each material, calculate drop",
+   "b": "cotton wool; smallest temperature drop",
+   "c": "use lid / repeat and average / same thickness of each material / use data logger"
+  },
+  "physics.mo-plot.0004": {
+   "a": "points plotted, straight line of best fit",
+   "b": "a=gradient=(19.1-1.0)/10=1.8 m/s^2",
+   "c": "about 6.4 m/s (6.2-6.6)"
+  },
+  "physics.mon-prac.0009": {
+   "a": "distance of each weight from pivot (2 N weight distance and balance distance of second weight)",
+   "b": "anticlockwise 2x20=40 N cm, clockwise 1.5x26.9=40.4 N cm; approximately equal so support principle",
+   "c": "difficulty judging balance / reading distances / friction at pivot / rule not uniform or weights not exact",
+   "d": "repeat and average / use pointer for distance / use more results / use knife-edge pivot"
+  },
+  "physics.mo-dt-graph.0003": {
+   "all": "Graph not reproduced in text (only axis labels: time 0-100 s, distance 0-150 m). Expected: a horizontal section 40-60 s = stationary; speed = gradient in first 40 s; steeper section = faster; average speed = total distance/total time"
+  }
+ },
+ "verdicts": {
+  "physics.at-prac-thick.0002": {
+   "result": "pass"
+  },
+  "physics.ci-data-iv.0006": {
+   "result": "pass"
+  },
+  "physics.ci-data-ldr.0006": {
+   "result": "pass"
+  },
+  "physics.el-data.0006": {
+   "result": "pass"
+  },
+  "physics.el-prac-spring.0004": {
+   "result": "pass"
+  },
+  "physics.ga-data-pt.0002": {
+   "result": "pass"
+  },
+  "physics.ga-data-pv.0003": {
+   "result": "pass"
+  },
+  "physics.st-cooling.0006": {
+   "result": "pass"
+  },
+  "physics.th-prac-insul.0003": {
+   "result": "pass"
+  },
+  "physics.mo-plot.0004": {
+   "result": "pass"
+  },
+  "physics.mon-prac.0009": {
+   "result": "pass"
+  },
+  "physics.mo-dt-graph.0003": {
+   "result": "pass"
+  }
+ }
+}
