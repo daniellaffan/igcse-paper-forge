@@ -1,6 +1,6 @@
 # IGCSE Paper Forge
 
-**Live site:** _LIVE_URL_
+**Live site:** https://daniellaffan.github.io/igcse-paper-forge/
 
 A free website that makes **practice exam papers and mark schemes** for these IGCSE subjects:
 
