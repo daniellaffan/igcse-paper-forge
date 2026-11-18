@@ -6,7 +6,7 @@ const esc = (s: string) =>
 
 function inline(s: string): string {
   let h = esc(s)
-  h = h.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+  h = h.replace(/\*\*((?:[^*]|\*(?!\*))+?)\*\*/g, '<strong>$1</strong>') // bold may contain *italic*
   h = h.replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g, '$1<em>$2</em>')
   h = h.replace(/\[\[blank\]\]/g, '<span class="ans-box"></span>')
   h = h.replace(/\[\[dots\]\]/g, '<span class="ans-dots"></span>')

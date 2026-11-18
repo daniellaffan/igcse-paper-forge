@@ -16,3 +16,4 @@ brew_tess.log
 scripts/verify/node_modules/
 docs/verification/compare/
 site/public/data/
+docs/verification/*/build/

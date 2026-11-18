@@ -1,0 +1,382 @@
+{
+ "biology": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 9,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 24,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 4,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 9,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/biology/January-2023/4bi1-1b-que-20230110.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/biology/June-2021/4BI1_1B_rms_20210604.pdf"
+  }
+ },
+ "chemistry": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 11,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 23,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 4,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 9,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/chemistry/June-2019/4CH1_1C_que_20190520.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/chemistry/January-2023/4ch1-2cr-rms-20230302.pdf"
+  }
+ },
+ "economics": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 10,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 14,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 4,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 8,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/economics/June-2019/4EC1_01_que_20190525.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/economics/June-2024/4ec1-02-rms-20240822.pdf"
+  }
+ },
+ "english-language": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 7,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 11,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 5,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 14,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/english-language/January-2019/4ea1-01-que-20190115.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/english-language/January-2019/4EA1_01R_msc_20190307.pdf"
+  }
+ },
+ "english-literature": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 11,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 18,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 4,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 6,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/english-literature/June-2024/4et1-01r-que-20240514.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/english-literature/January-2019/4ET1_02R_msc_20190307.pdf"
+  }
+ },
+ "further-maths": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 9,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 18,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 4,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 9,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/further-maths/June-2019/4PM1_01_que_20190618.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/further-maths/June-2022/4pm1-01r-rms-20220825.pdf"
+  }
+ },
+ "history": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 8,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 17,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 4,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 8,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/history/June-2021/4HI1_2B_que_20210504.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/history/November-2024/4hi1-02-rms-20250123.pdf"
+  }
+ },
+ "maths": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 10,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 25,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 4,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 9,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/maths/June-2022/4ma1-2hr-que-20220608.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/maths/January-2023/4ma1-2h-rms-20230302.pdf"
+  }
+ },
+ "physics": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 10,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 22,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 4,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 8,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/physics/November-2020/4PH1_2P_que_20201124.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/physics/January-2023/4ph1-1p-rms-20230302.pdf"
+  }
+ },
+ "spanish": {
+  "pdfs": [
+   {
+    "file": "full-paper-mark-scheme.pdf",
+    "pages": 7,
+    "a4": true,
+    "title": "full-paper-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "full-paper-question-paper.pdf",
+    "pages": 11,
+    "a4": true,
+    "title": "full-paper-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-mark-scheme.pdf",
+    "pages": 6,
+    "a4": true,
+    "title": "topic-test-mark-scheme",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   },
+   {
+    "file": "topic-test-question-paper.pdf",
+    "pages": 7,
+    "a4": true,
+    "title": "topic-test-question-paper",
+    "subject": "Practice paper \u2014 not an official exam board paper"
+   }
+  ],
+  "qp": {
+   "compared_with": "corpus/spanish/June-2024/0530_s24_qp_13.pdf"
+  },
+  "ms": {
+   "compared_with": "corpus/spanish/November-2025/0530_w25_ms_43.pdf"
+  }
+ }
+}

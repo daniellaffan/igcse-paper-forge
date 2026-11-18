@@ -6,6 +6,7 @@ import { renderToStaticMarkup } from 'react-dom/server'
 import { assemble } from '../../../site/src/lib/assemble'
 import { encodeConfig } from '../../../site/src/lib/rng'
 import { MarkSchemeDoc, QuestionPaperDoc } from '../../../site/src/paper/Documents'
+import { FigureView } from '../../../site/src/paper/Figures'
 import { MATH } from './katex-shim.mjs'
 
 const [base, out] = process.argv.slice(2)
@@ -39,6 +40,16 @@ for (const s of index) {
     const ms = renderToStaticMarkup(<MarkSchemeDoc spec={spec} a={a} cover={cover} />)
     fs.writeFileSync(path.join(dir, `${stem}-qp.html`), qp)
     fs.writeFileSync(path.join(dir, `${stem}-ms.html`), ms)
+    // formula sheet / periodic table page: the site loads it in an effect, which a server render skips
+    const refId = a.paper?.reference_sheet || (spec.papers.length === 1 ? spec.papers[0].reference_sheet : undefined)
+    const refFile = path.join(dir, `${stem}-ref.html`)
+    if (refId) {
+      const ref = await get(`reference/${refId}.json`)
+      fs.writeFileSync(refFile, renderToStaticMarkup(
+        <div className="ref-sheet"><div className="ref-title">{ref.title}</div>
+          {ref.blocks.map((b, i) => <FigureView key={i} fig={b} />)}
+          <div className="ref-foot">Do not write on this page. Answer all questions.</div></div>))
+    } else if (fs.existsSync(refFile)) fs.rmSync(refFile)
     for (const [n, m] of MATH) fs.writeFileSync(path.join(dir, `${stem}-${n}`), m.svg)
     const qs = a.sections.flatMap(x => x.questions)
     summary[s.subject][stem] = {
@@ -48,6 +59,7 @@ for (const s of index) {
       audio: qs.reduce((n, q) => n + JSON.stringify(q).split('"type":"audio"').length - 1, 0),
       either_or: a.sections.reduce((n, x) => n + Object.keys(x.alts || {}).length, 0),
       sections: a.sections.map(x => x.title).filter(Boolean),
+      reference_sheet: refId || null,
     }
     console.log(s.subject, stem, qs.length, 'questions', a.totalMarks, 'marks', MATH.size, 'formulas')
   }

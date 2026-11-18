@@ -73,7 +73,7 @@ export function FigureView({ fig, inMarkScheme = false }: { fig: Figure; inMarkS
       return (
         <figure className="fig fig-table">
           {fig.caption && <figcaption className="cap-top"><Rich as="span" text={fig.caption} /></figcaption>}
-          <table className="data">
+          <table className={'data' + (Math.max(fig.headers?.length || 0, ...(fig.rows || []).map(r => r.length)) > 8 ? ' wide' : '')}>
             {fig.headers && <thead><tr>{fig.headers.map((h, i) => <th key={i}><Rich as="span" text={h} /></th>)}</tr></thead>}
             <tbody>{(fig.rows || []).map((r, i) => <tr key={i}>{r.map((c, j) => <td key={j}><Rich as="span" text={c} /></td>)}</tr>)}</tbody>
           </table>

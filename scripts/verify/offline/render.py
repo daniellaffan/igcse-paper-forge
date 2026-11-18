@@ -125,6 +125,24 @@ def parts(doc: str):
     return cover, bodies[0] if bodies else "", bodies[1] if len(bodies) > 1 else ""
 
 
+def drop_no_print(h: str) -> str:
+    """Remove elements marked no-print (play buttons, transcripts): the site's export skips them."""
+    while True:
+        m = re.search(r'<(div|span|button)\b[^>]*class="[^"]*\bno-print\b[^"]*"[^>]*>', h)
+        if not m:
+            return h
+        tag, i, depth = m.group(1), m.end(), 1
+        for t in re.finditer(rf'<(/?){tag}\b[^>]*?(/?)>', h[i:]):
+            if t.group(2):
+                continue
+            depth += -1 if t.group(1) else 1
+            if depth == 0:
+                h = h[:m.start()] + h[i + t.end():]
+                break
+        else:
+            return h
+
+
 def tidy(h: str, svgs: dict, stem: str) -> str:
     # inline diagrams -> archive images
     def svg_img(m):
@@ -140,6 +158,8 @@ def tidy(h: str, svgs: dict, stem: str) -> str:
         hpt = wpt * float(vb.group(2)) / float(vb.group(1)) if vb else wpt * 0.6
         return f'<p style="text-align:center"><img src="{name}" style="width:{wpt:.0f}pt;height:{hpt:.0f}pt" width="{wpt:.0f}" height="{hpt:.0f}"/></p>'
     h = re.sub(r'<div class="svg-wrap"(?: style="([^"]*)")?>\s*(<svg[\s\S]*?</svg>)\s*</div>', svg_img, h)
+    h = drop_no_print(h)
+    h = h.replace('<span class="cam-time">', '<span class="cam-time"> · ')
     # maths images were written as <stem>-mN.svg
     h = re.sub(r'src="(m\d+\.svg)"', lambda m: f'src="{stem}-{m.group(1)}"', h)
     # question number and part labels inline with the first line of text
@@ -154,17 +174,66 @@ def tidy(h: str, svgs: dict, stem: str) -> str:
                lambda m: "☐" * m.group(1).count("<span>"), h)
     h = h.replace('<div class="tm-box"></div>', '☐')
     h = re.sub(r'<colgroup>[\s\S]*?</colgroup>', '', h)
+    # wide tables (periodic table): as the site's table.data.wide
+    h = re.sub(r'<table class="data wide">([\s\S]*?)</table>', lambda m: '<table class="data wide" style="font-size:5.4pt;width:100%">' + m.group(1).replace('<td>', '<td style="padding:0.5pt">').replace('<th>', '<th style="padding:0.5pt">') + '</table>', h)
     return h
 
 
 def place(writer, story, first_rect=BODY):
     n, more = 0, 1
-    while more:
+    while more and n < 80:
         dev = writer.begin_page(A4)
         more, _ = story.place(first_rect if n == 0 else BODY)
         story.draw(dev)
         writer.end_page()
         n += 1
+    return n
+
+
+def place_fit(writer, html, arch):
+    """One page, scaled down to fit if the content is wider or taller than the page
+    (the periodic table is wider than MuPDF will squeeze a table)."""
+    _, f = fitz.Story(html, user_css=CSS, archive=arch).place(fitz.Rect(0, 0, BODY.width, 10000))
+    w = max(BODY.width, f[2])
+    st = fitz.Story(html, user_css=CSS, archive=arch)
+    _, f2 = st.place(fitz.Rect(0, 0, w, 10000))
+    k = min(BODY.width / w, BODY.height / max(f2[3], 1), 1)
+    dev = writer.begin_page(A4)
+    st.draw(dev, fitz.Matrix(k, k) * fitz.Matrix(1, 0, 0, 1, BODY.x0, BODY.y0))
+    writer.end_page()
+    return 1
+
+
+def place_blocks(writer, html, arch, head=""):
+    """Paginate block by block exactly as the site's Paginator does: blocks measured at the
+    content width, packed greedily, and a block flagged keepWithNext (data-keep) moves to
+    the next page together with its follower. (MuPDF's Story on its own overflows a page
+    rather than moving a block with a fixed-height working space.)"""
+    pieces = re.split(r'(?=<div class="blk"[^>]*>)', html)
+    lead, blks = (pieces[0], pieces[1:]) if not pieces[0].startswith('<div class="blk"') else ("", pieces)
+    if not blks:
+        return place(writer, fitz.Story(head + html, user_css=CSS, archive=arch))
+    big = fitz.Rect(BODY.x0, 0, BODY.x1, 100000)
+
+    def height(x):
+        _, f = fitz.Story(x, user_css=CSS, archive=arch).place(big)
+        return 0 if f[3] < f[1] else f[3]
+    hs = [height(b) for b in blks]
+    keep = ['data-keep="1"' in b[:80] for b in blks]
+    pages, cur, h = [], [], height(head + lead) if (head + lead).strip() else 0
+    for i, b in enumerate(blks):
+        need = hs[i] + (hs[i + 1] if keep[i] and i + 1 < len(blks) else 0)
+        if cur and h + need > BODY.height:
+            pages.append(cur)
+            cur, h = [], height(head) if head.strip() else 0
+        cur.append(b)
+        h += hs[i]
+    if cur:
+        pages.append(cur)
+    n = 0
+    for i, pg in enumerate(pages):
+        x = (head + lead if i == 0 else head) + "".join(pg)
+        n += place(writer, fitz.Story(x, user_css=CSS, archive=arch))
     return n
 
 
@@ -174,6 +243,8 @@ def make_pdf(src: Path, out_pdf: Path, kind: str, code: str, seed: str):
     svgs = {}
     stem = src.stem.rsplit("-", 1)[0]  # topic-test / full-paper
     cover_h, main_h, ins_h = (tidy(x, svgs, stem) for x in (cover, main, insert))
+    ref = src.parent / f"{stem}-ref.html"
+    ref_h = tidy(ref.read_text(), svgs, stem) if kind == "qp" and ref.exists() else ""
     arch = fitz.Archive(str(src.parent))
     if svgs:
         for n, s in svgs.items():
@@ -184,10 +255,12 @@ def make_pdf(src: Path, out_pdf: Path, kind: str, code: str, seed: str):
         head = tidy(head.group(0), svgs, stem) if head else ""
     writer = fitz.DocumentWriter(str(out_pdf))
     counts = {"cover": place(writer, fitz.Story(cover_h, user_css=CSS, archive=arch))}
-    counts["body"] = place(writer, fitz.Story(head + main_h, user_css=CSS, archive=arch))
+    if ref_h:
+        counts["reference_sheet"] = place_fit(writer, ref_h, arch)
+    counts["body"] = place_blocks(writer, main_h, arch, head)
     if ins_h.strip():
         ins_title = '<div class="insert-head"><div class="ins-title">Insert</div><div class="muted">Do not return this Insert with the question paper.</div></div>'
-        counts["insert"] = place(writer, fitz.Story(ins_title + ins_h, user_css=CSS, archive=arch))
+        counts["insert"] = place_blocks(writer, ins_title + ins_h, arch)
     writer.close()
     # footer on every page (disclaimer, paper code, seed, page number), as on the site
     pdf = fitz.open(out_pdf)

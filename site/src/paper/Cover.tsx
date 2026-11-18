@@ -96,7 +96,7 @@ export function Cover(c: CoverInfo) {
         <div className="pe-ref"><span>Paper reference</span> <b>{code}</b></div>
       </div>
       <div className="pe-row">
-        <div className="pe-must"><b>You must have:</b> <Rich as="span" text={p?.materials || 'Ruler, pen, pencil, eraser.'} /></div>
+        <div className="pe-must"><b>You must have:</b> <Rich as="span" text={(p?.materials || 'Ruler, pen, pencil, eraser.').replace(/^\s*You must have:\s*/i, '')} /></div>
         <div className="pe-total"><span>Total Marks</span><div className="tm-box" /></div>
       </div>
       <div className="pe-box">

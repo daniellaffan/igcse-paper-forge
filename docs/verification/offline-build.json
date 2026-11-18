@@ -1,0 +1,328 @@
+{
+ "maths": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/maths/paper?c=eyJzdWJqZWN0IjoibWF0aHMiLCJtb2RlIjoidG9waWMiLCJwYXBlciI6IjFoIiwic3VidG9waWNzIjpbIm1hdGhzLm51bWJlci5mYWN0b3JzIiwibWF0aHMubnVtYmVyLmZyYWN0aW9ucyIsIm1hdGhzLm51bWJlci5wb3dlcnMiLCJtYXRocy5udW1iZXIuc2V0cyIsIm1hdGhzLm51bWJlci5wZXJjZW50YWdlcyIsIm1hdGhzLm51bWJlci5yYXRpbyIsIm1hdGhzLm51bWJlci5hY2N1cmFjeSIsIm1hdGhzLm51bWJlci5zdGFuZGFyZC1mb3JtIiwibWF0aHMubnVtYmVyLmFwcGx5aW5nIiwibWF0aHMuYWxnZWJyYS5pbmRpY2VzIiwibWF0aHMuYWxnZWJyYS5leHBhbmRpbmciLCJtYXRocy5hbGdlYnJhLmZyYWN0aW9ucyIsIm1hdGhzLmFsZ2VicmEuY29tcGxldGluZy1zcXVhcmUiLCJtYXRocy5hbGdlYnJhLnByb29mIiwibWF0aHMuYWxnZWJyYS5mb3JtdWxhZSIsIm1hdGhzLmFsZ2VicmEubGluZWFyIiwibWF0aHMuYWxnZWJyYS5wcm9wb3J0aW9uIiwibWF0aHMuYWxnZWJyYS5zaW11bHRhbmVvdXMiLCJtYXRocy5hbGdlYnJhLnF1YWRyYXRpY3MiLCJtYXRocy5hbGdlYnJhLnNpbXVsdGFuZW91cy1ub25saW5lYXIiLCJtYXRocy5hbGdlYnJhLmluZXF1YWxpdGllcyJdLCJxdHlwZXMiOltdLCJsZW5ndGgiOnsiYnkiOiJtYXJrcyIsInZhbHVlIjozMH0sImRpZmYiOlszLDQsM10sImNhbGN1bGF0b3IiOiJhbnkiLCJvcHRpb25zIjpbXSwic2VlZCI6MTAwNTQxfQ&q=W1sibWF0aHMuc3Vic3RpdHV0ZS4wMDAyIiwibWF0aHMuY3VycmVuY3ktY29udmVydC4wMDAyIiwibWF0aHMuc2V0LWxpc3QuMDAwOSIsIm1hdGhzLmZyYWN0aW9uLW9mLWFtb3VudC4wMDAzIiwibWF0aHMuc2YtY2FsYy4wMDAyIiwibWF0aHMucmV2ZXJzZS1wZXJjZW50LjAwMDMiLCJtYXRocy5zaW11bHQtY29udGV4dC4wMDAxIiwibWF0aHMubGluZWFyLWFnZXMuMDAwMSIsIm1hdGhzLnByb3BvcnRpb24tZmluZC4wMDAxIiwibWF0aHMucXVhZC1jb250ZXh0LjAwMDIiXV0",
+   "questions": 10,
+   "marks": 30,
+   "target": 30,
+   "minutes": 36,
+   "warnings": [],
+   "formulas": 62,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": "maths-formulae-higher"
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/maths/paper?c=eyJzdWJqZWN0IjoibWF0aHMiLCJtb2RlIjoiZnVsbCIsInBhcGVyIjoiMWgiLCJzdWJ0b3BpY3MiOltdLCJxdHlwZXMiOltdLCJsZW5ndGgiOnsiYnkiOiJtYXJrcyIsInZhbHVlIjozMH0sImRpZmYiOlszLDQsM10sImNhbGN1bGF0b3IiOiJhbnkiLCJvcHRpb25zIjpbXSwic2VlZCI6MjAwNTQxfQ&q=W1sibWF0aHMuY29udmVyc2lvbi1ncmFwaC4wMDA2IiwibWF0aHMuZXN0aW1hdGUtc2YuMDAwMiIsIm1hdGhzLmNvbnZlcnNpb24tZ3JhcGguMDAwNSIsIm1hdGhzLmVzdGltYXRlLXNmLjAwMDMiLCJtYXRocy50cmFwZXppdW0tYXJlYS4wMDAyIiwibWF0aHMuYXJlYS11bml0cy4wMDA3IiwibWF0aHMuc3Vic3RpdHV0ZS4wMDA3IiwibWF0aHMuc2VjdG9yLW1lYXN1cmUuMDAwOSIsIm1hdGhzLmluZXEtbGluZWFyLjAwMDIiLCJtYXRocy5yZWxhdGl2ZS1mcmVxLjAwMTAiLCJtYXRocy5kaXN0YW5jZS10aW1lLjAwMDciLCJtYXRocy5zaW11bHQtY29udGV4dC4wMDEwIiwibWF0aHMucmF0aW8tMW4uMDAwNiIsIm1hdGhzLmdyb3VwZWQtbWVhbi4wMDAzIiwibWF0aHMucHl0aGFnb3Jhcy4wMDE1IiwibWF0aHMuYmVzdC1idXktY3VycmVuY3kuMDAwNyIsIm1hdGhzLm50aC10ZXJtLjAwMTQiLCJtYXRocy50cmFuc2Zvcm0tcG9pbnQuMDAwMyIsIm1hdGhzLnZlY3Rvci1taWRwb2ludC4wMDA1IiwibWF0aHMubWVhbi1jb21iaW5lZC4wMDE1IiwibWF0aHMubWVhbi1hbGdlYnJhLjAwMDciLCJtYXRocy5xdWFkLXNob3cuMDAxMiIsIm1hdGhzLnNlY3Rvci1yZXZlcnNlLjAwMDMiLCJtYXRocy52ZWN0b3Itc3RydWN0LjAwMDgiLCJtYXRocy5ndC1za2V0Y2guMDAwNiIsIm1hdGhzLm1lYW4tYWxnZWJyYS4wMDE0IiwibWF0aHMuaWR4LWZyYWN0aW9uYWwuMDAwOCIsIm1hdGhzLnZlY3Rvci1jb2xsaW5lYXIuMDAwNyIsIm1hdGhzLnJlY3VycmluZy1wcm9vZi4wMDA3IiwibWF0aHMudmVjdG9yLWNvbGxpbmVhci4wMDA2Il1d",
+   "questions": 30,
+   "marks": 100,
+   "target": 100,
+   "minutes": 120,
+   "warnings": [],
+   "formulas": 160,
+   "diagrams": 7,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": "maths-formulae-higher"
+  }
+ },
+ "further-maths": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/further-maths/paper?c=eyJzdWJqZWN0IjoiZnVydGhlci1tYXRocyIsIm1vZGUiOiJ0b3BpYyIsInBhcGVyIjoicDEiLCJzdWJ0b3BpY3MiOlsiZm0ubG9ncy5ncmFwaHMiLCJmbS5sb2dzLmxhd3MiLCJmbS5sb2dzLnN1cmRzIiwiZm0ucXVhZC5tYW5pcCIsImZtLnF1YWQuZGlzY3JpbWluYW50IiwiZm0ucXVhZC5yb290cyJdLCJxdHlwZXMiOltdLCJsZW5ndGgiOnsiYnkiOiJtYXJrcyIsInZhbHVlIjozMH0sImRpZmYiOlszLDQsM10sImNhbGN1bGF0b3IiOiJhbnkiLCJvcHRpb25zIjpbXSwic2VlZCI6MTAxMzU0fQ&q=W1siZnVydGhlci1tYXRocy5sbC1zaG93LjAwMDIiLCJmdXJ0aGVyLW1hdGhzLmxnLXNrZXRjaC4wMDEyIiwiZnVydGhlci1tYXRocy5zdS1zaG9ydC4wMDEyIiwiZnVydGhlci1tYXRocy5zdS1zaG9ydC4wMDIyIiwiZnVydGhlci1tYXRocy5xci1zaG9ydC4wMDE4IiwiZnVydGhlci1tYXRocy5xZC1zaG93LjAwMDYiLCJmdXJ0aGVyLW1hdGhzLnFtLXNob3J0LjAwMTIiXV0",
+   "questions": 7,
+   "marks": 30,
+   "target": 30,
+   "minutes": 36,
+   "warnings": [],
+   "formulas": 74,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": "further-maths-formulae"
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/further-maths/paper?c=eyJzdWJqZWN0IjoiZnVydGhlci1tYXRocyIsIm1vZGUiOiJmdWxsIiwicGFwZXIiOiJwMSIsInN1YnRvcGljcyI6W10sInF0eXBlcyI6W10sImxlbmd0aCI6eyJieSI6Im1hcmtzIiwidmFsdWUiOjMwfSwiZGlmZiI6WzMsNCwzXSwiY2FsY3VsYXRvciI6ImFueSIsIm9wdGlvbnMiOltdLCJzZWVkIjoyMDEzNTR9&q=W1siZnVydGhlci1tYXRocy5jZC1zaG9ydC4wMDE1IiwiZnVydGhlci1tYXRocy5zdS1zaG9ydC4wMDE2IiwiZnVydGhlci1tYXRocy5zYS1zaG9ydC4wMDA4IiwiZnVydGhlci1tYXRocy50ci1zaG9ydC4wMDExIiwiZnVydGhlci1tYXRocy5pZi1zaG93LjAwMTciLCJmdXJ0aGVyLW1hdGhzLnRpLXNob3J0LjAwMTMiLCJmdXJ0aGVyLW1hdGhzLmNwLW11bHRpLjAwMTUiLCJmdXJ0aGVyLW1hdGhzLmJyLXNob3J0LjAwMDUiLCJmdXJ0aGVyLW1hdGhzLnZiLW11bHRpLjAwMTEiLCJmdXJ0aGVyLW1hdGhzLmdzLWdyYXBoLjAwMTEiLCJmdXJ0aGVyLW1hdGhzLnFtLXNob3J0LjAwMjAiLCJmdXJ0aGVyLW1hdGhzLmJyLW11bHRpLjAwMTgiLCJmdXJ0aGVyLW1hdGhzLmN0LW11bHRpLjAwMDkiLCJmdXJ0aGVyLW1hdGhzLmxsLW11bHRpLjAwMDkiLCJmdXJ0aGVyLW1hdGhzLnFkLXNob3J0LjAwMDUiLCJmdXJ0aGVyLW1hdGhzLnNnLW11bHRpLjAwMDQiXV0",
+   "questions": 16,
+   "marks": 100,
+   "target": 100,
+   "minutes": 120,
+   "warnings": [],
+   "formulas": 176,
+   "diagrams": 1,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": "further-maths-formulae"
+  }
+ },
+ "physics": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/physics/paper?c=eyJzdWJqZWN0IjoicGh5c2ljcyIsIm1vZGUiOiJ0b3BpYyIsInBhcGVyIjoiMVAiLCJzdWJ0b3BpY3MiOlsicGh5c2ljcy5mb3JjZXMubW90aW9uIiwicGh5c2ljcy5mb3JjZXMuZm9yY2VzIiwicGh5c2ljcy5mb3JjZXMuZWxhc3RpY2l0eSIsInBoeXNpY3MuZm9yY2VzLm1vbWVudHVtIiwicGh5c2ljcy5mb3JjZXMubW9tZW50cyIsInBoeXNpY3MuZWxlY3RyaWNpdHkubWFpbnMiLCJwaHlzaWNzLmVsZWN0cmljaXR5LmNpcmN1aXRzIiwicGh5c2ljcy5lbGVjdHJpY2l0eS5jaGFyZ2UiLCJwaHlzaWNzLmVsZWN0cmljaXR5LnN0YXRpYyJdLCJxdHlwZXMiOltdLCJsZW5ndGgiOnsiYnkiOiJtYXJrcyIsInZhbHVlIjozMH0sImRpZmYiOlszLDQsM10sImNhbGN1bGF0b3IiOiJhbnkiLCJvcHRpb25zIjpbXSwic2VlZCI6MTAwNzcxfQ&q=W1sicGh5c2ljcy5lbGVjdHJpY2l0eS1tYWlucy1yZWNhbGwta2IuMDAwNSIsInBoeXNpY3MuZWwtcHJhYy1zcHJpbmcuMDAwMyIsInBoeXNpY3MuZWxlY3RyaWNpdHktY2hhcmdlLW1jcS1rYi4wMDA1IiwicGh5c2ljcy5mb3JjZXMtZm9yY2VzLWV4cGxhaW4ta2IuMDAwNCIsInBoeXNpY3MubW8tc3BlZWQuMDAwMSIsInBoeXNpY3MuY2ktcHJhYy1sZHIuMDAwMiIsInBoeXNpY3MuZm9yY2VzLWZvcmNlcy1leHRlbmRlZC1rYi4wMDE0Il1d",
+   "questions": 7,
+   "marks": 30,
+   "target": 30,
+   "minutes": 33,
+   "warnings": [],
+   "formulas": 29,
+   "diagrams": 1,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": "physics-equations"
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/physics/paper?c=eyJzdWJqZWN0IjoicGh5c2ljcyIsIm1vZGUiOiJmdWxsIiwicGFwZXIiOiIxUCIsInN1YnRvcGljcyI6W10sInF0eXBlcyI6W10sImxlbmd0aCI6eyJieSI6Im1hcmtzIiwidmFsdWUiOjMwfSwiZGlmZiI6WzMsNCwzXSwiY2FsY3VsYXRvciI6ImFueSIsIm9wdGlvbnMiOltdLCJzZWVkIjoyMDA3NzF9&q=W1sicGh5c2ljcy5yYWRpb2FjdGl2aXR5LW51Y2xlYXItZGVzY3JpYmUta2IuMDAwNCIsInBoeXNpY3MuZW5lcmd5LXRyYW5zZmVycy1kZXNjcmliZS1rYi4wMDE0IiwicGh5c2ljcy5mb3JjZXMtZWxhc3RpY2l0eS1tY3Eta2IuMDAxMiIsInBoeXNpY3MubWFnbmV0aXNtLWluZHVjdGlvbi1yZWNhbGwta2IuMDAxNCIsInBoeXNpY3MuYXN0cm9waHlzaWNzLXVuaXZlcnNlLW1jcS1rYi4wMDEzIiwicGh5c2ljcy5kZS1wLjAwMDEiLCJwaHlzaWNzLmZvcmNlcy1mb3JjZXMtbWNxLWtiLjAwMDIiLCJwaHlzaWNzLmVsZWN0cmljaXR5LWNoYXJnZS1yZWNhbGwta2IuMDAwOSIsInBoeXNpY3Mud2F2ZXMtcHJvcGVydGllcy1yZWNhbGwta2IuMDAwNiIsInBoeXNpY3MuY2ktZHJhdy4wMDA1IiwicGh5c2ljcy5mb3JjZXMtZm9yY2VzLW1jcS1rYi4wMDEwIiwicGh5c2ljcy5saS1wcmFjLjAwMDIiLCJwaHlzaWNzLmFzdHJvcGh5c2ljcy11bml2ZXJzZS1tY3Eta2IuMDAwNCIsInBoeXNpY3MucHItdmZsLjAwMDciLCJwaHlzaWNzLnRyLXNhbmtleS4wMDA1IiwicGh5c2ljcy5tZy1wcmFjLXN0cmVuZ3RoLjAwMDEiLCJwaHlzaWNzLm1hdHRlci1nYXNlcy1tY3Eta2IuMDAwOSIsInBoeXNpY3MuZWxlY3RyaWNpdHktY2hhcmdlLWV4cGxhaW4ta2IuMDAwNyIsInBoeXNpY3MuaGwtZnJhYy4wMDAzIiwicGh5c2ljcy5tZy1wcmFjLXBsb3QuMDAwMSIsInBoeXNpY3Mud28ta2UuMDAwMiIsInBoeXNpY3MubWFnbmV0aXNtLWluZHVjdGlvbi1kZXNjcmliZS1rYi4wMDA2IiwicGh5c2ljcy5yYWRpb2FjdGl2aXR5LW51Y2xlYXItbWNxLWtiLjAwMDYiLCJwaHlzaWNzLndvLWNvbnMuMDAwMyIsInBoeXNpY3MubW8tc3V2YXQuMDAwNSIsInBoeXNpY3MucmFkaW9hY3Rpdml0eS1hdG9tcy1leHBsYWluLWtiLjAwMDkiLCJwaHlzaWNzLndhdmVzLWVtLWV4cGxhaW4ta2IuMDAwNSIsInBoeXNpY3MuZGUtcHJhYy1yZWcuMDAwNiIsInBoeXNpY3MuYXN0cm9waHlzaWNzLXVuaXZlcnNlLWV4cGxhaW4ta2IuMDAwNiIsInBoeXNpY3MuZWxlY3RyaWNpdHktbWFpbnMtZXh0ZW5kZWQta2IuMDAxNCJdXQ",
+   "questions": 30,
+   "marks": 110,
+   "target": 110,
+   "minutes": 120,
+   "warnings": [],
+   "formulas": 29,
+   "diagrams": 1,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": "physics-equations"
+  }
+ },
+ "chemistry": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/chemistry/paper?c=eyJzdWJqZWN0IjoiY2hlbWlzdHJ5IiwibW9kZSI6InRvcGljIiwicGFwZXIiOiIxQyIsInN1YnRvcGljcyI6WyJjaGVtaXN0cnkucHJpbmNpcGxlcy5zdGF0ZXMiLCJjaGVtaXN0cnkucHJpbmNpcGxlcy5taXh0dXJlcyIsImNoZW1pc3RyeS5wcmluY2lwbGVzLmF0b21zIiwiY2hlbWlzdHJ5LnByaW5jaXBsZXMucGVyaW9kaWMiLCJjaGVtaXN0cnkucHJpbmNpcGxlcy5mb3JtdWxhZSIsImNoZW1pc3RyeS5wcmluY2lwbGVzLmlvbmljIiwiY2hlbWlzdHJ5LnByaW5jaXBsZXMuY292YWxlbnQiLCJjaGVtaXN0cnkucHJpbmNpcGxlcy5tZXRhbGxpYyIsImNoZW1pc3RyeS5wcmluY2lwbGVzLmVsZWN0cm9seXNpcyIsImNoZW1pc3RyeS5pbm9yZ2FuaWMuZ3JvdXAxIiwiY2hlbWlzdHJ5Lmlub3JnYW5pYy5ncm91cDciLCJjaGVtaXN0cnkuaW5vcmdhbmljLmFpciIsImNoZW1pc3RyeS5pbm9yZ2FuaWMucmVhY3Rpdml0eSIsImNoZW1pc3RyeS5pbm9yZ2FuaWMuZXh0cmFjdGlvbiIsImNoZW1pc3RyeS5pbm9yZ2FuaWMuYWNpZHMiLCJjaGVtaXN0cnkuaW5vcmdhbmljLnNhbHRzIiwiY2hlbWlzdHJ5Lmlub3JnYW5pYy50ZXN0cyJdLCJxdHlwZXMiOltdLCJsZW5ndGgiOnsiYnkiOiJtYXJrcyIsInZhbHVlIjozMH0sImRpZmYiOlszLDQsM10sImNhbGN1bGF0b3IiOiJhbnkiLCJvcHRpb25zIjpbXSwic2VlZCI6MTAwOTg0fQ&q=W1siY2hlbWlzdHJ5LnNhbHRzLW1jcS1mYWN0cy4wMDA0IiwiY2hlbWlzdHJ5Lmdyb3VwMS1yZWNhbGwtZmFjdHMuMDAwNCIsImNoZW1pc3RyeS5jb3ZhbGVudC1yZWNhbGwtZmFjdHMuMDAxMSIsImNoZW1pc3RyeS5hY2lkcy1tY3EtZmFjdHMuMDAwMyIsImNoZW1pc3RyeS5pb25pYy1mb3JtdWxhLW1jcS4wMDEzIiwiY2hlbWlzdHJ5LnN0YXRlcy1yZWNhbGwtZmFjdHMuMDAwOCIsImNoZW1pc3RyeS5hdG9tcy1tY3EtZmFjdHMuMDAwNCIsImNoZW1pc3RyeS5taXh0dXJlcy1yZi1jYWxjLjAwMTAiLCJjaGVtaXN0cnkuZ3JvdXA3LWRpc3BsYWNlbWVudC1lcS4wMDA3IiwiY2hlbWlzdHJ5LmFpci1veHlnZW4tY2FsYy4wMDAyIiwiY2hlbWlzdHJ5LnRlc3RzLWV4dGVuZGVkLWl0ZW1zLjAwMDYiLCJjaGVtaXN0cnkuZm9ybXVsYWUtY2FsY3MuMDAxOSIsImNoZW1pc3RyeS5yZWFjdGl2aXR5LWRpc3BsYWNlbWVudC1lcS4wMDE4Il1d",
+   "questions": 13,
+   "marks": 30,
+   "target": 30,
+   "minutes": 33,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": "chemistry-periodic-table"
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/chemistry/paper?c=eyJzdWJqZWN0IjoiY2hlbWlzdHJ5IiwibW9kZSI6ImZ1bGwiLCJwYXBlciI6IjFDIiwic3VidG9waWNzIjpbXSwicXR5cGVzIjpbXSwibGVuZ3RoIjp7ImJ5IjoibWFya3MiLCJ2YWx1ZSI6MzB9LCJkaWZmIjpbMyw0LDNdLCJjYWxjdWxhdG9yIjoiYW55Iiwib3B0aW9ucyI6W10sInNlZWQiOjIwMDk4NH0&q=W1siY2hlbWlzdHJ5LmF0b21zLXRhYmxlLXJlY2FsbC4wMDEzIiwiY2hlbWlzdHJ5LnRlc3RzLXJlY2FsbC1mYWN0cy4wMDAxIiwiY2hlbWlzdHJ5Lm9yZy1jcnVkZS1tY3EtZmFjdHMuMDAwMyIsImNoZW1pc3RyeS5pb25pYy1tY3EtZmFjdHMuMDAwNyIsImNoZW1pc3RyeS5hdG9tcy1tY3EtZmFjdHMuMDAwNSIsImNoZW1pc3RyeS5hbGtlbmVzLXJlY2FsbC4wMDAyIiwiY2hlbWlzdHJ5LmZvcm11bGFlLW1yLW1jcS4wMDA3IiwiY2hlbWlzdHJ5LnRlc3RzLXJlY2FsbC1mYWN0cy4wMDExIiwiY2hlbWlzdHJ5LnBlcmlvZGljLXVzZS10YWJsZS4wMDExIiwiY2hlbWlzdHJ5LmVxdWlsaWJyaWEtcmVjYWxsLWZhY3RzLjAwMDIiLCJjaGVtaXN0cnkuc2FsdHMtcmVjYWxsLWZhY3RzLjAwMDMiLCJjaGVtaXN0cnkuYWlyLXJlY2FsbC1mYWN0cy4wMDAzIiwiY2hlbWlzdHJ5Lm9yZy1lbmUtbWNxLWZhY3RzLjAwMDUiLCJjaGVtaXN0cnkucmF0ZXMtY2FsYy4wMDEwIiwiY2hlbWlzdHJ5LmVxdWlsaWJyaWEtcmVjYWxsLWZhY3RzLjAwMDEiLCJjaGVtaXN0cnkucmVhY3Rpdml0eS1tY3EtZmFjdHMuMDAwNCIsImNoZW1pc3RyeS5yYXRlcy1yZWNhbGwtZmFjdHMuMDAwMiIsImNoZW1pc3RyeS5ncm91cDEtbWNxLWZhY3RzLjAwMDUiLCJjaGVtaXN0cnkuc3RhdGVzLXN0YXRlLW1jcS4wMDAxIiwiY2hlbWlzdHJ5LmVxdWlsaWJyaWEtcmVjYWxsLWZhY3RzLjAwMDkiLCJjaGVtaXN0cnkuZm9ybXVsYWUtZXF1YXRpb25zLjAwMDUiLCJjaGVtaXN0cnkucmVhY3Rpdml0eS1kaXNwbGFjZW1lbnQtZXEuMDAwNiIsImNoZW1pc3RyeS5mb3JtdWxhZS1wcmFjdGljYWwtaXRlbXMuMDAwNCIsImNoZW1pc3RyeS5mb3JtdWxhZS1tci1tY3EuMDAxMSIsImNoZW1pc3RyeS5taXh0dXJlcy1kZXNjcmliZS1pdGVtcy4wMDAyIiwiY2hlbWlzdHJ5LnJlYWN0aXZpdHktdGVtcC1kYXRhLjAwMTAiLCJjaGVtaXN0cnkucGVyaW9kaWMtZXhwbGFpbi1pdGVtcy4wMDAxIiwiY2hlbWlzdHJ5LmFsa2FuZXMtc3Vic3QtZXEuMDAxMiIsImNoZW1pc3RyeS5vcmctZW5lLW1jcS1mYWN0cy4wMDA4IiwiY2hlbWlzdHJ5LmF0b21zLWFyLWNhbGMuMDAxNiIsImNoZW1pc3RyeS5pbnRyby1mb3JtdWxhLXJlY2FsbC4wMDA5IiwiY2hlbWlzdHJ5Lmdyb3VwNy1leHBsYWluLWl0ZW1zLjAwMTEiLCJjaGVtaXN0cnkucmVhY3Rpdml0eS1kaXNwbGFjZW1lbnQtZXEuMDAwMSIsImNoZW1pc3RyeS5yZWFjdGl2aXR5LXRlbXAtZGF0YS4wMDA4IiwiY2hlbWlzdHJ5Lm1peHR1cmVzLWNocm9tYXRvZ3JhbS4wMDExIiwiY2hlbWlzdHJ5LmVuZXJnZXRpY3MtY2FsYy4wMDI4IiwiY2hlbWlzdHJ5LnJhdGVzLWNhbGMuMDAwMiIsImNoZW1pc3RyeS5lcXVpbGlicmlhLXJlY2FsbC1mYWN0cy4wMDA4IiwiY2hlbWlzdHJ5LmNydWRlLWVxdWF0aW9ucy4wMDEwIiwiY2hlbWlzdHJ5LmFpci1kZXNjcmliZS1pdGVtcy4wMDA5IiwiY2hlbWlzdHJ5LnJlYWN0aXZpdHktZXhwbGFpbi1pdGVtcy4wMDA4IiwiY2hlbWlzdHJ5LmVuZXJnZXRpY3MtdGVtcC1ncmFwaC4wMDA2IiwiY2hlbWlzdHJ5LmNydWRlLWVxdWF0aW9ucy4wMDIyIiwiY2hlbWlzdHJ5Lmdyb3VwMS1lcXVhdGlvbnMuMDAwMiIsImNoZW1pc3RyeS5haXItZGVzY3JpYmUtaXRlbXMuMDAxMCIsImNoZW1pc3RyeS5mb3JtdWxhZS1tZ28tZGF0YS4wMDA2Il1d",
+   "questions": 46,
+   "marks": 110,
+   "target": 110,
+   "minutes": 120,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 3,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": "chemistry-periodic-table"
+  }
+ },
+ "biology": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/biology/paper?c=eyJzdWJqZWN0IjoiYmlvbG9neSIsIm1vZGUiOiJ0b3BpYyIsInBhcGVyIjoiMUIiLCJzdWJ0b3BpY3MiOlsiYmlvbG9neS52YXJpZXR5LmNoYXJhY3RlcmlzdGljcyIsImJpb2xvZ3kudmFyaWV0eS5ncm91cHMiLCJiaW9sb2d5LnN0cnVjdHVyZXMuY2VsbHMiLCJiaW9sb2d5LnN0cnVjdHVyZXMubW9sZWN1bGVzIiwiYmlvbG9neS5zdHJ1Y3R1cmVzLm1vdmVtZW50IiwiYmlvbG9neS5zdHJ1Y3R1cmVzLnBsYW50LW51dHJpdGlvbiIsImJpb2xvZ3kuc3RydWN0dXJlcy5odW1hbi1udXRyaXRpb24iLCJiaW9sb2d5LnN0cnVjdHVyZXMucmVzcGlyYXRpb24iLCJiaW9sb2d5LnN0cnVjdHVyZXMuZ2FzLWV4Y2hhbmdlLXBsYW50cyIsImJpb2xvZ3kuc3RydWN0dXJlcy5nYXMtZXhjaGFuZ2UtaHVtYW5zIiwiYmlvbG9neS5zdHJ1Y3R1cmVzLnRyYW5zcG9ydC1wbGFudHMiLCJiaW9sb2d5LnN0cnVjdHVyZXMuYmxvb2QiLCJiaW9sb2d5LnN0cnVjdHVyZXMuaGVhcnQiLCJiaW9sb2d5LnN0cnVjdHVyZXMuZXhjcmV0aW9uIiwiYmlvbG9neS5zdHJ1Y3R1cmVzLnBsYW50LXJlc3BvbnNlcyIsImJpb2xvZ3kuc3RydWN0dXJlcy5uZXJ2b3VzIiwiYmlvbG9neS5zdHJ1Y3R1cmVzLmhvbWVvc3Rhc2lzIl0sInF0eXBlcyI6W10sImxlbmd0aCI6eyJieSI6Im1hcmtzIiwidmFsdWUiOjMwfSwiZGlmZiI6WzMsNCwzXSwiY2FsY3VsYXRvciI6ImFueSIsIm9wdGlvbnMiOltdLCJzZWVkIjoxMDA3NTd9&q=W1siYmlvbG9neS5jZWxscy1tY3EtZndkLjAwMDciLCJiaW9sb2d5LnBsYW50LXJlc3BvbnNlcy1tY3EtcmV2LjAwMDMiLCJiaW9sb2d5Lm5lcnZvdXMtbWNxLWZ3ZC4wMDEwIiwiYmlvbG9neS5oZWFydC1yZWNhbGwuMDAwNSIsImJpb2xvZ3kuaG9tZW9zdGFzaXMtbWNxLWZ3ZC4wMDAzIiwiYmlvbG9neS5jaGFyYWN0ZXJpc3RpY3MtbWNxLXJldi4wMDA2IiwiYmlvbG9neS5ibG9vZC1tY3EtcmV2LjAwMDMiLCJiaW9sb2d5Lm1vdmVtZW50LXJlY2FsbC1tdWx0aS4wMDAzIiwiYmlvbG9neS5ncm91cHMtbWNxLXJldi4wMDA3IiwiYmlvbG9neS5odW1hbi1udXRyaXRpb24tZGlhZy1kZXNjLjAwMDIiLCJiaW9sb2d5LmJ1YmJsZXMuMDAxMSIsImJpb2xvZ3kucmVzcGlyYXRpb24tcHJhYy1yZWxpYWIuMDAwMiIsImJpb2xvZ3kubW9sZWN1bGVzLWRlc2NyaWJlLjAwMDQiLCJiaW9sb2d5Lmdhcy1leGNoYW5nZS1odW1hbnMtZXh0LjAwMDEiXV0",
+   "questions": 14,
+   "marks": 30,
+   "target": 30,
+   "minutes": 33,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 1,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": null
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/biology/paper?c=eyJzdWJqZWN0IjoiYmlvbG9neSIsIm1vZGUiOiJmdWxsIiwicGFwZXIiOiIxQiIsInN1YnRvcGljcyI6W10sInF0eXBlcyI6W10sImxlbmd0aCI6eyJieSI6Im1hcmtzIiwidmFsdWUiOjMwfSwiZGlmZiI6WzMsNCwzXSwiY2FsY3VsYXRvciI6ImFueSIsIm9wdGlvbnMiOltdLCJzZWVkIjoyMDA3NTd9&q=W1siYmlvbG9neS5wbGFudC1udXRyaXRpb24tcmVjYWxsLjAwMDUiLCJiaW9sb2d5Lmh1bWFuLXJlcHJvZHVjdGlvbi1kaWFnLWZ1bmMuMDAwMyIsImJpb2xvZ3kuY2VsbHMtZGlhZy1uYW1lLjAwMDgiLCJiaW9sb2d5LmV2b2x1dGlvbi1yZWNhbGwtZmFjdC4wMDAxIiwiYmlvbG9neS5ldm9sdXRpb24tcmVjYWxsLWZhY3QuMDAwNCIsImJpb2xvZ3kuaHVtYW4taW1wYWN0LW1jcS1md2QuMDAwNSIsImJpb2xvZ3kuYnJlZWRpbmctZ20tbWNxLWZ3ZC4wMDA2IiwiYmlvbG9neS5ncm91cHMtbWNxLXJldi4wMDA1IiwiYmlvbG9neS5ncm91cHMtZGlhZy1tY3EuMDAwMSIsImJpb2xvZ3kubWljcm9vcmdhbmlzbXMtbWNxLjAwMDQiLCJiaW9sb2d5Lm1pY3Jvb3JnYW5pc21zLWRpYWctbmFtZS4wMDA1IiwiYmlvbG9neS5tb3ZlbWVudC1tY3EtZndkLjAwMDIiLCJiaW9sb2d5LmZlZWRpbmctcmVjYWxsLWZhY3QuMDAwOCIsImJpb2xvZ3kuZ3JvdXBzLXJlY2FsbC1mYWN0LjAwMDQiLCJiaW9sb2d5LmluaGVyaXRhbmNlLWdlbi1wdW5uZXR0LjAwMDMiLCJiaW9sb2d5Lm5lcnZvdXMtZGF0YS1ncmFwaC4wMDAzIiwiYmlvbG9neS5jcm9wX3lpZWxkLjAwMTMiLCJiaW9sb2d5LmNlbGxzLWRpYWctZGVzYy4wMDA0IiwiYmlvbG9neS5jaGFyYWN0ZXJpc3RpY3MtZXhwbGFpbi1tdWx0aS4wMDAzIiwiYmlvbG9neS5lZmZpY2llbmN5LjAwMDkiLCJiaW9sb2d5Lmdyb3Vwcy1leHBsYWluLjAwMDQiLCJiaW9sb2d5Lmh1bWFuLWltcGFjdC1kZXNjcmliZS1tdWx0aS4wMDA0IiwiYmlvbG9neS5ldm9sdXRpb24tbWNxLXJldi4wMDAxIiwiYmlvbG9neS5taWNyb29yZ2FuaXNtcy1wcmFjLXN0ZXAuMDAwMyIsImJpb2xvZ3kucGxhbnQtbnV0cml0aW9uLWV4cGxhaW4tbXVsdGkuMDAwMSIsImJpb2xvZ3kuZ3JvdXBzLWRpYWctZGVzYy4wMDAxIiwiYmlvbG9neS5odW1hbi1yZXByb2R1Y3Rpb24tZXhwbGFpbi1tdWx0aS4wMDA2IiwiYmlvbG9neS5mZWVkaW5nLWRlc2NyaWJlLjAwMDMiLCJiaW9sb2d5LmZlZWRpbmctZGF0YS1wbG90LjAwMDEiLCJiaW9sb2d5LnBsYW50LXJlc3BvbnNlcy1kYXRhLWdyYXBoLjAwMDIiLCJiaW9sb2d5LmRpdmlzaW9uLXZhcmlhdGlvbi1leHBsYWluLW11bHRpLjAwMDYiLCJiaW9sb2d5Lm1pY3Jvb3JnYW5pc21zLWRhdGEtcGxvdC4wMDAzIiwiYmlvbG9neS5taWNyb29yZ2FuaXNtcy1kZXNjcmliZS1tdWx0aS4wMDA0IiwiYmlvbG9neS5oZWFydC1kYXRhLXBjdC4wMDAzIiwiYmlvbG9neS5pbmhlcml0YW5jZS1nZW4tYmFja2Nyb3NzLjAwMDIiLCJiaW9sb2d5Lm1vbGVjdWxlcy1leHBsYWluLjAwMDMiLCJiaW9sb2d5Lm1pY3Jvb3JnYW5pc21zLWV4dC4wMDA5Il1d",
+   "questions": 37,
+   "marks": 110,
+   "target": 110,
+   "minutes": 120,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 8,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": null
+  }
+ },
+ "economics": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/economics/paper?c=eyJzdWJqZWN0IjoiZWNvbm9taWNzIiwibW9kZSI6InRvcGljIiwicGFwZXIiOiJwMSIsInN1YnRvcGljcyI6WyJlY29ub21pY3MubWFya2V0LXN5c3RlbS5lY29ub21pYy1wcm9ibGVtIiwiZWNvbm9taWNzLm1hcmtldC1zeXN0ZW0ucHBjIiwiZWNvbm9taWNzLm1hcmtldC1zeXN0ZW0uYXNzdW1wdGlvbnMiLCJlY29ub21pY3MubWFya2V0LXN5c3RlbS5kZW1hbmQiLCJlY29ub21pY3MubWFya2V0LXN5c3RlbS5zdXBwbHkiLCJlY29ub21pY3MubWFya2V0LXN5c3RlbS5wcmljZSIsImVjb25vbWljcy5tYXJrZXQtc3lzdGVtLnBlZCIsImVjb25vbWljcy5tYXJrZXQtc3lzdGVtLnBlcyIsImVjb25vbWljcy5tYXJrZXQtc3lzdGVtLm1peGVkIiwiZWNvbm9taWNzLm1hcmtldC1zeXN0ZW0uaW50ZXJ2ZW50aW9uIiwiZWNvbm9taWNzLm1hcmtldC1zeXN0ZW0uZXh0ZXJuYWxpdGllcyIsImVjb25vbWljcy5idXNpbmVzcy5wcm9kdWN0aW9uIiwiZWNvbm9taWNzLmJ1c2luZXNzLnByb2R1Y3Rpdml0eSIsImVjb25vbWljcy5idXNpbmVzcy5jb3N0cyIsImVjb25vbWljcy5idXNpbmVzcy5vYmplY3RpdmVzIiwiZWNvbm9taWNzLmJ1c2luZXNzLnNjYWxlIiwiZWNvbm9taWNzLmJ1c2luZXNzLmNvbXBldGl0aW9uIiwiZWNvbm9taWNzLmJ1c2luZXNzLmxhYm91ciIsImVjb25vbWljcy5idXNpbmVzcy5nb3Zlcm5tZW50Il0sInF0eXBlcyI6W10sImxlbmd0aCI6eyJieSI6Im1hcmtzIiwidmFsdWUiOjMwfSwiZGlmZiI6WzMsNCwzXSwiY2FsY3VsYXRvciI6ImFueSIsIm9wdGlvbnMiOltdLCJzZWVkIjoxMDA5NjB9&q=W1siZWNvbm9taWNzLmVjb25vbWljLXByb2JsZW0tZGVmaW5lMS4wMDAyIiwiZWNvbm9taWNzLmxhYm91ci1tY3EtZGVmLjAwMDYiLCJlY29ub21pY3MuZGVtYW5kLXN0YXRlLWlkLjAwMDgiLCJlY29ub21pY3MucGVzLWRlZmluZTEuMDAwNCIsImVjb25vbWljcy5jb21wZXRpdGlvbi1zdGF0ZS4wMDA1IiwiZWNvbm9taWNzLmV4dGVybmFsaXRpZXMtZGVmaW5lMi4wMDA1IiwiZWNvbm9taWNzLmdvdmVybm1lbnQtbWNxLWNsYXNzLjAwMDYiLCJlY29ub21pY3MubWl4ZWQtZGVzY3JpYmUuMDAxOCIsImVjb25vbWljcy5vYmplY3RpdmVzLWFuYWx5c2UtMi4wMDA2IiwiZWNvbm9taWNzLnNjYWxlLWNhbGMuMDAxNSIsImVjb25vbWljcy5jb3N0cy1ldmFsdWF0ZS0yLjAwMDIiXV0",
+   "questions": 11,
+   "marks": 30,
+   "target": 30,
+   "minutes": 34,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": null
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/economics/paper?c=eyJzdWJqZWN0IjoiZWNvbm9taWNzIiwibW9kZSI6ImZ1bGwiLCJwYXBlciI6InAxIiwic3VidG9waWNzIjpbXSwicXR5cGVzIjpbXSwibGVuZ3RoIjp7ImJ5IjoibWFya3MiLCJ2YWx1ZSI6MzB9LCJkaWZmIjpbMyw0LDNdLCJjYWxjdWxhdG9yIjoiYW55Iiwib3B0aW9ucyI6W10sInNlZWQiOjIwMDk2MH0&q=W1siZWNvbm9taWNzLm1peGVkLW1jcS1hdXRoLjAwMDEiLCJlY29ub21pY3MucHBjLW1jcS1jbGFzcy4wMDA4IiwiZWNvbm9taWNzLmRlbWFuZC1kZWZpbmUyLjAwMDUiLCJlY29ub21pY3Mub2JqZWN0aXZlcy1zdGF0ZS1pZC4wMDA5IiwiZWNvbm9taWNzLmludGVydmVudGlvbi1wb2wtZGVmaW5lMS4wMDA0IiwiZWNvbm9taWNzLmRlbWFuZC1jYWxjLjAwMDMiLCJlY29ub21pY3MubGFib3VyLWRpYWdyYW0uMDAwMSIsImVjb25vbWljcy5zY2FsZS1leHBsYWluLjAwMTgiLCJlY29ub21pY3MucHJvZHVjdGl2aXR5LWFuYWx5c2UtMS4wMDA0Il0sWyJlY29ub21pY3MucHJvZHVjdGlvbi1tY3EtY2xhc3MuMDAxMCIsImVjb25vbWljcy5pbnRlcnZlbnRpb24tcG9sLW1jcS1jbGFzcy4wMDA4IiwiZWNvbm9taWNzLnBlcy1jYWxjLjAwMTEiLCJlY29ub21pY3MubGFib3VyLWRlZmluZTIuMDAwNiIsImVjb25vbWljcy5nb3Zlcm5tZW50LWRlc2NyaWJlLjAwMDEiLCJlY29ub21pY3MucGVkLWV4cGxhaW4uMDAxMiIsImVjb25vbWljcy5jb21wZXRpdGlvbi1hc3Nlc3MtMy4wMDA0Il0sWyJlY29ub21pY3MuZGVtYW5kLW1jcS1jbGFzcy4wMDA2IiwiZWNvbm9taWNzLmNvbXBldGl0aW9uLW1jcS1jbGFzcy4wMDA1IiwiZWNvbm9taWNzLnBwYy1kaWFncmFtLjAwMDMiLCJlY29ub21pY3MuY29zdHMtYW5hbHlzZS0yLjAwMDMiLCJlY29ub21pY3MucGVkLWFzc2Vzcy0xLjAwMDYiXSxbImVjb25vbWljcy5sYWJvdXItZGF0YS4wMDAyIl1d",
+   "questions": 22,
+   "marks": 80,
+   "target": 80,
+   "minutes": 90,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 2,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [
+    "Question 1",
+    "Question 2",
+    "Question 3",
+    "Question 4"
+   ],
+   "reference_sheet": null
+  }
+ },
+ "history": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/history/paper?c=eyJzdWJqZWN0IjoiaGlzdG9yeSIsIm1vZGUiOiJ0b3BpYyIsInBhcGVyIjoicDEiLCJzdWJ0b3BpY3MiOlsiaGlzdG9yeS5nZXJtYW55LndlaW1hciIsImhpc3RvcnkuZ2VybWFueS5yZWNvdmVyeSIsImhpc3RvcnkuZ2VybWFueS5yaXNlIiwiaGlzdG9yeS5nZXJtYW55Lm5hemkiLCJoaXN0b3J5Lmdlcm1hbnkud2FyIiwiaGlzdG9yeS53b3JsZC1kaXZpZGVkLnJlYXNvbnMiLCJoaXN0b3J5LndvcmxkLWRpdmlkZWQuZWFybHkiLCJoaXN0b3J5LndvcmxkLWRpdmlkZWQuZmlmdGllcyIsImhpc3Rvcnkud29ybGQtZGl2aWRlZC5jcmlzZXMiLCJoaXN0b3J5LndvcmxkLWRpdmlkZWQuZGV0ZW50ZSJdLCJxdHlwZXMiOltdLCJsZW5ndGgiOnsiYnkiOiJtYXJrcyIsInZhbHVlIjozMH0sImRpZmYiOlszLDQsM10sImNhbGN1bGF0b3IiOiJhbnkiLCJvcHRpb25zIjpbXSwic2VlZCI6MTAwNzg2fQ&q=W1siaGlzdG9yeS5nZXJtYW55LWltcHJlc3Npb24uMDAxMyJdLFsiaGlzdG9yeS53b3JsZC1kaXZpZGVkLWltcHJlc3Npb24uMDA1NyIsImhpc3Rvcnkud29ybGQtZGl2aWRlZC1qdWRnZW1lbnQuMDAyNiJdXQ",
+   "questions": 3,
+   "marks": 28,
+   "target": 30,
+   "minutes": 42,
+   "warnings": [
+    "Only 28 of the 30 marks could be filled from this selection — tick more sub-topics or question types for a longer test."
+   ],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [
+    "Germany: development of dictatorship, 1918–45",
+    "A world divided: superpower relations, 1943–72"
+   ],
+   "reference_sheet": null
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/history/paper?c=eyJzdWJqZWN0IjoiaGlzdG9yeSIsIm1vZGUiOiJmdWxsIiwicGFwZXIiOiJwMSIsInN1YnRvcGljcyI6W10sInF0eXBlcyI6W10sImxlbmd0aCI6eyJieSI6Im1hcmtzIiwidmFsdWUiOjMwfSwiZGlmZiI6WzMsNCwzXSwiY2FsY3VsYXRvciI6ImFueSIsIm9wdGlvbnMiOltdLCJzZWVkIjoyMDA3ODZ9&q=W1siaGlzdG9yeS5nZXJtYW55LWltcHJlc3Npb24uMDAzMyIsImhpc3RvcnkuZ2VybWFueS1lZmZlY3RzLjAwMjEiLCJoaXN0b3J5Lmdlcm1hbnktanVkZ2VtZW50LjAwNjIiLCJoaXN0b3J5Lmdlcm1hbnktanVkZ2VtZW50LjAwNjgiXSxbImhpc3Rvcnkud29ybGQtZGl2aWRlZC1pbXByZXNzaW9uLjAwNTgiLCJoaXN0b3J5LndvcmxkLWRpdmlkZWQtZWZmZWN0cy4wMDE3IiwiaGlzdG9yeS53b3JsZC1kaXZpZGVkLWp1ZGdlbWVudC4wMDM0IiwiaGlzdG9yeS53b3JsZC1kaXZpZGVkLWp1ZGdlbWVudC4wMDE1Il1d",
+   "questions": 8,
+   "marks": 60,
+   "target": 60,
+   "minutes": 90,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 4,
+   "sections": [
+    "Germany: development of dictatorship, 1918–45",
+    "A world divided: superpower relations, 1943–72"
+   ],
+   "reference_sheet": null
+  }
+ },
+ "english-language": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/english-language/paper?c=eyJzdWJqZWN0IjoiZW5nbGlzaC1sYW5ndWFnZSIsIm1vZGUiOiJ0b3BpYyIsInBhcGVyIjoicDEiLCJzdWJ0b3BpY3MiOlsiZWwuYW8xLnNlbGVjdCIsImVsLmFvMS5kZXNjcmliZSIsImVsLmFvMS5leHBsYWluIiwiZWwuYW8yLmFudGhvbG9neSJdLCJxdHlwZXMiOltdLCJsZW5ndGgiOnsiYnkiOiJtYXJrcyIsInZhbHVlIjozMH0sImRpZmYiOlszLDQsM10sImNhbGN1bGF0b3IiOiJhbnkiLCJvcHRpb25zIjpbXSwic2VlZCI6MTAxNjI3fQ&q=W1siZW5nbGlzaC1sYW5ndWFnZS5xMS53aGl0ZW91dC4xIiwiZW5nbGlzaC1sYW5ndWFnZS5xMS5yb3dlci4yIiwiZW5nbGlzaC1sYW5ndWFnZS5xMi5wb3N0Y2FyZC4xIiwiZW5nbGlzaC1sYW5ndWFnZS5xMi5zdW1wLjEiLCJlbmdsaXNoLWxhbmd1YWdlLnEzLmFmdGVyd2F0ZXIuMiIsImVuZ2xpc2gtbGFuZ3VhZ2UucTQucG9sby4yIl1d",
+   "questions": 6,
+   "marks": 29,
+   "target": 30,
+   "minutes": 44,
+   "warnings": [
+    "Only 29 of the 30 marks could be filled from this selection — tick more sub-topics or question types for a longer test."
+   ],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": null
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/english-language/paper?c=eyJzdWJqZWN0IjoiZW5nbGlzaC1sYW5ndWFnZSIsIm1vZGUiOiJmdWxsIiwicGFwZXIiOiJwMSIsInN1YnRvcGljcyI6W10sInF0eXBlcyI6W10sImxlbmd0aCI6eyJieSI6Im1hcmtzIiwidmFsdWUiOjMwfSwiZGlmZiI6WzMsNCwzXSwiY2FsY3VsYXRvciI6ImFueSIsIm9wdGlvbnMiOltdLCJzZWVkIjoyMDE2Mjd9&q=W1siZW5nbGlzaC1sYW5ndWFnZS5zZWNhLm9hc2lzLjIiXSxbImVuZ2xpc2gtbGFuZ3VhZ2Uud2Nob2ljZS4wNDMiXV0",
+   "questions": 2,
+   "marks": 90,
+   "target": 90,
+   "minutes": 135,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [
+    "SECTION A: Reading",
+    "SECTION B: Transactional Writing"
+   ],
+   "reference_sheet": null
+  }
+ },
+ "english-literature": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/english-literature/paper?c=eyJzdWJqZWN0IjoiZW5nbGlzaC1saXRlcmF0dXJlIiwibW9kZSI6InRvcGljIiwicGFwZXIiOiJwMSIsInN1YnRvcGljcyI6WyJ1bnNlZW4ubmF0dXJlIiwidW5zZWVuLmZhbWlseSIsInVuc2Vlbi5tZW1vcnkiLCJ1bnNlZW4ucGxhY2UiLCJ1bnNlZW4uZmVlbGluZ3MiLCJ1bnNlZW4uc29jaWV0eSIsImFudGguaWRlbnRpdHkiLCJhbnRoLmxvdmUiLCJhbnRoLmRlYXRoIiwiYW50aC5tZW1vcnkiLCJhbnRoLnBvd2VyIiwiYW50aC5hZHZpY2UiLCJhbnRoLmV4cGVyaWVuY2UiXSwicXR5cGVzIjpbXSwibGVuZ3RoIjp7ImJ5IjoibWFya3MiLCJ2YWx1ZSI6MzB9LCJkaWZmIjpbMyw0LDNdLCJjYWxjdWxhdG9yIjoiYW55Iiwib3B0aW9ucyI6W10sInNlZWQiOjEwMTg4MH0&q=W1siZW5nbGlzaC1saXRlcmF0dXJlLmFudGgtb3Blbi1sb3ZlLjAwMTAiXV0",
+   "questions": 1,
+   "marks": 30,
+   "target": 30,
+   "minutes": 40,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": null
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/english-literature/paper?c=eyJzdWJqZWN0IjoiZW5nbGlzaC1saXRlcmF0dXJlIiwibW9kZSI6ImZ1bGwiLCJwYXBlciI6InAxIiwic3VidG9waWNzIjpbXSwicXR5cGVzIjpbXSwibGVuZ3RoIjp7ImJ5IjoibWFya3MiLCJ2YWx1ZSI6MzB9LCJkaWZmIjpbMyw0LDNdLCJjYWxjdWxhdG9yIjoiYW55Iiwib3B0aW9ucyI6W10sInNlZWQiOjIwMTg4MH0&q=W1siZW5nbGlzaC1saXRlcmF0dXJlLnVuc2Vlbi1kYWZmb2RpbHMuMDAwMyJdLFsiZW5nbGlzaC1saXRlcmF0dXJlLmFudGgtcGFpci1kZWF0aC4wMDA2IiwiZW5nbGlzaC1saXRlcmF0dXJlLmFudGgtb3Blbi1tZW1vcnkuMDAxMCJdLFsiZW5nbGlzaC1saXRlcmF0dXJlLm9tYW0tZ2VvcmdlLWxlbm5pZS4wMDA3IiwiZW5nbGlzaC1saXRlcmF0dXJlLm9tYW0tZGVhdGguMDAwMSJdXQ",
+   "questions": 5,
+   "marks": 90,
+   "target": 90,
+   "minutes": 120,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 0,
+   "either_or": 4,
+   "sections": [
+    "SECTION A: Unseen Poetry",
+    "SECTION B: Anthology Poetry",
+    "SECTION C: Modern Prose - Of Mice and Men, John Steinbeck"
+   ],
+   "reference_sheet": null
+  }
+ },
+ "spanish": {
+  "topic-test": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/spanish/paper?c=eyJzdWJqZWN0Ijoic3BhbmlzaCIsIm1vZGUiOiJ0b3BpYyIsInBhcGVyIjoicDEiLCJzdWJ0b3BpY3MiOlsic3BhbmlzaC5hLnRpbWUiLCJzcGFuaXNoLmEuZm9vZCIsInNwYW5pc2guYS5oZWFsdGgiLCJzcGFuaXNoLmEudHJhbnNwb3J0Iiwic3BhbmlzaC5iLnNlbGYiLCJzcGFuaXNoLmIuaG9tZSIsInNwYW5pc2guYi5jb2xvdXJzIiwic3BhbmlzaC5iLmNsb3RoZXMiLCJzcGFuaXNoLmIubGVpc3VyZSJdLCJxdHlwZXMiOltdLCJsZW5ndGgiOnsiYnkiOiJtYXJrcyIsInZhbHVlIjozMH0sImRpZmYiOlszLDQsM10sImNhbGN1bGF0b3IiOiJhbnkiLCJvcHRpb25zIjpbXSwic2VlZCI6MTAwNzU4fQ&q=W1sic3BhbmlzaC5sLWFubm91bmNlLmI1LjAwMDYiLCJzcGFuaXNoLmwtYW5ub3VuY2UuYjQuMDAwNCIsInNwYW5pc2gubC1pbnRlcnZpZXctMy5iMS4wMDExIiwic3BhbmlzaC5sLW11bHRpLmIyLjAwMTMiXV0",
+   "questions": 4,
+   "marks": 27,
+   "target": 30,
+   "minutes": 34,
+   "warnings": [
+    "Only 27 of the 30 marks could be filled from this selection — tick more sub-topics or question types for a longer test."
+   ],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 5,
+   "either_or": 0,
+   "sections": [],
+   "reference_sheet": null
+  },
+  "full-paper": {
+   "url": "https://daniellaffan.github.io/igcse-paper-forge/#/s/spanish/paper?c=eyJzdWJqZWN0Ijoic3BhbmlzaCIsIm1vZGUiOiJmdWxsIiwicGFwZXIiOiJwMSIsInN1YnRvcGljcyI6W10sInF0eXBlcyI6W10sImxlbmd0aCI6eyJieSI6Im1hcmtzIiwidmFsdWUiOjMwfSwiZGlmZiI6WzMsNCwzXSwiY2FsY3VsYXRvciI6ImFueSIsIm9wdGlvbnMiOltdLCJzZWVkIjoyMDA3NTh9&q=W1sic3BhbmlzaC5sLXNob3J0LmMyLjAwMDIiLCJzcGFuaXNoLmwtYW5ub3VuY2UuYTMuMDAwNSIsInNwYW5pc2gubC1tYXRjaC5kMS4wMDA0Iiwic3BhbmlzaC5sLWludGVydmlldy0zLmMzLjAwMTIiLCJzcGFuaXNoLmwtaW50ZXJ2aWV3LTQuZTEuMDAwOCIsInNwYW5pc2gubC1tdWx0aS5lMS4wMDA0Il1d",
+   "questions": 6,
+   "marks": 40,
+   "target": 40,
+   "minutes": 50,
+   "warnings": [],
+   "formulas": 0,
+   "diagrams": 0,
+   "audio": 7,
+   "either_or": 0,
+   "sections": [
+    "Listening exercises"
+   ],
+   "reference_sheet": null
+  }
+ }
+}

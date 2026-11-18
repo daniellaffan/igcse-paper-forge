@@ -132,7 +132,7 @@ export function questionBlocks(q: Question, num: number, insertRefs: Map<Figure,
       <div className="qhead">
         <span className="qnum">{num}</span>
         <div className="qhead-body">
-          {refs.length > 0 && <p className="insert-ref">{refs.join(' ')}</p>}
+          {refs.length > 0 && <Rich className="insert-ref" text={refs.join(' ')} />}
           <Rich text={q.intro} />
           <Figures figs={inline} />
         </div>

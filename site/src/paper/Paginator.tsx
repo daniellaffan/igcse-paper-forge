@@ -52,7 +52,7 @@ export function usePagination(blocks: Block[], contentClass: string, _deps: unkn
   const measure = !valid ? (
     <div className="measure" aria-hidden="true">
       <div ref={measureRef} className={contentClass}>
-        {blocks.map(b => <div key={b.key} className="blk">{b.node}</div>)}
+        {blocks.map(b => <div key={b.key} className="blk" data-keep={b.keepWithNext ? 1 : undefined}>{b.node}</div>)}
       </div>
     </div>
   ) : null
