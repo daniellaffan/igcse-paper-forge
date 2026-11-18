@@ -19105,7 +19105,7 @@
     "text": "Work out the difference between these masses. Give your answer in standard form.",
     "marks": 2,
     "space": "working",
-    "answer_prefix": "kg"
+    "answer_suffix": "kg"
    },
    {
     "label": "b",
@@ -19181,7 +19181,7 @@
     "text": "Work out the difference between these masses. Give your answer in standard form.",
     "marks": 2,
     "space": "working",
-    "answer_prefix": "kg"
+    "answer_suffix": "kg"
    },
    {
     "label": "b",
@@ -19257,7 +19257,7 @@
     "text": "Work out the difference between these masses. Give your answer in standard form.",
     "marks": 2,
     "space": "working",
-    "answer_prefix": "kg"
+    "answer_suffix": "kg"
    },
    {
     "label": "b",
@@ -19333,7 +19333,7 @@
     "text": "Work out the difference between these masses. Give your answer in standard form.",
     "marks": 2,
     "space": "working",
-    "answer_prefix": "kg"
+    "answer_suffix": "kg"
    },
    {
     "label": "b",
@@ -19409,7 +19409,7 @@
     "text": "Work out the difference between these masses. Give your answer in standard form.",
     "marks": 2,
     "space": "working",
-    "answer_prefix": "kg"
+    "answer_suffix": "kg"
    },
    {
     "label": "b",
@@ -19485,7 +19485,7 @@
     "text": "Work out the difference between these masses. Give your answer in standard form.",
     "marks": 2,
     "space": "working",
-    "answer_prefix": "kg"
+    "answer_suffix": "kg"
    },
    {
     "label": "b",
@@ -19561,7 +19561,7 @@
     "text": "Work out the difference between these masses. Give your answer in standard form.",
     "marks": 2,
     "space": "working",
-    "answer_prefix": "kg"
+    "answer_suffix": "kg"
    },
    {
     "label": "b",

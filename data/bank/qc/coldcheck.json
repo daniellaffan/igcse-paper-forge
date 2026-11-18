@@ -82,8 +82,8 @@
     "how": "1905 dissolving the Duma/Fundamental Laws now 'reasserted autocratic power', not survival 'through agreement'; all cluster bullets audited; then: source tags audited against every source text so 'does not mention' is only claimed when true (e.g. the 1905 officer's Manifesto point is now an agreement on concessions); each piece of evidence backs one aspect only, with asserts against reused evidence and duplicate bullets; all source pairs checked, incl. extended texts; regenerated, validated; then: stance and evidence wording checked line by line against every source text so each summary claims only what that source says (e.g. 'serious food shortages', not 'food and fuel'; 'the royal family was blamed'; planning/Trotsky points from the sentences that state them); regenerated, validated"
    }
   ],
-  "recheck_sampled": 18,
-  "recheck_pass": 15,
+  "recheck_sampled": 22,
+  "recheck_pass": 19,
   "recheck_failures": [
    {
     "id": "history.russia-investigation.0044",
@@ -531,8 +531,8 @@
     "how": "template markup resolved for narrator gender or printed as o/a, plus a final sweep that errors on <, |>, { or } left in output; regenerated, validated"
    }
   ],
-  "recheck_sampled": 69,
-  "recheck_pass": 61,
+  "recheck_sampled": 72,
+  "recheck_pass": 62,
   "recheck_failures": [
    {
     "id": "spanish.l-short.a2.0012",
@@ -580,6 +580,18 @@
     "id": "spanish.r-short.a2.0003",
     "problem": "(j) refuses 'comida/platos de otros pa\u00edses' as tc, but the text says she wants to learn to cook dishes from other countries ('sobre todo' japonesa), so that is a full answer to '\u00bfQu\u00e9 tipo de comida?'.",
     "fix": "(j) Accept (comida/platos) de otros pa\u00edses / japonesa / de Jap\u00f3n.",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "spanish.r-short.a2.0010",
+    "problem": "Text contradicts itself: Natalia has been vegetarian for a year and never eats fish, yet yesterday tried ceviche (a raw-fish dish).",
+    "fix": "Replace the ceviche sentence with a vegetarian dish (e.g. 'prob\u00e9 un plato peruano vegetariano que se llama papa a la huanca\u00edna') or remove the vegetarian sentence; answer to 'd\u00f3nde cen\u00f3' unchanged.",
+    "fixed_after_recheck": false
+   },
+   {
+    "id": "spanish.r-long.a2.0002",
+    "problem": "Text contradicts itself: Camila has been vegetarian for a year, yet yesterday tried ceviche (a raw-fish dish).",
+    "fix": "Replace the ceviche sentence with a vegetarian dish (e.g. 'prob\u00e9 un plato peruano vegetariano que se llama papa a la huanca\u00edna') or remove the vegetarian sentence; answer to 'd\u00f3nde cen\u00f3' unchanged.",
     "fixed_after_recheck": false
    }
   ],
@@ -1018,8 +1030,8 @@
     "how": "part (a) now built from Extract A's own context and figures (economics_data.py), so product, place and stated values match: unemployed number / unemployed per vacancy computed from the stated rate and vacancies; recession rise from the stated u1->u2"
    }
   ],
-  "recheck_sampled": 197,
-  "recheck_pass": 189,
+  "recheck_sampled": 200,
+  "recheck_pass": 192,
   "recheck_failures": [
    {
     "id": "economics.demand-diagram.0005",

@@ -86,6 +86,7 @@ class Bank:
             old.unlink()
         total = 0
         for topic, qs in self.by_topic.items():
+            qs = [tidy_question(q) for q in qs]
             (d / f"{topic}.json").write_text(json.dumps(qs, ensure_ascii=False, indent=1))
             total += len(qs)
         prog = json.loads(PROGRESS.read_text()) if PROGRESS.exists() else {}
@@ -93,6 +94,99 @@ class Bank:
         PROGRESS.write_text(json.dumps(prog, indent=1, sort_keys=True))
         print(f"{self.subject}: wrote {total} questions in {len(self.by_topic)} topic files")
         return total
+
+
+
+# ---------------------------------------------------------------- final tidy applied to every saved question
+
+_TEXT = re.compile(r"<text\b([^>]*)>(.*?)</text>", re.S)
+
+
+def _attr(a, k, d=None):
+    m = re.search(rf'\b{k}="([^"]*)"', a)
+    return m.group(1) if m else d
+
+
+def _text_width(s, size):
+    s = re.sub(r"<[^>]+>", "", s)
+    s = re.sub(r"&\w+;|&#\d+;", "x", s)
+    return sum(0.3 if c in "il.,:;'|!1 " else 0.75 if c.isupper() or c in "mw" else 0.52 for c in s) * size
+
+
+def text_boxes(svg):
+    """Estimated bounding boxes (x0, y0, x1, y1) of the unrotated <text> labels in an SVG."""
+    head = re.search(r"<svg\b[^>]*>", svg)
+    base = float(_attr(head.group(0), "font-size", "12") or 12) if head else 12.0
+    out = []
+    for a, t in _TEXT.findall(svg):
+        if "rotate" in (_attr(a, "transform", "") or ""):
+            continue
+        try:
+            x, y = float(_attr(a, "x", "0")), float(_attr(a, "y", "0"))
+            size = float(_attr(a, "font-size", base) or base)
+        except ValueError:
+            continue
+        w = _text_width(t, size)
+        anchor = _attr(a, "text-anchor", "start")
+        x0 = x - w / 2 if anchor == "middle" else x - w if anchor == "end" else x
+        if "middle" in (_attr(a, "dominant-baseline", "") or ""):
+            y0, y1 = y - size * 0.55, y + size * 0.55
+        else:
+            y0, y1 = y - size * 0.85, y + size * 0.3
+        out.append((x0, y0, x0 + w, y1))
+    return out
+
+
+def fit_svg(svg):
+    """Grow the viewBox so every label lies inside it (labels outside are clipped on the page)."""
+    m = re.search(r'viewBox="([\d.\-]+)[ ,]+([\d.\-]+)[ ,]+([\d.]+)[ ,]+([\d.]+)"', svg)
+    if not m:
+        return svg
+    x0, y0, w, h = map(float, m.groups())
+    boxes = text_boxes(svg)
+    if not boxes:
+        return svg
+    pad = 3
+    nx0 = min([x0] + [b[0] - pad for b in boxes])
+    ny0 = min([y0] + [b[1] - pad for b in boxes])
+    nx1 = max([x0 + w] + [b[2] + pad for b in boxes])
+    ny1 = max([y0 + h] + [b[3] + pad for b in boxes])
+    if (nx0, ny0, nx1, ny1) == (x0, y0, x0 + w, y0 + h):
+        return svg
+    nw, nh = nx1 - nx0, ny1 - ny0
+    svg = svg.replace(m.group(0), f'viewBox="{nx0:g} {ny0:g} {nw:g} {nh:g}"', 1)
+    # keep an explicit width/height (if any) in proportion
+    head = re.search(r"<svg\b[^>]*>", svg).group(0)
+    new = head
+    for k, old, newv in (("width", w, nw), ("height", h, nh)):
+        v = _attr(head, k)
+        if v and re.fullmatch(r"[\d.]+", v):
+            new = re.sub(rf'\b{k}="[^"]*"', f'{k}="{float(v) * newv / old:g}"', new, count=1)
+    return svg.replace(head, new, 1)
+
+
+_BARE_UNIT = re.compile(r"^\s*[a-zA-Z°£€%²³/ ()]+\s*$")
+
+
+def _tidy_parts(parts):
+    for p in parts or []:
+        pre = p.get("answer_prefix")
+        # a bare unit belongs after the answer dots ("........ cm"), as on the real papers
+        if pre and _BARE_UNIT.match(pre) and "=" not in pre and not p.get("answer_suffix"):
+            p["answer_suffix"] = pre.strip()
+            del p["answer_prefix"]
+        for f in p.get("figures") or []:
+            if f.get("type") == "svg" and f.get("svg"):
+                f["svg"] = fit_svg(f["svg"])
+        _tidy_parts(p.get("parts"))
+
+
+def tidy_question(q):
+    for f in q.get("figures") or []:
+        if f.get("type") == "svg" and f.get("svg"):
+            f["svg"] = fit_svg(f["svg"])
+    _tidy_parts(q.get("parts"))
+    return q
 
 
 # ---------------------------------------------------------------- small helpers

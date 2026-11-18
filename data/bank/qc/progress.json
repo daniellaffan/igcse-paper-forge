@@ -4091,7 +4091,7 @@
     "history.russia-support.0026",
     "history.russia-support.0058"
    ],
-   "status": "pending"
+   "status": "answered"
   },
   "economics-recheck-8": {
    "subject": "economics",
@@ -4100,7 +4100,7 @@
     "economics.protection-data.0017",
     "economics.protection-assess-1.0001"
    ],
-   "status": "pending"
+   "status": "answered"
   },
   "spanish-recheck-4": {
    "subject": "spanish",
@@ -4109,7 +4109,7 @@
     "spanish.r-short.a2.0010",
     "spanish.r-long.a2.0002"
    ],
-   "status": "pending"
+   "status": "answered"
   }
  },
  "templates": {

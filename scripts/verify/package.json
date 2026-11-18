@@ -1,1 +1,1 @@
-{ "name": "ipf-verify", "private": true, "type": "module", "dependencies": { "puppeteer-core": "23.10.4" } }
+{"name":"ipf-verify","private":true,"type":"module","dependencies":{"mathjax-full":"^3.2.1","puppeteer-core":"23.10.4"}}
