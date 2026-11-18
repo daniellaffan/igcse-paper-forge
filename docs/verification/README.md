@@ -75,3 +75,11 @@ Each subject folder holds the four PDFs and PNG previews of their first pages (`
   (35.6 s of audio). What a browser-free check cannot do is hear the browser play it; that last step needs a browser.
 - The PDFs here are laid out by PyMuPDF from the site's own components, not by the site's jsPDF/html2canvas export (that export draws the page with the browser's layout engine, so it cannot run without a browser), so fonts and exact line breaks differ slightly from a PDF downloaded from the site; content, order, numbering and pagination rules are the same.
 - Known difference from real papers: science full papers draw from a bank of mostly short questions, so e.g. Chemistry 1C has ~46 numbered questions where a real paper has ~11 longer multi-part ones (decision for Dan in the final notes).
+
+## Left to Dan (his decision, 18 Nov 2026)
+
+Because no browser may be used, two checks are Dan's to do by hand on the live site:
+
+1. Open any Spanish paper with a listening question and press **▶ Play recording**: it should speak in Spanish, twice.
+2. On any paper, click **Download question paper (PDF)** and **Download mark scheme (PDF)**: two separate A4 PDFs, each
+   with "Practice paper — not an official exam board paper" in the footer of every page.
