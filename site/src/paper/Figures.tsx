@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import type { Figure } from '../types'
+import { isPictureChoice } from '../lib/pictures'
 import { Rich } from '../lib/rich'
 
 function cleanSvg(svg: string) {
@@ -70,6 +71,14 @@ export function FigureView({ fig, inMarkScheme = false }: { fig: Figure; inMarkS
         </figure>
       )
     case 'table':
+      // a lettered set of pictures (Spanish reading): print as a grid of pictures, not a table
+      if (!inMarkScheme && (fig.rows || []).length > 2 && (fig.rows || []).every(r => r.length === 2 && isPictureChoice(r[1]))) return (
+        <figure className="fig pic-grid">
+          {(fig.rows || []).map((r, i) => (
+            <div className="pic-cell" key={i}><span className="mcq-letter">{r[0]}</span><Rich as="span" text={r[1]} /></div>
+          ))}
+        </figure>
+      )
       return (
         <figure className="fig fig-table">
           {fig.caption && <figcaption className="cap-top"><Rich as="span" text={fig.caption} /></figcaption>}

@@ -28149,7 +28149,7 @@
     "choices": [
      "[picture: a tortoise]",
      "[picture: a dog]",
-     "[picture: a sheep]",
+     "[picture: a goldfish]",
      "[picture: a parrot]"
     ]
    },
@@ -28197,7 +28197,7 @@
     "choices": [
      "[picture: a lake]",
      "[picture: a desert]",
-     "[picture: an island]",
+     "[picture: a forest]",
      "[picture: a beach]"
     ]
    }
@@ -28327,7 +28327,7 @@
     "choices": [
      "[picture: old newspapers]",
      "[picture: drinks cans]",
-     "[picture: glass jars]",
+     "[picture: plastic bottles]",
      "[picture: batteries]"
     ]
    },
@@ -28362,7 +28362,7 @@
     "space": "mcq",
     "choices": [
      "[picture: old clothes]",
-     "[picture: drinks cans]",
+     "[picture: plastic bottles]",
      "[picture: glass jars]",
      "[picture: old newspapers]"
     ]
@@ -28493,7 +28493,7 @@
     "choices": [
      "[picture: a cat]",
      "[picture: a dog]",
-     "[picture: a tortoise]",
+     "[picture: a parrot]",
      "[picture: a sheep]"
     ]
    },
@@ -28529,7 +28529,7 @@
     "choices": [
      "[picture: an island]",
      "[picture: a river]",
-     "[picture: a beach]",
+     "[picture: a lake]",
      "[picture: mountains]"
     ]
    },
@@ -28552,8 +28552,8 @@
     "space": "mcq",
     "choices": [
      "[picture: a bird]",
-     "[picture: a sheep]",
      "[picture: a cat]",
+     "[picture: a rabbit]",
      "[picture: a tortoise]"
     ]
    },
@@ -28575,7 +28575,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: glass jars]",
+     "[picture: old newspapers]",
      "[picture: drinks cans]",
      "[picture: old clothes]",
      "[picture: plastic bottles]"
@@ -28729,7 +28729,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a bird]",
+     "[picture: a tortoise]",
      "[picture: a dog]",
      "[picture: a parrot]",
      "[picture: a goldfish]"
@@ -28741,9 +28741,9 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a rabbit]",
+     "[picture: a cat]",
      "[picture: a bird]",
-     "[picture: a parrot]",
+     "[picture: a rabbit]",
      "[picture: a dog]"
     ]
    },
@@ -28909,7 +28909,7 @@
     "choices": [
      "[picture: a lake]",
      "[picture: an island]",
-     "[picture: a beach]",
+     "[picture: a river]",
      "[picture: a forest]"
     ]
    },
@@ -28943,7 +28943,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a tortoise]",
+     "[picture: a goldfish]",
      "[picture: a sheep]",
      "[picture: a horse]",
      "[picture: a parrot]"
@@ -28956,9 +28956,9 @@
     "space": "mcq",
     "choices": [
      "[picture: glass jars]",
-     "[picture: old newspapers]",
      "[picture: old clothes]",
-     "[picture: drinks cans]"
+     "[picture: batteries]",
+     "[picture: old newspapers]"
     ]
    }
   ],
@@ -29074,9 +29074,9 @@
     "space": "mcq",
     "choices": [
      "[picture: a beach]",
-     "[picture: an island]",
      "[picture: a desert]",
-     "[picture: a forest]"
+     "[picture: a forest]",
+     "[picture: a lake]"
     ]
    },
    {
@@ -29111,7 +29111,7 @@
     "choices": [
      "[picture: old clothes]",
      "[picture: plastic bottles]",
-     "[picture: drinks cans]",
+     "[picture: old newspapers]",
      "[picture: glass jars]"
     ]
    },
@@ -29441,10 +29441,10 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a bird]",
+     "[picture: a cow]",
      "[picture: a parrot]",
      "[picture: a sheep]",
-     "[picture: a cow]"
+     "[picture: a rabbit]"
     ]
    },
    {
@@ -29526,7 +29526,7 @@
     "space": "mcq",
     "choices": [
      "[picture: plastic bottles]",
-     "[picture: glass jars]",
+     "[picture: old newspapers]",
      "[picture: drinks cans]",
      "[picture: batteries]"
     ]
@@ -29655,7 +29655,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: an island]",
+     "[picture: a lake]",
      "[picture: a rainforest]",
      "[picture: a beach]",
      "[picture: a forest]"
@@ -29717,7 +29717,7 @@
     "choices": [
      "[picture: old newspapers]",
      "[picture: old clothes]",
-     "[picture: glass jars]",
+     "[picture: plastic bottles]",
      "[picture: drinks cans]"
     ]
    }
@@ -29824,7 +29824,7 @@
      "[picture: a river]",
      "[picture: mountains]",
      "[picture: an island]",
-     "[picture: a beach]"
+     "[picture: a volcano]"
     ]
    },
    {
@@ -29883,8 +29883,8 @@
     "choices": [
      "[picture: a sheep]",
      "[picture: a dog]",
-     "[picture: a cat]",
-     "[picture: a tortoise]"
+     "[picture: a bird]",
+     "[picture: a cat]"
     ]
    },
    {
@@ -29894,7 +29894,7 @@
     "space": "mcq",
     "choices": [
      "[picture: batteries]",
-     "[picture: drinks cans]",
+     "[picture: plastic bottles]",
      "[picture: glass jars]",
      "[picture: old clothes]"
     ]
@@ -30011,7 +30011,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: drinks cans]",
+     "[picture: batteries]",
      "[picture: old newspapers]",
      "[picture: old clothes]",
      "[picture: glass jars]"
@@ -30038,7 +30038,7 @@
      "[picture: a rainforest]",
      "[picture: a beach]",
      "[picture: a volcano]",
-     "[picture: an island]"
+     "[picture: a river]"
     ]
    },
    {
@@ -30083,8 +30083,8 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
+     "[picture: a cat]",
      "[picture: a goldfish]",
-     "[picture: a sheep]",
      "[picture: a rabbit]",
      "[picture: a tortoise]"
     ]
@@ -30095,7 +30095,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a beach]",
+     "[picture: a desert]",
      "[picture: mountains]",
      "[picture: an island]",
      "[picture: a river]"
@@ -30202,7 +30202,7 @@
     "space": "mcq",
     "choices": [
      "[picture: old clothes]",
-     "[picture: glass jars]",
+     "[picture: batteries]",
      "[picture: drinks cans]",
      "[picture: old newspapers]"
     ]
@@ -30237,10 +30237,10 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a cat]",
+     "[picture: a bird]",
      "[picture: a tortoise]",
-     "[picture: a rabbit]",
-     "[picture: a sheep]"
+     "[picture: a cat]",
+     "[picture: a rabbit]"
     ]
    },
    {
@@ -30263,7 +30263,7 @@
     "choices": [
      "[picture: a lake]",
      "[picture: a forest]",
-     "[picture: a beach]",
+     "[picture: mountains]",
      "[picture: an island]"
     ]
    },
@@ -30429,7 +30429,7 @@
     "choices": [
      "[picture: an island]",
      "[picture: a rainforest]",
-     "[picture: a beach]",
+     "[picture: a volcano]",
      "[picture: mountains]"
     ]
    },
@@ -40833,7 +40833,7 @@
      ],
      [
       "E",
-      "[picture: a cow]"
+      "[picture: a sheep]"
      ],
      [
       "F",
@@ -40895,7 +40895,7 @@
    },
    {
     "label": "e",
-    "text": "¿Dónde se tira el vidrio?",
+    "text": "¿Dónde se tira la ropa vieja?",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -40932,7 +40932,7 @@
      "part": "e",
      "answer": "E",
      "marks": "1",
-     "notes": "*el vidrio* = glass jars"
+     "notes": "*la ropa vieja* = old clothes"
     }
    ]
   },
@@ -40967,7 +40967,7 @@
      ],
      [
       "E",
-      "[picture: glass jars]"
+      "[picture: old clothes]"
      ],
      [
       "F",
@@ -41149,7 +41149,7 @@
    },
    {
     "label": "c",
-    "text": "Mi animal favorito es una oveja.",
+    "text": "Mi animal favorito es una tortuga.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -41163,7 +41163,7 @@
    },
    {
     "label": "e",
-    "text": "¡Mira! Allí hay una tortuga.",
+    "text": "¡Mira! Allí hay un pez.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -41188,7 +41188,7 @@
      "part": "c",
      "answer": "E",
      "marks": "1",
-     "notes": "*una oveja* = a sheep"
+     "notes": "*una tortuga* = a tortoise"
     },
     {
      "part": "d",
@@ -41200,7 +41200,7 @@
      "part": "e",
      "answer": "F",
      "marks": "1",
-     "notes": "*una tortuga* = a tortoise"
+     "notes": "*un pez* = a goldfish"
     }
    ]
   },
@@ -41227,7 +41227,7 @@
      ],
      [
       "C",
-      "[picture: a beach]"
+      "[picture: a rainforest]"
      ],
      [
       "D",
@@ -41235,11 +41235,11 @@
      ],
      [
       "E",
-      "[picture: a sheep]"
+      "[picture: a tortoise]"
      ],
      [
       "F",
-      "[picture: a tortoise]"
+      "[picture: a goldfish]"
      ]
     ]
    }
@@ -41373,7 +41373,7 @@
      ],
      [
       "F",
-      "[picture: a cat]"
+      "[picture: a dog]"
      ]
     ]
    }
@@ -101151,7 +101151,7 @@
    },
    {
     "label": "c",
-    "text": "Mi madre trabaja en una tienda.",
+    "text": "Mi madre trabaja en un hospital.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -101190,7 +101190,7 @@
      "part": "c",
      "answer": "B",
      "marks": "1",
-     "notes": "*en una tienda* = a shop"
+     "notes": "*en un hospital* = a hospital"
     },
     {
      "part": "d",
@@ -101225,7 +101225,7 @@
      ],
      [
       "B",
-      "[picture: a shop]"
+      "[picture: a hospital]"
      ],
      [
       "C",
@@ -101237,7 +101237,7 @@
      ],
      [
       "E",
-      "[picture: a hospital]"
+      "[picture: a hotel]"
      ],
      [
       "F",

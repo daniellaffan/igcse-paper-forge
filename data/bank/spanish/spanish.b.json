@@ -22,9 +22,9 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a parrot]",
-     "[picture: a tortoise]",
      "[picture: a goldfish]",
+     "[picture: a tortoise]",
+     "[picture: a rabbit]",
      "[picture: a bird]"
     ]
    },
@@ -36,8 +36,8 @@
     "choices": [
      "[picture: a grandfather]",
      "[picture: an older brother]",
-     "[picture: a mother]",
-     "[picture: a father]"
+     "[picture: a little sister]",
+     "[picture: a mother]"
     ]
    },
    {
@@ -70,10 +70,10 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a male cousin]",
+     "[picture: a grandfather]",
      "[picture: a father]",
      "[picture: a mother]",
-     "[picture: an aunt]"
+     "[picture: a little sister]"
     ]
    },
    {
@@ -236,10 +236,10 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: an older brother]",
+     "[picture: a little sister]",
      "[picture: an aunt]",
      "[picture: a male cousin]",
-     "[picture: a little sister]"
+     "[picture: a grandmother]"
     ]
    },
    {
@@ -403,8 +403,8 @@
     "space": "mcq",
     "choices": [
      "[picture: an uncle]",
+     "[picture: a little sister]",
      "[picture: an aunt]",
-     "[picture: a male cousin]",
      "[picture: a grandmother]"
     ]
    },
@@ -426,7 +426,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a male cousin]",
+     "[picture: an aunt]",
      "[picture: a grandfather]",
      "[picture: a little sister]",
      "[picture: a father]"
@@ -475,7 +475,7 @@
     "space": "mcq",
     "choices": [
      "[picture: a grandfather]",
-     "[picture: a male cousin]",
+     "[picture: a little sister]",
      "[picture: an uncle]",
      "[picture: a mother]"
     ]
@@ -593,7 +593,7 @@
     "space": "mcq",
     "choices": [
      "[picture: a tortoise]",
-     "[picture: a sheep]",
+     "[picture: a parrot]",
      "[picture: a cow]",
      "[picture: a dog]"
     ]
@@ -606,7 +606,7 @@
     "choices": [
      "[picture: a mother]",
      "[picture: a male cousin]",
-     "[picture: an aunt]",
+     "[picture: a little sister]",
      "[picture: a grandfather]"
     ]
    },
@@ -676,10 +676,10 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: an uncle]",
      "[picture: a little sister]",
+     "[picture: a grandmother]",
      "[picture: a male cousin]",
-     "[picture: a grandmother]"
+     "[picture: an aunt]"
     ]
    }
   ],
@@ -778,98 +778,98 @@
   "parts": [
    {
     "label": "a",
-    "text": "¿Qué animal le ha regalado su abuela?",
+    "text": "¿Quién viene a comer mañana?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a dog]",
-     "[picture: a cat]",
-     "[picture: a cow]",
-     "[picture: a sheep]"
+     "[picture: a grandmother]",
+     "[picture: a little sister]",
+     "[picture: a father]",
+     "[picture: an aunt]"
     ]
    },
    {
     "label": "b",
-    "text": "¿Cómo es el primo de Raúl?",
-    "marks": 1,
-    "space": "mcq",
-    "choices": [
-     "[picture: long hair]",
-     "[picture: blond hair]",
-     "[picture: curly hair]",
-     "[picture: straight hair]"
-    ]
-   },
-   {
-    "label": "c",
     "text": "¿Con quién vive Raúl?",
     "marks": 1,
     "space": "mcq",
     "choices": [
+     "[picture: a grandfather]",
+     "[picture: a male cousin]",
      "[picture: a little sister]",
-     "[picture: a father]",
-     "[picture: an aunt]",
-     "[picture: a grandfather]"
+     "[picture: an aunt]"
+    ]
+   },
+   {
+    "label": "c",
+    "text": "¿Qué animal le ha regalado su abuela?",
+    "marks": 1,
+    "space": "mcq",
+    "choices": [
+     "[picture: a tortoise]",
+     "[picture: a goldfish]",
+     "[picture: a parrot]",
+     "[picture: a cat]"
     ]
    },
    {
     "label": "d",
-    "text": "¿Quién está en la foto?",
+    "text": "¿Cómo es el primo de Raúl?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a father]",
-     "[picture: an uncle]",
-     "[picture: a grandmother]",
-     "[picture: a grandfather]"
+     "[picture: a beard]",
+     "[picture: curly hair]",
+     "[picture: long hair]",
+     "[picture: straight hair]"
     ]
    },
    {
     "label": "e",
-    "text": "¿Cómo es la mejor amiga de Raúl?",
+    "text": "¿Quién está en la foto?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a person sharing sweets]",
-     "[picture: a person talking a lot]",
-     "[picture: a person laughing]",
-     "[picture: a smiling face]"
+     "[picture: a mother]",
+     "[picture: a male cousin]",
+     "[picture: a grandfather]",
+     "[picture: a little sister]"
     ]
    },
    {
     "label": "f",
-    "text": "¿Qué animal hay en la granja?",
-    "marks": 1,
-    "space": "mcq",
-    "choices": [
-     "[picture: a goldfish]",
-     "[picture: a tortoise]",
-     "[picture: a cat]",
-     "[picture: a horse]"
-    ]
-   },
-   {
-    "label": "g",
     "text": "¿Cómo es la hermana de Raúl?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a person talking a lot]",
-     "[picture: a person laughing]",
      "[picture: a serious face]",
+     "[picture: a person sharing sweets]",
+     "[picture: a smiling face]",
      "[picture: a shy face]"
     ]
    },
    {
-    "label": "h",
+    "label": "g",
     "text": "¿Cómo es el padre de Raúl?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: blond hair]",
+     "[picture: curly hair]",
      "[picture: long hair]",
-     "[picture: straight hair]",
-     "[picture: a beard]"
+     "[picture: a beard]",
+     "[picture: blond hair]"
+    ]
+   },
+   {
+    "label": "h",
+    "text": "¿Qué animal hay en la granja?",
+    "marks": 1,
+    "space": "mcq",
+    "choices": [
+     "[picture: a cat]",
+     "[picture: a goldfish]",
+     "[picture: a tortoise]",
+     "[picture: a horse]"
     ]
    }
   ],
@@ -878,51 +878,51 @@
    "rows": [
     {
      "part": "a",
-     "answer": "C",
+     "answer": "A",
      "marks": "1",
-     "notes": "[picture: a cow] — key word: *una vaca*"
+     "notes": "[picture: a grandmother] — key word: *mi abuela*"
     },
     {
      "part": "b",
-     "answer": "C",
+     "answer": "D",
      "marks": "1",
-     "notes": "[picture: curly hair] — key word: *el pelo rizado*"
+     "notes": "[picture: an aunt] — key word: *mi tía*"
     },
     {
      "part": "c",
-     "answer": "A",
+     "answer": "C",
      "marks": "1",
-     "notes": "[picture: a little sister] — key word: *mi hermana pequeña*"
+     "notes": "[picture: a parrot] — key word: *un loro*"
     },
     {
      "part": "d",
-     "answer": "B",
+     "answer": "D",
      "marks": "1",
-     "notes": "[picture: an uncle] — key word: *mi tío*"
+     "notes": "[picture: straight hair] — key word: *el pelo liso*"
     },
     {
      "part": "e",
-     "answer": "D",
+     "answer": "C",
+     "marks": "1",
+     "notes": "[picture: a grandfather] — key word: *mi abuelo*"
+    },
+    {
+     "part": "f",
+     "answer": "C",
      "marks": "1",
      "notes": "[picture: a smiling face] — key word: *simpática*"
     },
     {
-     "part": "f",
-     "answer": "B",
-     "marks": "1",
-     "notes": "[picture: a tortoise] — key word: *una tortuga*"
-    },
-    {
      "part": "g",
-     "answer": "B",
+     "answer": "C",
      "marks": "1",
-     "notes": "[picture: a person laughing] — key word: *divertida*"
+     "notes": "[picture: a beard] — key word: *barba*"
     },
     {
      "part": "h",
-     "answer": "B",
+     "answer": "A",
      "marks": "1",
-     "notes": "[picture: long hair] — key word: *el pelo largo*"
+     "notes": "[picture: a cat] — key word: *un gato*"
     }
    ],
    "general": "One mark for each correct letter."
@@ -936,7 +936,7 @@
    {
     "type": "audio",
     "lang": "es-ES",
-    "transcript": "Narrador: Pregunta 1. Raúl dice:\nRaúl: Mi abuela me ha regalado una vaca.\nNarrador: Pregunta 2. Raúl dice:\nRaúl: Mi primo tiene el pelo rizado.\nNarrador: Pregunta 3. Más tarde, Raúl dice:\nRaúl: Vivo con mi hermana pequeña y con mis dos hermanos.\nNarrador: Pregunta 4. Más tarde, Raúl dice:\nRaúl: Esta foto es de mi tío en la playa.\nNarrador: Pregunta 5. Después, Raúl dice:\nRaúl: Mi mejor amiga es bastante simpática.\nNarrador: Pregunta 6. A continuación, Raúl dice:\nRaúl: En la granja de mis tíos hay una tortuga.\nNarrador: Pregunta 7. Raúl dice:\nRaúl: Mi hermana es muy divertida.\nNarrador: Pregunta 8. Finalmente, Raúl dice:\nRaúl: Mi padre tiene el pelo largo.",
+    "transcript": "Narrador: Pregunta 1. Raúl dice:\nRaúl: Mañana viene a comer mi abuela.\nNarrador: Pregunta 2. Más tarde, Raúl dice:\nRaúl: Vivo con mi tía y con mis dos hermanos.\nNarrador: Pregunta 3. Después, Raúl dice:\nRaúl: Mi abuela me ha regalado un loro.\nNarrador: Pregunta 4. Entonces Raúl dice:\nRaúl: Mi primo tiene el pelo liso.\nNarrador: Pregunta 5. Después, Raúl dice:\nRaúl: Esta foto es de mi abuelo en la playa.\nNarrador: Pregunta 6. Luego, Raúl dice:\nRaúl: Mi hermana es muy simpática.\nNarrador: Pregunta 7. Raúl dice:\nRaúl: Mi padre tiene barba.\nNarrador: Pregunta 8. Finalmente, Raúl dice:\nRaúl: En la granja de mis tíos hay un gato.",
     "voices": [
      "Narrador",
      "Raúl"
@@ -974,8 +974,8 @@
     "choices": [
      "[picture: a mother]",
      "[picture: an older brother]",
-     "[picture: a father]",
-     "[picture: a grandfather]"
+     "[picture: a grandfather]",
+     "[picture: a little sister]"
     ]
    },
    {
@@ -1008,9 +1008,9 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: an aunt]",
      "[picture: a little sister]",
-     "[picture: an uncle]",
+     "[picture: a grandmother]",
+     "[picture: an aunt]",
      "[picture: a father]"
     ]
    },
@@ -1033,8 +1033,8 @@
     "space": "mcq",
     "choices": [
      "[picture: a male cousin]",
+     "[picture: a little sister]",
      "[picture: a grandfather]",
-     "[picture: a mother]",
      "[picture: an aunt]"
     ]
    },
@@ -1158,98 +1158,98 @@
   "parts": [
    {
     "label": "a",
-    "text": "¿Qué animal le ha regalado su abuela?",
-    "marks": 1,
-    "space": "mcq",
-    "choices": [
-     "[picture: a tortoise]",
-     "[picture: a sheep]",
-     "[picture: a horse]",
-     "[picture: a cat]"
-    ]
-   },
-   {
-    "label": "b",
-    "text": "¿Cómo es el padre de Jorge?",
-    "marks": 1,
-    "space": "mcq",
-    "choices": [
-     "[picture: blond hair]",
-     "[picture: curly hair]",
-     "[picture: short hair]",
-     "[picture: straight hair]"
-    ]
-   },
-   {
-    "label": "c",
     "text": "¿Qué animal hay en la granja?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a cat]",
-     "[picture: a horse]",
+     "[picture: a bird]",
      "[picture: a tortoise]",
-     "[picture: a cow]"
+     "[picture: a cat]",
+     "[picture: a horse]"
     ]
    },
    {
-    "label": "d",
-    "text": "¿Con quién vive Jorge?",
+    "label": "b",
+    "text": "¿Quién viene a comer mañana?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a grandfather]",
-     "[picture: a mother]",
-     "[picture: a father]",
-     "[picture: an uncle]"
-    ]
-   },
-   {
-    "label": "e",
-    "text": "¿Quién está en la foto?",
-    "marks": 1,
-    "space": "mcq",
-    "choices": [
+     "[picture: a male cousin]",
+     "[picture: a little sister]",
      "[picture: an aunt]",
-     "[picture: a grandmother]",
-     "[picture: a grandfather]",
-     "[picture: a little sister]"
+     "[picture: a grandfather]"
     ]
    },
    {
-    "label": "f",
+    "label": "c",
     "text": "¿Cómo es la mejor amiga de Jorge?",
     "marks": 1,
     "space": "mcq",
     "choices": [
      "[picture: a person talking a lot]",
-     "[picture: a person sharing sweets]",
      "[picture: a smiling face]",
-     "[picture: a serious face]"
+     "[picture: a person laughing]",
+     "[picture: a shy face]"
     ]
    },
    {
-    "label": "g",
-    "text": "¿Quién viene a comer mañana?",
+    "label": "d",
+    "text": "¿Cómo es la hermana de Jorge?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: an aunt]",
-     "[picture: an older brother]",
-     "[picture: a male cousin]",
-     "[picture: a mother]"
+     "[picture: a shy face]",
+     "[picture: a person talking a lot]",
+     "[picture: a person sharing sweets]",
+     "[picture: a smiling face]"
     ]
    },
    {
-    "label": "h",
-    "text": "¿Cómo es el primo de Jorge?",
+    "label": "e",
+    "text": "¿Cómo es el padre de Jorge?",
     "marks": 1,
     "space": "mcq",
     "choices": [
      "[picture: curly hair]",
-     "[picture: long hair]",
      "[picture: a beard]",
-     "[picture: straight hair]"
+     "[picture: straight hair]",
+     "[picture: long hair]"
+    ]
+   },
+   {
+    "label": "f",
+    "text": "¿Qué animal le ha regalado su abuela?",
+    "marks": 1,
+    "space": "mcq",
+    "choices": [
+     "[picture: a horse]",
+     "[picture: a rabbit]",
+     "[picture: a bird]",
+     "[picture: a cow]"
+    ]
+   },
+   {
+    "label": "g",
+    "text": "¿Cómo es el primo de Jorge?",
+    "marks": 1,
+    "space": "mcq",
+    "choices": [
+     "[picture: short hair]",
+     "[picture: curly hair]",
+     "[picture: a beard]",
+     "[picture: blond hair]"
+    ]
+   },
+   {
+    "label": "h",
+    "text": "¿Con quién vive Jorge?",
+    "marks": 1,
+    "space": "mcq",
+    "choices": [
+     "[picture: a grandmother]",
+     "[picture: a little sister]",
+     "[picture: a father]",
+     "[picture: a mother]"
     ]
    }
   ],
@@ -1258,51 +1258,51 @@
    "rows": [
     {
      "part": "a",
-     "answer": "B",
+     "answer": "C",
      "marks": "1",
-     "notes": "[picture: a sheep] — key word: *una oveja*"
+     "notes": "[picture: a cat] — key word: *un gato*"
     },
     {
      "part": "b",
      "answer": "C",
      "marks": "1",
-     "notes": "[picture: short hair] — key word: *el pelo corto*"
+     "notes": "[picture: an aunt] — key word: *mi tía*"
     },
     {
      "part": "c",
-     "answer": "B",
+     "answer": "C",
      "marks": "1",
-     "notes": "[picture: a horse] — key word: *un caballo*"
+     "notes": "[picture: a person laughing] — key word: *divertida*"
     },
     {
      "part": "d",
-     "answer": "D",
+     "answer": "C",
      "marks": "1",
-     "notes": "[picture: an uncle] — key word: *mi tío*"
+     "notes": "[picture: a person sharing sweets] — key word: *generosa*"
     },
     {
      "part": "e",
      "answer": "D",
      "marks": "1",
-     "notes": "[picture: a little sister] — key word: *mi hermana pequeña*"
+     "notes": "[picture: long hair] — key word: *el pelo largo*"
     },
     {
      "part": "f",
-     "answer": "B",
+     "answer": "C",
      "marks": "1",
-     "notes": "[picture: a person sharing sweets] — key word: *generosa*"
+     "notes": "[picture: a bird] — key word: *un pájaro*"
     },
     {
      "part": "g",
-     "answer": "B",
+     "answer": "A",
      "marks": "1",
-     "notes": "[picture: an older brother] — key word: *mi hermano mayor*"
+     "notes": "[picture: short hair] — key word: *el pelo corto*"
     },
     {
      "part": "h",
-     "answer": "A",
+     "answer": "C",
      "marks": "1",
-     "notes": "[picture: curly hair] — key word: *el pelo rizado*"
+     "notes": "[picture: a father] — key word: *mi padre*"
     }
    ],
    "general": "One mark for each correct letter."
@@ -1311,12 +1311,12 @@
    "AO1 Listening"
   ],
   "template": "l-short.b1",
-  "intro": "Escucha ocho grabaciones cortas; cada una se oye dos veces. Para cada pregunta, marca con una X la casilla correcta (A–D).\n\nEstás en una fiesta en Montevideo con Jorge. Jorge te habla de la gente que hay en la fiesta.",
+  "intro": "Escucha ocho grabaciones cortas; cada una se oye dos veces. Para cada pregunta, marca con una X la casilla correcta (A–D).\n\nEstás en casa de Jorge en Montevideo. Jorge te enseña unas fotos de su familia.",
   "figures": [
    {
     "type": "audio",
     "lang": "es-ES",
-    "transcript": "Narrador: Pregunta 1. Jorge dice:\nJorge: Mi abuela me ha regalado una oveja.\nNarrador: Pregunta 2. Entonces Jorge dice:\nJorge: Mi padre tiene el pelo corto.\nNarrador: Pregunta 3. Entonces Jorge dice:\nJorge: En la granja de mis tíos hay un caballo.\nNarrador: Pregunta 4. Más tarde, Jorge dice:\nJorge: Vivo con mi tío y con mis dos hermanos.\nNarrador: Pregunta 5. Más tarde, Jorge dice:\nJorge: Esta foto es de mi hermana pequeña en la playa.\nNarrador: Pregunta 6. A continuación, Jorge dice:\nJorge: Mi mejor amiga es bastante generosa.\nNarrador: Pregunta 7. Después, Jorge dice:\nJorge: Mañana viene a comer mi hermano mayor.\nNarrador: Pregunta 8. Finalmente, Jorge dice:\nJorge: Mi primo tiene el pelo rizado.",
+    "transcript": "Narrador: Pregunta 1. Jorge dice:\nJorge: En la granja de mis tíos hay un gato.\nNarrador: Pregunta 2. A continuación, Jorge dice:\nJorge: Mañana viene a comer mi tía.\nNarrador: Pregunta 3. A continuación, Jorge dice:\nJorge: Mi mejor amiga es bastante divertida.\nNarrador: Pregunta 4. Más tarde, Jorge dice:\nJorge: Mi hermana es muy generosa.\nNarrador: Pregunta 5. A continuación, Jorge dice:\nJorge: Mi padre tiene el pelo largo.\nNarrador: Pregunta 6. Entonces Jorge dice:\nJorge: Mi abuela me ha regalado un pájaro.\nNarrador: Pregunta 7. Luego, Jorge dice:\nJorge: Mi primo tiene el pelo corto.\nNarrador: Pregunta 8. Finalmente, Jorge dice:\nJorge: Vivo con mi padre y con mis dos hermanos.",
     "voices": [
      "Narrador",
      "Jorge"
@@ -1389,9 +1389,9 @@
     "space": "mcq",
     "choices": [
      "[picture: a tortoise]",
-     "[picture: a sheep]",
      "[picture: a rabbit]",
-     "[picture: a cat]"
+     "[picture: a cat]",
+     "[picture: a dog]"
     ]
    },
    {
@@ -1401,8 +1401,8 @@
     "space": "mcq",
     "choices": [
      "[picture: an aunt]",
-     "[picture: an uncle]",
-     "[picture: a father]",
+     "[picture: a little sister]",
+     "[picture: a grandfather]",
      "[picture: a male cousin]"
     ]
    },
@@ -1425,8 +1425,8 @@
     "space": "mcq",
     "choices": [
      "[picture: a little sister]",
-     "[picture: an uncle]",
      "[picture: a grandmother]",
+     "[picture: a mother]",
      "[picture: an older brother]"
     ]
    },
@@ -1538,98 +1538,98 @@
   "parts": [
    {
     "label": "a",
-    "text": "¿Cómo es el padre de Samuel?",
+    "text": "¿Cómo es la mejor amiga de Samuel?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: long hair]",
-     "[picture: straight hair]",
-     "[picture: curly hair]",
-     "[picture: blond hair]"
+     "[picture: a smiling face]",
+     "[picture: a person sharing sweets]",
+     "[picture: a shy face]",
+     "[picture: a person laughing]"
     ]
    },
    {
     "label": "b",
-    "text": "¿Cómo es la hermana de Samuel?",
+    "text": "¿Cómo es el primo de Samuel?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a person sharing sweets]",
-     "[picture: a person talking a lot]",
-     "[picture: a serious face]",
-     "[picture: a smiling face]"
+     "[picture: straight hair]",
+     "[picture: curly hair]",
+     "[picture: short hair]",
+     "[picture: long hair]"
     ]
    },
    {
     "label": "c",
+    "text": "¿Cómo es el padre de Samuel?",
+    "marks": 1,
+    "space": "mcq",
+    "choices": [
+     "[picture: straight hair]",
+     "[picture: curly hair]",
+     "[picture: blond hair]",
+     "[picture: long hair]"
+    ]
+   },
+   {
+    "label": "d",
+    "text": "¿Qué animal hay en la granja?",
+    "marks": 1,
+    "space": "mcq",
+    "choices": [
+     "[picture: a dog]",
+     "[picture: a cat]",
+     "[picture: a sheep]",
+     "[picture: a cow]"
+    ]
+   },
+   {
+    "label": "e",
+    "text": "¿Con quién vive Samuel?",
+    "marks": 1,
+    "space": "mcq",
+    "choices": [
+     "[picture: a grandfather]",
+     "[picture: a father]",
+     "[picture: a little sister]",
+     "[picture: an aunt]"
+    ]
+   },
+   {
+    "label": "f",
     "text": "¿Qué animal le ha regalado su abuela?",
     "marks": 1,
     "space": "mcq",
     "choices": [
      "[picture: a horse]",
-     "[picture: a parrot]",
-     "[picture: a goldfish]",
-     "[picture: a rabbit]"
+     "[picture: a tortoise]",
+     "[picture: a dog]",
+     "[picture: a cow]"
     ]
    },
    {
-    "label": "d",
-    "text": "¿Con quién vive Samuel?",
+    "label": "g",
+    "text": "¿Cómo es la hermana de Samuel?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: an uncle]",
-     "[picture: a male cousin]",
-     "[picture: an aunt]",
-     "[picture: a grandfather]"
+     "[picture: a shy face]",
+     "[picture: a person sharing sweets]",
+     "[picture: a serious face]",
+     "[picture: a person laughing]"
     ]
    },
    {
-    "label": "e",
+    "label": "h",
     "text": "¿Quién está en la foto?",
     "marks": 1,
     "space": "mcq",
     "choices": [
      "[picture: a little sister]",
-     "[picture: a grandmother]",
-     "[picture: a grandfather]",
-     "[picture: a male cousin]"
-    ]
-   },
-   {
-    "label": "f",
-    "text": "¿Cómo es el primo de Samuel?",
-    "marks": 1,
-    "space": "mcq",
-    "choices": [
-     "[picture: a beard]",
-     "[picture: curly hair]",
-     "[picture: short hair]",
-     "[picture: blond hair]"
-    ]
-   },
-   {
-    "label": "g",
-    "text": "¿Qué animal hay en la granja?",
-    "marks": 1,
-    "space": "mcq",
-    "choices": [
-     "[picture: a parrot]",
-     "[picture: a bird]",
-     "[picture: a cat]",
-     "[picture: a dog]"
-    ]
-   },
-   {
-    "label": "h",
-    "text": "¿Quién viene a comer mañana?",
-    "marks": 1,
-    "space": "mcq",
-    "choices": [
-     "[picture: a male cousin]",
+     "[picture: a mother]",
      "[picture: an older brother]",
-     "[picture: an aunt]",
-     "[picture: a grandmother]"
+     "[picture: a grandfather]"
     ]
    }
   ],
@@ -1638,51 +1638,51 @@
    "rows": [
     {
      "part": "a",
-     "answer": "B",
+     "answer": "A",
      "marks": "1",
-     "notes": "[picture: straight hair] — key word: *el pelo liso*"
+     "notes": "[picture: a smiling face] — key word: *simpática*"
     },
     {
      "part": "b",
-     "answer": "A",
+     "answer": "C",
      "marks": "1",
-     "notes": "[picture: a person sharing sweets] — key word: *generosa*"
+     "notes": "[picture: short hair] — key word: *el pelo corto*"
     },
     {
      "part": "c",
      "answer": "A",
      "marks": "1",
-     "notes": "[picture: a horse] — key word: *un caballo*"
+     "notes": "[picture: straight hair] — key word: *el pelo liso*"
     },
     {
      "part": "d",
-     "answer": "A",
+     "answer": "C",
      "marks": "1",
-     "notes": "[picture: an uncle] — key word: *mi tío*"
+     "notes": "[picture: a sheep] — key word: *una oveja*"
     },
     {
      "part": "e",
-     "answer": "A",
+     "answer": "B",
      "marks": "1",
-     "notes": "[picture: a little sister] — key word: *mi hermana pequeña*"
+     "notes": "[picture: a father] — key word: *mi padre*"
     },
     {
      "part": "f",
-     "answer": "D",
+     "answer": "A",
      "marks": "1",
-     "notes": "[picture: blond hair] — key word: *el pelo rubio*"
+     "notes": "[picture: a horse] — key word: *un caballo*"
     },
     {
      "part": "g",
-     "answer": "D",
+     "answer": "A",
      "marks": "1",
-     "notes": "[picture: a dog] — key word: *un perro*"
+     "notes": "[picture: a shy face] — key word: *tímida*"
     },
     {
      "part": "h",
-     "answer": "B",
+     "answer": "D",
      "marks": "1",
-     "notes": "[picture: an older brother] — key word: *mi hermano mayor*"
+     "notes": "[picture: a grandfather] — key word: *mi abuelo*"
     }
    ],
    "general": "One mark for each correct letter."
@@ -1691,12 +1691,12 @@
    "AO1 Listening"
   ],
   "template": "l-short.b1",
-  "intro": "Escucha ocho grabaciones cortas; cada una se oye dos veces. Para cada pregunta, marca con una X la casilla correcta (A–D).\n\nEstás en casa de Samuel en Málaga. Samuel te enseña unas fotos de su familia.",
+  "intro": "Escucha ocho grabaciones cortas; cada una se oye dos veces. Para cada pregunta, marca con una X la casilla correcta (A–D).\n\nEstás en una fiesta en Málaga con Samuel. Samuel te habla de la gente que hay en la fiesta.",
   "figures": [
    {
     "type": "audio",
     "lang": "es-ES",
-    "transcript": "Narrador: Pregunta 1. Samuel dice:\nSamuel: Mi padre tiene el pelo liso.\nNarrador: Pregunta 2. Luego, Samuel dice:\nSamuel: Mi hermana es muy generosa.\nNarrador: Pregunta 3. Después, Samuel dice:\nSamuel: Mi abuela me ha regalado un caballo.\nNarrador: Pregunta 4. Más tarde, Samuel dice:\nSamuel: Vivo con mi tío y con mis dos hermanos.\nNarrador: Pregunta 5. A continuación, Samuel dice:\nSamuel: Esta foto es de mi hermana pequeña en la playa.\nNarrador: Pregunta 6. Samuel dice:\nSamuel: Mi primo tiene el pelo rubio.\nNarrador: Pregunta 7. Más tarde, Samuel dice:\nSamuel: En la granja de mis tíos hay un perro.\nNarrador: Pregunta 8. Finalmente, Samuel dice:\nSamuel: Mañana viene a comer mi hermano mayor.",
+    "transcript": "Narrador: Pregunta 1. Samuel dice:\nSamuel: Mi mejor amiga es bastante simpática.\nNarrador: Pregunta 2. Luego, Samuel dice:\nSamuel: Mi primo tiene el pelo corto.\nNarrador: Pregunta 3. A continuación, Samuel dice:\nSamuel: Mi padre tiene el pelo liso.\nNarrador: Pregunta 4. Entonces Samuel dice:\nSamuel: En la granja de mis tíos hay una oveja.\nNarrador: Pregunta 5. Después, Samuel dice:\nSamuel: Vivo con mi padre y con mis dos hermanos.\nNarrador: Pregunta 6. Más tarde, Samuel dice:\nSamuel: Mi abuela me ha regalado un caballo.\nNarrador: Pregunta 7. Entonces Samuel dice:\nSamuel: Mi hermana es muy tímida.\nNarrador: Pregunta 8. Finalmente, Samuel dice:\nSamuel: Esta foto es de mi abuelo en la playa.",
     "voices": [
      "Narrador",
      "Samuel"
@@ -1747,7 +1747,7 @@
      "[picture: an uncle]",
      "[picture: a grandfather]",
      "[picture: a mother]",
-     "[picture: a father]"
+     "[picture: a little sister]"
     ]
    },
    {
@@ -1757,9 +1757,9 @@
     "space": "mcq",
     "choices": [
      "[picture: a grandmother]",
-     "[picture: a grandfather]",
+     "[picture: a little sister]",
      "[picture: a male cousin]",
-     "[picture: a father]"
+     "[picture: an aunt]"
     ]
    },
    {
@@ -1781,7 +1781,7 @@
     "space": "mcq",
     "choices": [
      "[picture: an aunt]",
-     "[picture: a male cousin]",
+     "[picture: a little sister]",
      "[picture: a grandfather]",
      "[picture: a father]"
     ]
@@ -1937,7 +1937,7 @@
      "[picture: a grandmother]",
      "[picture: an aunt]",
      "[picture: an uncle]",
-     "[picture: a mother]"
+     "[picture: a little sister]"
     ]
    },
    {
@@ -1982,8 +1982,8 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: an older brother]",
      "[picture: an aunt]",
+     "[picture: a little sister]",
      "[picture: a grandmother]",
      "[picture: a father]"
     ]
@@ -2136,10 +2136,10 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a male cousin]",
+     "[picture: a mother]",
      "[picture: an older brother]",
-     "[picture: an uncle]",
-     "[picture: a father]"
+     "[picture: a grandfather]",
+     "[picture: a little sister]"
     ]
    },
    {
@@ -2160,9 +2160,9 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a cat]",
      "[picture: a goldfish]",
-     "[picture: a bird]",
+     "[picture: a cow]",
+     "[picture: a cat]",
      "[picture: a parrot]"
     ]
    },
@@ -2173,8 +2173,8 @@
     "space": "mcq",
     "choices": [
      "[picture: a grandfather]",
-     "[picture: a grandmother]",
      "[picture: a mother]",
+     "[picture: a little sister]",
      "[picture: an uncle]"
     ]
    },
@@ -2338,9 +2338,9 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a male cousin]",
-     "[picture: an uncle]",
      "[picture: an aunt]",
+     "[picture: an uncle]",
+     "[picture: a little sister]",
      "[picture: a grandmother]"
     ]
    },
@@ -2353,7 +2353,7 @@
      "[picture: a grandmother]",
      "[picture: a mother]",
      "[picture: a male cousin]",
-     "[picture: a grandfather]"
+     "[picture: a little sister]"
     ]
    },
    {
@@ -2386,9 +2386,9 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a parrot]",
-     "[picture: a rabbit]",
      "[picture: a goldfish]",
+     "[picture: a rabbit]",
+     "[picture: a tortoise]",
      "[picture: a bird]"
     ]
    }
@@ -12108,35 +12108,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "En la granja de mis tíos hay un loro.",
+    "text": "Mi padre tiene el pelo rubio.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Vivo con mi primo y con mis dos hermanos.",
+    "text": "Mi abuela me ha regalado un pez.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Mañana viene a comer mi abuelo.",
+    "text": "Esta foto es de mi tío en la playa.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Mi mejor amiga es bastante tímida.",
+    "text": "Mi mejor amiga es bastante seria.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Mi abuela me ha regalado una vaca.",
+    "text": "Mañana viene a comer mi abuelo.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -12147,33 +12147,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "B",
+     "answer": "E",
      "marks": "1",
-     "notes": "*un loro* = a parrot"
+     "notes": "*el pelo rubio* = blond hair"
     },
     {
      "part": "b",
      "answer": "A",
      "marks": "1",
-     "notes": "*mi primo* = a male cousin"
+     "notes": "*un pez* = a goldfish"
     },
     {
      "part": "c",
-     "answer": "C",
+     "answer": "D",
      "marks": "1",
-     "notes": "*mi abuelo* = a grandfather"
+     "notes": "*mi tío* = an uncle"
     },
     {
      "part": "d",
-     "answer": "D",
+     "answer": "B",
      "marks": "1",
-     "notes": "*tímida* = a shy face"
+     "notes": "*seria* = a serious face"
     },
     {
      "part": "e",
-     "answer": "E",
+     "answer": "C",
      "marks": "1",
-     "notes": "*una vaca* = a cow"
+     "notes": "*mi abuelo* = a grandfather"
     }
    ]
   },
@@ -12192,11 +12192,11 @@
     "rows": [
      [
       "A",
-      "[picture: a male cousin]"
+      "[picture: a goldfish]"
      ],
      [
       "B",
-      "[picture: a parrot]"
+      "[picture: a serious face]"
      ],
      [
       "C",
@@ -12204,15 +12204,15 @@
      ],
      [
       "D",
-      "[picture: a shy face]"
+      "[picture: an uncle]"
      ],
      [
       "E",
-      "[picture: a cow]"
+      "[picture: blond hair]"
      ],
      [
       "F",
-      "[picture: a person talking a lot]"
+      "[picture: a little sister]"
      ]
     ]
    }
@@ -12242,35 +12242,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "En la granja de mis tíos hay un gato.",
+    "text": "Mi abuela me ha regalado una oveja.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Mi abuela me ha regalado un loro.",
+    "text": "Mi padre tiene el pelo liso.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Mi hermana es muy seria.",
-    "marks": 1,
-    "space": "box",
-    "lines": 1
-   },
-   {
-    "label": "d",
     "text": "Mi mejor amiga es bastante generosa.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
+    "label": "d",
+    "text": "Mi hermana es muy habladora.",
+    "marks": 1,
+    "space": "box",
+    "lines": 1
+   },
+   {
     "label": "e",
-    "text": "Mi primo tiene el pelo largo.",
+    "text": "En la granja de mis tíos hay un caballo.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -12281,33 +12281,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "A",
+     "answer": "B",
      "marks": "1",
-     "notes": "*un gato* = a cat"
+     "notes": "*una oveja* = a sheep"
     },
     {
      "part": "b",
-     "answer": "D",
+     "answer": "A",
      "marks": "1",
-     "notes": "*un loro* = a parrot"
+     "notes": "*el pelo liso* = straight hair"
     },
     {
      "part": "c",
-     "answer": "F",
-     "marks": "1",
-     "notes": "*seria* = a serious face"
-    },
-    {
-     "part": "d",
-     "answer": "E",
+     "answer": "D",
      "marks": "1",
      "notes": "*generosa* = a person sharing sweets"
     },
     {
-     "part": "e",
-     "answer": "B",
+     "part": "d",
+     "answer": "F",
      "marks": "1",
-     "notes": "*el pelo largo* = long hair"
+     "notes": "*habladora* = a person talking a lot"
+    },
+    {
+     "part": "e",
+     "answer": "E",
+     "marks": "1",
+     "notes": "*un caballo* = a horse"
     }
    ]
   },
@@ -12326,27 +12326,27 @@
     "rows": [
      [
       "A",
-      "[picture: a cat]"
+      "[picture: straight hair]"
      ],
      [
       "B",
-      "[picture: long hair]"
+      "[picture: a sheep]"
      ],
      [
       "C",
-      "[picture: a person laughing]"
+      "[picture: a bird]"
      ],
      [
       "D",
-      "[picture: a parrot]"
-     ],
-     [
-      "E",
       "[picture: a person sharing sweets]"
      ],
      [
+      "E",
+      "[picture: a horse]"
+     ],
+     [
       "F",
-      "[picture: a serious face]"
+      "[picture: a person talking a lot]"
      ]
     ]
    }
@@ -12376,35 +12376,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Mañana viene a comer mi padre.",
+    "text": "Esta foto es de mi tío en la playa.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Mi mejor amiga es bastante tímida.",
+    "text": "Mañana viene a comer mi hermana pequeña.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Mi abuela me ha regalado una tortuga.",
+    "text": "Mi padre tiene el pelo corto.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Mi primo tiene el pelo rizado.",
+    "text": "Mi mejor amiga es bastante seria.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Esta foto es de mi madre en la playa.",
+    "text": "Mi abuela me ha regalado un loro.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -12415,33 +12415,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "D",
+     "answer": "B",
      "marks": "1",
-     "notes": "*mi padre* = a father"
+     "notes": "*mi tío* = an uncle"
     },
     {
      "part": "b",
      "answer": "E",
      "marks": "1",
-     "notes": "*tímida* = a shy face"
+     "notes": "*mi hermana pequeña* = a little sister"
     },
     {
      "part": "c",
-     "answer": "A",
+     "answer": "C",
      "marks": "1",
-     "notes": "*una tortuga* = a tortoise"
+     "notes": "*el pelo corto* = short hair"
     },
     {
      "part": "d",
-     "answer": "F",
+     "answer": "D",
      "marks": "1",
-     "notes": "*el pelo rizado* = curly hair"
+     "notes": "*seria* = a serious face"
     },
     {
      "part": "e",
-     "answer": "C",
+     "answer": "F",
      "marks": "1",
-     "notes": "*mi madre* = a mother"
+     "notes": "*un loro* = a parrot"
     }
    ]
   },
@@ -12460,27 +12460,27 @@
     "rows": [
      [
       "A",
-      "[picture: a tortoise]"
+      "[picture: blond hair]"
      ],
      [
       "B",
-      "[picture: a cow]"
+      "[picture: an uncle]"
      ],
      [
       "C",
-      "[picture: a mother]"
+      "[picture: short hair]"
      ],
      [
       "D",
-      "[picture: a father]"
+      "[picture: a serious face]"
      ],
      [
       "E",
-      "[picture: a shy face]"
+      "[picture: a little sister]"
      ],
      [
       "F",
-      "[picture: curly hair]"
+      "[picture: a parrot]"
      ]
     ]
    }
@@ -12510,35 +12510,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Mi mejor amiga es bastante divertida.",
+    "text": "Esta foto es de mi madre en la playa.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Mi padre tiene el pelo liso.",
+    "text": "Mi hermana es muy habladora.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Mañana viene a comer mi madre.",
+    "text": "En la granja de mis tíos hay una tortuga.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Mi abuela me ha regalado un gato.",
+    "text": "Vivo con mi abuelo y con mis dos hermanos.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Vivo con mi abuelo y con mis dos hermanos.",
+    "text": "Mi mejor amiga es bastante tímida.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -12549,33 +12549,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "F",
+     "answer": "E",
      "marks": "1",
-     "notes": "*divertida* = a person laughing"
+     "notes": "*mi madre* = a mother"
     },
     {
      "part": "b",
-     "answer": "E",
+     "answer": "B",
      "marks": "1",
-     "notes": "*el pelo liso* = straight hair"
+     "notes": "*habladora* = a person talking a lot"
     },
     {
      "part": "c",
-     "answer": "B",
+     "answer": "D",
      "marks": "1",
-     "notes": "*mi madre* = a mother"
+     "notes": "*una tortuga* = a tortoise"
     },
     {
      "part": "d",
      "answer": "A",
      "marks": "1",
-     "notes": "*un gato* = a cat"
+     "notes": "*mi abuelo* = a grandfather"
     },
     {
      "part": "e",
-     "answer": "C",
+     "answer": "F",
      "marks": "1",
-     "notes": "*mi abuelo* = a grandfather"
+     "notes": "*tímida* = a shy face"
     }
    ]
   },
@@ -12594,27 +12594,27 @@
     "rows": [
      [
       "A",
-      "[picture: a cat]"
-     ],
-     [
-      "B",
-      "[picture: a mother]"
-     ],
-     [
-      "C",
       "[picture: a grandfather]"
      ],
      [
+      "B",
+      "[picture: a person talking a lot]"
+     ],
+     [
+      "C",
+      "[picture: a rabbit]"
+     ],
+     [
       "D",
-      "[picture: a male cousin]"
+      "[picture: a tortoise]"
      ],
      [
       "E",
-      "[picture: straight hair]"
+      "[picture: a mother]"
      ],
      [
       "F",
-      "[picture: a person laughing]"
+      "[picture: a shy face]"
      ]
     ]
    }
@@ -12689,13 +12689,13 @@
     },
     {
      "part": "b",
-     "answer": "B",
+     "answer": "F",
      "marks": "1",
      "notes": "*un perro* = a dog"
     },
     {
      "part": "c",
-     "answer": "F",
+     "answer": "E",
      "marks": "1",
      "notes": "*el pelo corto* = short hair"
     },
@@ -12707,7 +12707,7 @@
     },
     {
      "part": "e",
-     "answer": "E",
+     "answer": "A",
      "marks": "1",
      "notes": "*mi abuelo* = a grandfather"
     }
@@ -12728,11 +12728,11 @@
     "rows": [
      [
       "A",
-      "[picture: a rabbit]"
+      "[picture: a grandfather]"
      ],
      [
       "B",
-      "[picture: a dog]"
+      "[picture: a parrot]"
      ],
      [
       "C",
@@ -12744,11 +12744,11 @@
      ],
      [
       "E",
-      "[picture: a grandfather]"
+      "[picture: short hair]"
      ],
      [
       "F",
-      "[picture: short hair]"
+      "[picture: a dog]"
      ]
     ]
    }
@@ -12912,35 +12912,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Mi primo tiene el pelo rubio.",
+    "text": "Mi primo tiene el pelo corto.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Mi hermana es muy generosa.",
+    "text": "Mañana viene a comer mi hermana pequeña.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Mi mejor amiga es bastante divertida.",
+    "text": "Mi abuela me ha regalado una vaca.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Mañana viene a comer mi tía.",
+    "text": "Mi mejor amiga es bastante simpática.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Esta foto es de mi hermano mayor en la playa.",
+    "text": "Vivo con mi padre y con mis dos hermanos.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -12951,33 +12951,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "B",
+     "answer": "C",
      "marks": "1",
-     "notes": "*el pelo rubio* = blond hair"
+     "notes": "*el pelo corto* = short hair"
     },
     {
      "part": "b",
-     "answer": "E",
+     "answer": "D",
      "marks": "1",
-     "notes": "*generosa* = a person sharing sweets"
+     "notes": "*mi hermana pequeña* = a little sister"
     },
     {
      "part": "c",
-     "answer": "D",
+     "answer": "F",
      "marks": "1",
-     "notes": "*divertida* = a person laughing"
+     "notes": "*una vaca* = a cow"
     },
     {
      "part": "d",
-     "answer": "F",
+     "answer": "E",
      "marks": "1",
-     "notes": "*mi tía* = an aunt"
+     "notes": "*simpática* = a smiling face"
     },
     {
      "part": "e",
-     "answer": "C",
+     "answer": "A",
      "marks": "1",
-     "notes": "*mi hermano mayor* = an older brother"
+     "notes": "*mi padre* = a father"
     }
    ]
   },
@@ -12996,27 +12996,27 @@
     "rows": [
      [
       "A",
-      "[picture: curly hair]"
+      "[picture: a father]"
      ],
      [
       "B",
-      "[picture: blond hair]"
+      "[picture: a grandfather]"
      ],
      [
       "C",
-      "[picture: an older brother]"
+      "[picture: short hair]"
      ],
      [
       "D",
-      "[picture: a person laughing]"
+      "[picture: a little sister]"
      ],
      [
       "E",
-      "[picture: a person sharing sweets]"
+      "[picture: a smiling face]"
      ],
      [
       "F",
-      "[picture: an aunt]"
+      "[picture: a cow]"
      ]
     ]
    }
@@ -13180,35 +13180,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Mi abuela me ha regalado un conejo.",
+    "text": "Esta foto es de mi tío en la playa.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Mi padre tiene el pelo largo.",
+    "text": "Mañana viene a comer mi abuelo.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Mi hermana es muy tímida.",
+    "text": "Mi primo tiene el pelo rubio.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Vivo con mi tía y con mis dos hermanos.",
+    "text": "Mi padre tiene el pelo largo.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Mi primo tiene el pelo corto.",
+    "text": "Mi abuela me ha regalado una vaca.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -13219,33 +13219,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "E",
+     "answer": "C",
      "marks": "1",
-     "notes": "*un conejo* = a rabbit"
+     "notes": "*mi tío* = an uncle"
     },
     {
      "part": "b",
-     "answer": "B",
+     "answer": "A",
      "marks": "1",
-     "notes": "*el pelo largo* = long hair"
+     "notes": "*mi abuelo* = a grandfather"
     },
     {
      "part": "c",
-     "answer": "D",
+     "answer": "E",
      "marks": "1",
-     "notes": "*tímida* = a shy face"
+     "notes": "*el pelo rubio* = blond hair"
     },
     {
      "part": "d",
      "answer": "F",
      "marks": "1",
-     "notes": "*mi tía* = an aunt"
+     "notes": "*el pelo largo* = long hair"
     },
     {
      "part": "e",
-     "answer": "C",
+     "answer": "D",
      "marks": "1",
-     "notes": "*el pelo corto* = short hair"
+     "notes": "*una vaca* = a cow"
     }
    ]
   },
@@ -13264,27 +13264,27 @@
     "rows": [
      [
       "A",
-      "[picture: a serious face]"
+      "[picture: a grandfather]"
      ],
      [
       "B",
-      "[picture: long hair]"
+      "[picture: a little sister]"
      ],
      [
       "C",
-      "[picture: short hair]"
+      "[picture: an uncle]"
      ],
      [
       "D",
-      "[picture: a shy face]"
+      "[picture: a cow]"
      ],
      [
       "E",
-      "[picture: a rabbit]"
+      "[picture: blond hair]"
      ],
      [
       "F",
-      "[picture: an aunt]"
+      "[picture: long hair]"
      ]
     ]
    }
@@ -13314,35 +13314,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Mañana viene a comer mi padre.",
+    "text": "Mi primo tiene el pelo rizado.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Mi primo tiene el pelo rubio.",
+    "text": "Mi padre tiene el pelo liso.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Vivo con mi abuelo y con mis dos hermanos.",
+    "text": "Mi abuela me ha regalado un loro.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Mi mejor amiga es bastante seria.",
+    "text": "Mañana viene a comer mi abuelo.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Mi hermana es muy divertida.",
+    "text": "Vivo con mi tío y con mis dos hermanos.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -13353,33 +13353,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "C",
+     "answer": "D",
      "marks": "1",
-     "notes": "*mi padre* = a father"
+     "notes": "*el pelo rizado* = curly hair"
     },
     {
      "part": "b",
-     "answer": "F",
+     "answer": "C",
      "marks": "1",
-     "notes": "*el pelo rubio* = blond hair"
+     "notes": "*el pelo liso* = straight hair"
     },
     {
      "part": "c",
-     "answer": "D",
+     "answer": "E",
      "marks": "1",
-     "notes": "*mi abuelo* = a grandfather"
+     "notes": "*un loro* = a parrot"
     },
     {
      "part": "d",
      "answer": "A",
      "marks": "1",
-     "notes": "*seria* = a serious face"
+     "notes": "*mi abuelo* = a grandfather"
     },
     {
      "part": "e",
-     "answer": "E",
+     "answer": "F",
      "marks": "1",
-     "notes": "*divertida* = a person laughing"
+     "notes": "*mi tío* = an uncle"
     }
    ]
   },
@@ -13398,27 +13398,27 @@
     "rows": [
      [
       "A",
-      "[picture: a serious face]"
-     ],
-     [
-      "B",
-      "[picture: an uncle]"
-     ],
-     [
-      "C",
-      "[picture: a father]"
-     ],
-     [
-      "D",
       "[picture: a grandfather]"
      ],
      [
+      "B",
+      "[picture: a little sister]"
+     ],
+     [
+      "C",
+      "[picture: straight hair]"
+     ],
+     [
+      "D",
+      "[picture: curly hair]"
+     ],
+     [
       "E",
-      "[picture: a person laughing]"
+      "[picture: a parrot]"
      ],
      [
       "F",
-      "[picture: blond hair]"
+      "[picture: an uncle]"
      ]
     ]
    }
@@ -13476,7 +13476,7 @@
    },
    {
     "label": "e",
-    "text": "Mi abuela me ha regalado una tortuga.",
+    "text": "Mi abuela me ha regalado un pez.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -13513,7 +13513,7 @@
      "part": "e",
      "answer": "D",
      "marks": "1",
-     "notes": "*una tortuga* = a tortoise"
+     "notes": "*un pez* = a goldfish"
     }
    ]
   },
@@ -13544,11 +13544,11 @@
      ],
      [
       "D",
-      "[picture: a tortoise]"
+      "[picture: a goldfish]"
      ],
      [
       "E",
-      "[picture: a cow]"
+      "[picture: a rabbit]"
      ],
      [
       "F",
@@ -13716,35 +13716,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Vivo con mi tía y con mis dos hermanos.",
+    "text": "Mi abuela me ha regalado una vaca.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "En la granja de mis tíos hay un conejo.",
+    "text": "Mañana viene a comer mi hermano mayor.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Mañana viene a comer mi madre.",
+    "text": "Mi mejor amiga es bastante simpática.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Esta foto es de mi padre en la playa.",
+    "text": "Mi hermana es muy tímida.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Mi primo tiene el pelo corto.",
+    "text": "Esta foto es de mi madre en la playa.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -13755,33 +13755,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "E",
+     "answer": "F",
      "marks": "1",
-     "notes": "*mi tía* = an aunt"
+     "notes": "*una vaca* = a cow"
     },
     {
      "part": "b",
-     "answer": "C",
+     "answer": "B",
      "marks": "1",
-     "notes": "*un conejo* = a rabbit"
+     "notes": "*mi hermano mayor* = an older brother"
     },
     {
      "part": "c",
-     "answer": "B",
+     "answer": "C",
      "marks": "1",
-     "notes": "*mi madre* = a mother"
+     "notes": "*simpática* = a smiling face"
     },
     {
      "part": "d",
      "answer": "A",
      "marks": "1",
-     "notes": "*mi padre* = a father"
+     "notes": "*tímida* = a shy face"
     },
     {
      "part": "e",
-     "answer": "F",
+     "answer": "E",
      "marks": "1",
-     "notes": "*el pelo corto* = short hair"
+     "notes": "*mi madre* = a mother"
     }
    ]
   },
@@ -13800,27 +13800,27 @@
     "rows": [
      [
       "A",
-      "[picture: a father]"
+      "[picture: a shy face]"
      ],
      [
       "B",
-      "[picture: a mother]"
+      "[picture: an older brother]"
      ],
      [
       "C",
-      "[picture: a rabbit]"
+      "[picture: a smiling face]"
      ],
      [
       "D",
-      "[picture: straight hair]"
+      "[picture: a grandfather]"
      ],
      [
       "E",
-      "[picture: an aunt]"
+      "[picture: a mother]"
      ],
      [
       "F",
-      "[picture: short hair]"
+      "[picture: a cow]"
      ]
     ]
    }
@@ -40186,28 +40186,28 @@
    },
    {
     "label": "b",
-    "text": "Me encanta la lámpara de mi habitación.",
+    "text": "Ayer mis padres compraron el sofá para el salón.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Mi lugar favorito de la casa es la terraza.",
+    "text": "Me encanta la cama de mi habitación.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Hoy desayunamos en el comedor.",
+    "text": "Mi padre está en el comedor.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "En casa siempre tengo que lavar los platos.",
+    "text": "En casa siempre tengo que regar las plantas.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -40218,33 +40218,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "D",
+     "answer": "A",
      "marks": "1",
      "notes": "*sacar la basura* = a rubbish bin"
     },
     {
      "part": "b",
-     "answer": "E",
+     "answer": "B",
      "marks": "1",
-     "notes": "*la lámpara* = a lamp"
+     "notes": "*el sofá* = a sofa"
     },
     {
      "part": "c",
-     "answer": "B",
+     "answer": "E",
      "marks": "1",
-     "notes": "*la terraza* = a balcony"
+     "notes": "*la cama* = a bed"
     },
     {
      "part": "d",
-     "answer": "F",
+     "answer": "C",
      "marks": "1",
      "notes": "*el comedor* = a dining room"
     },
     {
      "part": "e",
-     "answer": "A",
+     "answer": "D",
      "marks": "1",
-     "notes": "*lavar los platos* = a sink full of dishes"
+     "notes": "*regar las plantas* = a watering can"
     }
    ]
   },
@@ -40263,27 +40263,27 @@
     "rows": [
      [
       "A",
-      "[picture: a sink full of dishes]"
-     ],
-     [
-      "B",
-      "[picture: a balcony]"
-     ],
-     [
-      "C",
-      "[picture: a kitchen]"
-     ],
-     [
-      "D",
       "[picture: a rubbish bin]"
      ],
      [
+      "B",
+      "[picture: a sofa]"
+     ],
+     [
+      "C",
+      "[picture: a dining room]"
+     ],
+     [
+      "D",
+      "[picture: a watering can]"
+     ],
+     [
       "E",
-      "[picture: a lamp]"
+      "[picture: a bed]"
      ],
      [
       "F",
-      "[picture: a dining room]"
+      "[picture: a garage]"
      ]
     ]
    }
@@ -40715,35 +40715,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Hoy desayunamos en el garaje.",
+    "text": "Tu maleta está al lado de la mesa.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Mi lugar favorito de la casa es mi dormitorio.",
+    "text": "Hoy desayunamos en la cocina.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "¿Puedes ayudarme a pasar la aspiradora?",
+    "text": "Ayer mis padres compraron el sofá para el salón.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Tu maleta está al lado del armario.",
+    "text": "¿Puedes ayudarme a planchar?",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "En casa siempre tengo que cocinar.",
+    "text": "Lo que más odio es sacar la basura.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -40754,33 +40754,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "D",
+     "answer": "A",
      "marks": "1",
-     "notes": "*el garaje* = a garage"
+     "notes": "*la mesa* = a table"
     },
     {
      "part": "b",
-     "answer": "C",
+     "answer": "F",
      "marks": "1",
-     "notes": "*mi dormitorio* = a bedroom"
+     "notes": "*la cocina* = a kitchen"
     },
     {
      "part": "c",
-     "answer": "A",
+     "answer": "C",
      "marks": "1",
-     "notes": "*pasar la aspiradora* = a vacuum cleaner"
+     "notes": "*el sofá* = a sofa"
     },
     {
      "part": "d",
-     "answer": "F",
+     "answer": "D",
      "marks": "1",
-     "notes": "*el armario* = a wardrobe"
+     "notes": "*planchar* = an iron"
     },
     {
      "part": "e",
-     "answer": "B",
+     "answer": "E",
      "marks": "1",
-     "notes": "*cocinar* = a pan on a cooker"
+     "notes": "*sacar la basura* = a rubbish bin"
     }
    ]
   },
@@ -40799,27 +40799,27 @@
     "rows": [
      [
       "A",
-      "[picture: a vacuum cleaner]"
+      "[picture: a table]"
      ],
      [
       "B",
-      "[picture: a pan on a cooker]"
+      "[picture: a vacuum cleaner]"
      ],
      [
       "C",
-      "[picture: a bedroom]"
+      "[picture: a sofa]"
      ],
      [
       "D",
-      "[picture: a garage]"
+      "[picture: an iron]"
      ],
      [
       "E",
-      "[picture: a table being laid]"
+      "[picture: a rubbish bin]"
      ],
      [
       "F",
-      "[picture: a wardrobe]"
+      "[picture: a kitchen]"
      ]
     ]
    }
@@ -40849,35 +40849,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Lo que más odio es lavar los platos.",
-    "marks": 1,
-    "space": "box",
-    "lines": 1
-   },
-   {
-    "label": "b",
-    "text": "En casa siempre tengo que planchar.",
-    "marks": 1,
-    "space": "box",
-    "lines": 1
-   },
-   {
-    "label": "c",
     "text": "Ayer mis padres compraron el armario para el salón.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
+    "label": "b",
+    "text": "Mi padre está en la cocina.",
+    "marks": 1,
+    "space": "box",
+    "lines": 1
+   },
+   {
+    "label": "c",
+    "text": "Hoy desayunamos en mi dormitorio.",
+    "marks": 1,
+    "space": "box",
+    "lines": 1
+   },
+   {
     "label": "d",
-    "text": "Mi lugar favorito de la casa es el comedor.",
+    "text": "En casa siempre tengo que poner la mesa.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Mi padre está en la cocina.",
+    "text": "Tu maleta está al lado del sofá.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -40888,33 +40888,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "B",
-     "marks": "1",
-     "notes": "*lavar los platos* = a sink full of dishes"
-    },
-    {
-     "part": "b",
-     "answer": "F",
-     "marks": "1",
-     "notes": "*planchar* = an iron"
-    },
-    {
-     "part": "c",
-     "answer": "A",
+     "answer": "E",
      "marks": "1",
      "notes": "*el armario* = a wardrobe"
     },
     {
-     "part": "d",
+     "part": "b",
+     "answer": "B",
+     "marks": "1",
+     "notes": "*la cocina* = a kitchen"
+    },
+    {
+     "part": "c",
      "answer": "C",
      "marks": "1",
-     "notes": "*el comedor* = a dining room"
+     "notes": "*mi dormitorio* = a bedroom"
+    },
+    {
+     "part": "d",
+     "answer": "D",
+     "marks": "1",
+     "notes": "*poner la mesa* = a table being laid"
     },
     {
      "part": "e",
-     "answer": "E",
+     "answer": "A",
      "marks": "1",
-     "notes": "*la cocina* = a kitchen"
+     "notes": "*el sofá* = a sofa"
     }
    ]
   },
@@ -40933,27 +40933,27 @@
     "rows": [
      [
       "A",
-      "[picture: a wardrobe]"
+      "[picture: a sofa]"
      ],
      [
       "B",
-      "[picture: a sink full of dishes]"
-     ],
-     [
-      "C",
-      "[picture: a dining room]"
-     ],
-     [
-      "D",
-      "[picture: a watering can]"
-     ],
-     [
-      "E",
       "[picture: a kitchen]"
      ],
      [
+      "C",
+      "[picture: a bedroom]"
+     ],
+     [
+      "D",
+      "[picture: a table being laid]"
+     ],
+     [
+      "E",
+      "[picture: a wardrobe]"
+     ],
+     [
       "F",
-      "[picture: an iron]"
+      "[picture: a bookcase]"
      ]
     ]
    }
@@ -41251,35 +41251,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Ayer mis padres compraron la alfombra para el salón.",
+    "text": "En casa siempre tengo que sacar la basura.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Tu maleta está al lado de la estantería.",
+    "text": "Ayer mis padres compraron el armario para el salón.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Mi lugar favorito de la casa es la terraza.",
+    "text": "Lo que más odio es pasar la aspiradora.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Hoy desayunamos en el jardín.",
+    "text": "¿Puedes ayudarme a regar las plantas?",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Me encanta el sofá de mi habitación.",
+    "text": "Me encanta la lámpara de mi habitación.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -41290,33 +41290,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "C",
+     "answer": "E",
      "marks": "1",
-     "notes": "*la alfombra* = a rug"
+     "notes": "*sacar la basura* = a rubbish bin"
     },
     {
      "part": "b",
-     "answer": "D",
+     "answer": "B",
      "marks": "1",
-     "notes": "*la estantería* = a bookcase"
+     "notes": "*el armario* = a wardrobe"
     },
     {
      "part": "c",
-     "answer": "B",
+     "answer": "C",
      "marks": "1",
-     "notes": "*la terraza* = a balcony"
+     "notes": "*pasar la aspiradora* = a vacuum cleaner"
     },
     {
      "part": "d",
-     "answer": "F",
+     "answer": "A",
      "marks": "1",
-     "notes": "*el jardín* = a garden"
+     "notes": "*regar las plantas* = a watering can"
     },
     {
      "part": "e",
-     "answer": "E",
+     "answer": "D",
      "marks": "1",
-     "notes": "*el sofá* = a sofa"
+     "notes": "*la lámpara* = a lamp"
     }
    ]
   },
@@ -41335,27 +41335,27 @@
     "rows": [
      [
       "A",
-      "[picture: a lamp]"
+      "[picture: a watering can]"
      ],
      [
       "B",
-      "[picture: a balcony]"
+      "[picture: a wardrobe]"
      ],
      [
       "C",
-      "[picture: a rug]"
+      "[picture: a vacuum cleaner]"
      ],
      [
       "D",
-      "[picture: a bookcase]"
+      "[picture: a lamp]"
      ],
      [
       "E",
-      "[picture: a sofa]"
+      "[picture: a rubbish bin]"
      ],
      [
       "F",
-      "[picture: a garden]"
+      "[picture: a sink full of dishes]"
      ]
     ]
    }
@@ -41660,14 +41660,14 @@
    },
    {
     "label": "b",
-    "text": "Hoy desayunamos en la terraza.",
+    "text": "Hoy desayunamos en el comedor.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Tu maleta está al lado del espejo.",
+    "text": "Tu maleta está al lado de la estantería.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -41681,7 +41681,7 @@
    },
    {
     "label": "e",
-    "text": "Lo que más odio es poner la mesa.",
+    "text": "Lo que más odio es sacar la basura.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -41700,13 +41700,13 @@
      "part": "b",
      "answer": "C",
      "marks": "1",
-     "notes": "*la terraza* = a balcony"
+     "notes": "*el comedor* = a dining room"
     },
     {
      "part": "c",
      "answer": "B",
      "marks": "1",
-     "notes": "*el espejo* = a mirror"
+     "notes": "*la estantería* = a bookcase"
     },
     {
      "part": "d",
@@ -41718,7 +41718,7 @@
      "part": "e",
      "answer": "F",
      "marks": "1",
-     "notes": "*poner la mesa* = a table being laid"
+     "notes": "*sacar la basura* = a rubbish bin"
     }
    ]
   },
@@ -41737,15 +41737,15 @@
     "rows": [
      [
       "A",
-      "[picture: a bookcase]"
+      "[picture: a wardrobe]"
      ],
      [
       "B",
-      "[picture: a mirror]"
+      "[picture: a bookcase]"
      ],
      [
       "C",
-      "[picture: a balcony]"
+      "[picture: a dining room]"
      ],
      [
       "D",
@@ -41757,7 +41757,7 @@
      ],
      [
       "F",
-      "[picture: a table being laid]"
+      "[picture: a rubbish bin]"
      ]
     ]
    }
@@ -41815,7 +41815,7 @@
    },
    {
     "label": "e",
-    "text": "Ayer mis padres compraron el armario para el salón.",
+    "text": "Ayer mis padres compraron el sofá para el salón.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -41852,7 +41852,7 @@
      "part": "e",
      "answer": "F",
      "marks": "1",
-     "notes": "*el armario* = a wardrobe"
+     "notes": "*el sofá* = a sofa"
     }
    ]
   },
@@ -41891,7 +41891,7 @@
      ],
      [
       "F",
-      "[picture: a wardrobe]"
+      "[picture: a sofa]"
      ]
     ]
    }
@@ -65502,7 +65502,7 @@
     "space": "mcq",
     "choices": [
      "[picture: trainers]",
-     "[picture: boots]",
+     "[picture: a cap]",
      "[picture: a skirt]",
      "[picture: a jacket]"
     ]
@@ -65525,7 +65525,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a jacket]",
+     "[picture: jeans]",
      "[picture: a cap]",
      "[picture: a skirt]",
      "[picture: a coat]"
@@ -65679,8 +65679,8 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
+     "[picture: a skirt]",
      "[picture: a coat]",
-     "[picture: boots]",
      "[picture: trainers]",
      "[picture: a swimsuit]"
     ]
@@ -65739,10 +65739,10 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a dress]",
-     "[picture: boots]",
      "[picture: a skirt]",
-     "[picture: trainers]"
+     "[picture: boots]",
+     "[picture: jeans]",
+     "[picture: a dress]"
     ]
    },
    {
@@ -67022,9 +67022,9 @@
     "space": "mcq",
     "choices": [
      "[picture: a coat]",
-     "[picture: a jacket]",
+     "[picture: jeans]",
      "[picture: a skirt]",
-     "[picture: jeans]"
+     "[picture: trainers]"
     ]
    },
    {
@@ -67214,7 +67214,7 @@
      "[picture: a cap]",
      "[picture: boots]",
      "[picture: a skirt]",
-     "[picture: trainers]"
+     "[picture: a dress]"
     ]
    },
    {
@@ -67413,10 +67413,10 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a jacket]",
-     "[picture: a coat]",
      "[picture: a cap]",
-     "[picture: boots]"
+     "[picture: a coat]",
+     "[picture: boots]",
+     "[picture: jeans]"
     ]
    },
    {
@@ -67437,8 +67437,8 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: boots]",
      "[picture: a dress]",
+     "[picture: jeans]",
      "[picture: trainers]",
      "[picture: a cap]"
     ]
@@ -77653,35 +77653,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Los vaqueros cuestan seis euros con veinte.",
+    "text": "Los vaqueros cuestan nueve euros con noventa.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Mi abuela me ha regalado una falda.",
+    "text": "Para la fiesta voy a comprar un abrigo.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Esta camiseta cuesta doce euros.",
+    "text": "Ahora vamos a la floristería.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Para el invierno necesito una chaqueta.",
+    "text": "Mi abuela me ha regalado una falda.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Ahora vamos a la floristería.",
+    "text": "Para el invierno necesito un jersey.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -77692,33 +77692,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "D",
+     "answer": "A",
      "marks": "1",
-     "notes": "*seis euros con veinte* = €6.20"
+     "notes": "*nueve euros con noventa* = €9.90"
     },
     {
      "part": "b",
-     "answer": "A",
+     "answer": "C",
+     "marks": "1",
+     "notes": "*un abrigo* = a coat"
+    },
+    {
+     "part": "c",
+     "answer": "D",
+     "marks": "1",
+     "notes": "*a la floristería* = a flower shop"
+    },
+    {
+     "part": "d",
+     "answer": "E",
      "marks": "1",
      "notes": "*una falda* = a skirt"
     },
     {
-     "part": "c",
-     "answer": "C",
-     "marks": "1",
-     "notes": "*doce euros* = €12.00"
-    },
-    {
-     "part": "d",
+     "part": "e",
      "answer": "F",
      "marks": "1",
-     "notes": "*una chaqueta* = a jacket"
-    },
-    {
-     "part": "e",
-     "answer": "E",
-     "marks": "1",
-     "notes": "*a la floristería* = a flower shop"
+     "notes": "*un jersey* = a jumper"
     }
    ]
   },
@@ -77737,27 +77737,27 @@
     "rows": [
      [
       "A",
-      "[picture: a skirt]"
+      "[picture: €9.90]"
      ],
      [
       "B",
-      "[picture: boots]"
+      "[picture: €2.75]"
      ],
      [
       "C",
-      "[picture: €12.00]"
+      "[picture: a coat]"
      ],
      [
       "D",
-      "[picture: €6.20]"
-     ],
-     [
-      "E",
       "[picture: a flower shop]"
      ],
      [
+      "E",
+      "[picture: a skirt]"
+     ],
+     [
       "F",
-      "[picture: a jacket]"
+      "[picture: a jumper]"
      ]
     ]
    }
@@ -78344,7 +78344,7 @@
    },
    {
     "label": "d",
-    "text": "Para la fiesta voy a comprar un jersey.",
+    "text": "Para la fiesta voy a comprar una falda.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -78382,7 +78382,7 @@
      "part": "d",
      "answer": "C",
      "marks": "1",
-     "notes": "*un jersey* = a jumper"
+     "notes": "*una falda* = a skirt"
     },
     {
      "part": "e",
@@ -78407,7 +78407,7 @@
     "rows": [
      [
       "A",
-      "[picture: a skirt]"
+      "[picture: a jumper]"
      ],
      [
       "B",
@@ -78415,7 +78415,7 @@
      ],
      [
       "C",
-      "[picture: a jumper]"
+      "[picture: a skirt]"
      ],
      [
       "D",
@@ -78478,7 +78478,7 @@
    },
    {
     "label": "d",
-    "text": "En la maleta llevo una gorra.",
+    "text": "En la maleta llevo un vestido.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -78516,7 +78516,7 @@
      "part": "d",
      "answer": "E",
      "marks": "1",
-     "notes": "*una gorra* = a cap"
+     "notes": "*un vestido* = a dress"
     },
     {
      "part": "e",
@@ -78549,7 +78549,7 @@
      ],
      [
       "C",
-      "[picture: boots]"
+      "[picture: a skirt]"
      ],
      [
       "D",
@@ -78557,7 +78557,7 @@
      ],
      [
       "E",
-      "[picture: a cap]"
+      "[picture: a dress]"
      ],
      [
       "F",
@@ -78630,31 +78630,31 @@
    "rows": [
     {
      "part": "a",
-     "answer": "F",
+     "answer": "C",
      "marks": "1",
      "notes": "*a la frutería* = a greengrocer's"
     },
     {
      "part": "b",
-     "answer": "C",
+     "answer": "B",
      "marks": "1",
      "notes": "*una chaqueta* = a jacket"
     },
     {
      "part": "c",
-     "answer": "E",
+     "answer": "A",
      "marks": "1",
      "notes": "*con tarjeta* = a bank card"
     },
     {
      "part": "d",
-     "answer": "B",
+     "answer": "D",
      "marks": "1",
      "notes": "*unos vaqueros* = jeans"
     },
     {
      "part": "e",
-     "answer": "D",
+     "answer": "E",
      "marks": "1",
      "notes": "*tres euros con cincuenta* = €3.50"
     }
@@ -78675,27 +78675,27 @@
     "rows": [
      [
       "A",
-      "[picture: a swimsuit]"
-     ],
-     [
-      "B",
-      "[picture: jeans]"
-     ],
-     [
-      "C",
-      "[picture: a jacket]"
-     ],
-     [
-      "D",
-      "[picture: €3.50]"
-     ],
-     [
-      "E",
       "[picture: a bank card]"
      ],
      [
-      "F",
+      "B",
+      "[picture: a jacket]"
+     ],
+     [
+      "C",
       "[picture: a greengrocer's]"
+     ],
+     [
+      "D",
+      "[picture: jeans]"
+     ],
+     [
+      "E",
+      "[picture: €3.50]"
+     ],
+     [
+      "F",
+      "[picture: trainers]"
      ]
     ]
    }
@@ -78859,35 +78859,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Los vaqueros cuestan seis euros con veinte.",
+    "text": "Voy a pagar con tarjeta.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Esta camiseta cuesta dos euros con setenta y cinco.",
+    "text": "Los vaqueros cuestan seis euros con veinte.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Para la fiesta voy a comprar unas botas.",
+    "text": "Este jersey, ¿lo tienen en blanco?",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Para el invierno necesito una gorra.",
+    "text": "Ahora vamos a la librería.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "En la maleta llevo un vestido.",
+    "text": "Para el invierno necesito unas botas.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -78898,33 +78898,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "F",
+     "answer": "D",
      "marks": "1",
-     "notes": "*seis euros con veinte* = €6.20"
+     "notes": "*con tarjeta* = a bank card"
     },
     {
      "part": "b",
      "answer": "C",
      "marks": "1",
-     "notes": "*dos euros con setenta y cinco* = €2.75"
+     "notes": "*seis euros con veinte* = €6.20"
     },
     {
      "part": "c",
      "answer": "E",
      "marks": "1",
-     "notes": "*unas botas* = boots"
+     "notes": "*blanco* = white"
     },
     {
      "part": "d",
-     "answer": "D",
+     "answer": "B",
      "marks": "1",
-     "notes": "*una gorra* = a cap"
+     "notes": "*a la librería* = a bookshop"
     },
     {
      "part": "e",
-     "answer": "B",
+     "answer": "A",
      "marks": "1",
-     "notes": "*un vestido* = a dress"
+     "notes": "*unas botas* = boots"
     }
    ]
   },
@@ -78943,27 +78943,27 @@
     "rows": [
      [
       "A",
-      "[picture: €9.90]"
-     ],
-     [
-      "B",
-      "[picture: a dress]"
-     ],
-     [
-      "C",
-      "[picture: €2.75]"
-     ],
-     [
-      "D",
-      "[picture: a cap]"
-     ],
-     [
-      "E",
       "[picture: boots]"
      ],
      [
-      "F",
+      "B",
+      "[picture: a bookshop]"
+     ],
+     [
+      "C",
       "[picture: €6.20]"
+     ],
+     [
+      "D",
+      "[picture: a bank card]"
+     ],
+     [
+      "E",
+      "[picture: white]"
+     ],
+     [
+      "F",
+      "[picture: a cap]"
      ]
     ]
    }
@@ -78993,35 +78993,35 @@
   "parts": [
    {
     "label": "a",
-    "text": "Este jersey, ¿lo tienen en azul?",
+    "text": "Ahora vamos a la panadería.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Mi abuela me ha regalado unas botas.",
+    "text": "Voy a pagar con un cheque regalo.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Para la fiesta voy a comprar un vestido.",
+    "text": "Los vaqueros cuestan nueve euros con noventa.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "d",
-    "text": "Voy a pagar con tarjeta.",
+    "text": "Para la fiesta voy a comprar un abrigo.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Los vaqueros cuestan dos euros con setenta y cinco.",
+    "text": "En la maleta llevo una falda.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -79032,33 +79032,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "E",
+     "answer": "C",
      "marks": "1",
-     "notes": "*azul* = blue"
+     "notes": "*a la panadería* = a bakery"
     },
     {
      "part": "b",
-     "answer": "B",
+     "answer": "A",
      "marks": "1",
-     "notes": "*unas botas* = boots"
+     "notes": "*con un cheque regalo* = a gift voucher"
     },
     {
      "part": "c",
-     "answer": "F",
+     "answer": "B",
      "marks": "1",
-     "notes": "*un vestido* = a dress"
+     "notes": "*nueve euros con noventa* = €9.90"
     },
     {
      "part": "d",
-     "answer": "C",
+     "answer": "E",
      "marks": "1",
-     "notes": "*con tarjeta* = a bank card"
+     "notes": "*un abrigo* = a coat"
     },
     {
      "part": "e",
-     "answer": "A",
+     "answer": "D",
      "marks": "1",
-     "notes": "*dos euros con setenta y cinco* = €2.75"
+     "notes": "*una falda* = a skirt"
     }
    ]
   },
@@ -79077,27 +79077,27 @@
     "rows": [
      [
       "A",
-      "[picture: €2.75]"
+      "[picture: a gift voucher]"
      ],
      [
       "B",
-      "[picture: boots]"
+      "[picture: €9.90]"
      ],
      [
       "C",
-      "[picture: a bank card]"
+      "[picture: a bakery]"
      ],
      [
       "D",
-      "[picture: banknotes and coins]"
+      "[picture: a skirt]"
      ],
      [
       "E",
-      "[picture: blue]"
+      "[picture: a coat]"
      ],
      [
       "F",
-      "[picture: a dress]"
+      "[picture: a mobile phone being used to pay]"
      ]
     ]
    }

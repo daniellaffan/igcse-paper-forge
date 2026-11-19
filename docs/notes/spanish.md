@@ -18,7 +18,7 @@ No disagreement. The board is Cambridge 0530, not Edexcel, and it covers the fou
 - Pictures in the papers are not in the text extraction, so picture options are known only from the mark-scheme letters.
 
 ## Design decisions (for the lead)
-- **Pictures.** Picture-based items (l-short, r-pictures) use English captions such as "[picture: …]" in place of drawings.
+- **Pictures.** Picture items (l-short, r-pictures) print line drawings: Tabler outline icons (MIT licence), plus clock faces and a body figure drawn in code. `scripts/gen/spanish_pictures.py` maps 365 of the 473 captions. Colours, days, months, flags, countries and languages keep a boxed caption, because a black-and-white drawing could only show them by printing the English word. No question shows two captions with the same drawing. Listening options print side by side as A–D, reading pictures as an A–F grid, and the mark scheme gives the caption.
 - **Speaking.** The two topic conversations are one 30-mark item, because the marks are awarded jointly. The role play is a separate 10-mark item. Both carry the teacher script.
 - **Writing Q3.** Each Q3 is a single 28-mark task. The paper's a/b choice is not modelled as option_group.
 - **Formats.** No gap-fill or true/false formats, because they are absent from the current papers.

@@ -74,7 +74,7 @@ Dan may want to revisit. Per-subject working notes (corpus findings, counts, tem
 
 ## Spanish 0530 (Cambridge)
 - All four papers: Listening, Reading, Speaking, Writing.
-- **Pictures** are replaced by short captions in boxes (we cannot use the board's pictures).
+- **Pictures** are our own line drawings: Tabler Icons (MIT licence, credited in `site/src/lib/spanish-pictures.json`), plus clocks and a body figure drawn in code. Colours, days, months, flags and languages stay as captions in boxes.
 - **Listening audio** is read aloud by the browser's Spanish voice (Web Speech API), played twice;
   the transcript is in the mark scheme. No recorded audio exists.
 - **Speaking:** role plays as on the real cards; the topic conversation is one 30-mark item.

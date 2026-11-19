@@ -1,5 +1,6 @@
 import katex from 'katex'
 import 'katex/dist/katex.min.css'
+import { pictureSvg } from './pictures'
 
 const esc = (s: string) =>
   s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;')
@@ -10,6 +11,11 @@ function inline(s: string): string {
   h = h.replace(/(^|[^*])\*([^*\s][^*]*?)\*(?!\*)/g, '$1<em>$2</em>')
   h = h.replace(/\[\[blank\]\]/g, '<span class="ans-box"></span>')
   h = h.replace(/\[\[dots\]\]/g, '<span class="ans-dots"></span>')
+  // Spanish pictures: a line drawing (caption kept for the mark scheme), or the caption in a box
+  h = h.replace(/\[picture: ([^\]]+)\]/g, (_, cap: string) => {
+    const svg = pictureSvg(cap.replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&'))
+    return svg ? `<span class="pic">${svg}<span class="pic-cap">[picture: ${cap}]</span></span>` : `<span class="pic pic-text">${cap}</span>`
+  })
   h = h.replace(/\n/g, '<br/>')
   return h
 }

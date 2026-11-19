@@ -31901,7 +31901,7 @@
     "choices": [
      "[picture: balloons]",
      "[picture: masks]",
-     "[picture: a fancy-dress costume]",
+     "[picture: invitation cards]",
      "[picture: candles]"
     ]
    },
@@ -32116,7 +32116,7 @@
      "[picture: a fancy-dress costume]",
      "[picture: candles]",
      "[picture: balloons]",
-     "[picture: masks]"
+     "[picture: a birthday cake]"
     ]
    },
    {
@@ -32507,7 +32507,7 @@
     "choices": [
      "[picture: balloons]",
      "[picture: fireworks]",
-     "[picture: masks]",
+     "[picture: candles]",
      "[picture: a fancy-dress costume]"
     ]
    },
@@ -32684,9 +32684,9 @@
     "space": "mcq",
     "choices": [
      "[picture: masks]",
-     "[picture: a fancy-dress costume]",
+     "[picture: balloons]",
      "[picture: candles]",
-     "[picture: balloons]"
+     "[picture: fireworks]"
     ]
    },
    {
@@ -32838,7 +32838,7 @@
     "space": "mcq",
     "choices": [
      "[picture: balloons]",
-     "[picture: a fancy-dress costume]",
+     "[picture: a birthday cake]",
      "[picture: invitation cards]",
      "[picture: masks]"
     ]
@@ -33051,10 +33051,10 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: a fancy-dress costume]",
+     "[picture: balloons]",
      "[picture: a birthday cake]",
      "[picture: masks]",
-     "[picture: balloons]"
+     "[picture: candles]"
     ]
    },
    {
@@ -33585,9 +33585,9 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: invitation cards]",
-     "[picture: masks]",
+     "[picture: a birthday cake]",
      "[picture: balloons]",
+     "[picture: invitation cards]",
      "[picture: a fancy-dress costume]"
     ]
    },
@@ -34037,9 +34037,9 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "[picture: candles]",
-     "[picture: a fancy-dress costume]",
+     "[picture: invitation cards]",
      "[picture: balloons]",
+     "[picture: candles]",
      "[picture: masks]"
     ]
    },
@@ -44194,14 +44194,14 @@
    },
    {
     "label": "d",
-    "text": "Para el cumpleaños de mi hermano compramos unas invitaciones.",
+    "text": "Para el cumpleaños de mi hermano compramos unos globos.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Mi fiesta favorita es el Carnaval.",
+    "text": "Mi fiesta favorita es el Día de Muertos.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -44212,19 +44212,19 @@
    "rows": [
     {
      "part": "a",
-     "answer": "E",
+     "answer": "F",
      "marks": "1",
      "notes": "*unas máscaras* = masks"
     },
     {
      "part": "b",
-     "answer": "F",
+     "answer": "B",
      "marks": "1",
      "notes": "*un videojuego* = a video game"
     },
     {
      "part": "c",
-     "answer": "D",
+     "answer": "E",
      "marks": "1",
      "notes": "*una pulsera* = a bracelet"
     },
@@ -44232,13 +44232,13 @@
      "part": "d",
      "answer": "A",
      "marks": "1",
-     "notes": "*unas invitaciones* = invitation cards"
+     "notes": "*unos globos* = balloons"
     },
     {
      "part": "e",
      "answer": "C",
      "marks": "1",
-     "notes": "*el Carnaval* = carnival costumes"
+     "notes": "*el Día de Muertos* = a decorated altar with marigolds"
     }
    ]
   },
@@ -44257,27 +44257,27 @@
     "rows": [
      [
       "A",
-      "[picture: invitation cards]"
+      "[picture: balloons]"
      ],
      [
       "B",
-      "[picture: a T-shirt]"
+      "[picture: a video game]"
      ],
      [
       "C",
-      "[picture: carnival costumes]"
+      "[picture: a decorated altar with marigolds]"
      ],
      [
       "D",
-      "[picture: a bracelet]"
+      "[picture: candles]"
      ],
      [
       "E",
-      "[picture: masks]"
+      "[picture: a bracelet]"
      ],
      [
       "F",
-      "[picture: a video game]"
+      "[picture: masks]"
      ]
     ]
    }

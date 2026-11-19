@@ -2,6 +2,7 @@ import type { ReactNode } from 'react'
 import type { Figure, Part, Question } from '../types'
 import { Rich } from '../lib/rich'
 import { Figures } from './Figures'
+import { isPictureChoice } from '../lib/pictures'
 
 export interface Block {
   key: string
@@ -45,6 +46,19 @@ function AnswerSpace({ q, p }: { q: Question; p: Part }) {
     case 'none':
       return <div className="marks-row">{marks}</div>
     case 'mcq':
+      // Cambridge picture questions print the four pictures side by side, each with its letter and box
+      if ((p.choices || []).length > 1 && (p.choices || []).every(isPictureChoice)) return (
+        <div className="mcq pic-row">
+          {(p.choices || []).map((c, i) => (
+            <div className="pic-opt" key={i}>
+              <span className="mcq-letter">{String.fromCharCode(65 + i)}</span>
+              <Rich as="span" text={c} />
+              <span className="mcq-box" aria-hidden="true" />
+            </div>
+          ))}
+          <div className="marks-row">{marks}</div>
+        </div>
+      )
       return (
         <div className="mcq">
           {(p.choices || []).map((c, i) => (

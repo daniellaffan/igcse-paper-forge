@@ -30,6 +30,12 @@ import spanish_lex as LX  # noqa: E402
 import spanish_spec as SP  # noqa: E402
 import spanish_ca, spanish_cb, spanish_cc, spanish_cd, spanish_ce  # noqa: E402
 import spanish_scen as SC  # noqa: E402
+from spanish_pictures import PICS  # noqa: E402
+
+
+def pic(cap):
+    """What the printed picture looks like: two captions with the same drawing can't both be options."""
+    return PICS.get(cap, cap)
 
 CONTENT = {}
 for _m in (spanish_ca, spanish_cb, spanish_cc, spanish_cd, spanish_ce):
@@ -403,7 +409,14 @@ def b_l_short(c, rnd):
                 bad = True
                 break
             good = vals[0]
-            dis = [v for v in vals[1:] if v[1] != good[1]][:3]
+            dis, shown = [], {pic(good[1])}
+            for v in vals[1:]:
+                if pic(v[1]) not in shown and len(dis) < 3:
+                    dis.append(v)
+                    shown.add(pic(v[1]))
+            if len(dis) < 3:
+                bad = True
+                break
             utt = with_article(utt, good[0])
             env = val_env(base, good)
             sent = render(utt, env, rnd)
@@ -627,12 +640,12 @@ def b_r_pictures(c, rnd):
         seen, items = set(), []
         for e in chosen:
             lead, utt, qq, cat = [x.strip() for x in e.split("#")]
-            vals = [v for v in LX.CATS[cat] if v[1] not in seen]
+            vals = [v for v in LX.CATS[cat] if pic(v[1]) not in seen]
             v = rnd.choice(vals)
-            seen.add(v[1])
+            seen.add(pic(v[1]))
             items.append((cap(render(with_article(utt, v[0]), val_env(base, v), rnd)), v, cat))
         cat_x = rnd.choice([i[2] for i in items])
-        extra = rnd.choice([v for v in LX.CATS[cat_x] if v[1] not in seen])
+        extra = rnd.choice([v for v in LX.CATS[cat_x] if pic(v[1]) not in seen])
         opts = [(i[1][0], i[2]) for i in items] + [(extra[0], cat_x)]
         if not ambiguous([i[0] for i in items], opts, list(range(5))):
             break

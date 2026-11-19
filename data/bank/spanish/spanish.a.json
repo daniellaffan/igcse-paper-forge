@@ -37164,7 +37164,7 @@
    },
    {
     "label": "c",
-    "text": "Para merendar, prefiero un té.",
+    "text": "Para merendar, prefiero un café.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -37203,7 +37203,7 @@
      "part": "c",
      "answer": "E",
      "marks": "1",
-     "notes": "*un té* = a cup of tea"
+     "notes": "*un café* = a cup of coffee"
     },
     {
      "part": "d",
@@ -37250,7 +37250,7 @@
      ],
      [
       "E",
-      "[picture: a cup of tea]"
+      "[picture: a cup of coffee]"
      ],
      [
       "F",
@@ -37707,14 +37707,14 @@
    },
    {
     "label": "d",
-    "text": "De postre hay arroz con leche.",
+    "text": "De postre hay una tarta de chocolate.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "e",
-    "text": "Esta noche cenamos pescado a la plancha.",
+    "text": "Esta noche cenamos una sopa de verduras.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -37725,33 +37725,33 @@
    "rows": [
     {
      "part": "a",
-     "answer": "A",
+     "answer": "B",
      "marks": "1",
      "notes": "*un té* = a cup of tea"
     },
     {
      "part": "b",
-     "answer": "D",
+     "answer": "E",
      "marks": "1",
      "notes": "*piñas* = pineapples"
     },
     {
      "part": "c",
-     "answer": "B",
+     "answer": "D",
      "marks": "1",
      "notes": "*guisantes* = peas"
     },
     {
      "part": "d",
-     "answer": "E",
+     "answer": "A",
      "marks": "1",
-     "notes": "*arroz con leche* = rice pudding"
+     "notes": "*una tarta de chocolate* = a chocolate cake"
     },
     {
      "part": "e",
      "answer": "F",
      "marks": "1",
-     "notes": "*pescado a la plancha* = grilled fish"
+     "notes": "*una sopa de verduras* = a bowl of vegetable soup"
     }
    ]
   },
@@ -37770,27 +37770,27 @@
     "rows": [
      [
       "A",
-      "[picture: a cup of tea]"
+      "[picture: a chocolate cake]"
      ],
      [
       "B",
-      "[picture: peas]"
+      "[picture: a cup of tea]"
      ],
      [
       "C",
-      "[picture: oranges]"
+      "[picture: peaches]"
      ],
      [
       "D",
-      "[picture: pineapples]"
+      "[picture: peas]"
      ],
      [
       "E",
-      "[picture: rice pudding]"
+      "[picture: pineapples]"
      ],
      [
       "F",
-      "[picture: grilled fish]"
+      "[picture: a bowl of vegetable soup]"
      ]
     ]
    }
@@ -37820,21 +37820,21 @@
   "parts": [
    {
     "label": "a",
-    "text": "Para la ensalada necesito zanahorias.",
+    "text": "No me gustan nada las zanahorias.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "b",
-    "text": "Esta noche cenamos una tortilla de patatas.",
+    "text": "Para la ensalada necesito tomates.",
     "marks": 1,
     "space": "box",
     "lines": 1
    },
    {
     "label": "c",
-    "text": "Hoy compramos cerezas, que hoy están de oferta.",
+    "text": "Para merendar, prefiero un chocolate caliente.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -37848,7 +37848,7 @@
    },
    {
     "label": "e",
-    "text": "Tengo que comprar piñas para el postre.",
+    "text": "Tengo que comprar melocotones para el postre.",
     "marks": 1,
     "space": "box",
     "lines": 1
@@ -37867,13 +37867,13 @@
      "part": "b",
      "answer": "B",
      "marks": "1",
-     "notes": "*una tortilla de patatas* = a Spanish omelette"
+     "notes": "*tomates* = tomatoes"
     },
     {
      "part": "c",
      "answer": "E",
      "marks": "1",
-     "notes": "*cerezas* = cherries"
+     "notes": "*un chocolate caliente* = a mug of hot chocolate"
     },
     {
      "part": "d",
@@ -37885,7 +37885,7 @@
      "part": "e",
      "answer": "F",
      "marks": "1",
-     "notes": "*piñas* = pineapples"
+     "notes": "*melocotones* = peaches"
     }
    ]
   },
@@ -37908,7 +37908,7 @@
      ],
      [
       "B",
-      "[picture: a Spanish omelette]"
+      "[picture: tomatoes]"
      ],
      [
       "C",
@@ -37920,11 +37920,11 @@
      ],
      [
       "E",
-      "[picture: cherries]"
+      "[picture: a mug of hot chocolate]"
      ],
      [
       "F",
-      "[picture: pineapples]"
+      "[picture: peaches]"
      ]
     ]
    }
