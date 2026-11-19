@@ -6,7 +6,7 @@ import { Rich } from '../lib/rich'
 import { Cover, DISCLAIMER, type CoverInfo } from './Cover'
 import { FigureView, Figures } from './Figures'
 import { CONTENT_H_MM, Page, usePagination } from './Paginator'
-import { fmtLabel, isInsertFigure, questionBlocks, type Block } from './QuestionBlocks'
+import { choiceAnswerBlocks, FillLines, fmQuestionBlocks, fmtLabel, isInsertFigure, questionBlocks, type Block } from './QuestionBlocks'
 
 function Footer({ n, last, code, seed }: { n: number; total: number; last: boolean; code: string; seed: number }) {
   return (
@@ -47,8 +47,12 @@ export function QuestionPaperDoc({ spec, a, cover }: { spec: Spec; a: Assembled;
       } else if (si === 0) {
         blocks.push({ key: 'all', keepWithNext: true, node: <div className="answer-all">Answer ALL questions. Write your answers in the spaces provided.</div> })
       }
-      sec.questions.forEach(q => {
+      let group: { nums: number[]; lines: number } | null = null
+      sec.questions.forEach((q, qi) => {
         num++
+        const altW = sec.alts?.[q.id]
+        if (altW === 'EITHER') group = { nums: [], lines: 0 }
+        const inGroup = !!altW && !!group && spec.subject !== 'further-maths'
         const figs = (q.figures || []).filter(isInsertFigure)
         figs.forEach((f, k) => {
           const label = f.label || f.title || `Text for Question ${num}${figs.length > 1 ? ' ' + String.fromCharCode(65 + k) : ''}`
@@ -67,12 +71,21 @@ export function QuestionPaperDoc({ spec, a, cover }: { spec: Spec; a: Assembled;
         })
         const alt = sec.alts?.[q.id]
         if (alt) blocks.push({ key: q.id + '-alt', keepWithNext: true, node: <div className="either-or">{alt}</div> })
-        blocks.push(...questionBlocks(q, num, insertRefs))
+        blocks.push(...(spec.subject === 'further-maths' ? fmQuestionBlocks(q, num) : questionBlocks(q, num, insertRefs, inGroup)))
+        if (inGroup && group) {
+          group.nums.push(num)
+          group.lines = Math.max(group.lines, ...q.parts.map(p => p.lines ?? p.marks * 2))
+          const next = sec.questions[qi + 1]
+          if (!next || sec.alts?.[next.id] !== 'OR') {
+            blocks.push(...choiceAnswerBlocks(q.id + '-ans', group.nums, group.lines))
+            group = null
+          }
+        }
       })
     })
     blocks.push({ key: 'end', node: <div className="paper-end"><div>TOTAL FOR PAPER IS {a.totalMarks} MARKS</div><div className="end-small">END OF PAPER</div></div> })
     return { blocks, insertBlocks }
-  }, [a])
+  }, [a, spec.subject])
 
   const qp = usePagination(blocks, 'page-content', [blocks])
   const ins = usePagination(insertBlocks, 'page-content', [insertBlocks], CONTENT_H_MM - 16)
@@ -94,7 +107,7 @@ export function QuestionPaperDoc({ spec, a, cover }: { spec: Spec; a: Assembled;
       )}
       {qp.pages?.map((pg, i) => (
         <Page key={i} footer={<Footer n={before + i + 1} total={total} last={i === total - 1 && !insertBlocks.length} code={code} seed={cover.seed} />}>
-          <div className="page-content">{pg.map(bi => <div key={blocks[bi].key} className="blk">{blocks[bi].node}</div>)}</div>
+          <div className="page-content">{pg.map(bi => <div key={blocks[bi].key} className="blk">{blocks[bi].fill ? <FillLines px={qp.spare(i)} /> : blocks[bi].node}</div>)}</div>
         </Page>
       ))}
       {ins.pages?.map((pg, i) => (

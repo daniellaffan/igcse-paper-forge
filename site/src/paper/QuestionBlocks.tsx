@@ -3,7 +3,15 @@ import type { Figure, Part, Question } from '../types'
 import { Rich } from '../lib/rich'
 import { Figures } from './Figures'
 
-export interface Block { key: string; node: ReactNode; keepWithNext?: boolean }
+export interface Block {
+  key: string
+  node: ReactNode
+  keepWithNext?: boolean
+  /** start this block on a new page */
+  pageBreakBefore?: boolean
+  /** dotted answer lines that fill whatever space is left on the page (drawn by the page renderer) */
+  fill?: boolean
+}
 
 export const fmtLabel = (l?: string) => {
   if (!l) return ''
@@ -13,6 +21,7 @@ export const fmtLabel = (l?: string) => {
 
 /** Figures too long for the question page go into the separate source/insert booklet. */
 export function isInsertFigure(f: Figure) {
+  if (f.inline) return false
   if (f.type === 'passage') return true
   if (f.type === 'source' && (f.text || '').length > 900) return true
   if (f.type === 'poem' && (f.text || '').split('\n').length > 28) return true
@@ -72,7 +81,8 @@ function AnswerSpace({ q, p }: { q: Question; p: Part }) {
     case 'graph':
       return (
         <div>
-          <div className="graph-grid" />
+          {/* maths supplies its own labelled grid as a figure; sciences get blank graph paper */}
+          {!(q.subject === 'maths' || q.subject === 'further-maths') && <GraphPaper />}
           <div className="marks-row">{marks}</div>
         </div>
       )
@@ -90,7 +100,7 @@ function AnswerSpace({ q, p }: { q: Question; p: Part }) {
   }
 }
 
-function leafBlocks(q: Question, parts: Part[], keyBase: string, parentHead: ReactNode[] = []): Block[] {
+function leafBlocks(q: Question, parts: Part[], keyBase: string, parentHead: ReactNode[] = [], questionOnly = false): Block[] {
   const out: Block[] = []
   parts.forEach((p, i) => {
     const head = [
@@ -104,14 +114,14 @@ function leafBlocks(q: Question, parts: Part[], keyBase: string, parentHead: Rea
       </div>,
     ]
     if (p.parts && p.parts.length) {
-      out.push(...leafBlocks(q, p.parts, `${keyBase}-${i}`, [<div className={'nest'} key={'n' + i}>{head}</div>]))
+      out.push(...leafBlocks(q, p.parts, `${keyBase}-${i}`, [<div className={'nest'} key={'n' + i}>{head}</div>], questionOnly))
     } else {
       out.push({
         key: `${keyBase}-${i}`,
         node: (
           <div className={'qpart depth' + (parentHead.length ? '1' : '0')}>
             {head}
-            <div className="ans-indent"><AnswerSpace q={q} p={p} /></div>
+            {!questionOnly && <div className="ans-indent"><AnswerSpace q={q} p={p} /></div>}
           </div>
         ),
       })
@@ -120,7 +130,7 @@ function leafBlocks(q: Question, parts: Part[], keyBase: string, parentHead: Rea
   return out
 }
 
-export function questionBlocks(q: Question, num: number, insertRefs: Map<Figure, string>): Block[] {
+export function questionBlocks(q: Question, num: number, insertRefs: Map<Figure, string>, questionOnly = false): Block[] {
   const blocks: Block[] = []
   const figs = q.figures || []
   const inline = figs.filter(f => !isInsertFigure(f))
@@ -140,10 +150,104 @@ export function questionBlocks(q: Question, num: number, insertRefs: Map<Figure,
     ),
   })
   const single = q.parts.length === 1 && !q.parts[0].label
-  blocks.push(...leafBlocks(q, q.parts, q.id).map(b => ({ ...b, node: <div className={'qbody' + (single ? ' single' : '')}>{b.node}</div> })))
+  blocks.push(...leafBlocks(q, q.parts, q.id, [], questionOnly).map(b => ({ ...b, node: <div className={'qbody' + (single ? ' single' : '')}>{b.node}</div> })))
   blocks.push({
     key: q.id + '-total',
     node: <div className="qtotal">(Total for Question {num} is {q.marks} mark{q.marks === 1 ? '' : 's'})</div>,
   })
   return blocks
+}
+
+/** After an EITHER/OR group (English Literature, History): the candidate marks which question they chose,
+ *  then writes in one shared block of lines, as in the Pearson answer booklet. */
+export function choiceAnswerBlocks(key: string, nums: number[], lines: number): Block[] {
+  const out: Block[] = [{
+    key: key + '-choose', keepWithNext: true,
+    node: (
+      <div className="choose-q">
+        <div>Indicate which question you are answering by marking a cross in the box <span className="mcq-box x-box">&times;</span>. If you change your mind, put a line through the box and then indicate your new question with a cross.</div>
+        <div className="choose-row">{nums.map(n => <span key={n} className="choose-opt">Question {n} <span className="mcq-box" /></span>)}</div>
+      </div>
+    ),
+  }]
+  const chunk = 12
+  for (let i = 0; i < lines; i += chunk) out.push({ key: `${key}-ln${i}`, node: <Lines n={Math.min(chunk, lines - i)} /> })
+  return out
+}
+
+// ---------------------------------------------------------------- Further Pure (4PM1) layout
+// Real 4PM1 papers print the whole question (every part, with its marks) at the top of a new page,
+// then dotted lines to the foot of the page; longer questions get "Question N continued" pages of lines.
+
+function fmPartRows(parts: Part[], depth: number): ReactNode[] {
+  return parts.map((p, i) => (
+    <div key={i} className={'fm-part depth' + depth}>
+      <div className="part-row">
+        <span className="plabel">{fmtLabel(p.label)}</span>
+        <div className="ptext">
+          <Rich text={p.text} />
+          <Figures figs={p.figures} />
+        </div>
+      </div>
+      {p.parts && p.parts.length
+        ? <div className="fm-sub">{fmPartRows(p.parts, depth + 1)}</div>
+        : <div className="marks-row fm-marks"><span className="marks">({p.marks})</span></div>}
+    </div>
+  ))
+}
+
+export function fmContinuedPages(marks: number) {
+  return marks >= 15 ? 2 : marks >= 9 ? 1 : 0
+}
+
+export function fmQuestionBlocks(q: Question, num: number): Block[] {
+  const single = q.parts.length === 1 && !q.parts[0].label
+  const blocks: Block[] = [{
+    key: q.id + '-head',
+    pageBreakBefore: true,
+    node: (
+      <div className="qhead">
+        <span className="qnum">{num}</span>
+        <div className="qhead-body">
+          <Rich text={q.intro} />
+          <Figures figs={q.figures} />
+          <div className={'fm-parts' + (single ? ' single' : '')}>{fmPartRows(q.parts, 0)}</div>
+        </div>
+      </div>
+    ),
+  }, { key: q.id + '-l0', fill: true, node: null }]
+  for (let k = 1; k <= fmContinuedPages(q.marks); k++) {
+    blocks.push({ key: q.id + '-c' + k, pageBreakBefore: true, node: <div className="fm-cont">Question {num} continued</div> })
+    blocks.push({ key: q.id + '-l' + k, fill: true, node: null })
+  }
+  blocks.push({
+    key: q.id + '-total',
+    node: <div className="qtotal fm-total">(Total for Question {num} is {q.marks} mark{q.marks === 1 ? '' : 's'})</div>,
+  })
+  return blocks
+}
+
+export function FillLines({ px }: { px: number }) {
+  const n = Math.max(0, Math.floor((px - 6) / (8.2 * 96 / 25.4)))
+  return <Lines n={n} />
+}
+
+/** Blank graph paper as printed in Pearson science papers: 2 mm squares, heavier 1 cm lines, dark left and bottom edges. */
+export function GraphPaper({ w = 100, h = 140 }: { w?: number; h?: number }) {
+  const lines: ReactNode[] = []
+  const g = '#a8a9ab'
+  for (let x = 0; x <= w; x += 2) {
+    const major = x % 10 === 0
+    lines.push(<line key={'v' + x} x1={x} y1={0} x2={x} y2={h} stroke={g} strokeWidth={major ? 0.5 : 0.18} />)
+  }
+  for (let y = 0; y <= h; y += 2) {
+    const major = y % 10 === 0
+    lines.push(<line key={'h' + y} x1={0} y1={y} x2={w} y2={y} stroke={g} strokeWidth={major ? 0.5 : 0.18} />)
+  }
+  return (
+    <svg className="graph-paper" viewBox={`-0.5 -0.5 ${w + 1} ${h + 1}`} style={{ width: `${w + 1}mm`, height: `${h + 1}mm` }} aria-label="graph paper">
+      {lines}
+      <path d={`M 0 0 L 0 ${h} L ${w} ${h}`} stroke="#222" strokeWidth={0.4} fill="none" />
+    </svg>
+  )
 }

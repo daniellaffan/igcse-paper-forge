@@ -14,7 +14,7 @@ export const CONTENT_H_MM = 254 // 297 - 18 top - 25 bottom
 export function usePagination(blocks: Block[], contentClass: string, _deps: unknown[], limitMm = CONTENT_H_MM) {
   const measureRef = useRef<HTMLDivElement>(null)
   const [fontTick, setFontTick] = useState(0)
-  const [state, setState] = useState<{ src: Block[] | null; tick: number; pages: number[][] }>({ src: null, tick: -1, pages: [] })
+  const [state, setState] = useState<{ src: Block[] | null; tick: number; pages: number[][]; hs: number[] }>({ src: null, tick: -1, pages: [], hs: [] })
   const valid = state.src === blocks && state.tick === fontTick
 
   useLayoutEffect(() => {
@@ -30,7 +30,8 @@ export function usePagination(blocks: Block[], contentClass: string, _deps: unkn
     for (let i = 0; i < hs.length; i++) {
       let need = hs[i]
       if (blocks[i]?.keepWithNext && i + 1 < hs.length) need += hs[i + 1]
-      if (cur.length && h + need > limit) {
+      const brk = blocks[i]?.pageBreakBefore && cur.some(j => !blocks[j]?.keepWithNext)
+      if (cur.length && (brk || h + need > limit)) {
         out.push(cur)
         cur = []
         h = 0
@@ -39,7 +40,7 @@ export function usePagination(blocks: Block[], contentClass: string, _deps: unkn
       h += hs[i]
     }
     if (cur.length) out.push(cur)
-    setState({ src: blocks, tick: fontTick, pages: out })
+    setState({ src: blocks, tick: fontTick, pages: out, hs })
   }, [valid, blocks, fontTick, limitMm])
 
   // re-measure once web fonts (KaTeX, serif) have loaded
@@ -56,7 +57,13 @@ export function usePagination(blocks: Block[], contentClass: string, _deps: unkn
       </div>
     </div>
   ) : null
-  return { pages: valid ? state.pages : null, measure }
+  /** Height (px) left on page `pi` after every block except fill blocks: used to draw answer lines to the foot of the page. */
+  const spare = (pi: number) => {
+    const pg = state.pages[pi] || []
+    const used = pg.reduce((t, bi) => t + (blocks[bi]?.fill ? 0 : state.hs[bi] || 0), 0)
+    return Math.max(0, limitMm * MM - used)
+  }
+  return { pages: valid ? state.pages : null, measure, spare }
 }
 
 export function Page({ children, footer, className = '', side = true }: { children: ReactNode; footer?: ReactNode; className?: string; side?: boolean }) {

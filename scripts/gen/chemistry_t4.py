@@ -370,8 +370,8 @@ items(AE, "describe", "4.28", [
     D(s="Describe the meaning of the number in the name pent-2-ene.", m=1, p=["the double bond starts at carbon atom 2"], ref="4.26", d="4-6"),
     D(s="Describe how the formula of an alkene changes as you go from one member of the series to the next.", m=1, p=["it increases by CH₂"], ref="4.24"),
     D(s="Describe one industrial use of alkenes.", m=1, p=["making polymers / poly(ethene)", "making ethanol"], any=True),
-    D(s="Describe the result of adding bromine water to a sample of cyclohexane and of hex-1-ene. Explain the difference.", m=3,
-      p=["cyclohexane: no change, stays orange", "hex-1-ene: decolourised", "hex-1-ene is unsaturated (C=C); cyclohexane saturated"], ref="4.28", d="7-9"),
+    D(s="Describe the result of adding bromine water to a sample of hexane and of hex-1-ene. Explain the difference.", m=3,
+      p=["hexane: no change, stays orange", "hex-1-ene: decolourised", "hex-1-ene is unsaturated (C=C); hexane is saturated"], ref="4.28", d="7-9"),
 ], tag="org_ene")
 
 

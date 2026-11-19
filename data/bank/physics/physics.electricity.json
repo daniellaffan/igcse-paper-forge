@@ -45,7 +45,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -101,7 +100,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -157,7 +155,6 @@
    "AO2"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -213,7 +210,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -269,7 +265,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -326,7 +321,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -382,7 +376,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -438,7 +431,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -532,7 +524,6 @@
    "AO2"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -609,7 +600,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -684,7 +674,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -780,7 +769,6 @@
    "AO2"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -878,7 +866,6 @@
    "AO2"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -974,7 +961,6 @@
    "AO1"
   ],
   "template": "electricity-mains-mcq-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -1027,7 +1013,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1071,7 +1056,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1131,7 +1115,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1190,7 +1173,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1249,7 +1231,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1309,7 +1290,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1384,7 +1364,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1457,7 +1436,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1530,7 +1508,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1590,7 +1567,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1664,7 +1640,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1737,7 +1712,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1811,7 +1785,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1886,7 +1859,6 @@
    "AO1"
   ],
   "template": "electricity-mains-recall-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1942,7 +1914,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -1992,7 +1963,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2042,7 +2012,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2092,7 +2061,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2187,7 +2155,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2257,7 +2224,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2333,7 +2299,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2429,7 +2394,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2504,7 +2468,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2574,7 +2537,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2650,7 +2612,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2720,7 +2681,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2815,7 +2775,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2905,7 +2864,6 @@
    "AO1"
   ],
   "template": "electricity-mains-describe-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -2955,7 +2913,6 @@
    "AO1"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3011,7 +2968,6 @@
    "AO1"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3061,7 +3017,6 @@
    "AO1"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3111,7 +3066,6 @@
    "AO2"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3161,7 +3115,6 @@
    "AO1"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3231,7 +3184,6 @@
    "AO1"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3321,7 +3273,6 @@
    "AO2"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3391,7 +3342,6 @@
    "AO1"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3480,7 +3430,6 @@
    "AO1"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3557,7 +3506,6 @@
    "AO2"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3654,7 +3602,6 @@
    "AO2"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3749,7 +3696,6 @@
    "AO1"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3820,7 +3766,6 @@
    "AO2"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3911,7 +3856,6 @@
    "AO2"
   ],
   "template": "electricity-mains-explain-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true
  },
  {
@@ -3956,7 +3900,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4009,7 +3952,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4061,7 +4003,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4128,7 +4069,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4194,7 +4134,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4261,7 +4200,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4333,7 +4271,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4400,7 +4337,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4467,7 +4403,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4534,7 +4469,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4601,7 +4535,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4668,7 +4601,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4733,7 +4665,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4805,7 +4736,6 @@
    "AO2"
   ],
   "template": "electricity-mains-extended-kb",
-  "intro": "This question is about mains electricity and electrical power.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -4861,7 +4791,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4917,7 +4846,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4973,7 +4901,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5029,7 +4956,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5085,7 +5011,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5141,7 +5066,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5197,7 +5121,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5253,7 +5176,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5309,7 +5231,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5404,7 +5325,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5500,7 +5420,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5597,7 +5516,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5675,7 +5593,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5770,7 +5687,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-mcq-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -5824,7 +5740,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -5874,7 +5789,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -5933,7 +5847,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -5992,7 +5905,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6052,7 +5964,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6117,7 +6028,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6177,7 +6087,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6256,7 +6165,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6335,7 +6243,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6415,7 +6322,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6489,7 +6395,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6554,7 +6459,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6614,7 +6518,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6673,7 +6576,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-recall-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6723,7 +6625,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6779,7 +6680,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6829,7 +6729,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6879,7 +6778,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -6974,7 +6872,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7049,7 +6946,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7124,7 +7020,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7200,7 +7095,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7270,7 +7164,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7365,7 +7258,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7454,7 +7346,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7548,7 +7439,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7617,7 +7507,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7687,7 +7576,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-describe-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7739,7 +7627,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7789,7 +7676,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7839,7 +7725,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7895,7 +7780,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -7951,7 +7835,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8024,7 +7907,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8127,7 +8009,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8231,7 +8112,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8309,7 +8189,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8405,7 +8284,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8504,7 +8382,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8596,7 +8473,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8674,7 +8550,6 @@
    "AO1"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8777,7 +8652,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-explain-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true
  },
  {
@@ -8823,7 +8697,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -8866,7 +8739,7 @@
    "rows": [
     {
      "part": "",
-     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch / relay;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
+     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -8877,7 +8750,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -8931,7 +8803,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -8989,7 +8860,7 @@
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch / relay;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
+     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -9000,7 +8871,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9074,7 +8944,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9154,7 +9023,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9210,7 +9078,7 @@
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch / relay;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
+     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -9221,7 +9089,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9278,7 +9145,7 @@
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch / relay;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
+     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -9289,7 +9156,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9356,7 +9222,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9425,7 +9290,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9493,7 +9357,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9567,7 +9430,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9636,7 +9498,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9692,7 +9553,7 @@
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch / relay;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
+     "answer": "any six from:\nMP1. LDR resistance increases as light level falls;\nMP2. thermistor resistance increases as temperature falls;\nMP3. each sensor in series with a fixed resistor (potential divider idea);\nMP4. the change in resistance changes the current or voltage;\nMP5. this change can operate a switch;\nMP6. lamps switched on in the dark;\nMP7. heater switched on when cold;\nMP8. lamp or LED could indicate the heater is on;\nMP9. separate circuits/parallel so each works independently;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -9703,7 +9564,6 @@
    "AO2"
   ],
   "template": "electricity-circuits-extended-kb",
-  "intro": "This question is about circuits, resistance and components.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -9759,7 +9619,6 @@
    "AO1"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -9815,7 +9674,6 @@
    "AO1"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -9871,7 +9729,6 @@
    "AO1"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -9927,7 +9784,6 @@
    "AO2"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -9983,7 +9839,6 @@
    "AO1"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10039,7 +9894,6 @@
    "AO2"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10095,7 +9949,6 @@
    "AO2"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10171,7 +10024,6 @@
    "AO2"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10267,7 +10119,6 @@
    "AO2"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10364,7 +10215,6 @@
    "AO2"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10460,7 +10310,6 @@
    "AO2"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10557,7 +10406,6 @@
    "AO2"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10653,7 +10501,6 @@
    "AO1"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10750,7 +10597,6 @@
    "AO2"
   ],
   "template": "electricity-charge-mcq-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10819,7 +10665,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -10879,7 +10724,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -10939,7 +10783,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -10999,7 +10842,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11059,7 +10901,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11119,7 +10960,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11179,7 +11019,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11254,7 +11093,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11329,7 +11167,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11404,7 +11241,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11479,7 +11315,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11554,7 +11389,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11629,7 +11463,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11704,7 +11537,6 @@
    "AO1"
   ],
   "template": "electricity-charge-recall-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11754,7 +11586,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11805,7 +11636,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11856,7 +11686,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11906,7 +11735,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -11977,7 +11805,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12047,7 +11874,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12138,7 +11964,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12228,7 +12053,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12298,7 +12122,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12388,7 +12211,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12459,7 +12281,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12531,7 +12352,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12622,7 +12442,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12692,7 +12511,6 @@
    "AO1"
   ],
   "template": "electricity-charge-explain-kb",
-  "intro": "This question is about charge, current and voltage.",
   "calculator": true
  },
  {
@@ -12740,7 +12558,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -12796,7 +12613,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -12852,7 +12668,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -12909,7 +12724,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -12965,7 +12779,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13021,7 +12834,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13077,7 +12889,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13171,7 +12982,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13267,7 +13077,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13344,7 +13153,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13439,7 +13247,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13516,7 +13323,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13611,7 +13417,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13689,7 +13494,6 @@
    "AO1"
   ],
   "template": "electricity-static-mcq-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13741,7 +13545,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13799,7 +13602,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13858,7 +13660,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13916,7 +13717,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13975,7 +13775,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14049,7 +13848,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14121,7 +13919,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14194,7 +13991,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14268,7 +14064,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14328,7 +14123,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14401,7 +14195,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14460,7 +14253,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14518,7 +14310,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14592,7 +14383,6 @@
    "AO1"
   ],
   "template": "electricity-static-recall-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14642,7 +14432,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14698,7 +14487,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14754,7 +14542,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14810,7 +14597,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14867,7 +14653,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14923,7 +14708,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15032,7 +14816,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15115,7 +14898,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15198,7 +14980,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15274,7 +15055,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15382,7 +15162,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15464,7 +15243,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15540,7 +15318,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15622,7 +15399,6 @@
    "AO1"
   ],
   "template": "electricity-static-explain-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15668,7 +15444,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15722,7 +15497,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15789,7 +15563,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15857,7 +15630,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15925,7 +15697,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15993,7 +15764,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -16060,7 +15830,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -16129,7 +15898,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -16196,7 +15964,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -16263,7 +16030,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -16330,7 +16096,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -16397,7 +16162,6 @@
    "AO2"
   ],
   "template": "electricity-static-extended-kb",
-  "intro": "This question is about electrostatics.",
   "calculator": true,
   "answer": {
    "method": "point list",

@@ -46,7 +46,7 @@ kb(TH, ["keeping warm", "heating a room", "insulating a house", "cooking", "the 
        K("Name the **three** ways thermal energy can be transferred.", 2, ["conduction, convection and radiation | all three for 2 marks; any two for 1 mark", "(all three correct)"], "4.6", cmd="Name"),
        K("Name the type of surface that is the best absorber of infrared radiation.", 1, ["dull/matt black"], "4.8", cmd="Name"),
        K("State **two** ways of reducing energy transfer from a house.", 2, ["loft insulation", "cavity wall insulation", "double glazing", "draught excluders", "carpets / curtains"], "4.10", cmd="State"),
-       K("State why metals are good thermal conductors.", 1, ["free/delocalised electrons transfer energy quickly | allow particles close together"], "4.6", cmd="State", d="4-6"),
+       K("State why metals are good thermal conductors.", 1, ["free electrons transfer energy quickly | allow particles close together"], "4.6", cmd="State", d="4-6"),
        K("State which type of thermal energy transfer can take place through a vacuum.", 1, ["radiation | allow infrared"], "4.6", cmd="State"),
        K("Name a material that is a good thermal insulator.", 1, ["air / plastic / wood / wool / polystyrene"], "4.6", cmd="Name"),
    ],

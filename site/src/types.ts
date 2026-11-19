@@ -16,6 +16,7 @@ export interface Figure {
   lang?: string
   transcript?: string
   voices?: string[]
+  inline?: boolean
 }
 
 export interface Part {

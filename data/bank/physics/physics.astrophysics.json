@@ -45,7 +45,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -101,7 +100,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -157,7 +155,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -213,7 +210,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -269,7 +265,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -325,7 +320,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -381,7 +375,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -438,7 +431,6 @@
    "AO2"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -531,7 +523,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -627,7 +618,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -722,7 +712,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -799,7 +788,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -896,7 +884,6 @@
    "AO2"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -994,7 +981,6 @@
    "AO2"
   ],
   "template": "astrophysics-universe-mcq-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -1047,7 +1033,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1097,7 +1082,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1155,7 +1139,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1213,7 +1196,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1271,7 +1253,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1335,7 +1316,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1407,7 +1387,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1479,7 +1458,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1551,7 +1529,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1623,7 +1600,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1695,7 +1671,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1753,7 +1728,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1825,7 +1799,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1902,7 +1875,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-recall-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -1952,7 +1924,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2002,7 +1973,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2053,7 +2023,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2103,7 +2072,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2174,7 +2142,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2244,7 +2211,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2334,7 +2300,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2424,7 +2389,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2494,7 +2458,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2565,7 +2528,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2656,7 +2618,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2746,7 +2707,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2816,7 +2776,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2886,7 +2845,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-describe-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2936,7 +2894,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -2986,7 +2943,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3036,7 +2992,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3087,7 +3042,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3177,7 +3131,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3247,7 +3200,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3338,7 +3290,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3428,7 +3379,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3499,7 +3449,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3569,7 +3518,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3639,7 +3587,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3709,7 +3656,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3799,7 +3745,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3870,7 +3815,6 @@
    "AO1"
   ],
   "template": "astrophysics-universe-explain-kb",
-  "intro": "This question is about motion in the universe.",
   "calculator": true
  },
  {
@@ -3919,7 +3863,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3975,7 +3918,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4031,7 +3973,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4087,7 +4028,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4143,7 +4083,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4198,7 +4137,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4254,7 +4192,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4311,7 +4248,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4403,7 +4339,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4480,7 +4415,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4557,7 +4491,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4650,7 +4583,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4728,7 +4660,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4804,7 +4735,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-mcq-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4868,7 +4798,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -4901,7 +4830,7 @@
    "rows": [
     {
      "part": "",
-     "answer": "absolute magnitude (or luminosity);",
+     "answer": "absolute magnitude;",
      "marks": "1",
      "ao": "AO1"
     },
@@ -4917,7 +4846,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -4969,7 +4897,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -5039,7 +4966,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -5108,7 +5034,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -5179,7 +5104,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -5244,7 +5168,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -5322,7 +5245,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -5387,7 +5309,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -5444,7 +5365,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -5518,7 +5438,7 @@
     },
     {
      "part": "(c)",
-     "answer": "absolute magnitude (or luminosity);",
+     "answer": "absolute magnitude;",
      "marks": "1",
      "ao": "AO1"
     },
@@ -5534,7 +5454,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -5625,7 +5544,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -5698,7 +5616,7 @@
     },
     {
      "part": "(c)",
-     "answer": "absolute magnitude (or luminosity);",
+     "answer": "absolute magnitude;",
      "marks": "1",
      "ao": "AO1"
     },
@@ -5714,7 +5632,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -5792,7 +5709,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-recall-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -5848,7 +5764,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -5904,7 +5819,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -5959,7 +5873,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -6010,7 +5923,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -6111,7 +6023,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -6193,7 +6104,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -6276,7 +6186,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -6352,7 +6261,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -6433,7 +6341,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -6509,7 +6416,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -6585,7 +6491,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -6686,7 +6591,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -6793,7 +6697,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -6894,7 +6797,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-describe-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -6945,7 +6847,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -6995,7 +6896,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7045,7 +6945,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7097,7 +6996,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -7186,7 +7084,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7256,7 +7153,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7327,7 +7223,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7398,7 +7293,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7469,7 +7363,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true
  },
  {
@@ -7558,7 +7451,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7649,7 +7541,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7740,7 +7631,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7812,7 +7702,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7882,7 +7771,6 @@
    "AO1"
   ],
   "template": "astrophysics-stars-explain-kb",
-  "intro": "This question is about stellar evolution and the HR diagram.",
   "calculator": true,
   "paper2_only": true
  },
@@ -7932,7 +7820,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7988,7 +7875,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8025,7 +7911,7 @@
      "a smaller red-shift",
      "a greater red-shift",
      "no shift",
-     "a blue-shift"
+     "the same red-shift as nearer galaxies"
     ]
    }
   ],
@@ -8044,7 +7930,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8100,7 +7985,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8156,7 +8040,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8212,7 +8095,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8305,7 +8187,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8382,7 +8263,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8431,7 +8311,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "a blue-shift",
+     "the same red-shift as nearer galaxies",
      "a greater red-shift",
      "no shift",
      "a smaller red-shift"
@@ -8477,7 +8357,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8530,7 +8409,7 @@
      "a smaller red-shift",
      "no shift",
      "a greater red-shift",
-     "a blue-shift"
+     "the same red-shift as nearer galaxies"
     ]
    }
   ],
@@ -8555,7 +8434,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8649,7 +8527,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8698,7 +8575,7 @@
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "a blue-shift",
+     "the same red-shift as nearer galaxies",
      "a smaller red-shift",
      "no shift",
      "a greater red-shift"
@@ -8744,7 +8621,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8839,7 +8715,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8878,7 +8753,7 @@
     "space": "mcq",
     "choices": [
      "a greater red-shift",
-     "a blue-shift",
+     "the same red-shift as nearer galaxies",
      "a smaller red-shift",
      "no shift"
     ]
@@ -8935,7 +8810,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-mcq-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8994,7 +8868,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9044,7 +8917,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9108,7 +8980,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9166,7 +9037,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9230,7 +9100,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9288,7 +9157,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9372,7 +9240,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9456,7 +9323,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9534,7 +9400,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9592,7 +9457,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9639,7 +9503,7 @@
     },
     {
      "part": "(b)",
-     "answer": "it would decrease (blue-shift);",
+     "answer": "it would decrease;",
      "marks": "1",
      "ao": "AO1"
     }
@@ -9649,7 +9513,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9713,7 +9576,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9781,7 +9643,7 @@
     },
     {
      "part": "(c)",
-     "answer": "it would decrease (blue-shift);",
+     "answer": "it would decrease;",
      "marks": "1",
      "ao": "AO1"
     }
@@ -9791,7 +9653,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9858,7 +9719,7 @@
     },
     {
      "part": "(c)",
-     "answer": "it would decrease (blue-shift);",
+     "answer": "it would decrease;",
      "marks": "1",
      "ao": "AO1"
     }
@@ -9868,7 +9729,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-recall-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9925,7 +9785,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9975,7 +9834,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10026,7 +9884,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10077,7 +9934,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10148,7 +10004,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10246,7 +10101,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10343,7 +10197,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10421,7 +10274,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10498,7 +10350,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10576,7 +10427,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10666,7 +10516,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10736,7 +10585,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10834,7 +10682,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10905,7 +10752,6 @@
    "AO1"
   ],
   "template": "astrophysics-cosmology-explain-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10953,7 +10799,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -10997,7 +10842,7 @@
    "rows": [
     {
      "part": "",
-     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. moving towards: blue-shift;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
+     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. source moving towards the observer: wavelength decreases;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -11008,7 +10853,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11059,13 +10903,13 @@
    "rows": [
     {
      "part": "(a)",
-     "answer": "it would decrease (blue-shift);",
+     "answer": "it would decrease;",
      "marks": "1",
      "ao": "AO1"
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. moving towards: blue-shift;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
+     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. source moving towards the observer: wavelength decreases;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -11076,7 +10920,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11150,7 +10993,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11207,7 +11049,7 @@
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. moving towards: blue-shift;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
+     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. source moving towards the observer: wavelength decreases;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -11218,7 +11060,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11282,7 +11123,7 @@
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. moving towards: blue-shift;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
+     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. source moving towards the observer: wavelength decreases;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -11293,7 +11134,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11350,7 +11190,7 @@
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. moving towards: blue-shift;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
+     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. source moving towards the observer: wavelength decreases;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -11361,7 +11201,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11413,7 +11252,7 @@
    "rows": [
     {
      "part": "(a)",
-     "answer": "it would decrease (blue-shift);",
+     "answer": "it would decrease;",
      "marks": "1",
      "ao": "AO1"
     },
@@ -11430,7 +11269,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11499,7 +11337,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11563,7 +11400,7 @@
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. moving towards: blue-shift;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
+     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. source moving towards the observer: wavelength decreases;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -11574,7 +11411,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11631,7 +11467,7 @@
     },
     {
      "part": "(b)",
-     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. moving towards: blue-shift;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
+     "answer": "any six from:\nMP1. a moving source changes the observed wavelength and frequency;\nMP2. source moving away: wavelength increases (red-shift);\nMP3. source moving towards the observer: wavelength decreases;\nMP4. absorption lines shift towards red end of spectrum;\nMP5. Δλ/λ0 = v/c lets us calculate the speed;\nMP6. almost all galaxies are red-shifted;\nMP7. more distant galaxies have a larger red-shift;\nMP8. universe is expanding;\nMP9. evidence for the Big Bang;",
      "marks": "6",
      "notes": "max 6; credit any other valid, relevant physics point; points must relate to the context of the question"
     }
@@ -11642,7 +11478,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11710,7 +11545,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11784,7 +11618,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11853,7 +11686,6 @@
    "AO2"
   ],
   "template": "astrophysics-cosmology-extended-kb",
-  "intro": "This question is about cosmology and red-shift.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -12036,7 +11868,7 @@
    "AO2"
   ],
   "template": "un-orbit",
-  "intro": "A geostationary satellite moves at 3050 m/s in a circular orbit of radius 4.20 × 10⁷ m.",
+  "intro": "A communications satellite moves at 3050 m/s in a circular orbit of radius 4.20 × 10⁷ m.",
   "calculator": true,
   "answer": {
    "method": "python exact arithmetic",
@@ -12271,7 +12103,7 @@
    "AO2"
   ],
   "template": "un-orbit",
-  "intro": "A geostationary satellite orbits the Earth in a circular orbit of radius 4.20 × 10⁷ m. The time period of the orbit is 24 hours.",
+  "intro": "A communications satellite orbits the Earth in a circular orbit of radius 4.20 × 10⁷ m. The time period of the orbit is 24 hours.",
   "calculator": true,
   "answer": {
    "method": "python exact arithmetic",
@@ -13494,7 +13326,6 @@
    "AO1"
   ],
   "template": "str-cycle",
-  "intro": "This question is about the life cycle of different stars.",
   "calculator": true,
   "answer": {
    "method": "none",
@@ -13574,7 +13405,6 @@
    "AO1"
   ],
   "template": "str-cycle",
-  "intro": "This question is about the life cycle of a star.",
   "calculator": true,
   "answer": {
    "method": "none",
@@ -13654,7 +13484,6 @@
    "AO1"
   ],
   "template": "str-cycle",
-  "intro": "This question is about the life cycle of stars.",
   "calculator": true,
   "answer": {
    "method": "none",
@@ -13734,7 +13563,6 @@
    "AO1"
   ],
   "template": "str-cycle",
-  "intro": "This question is about the life cycle of stars.",
   "calculator": true,
   "answer": {
    "method": "none",
@@ -13746,86 +13574,6 @@
  },
  {
   "id": "physics.str-cycle.0005",
-  "subject": "physics",
-  "paper": [
-   "1P",
-   "2P"
-  ],
-  "spec_refs": [
-   "8.9",
-   "7.25"
-  ],
-  "topic": "physics.astrophysics",
-  "subtopic": "physics.astrophysics.stars",
-  "qtype": "diagram",
-  "command_word": "Complete",
-  "marks": 4,
-  "difficulty": "4-6",
-  "minutes": 4.4,
-  "parts": [
-   {
-    "label": "a",
-    "text": "Complete the flow chart for the life cycle of a star with a similar mass to the Sun.\n\nnebula → main sequence → ........ → white dwarf",
-    "marks": 1,
-    "space": "lines",
-    "lines": 1
-   },
-   {
-    "label": "b",
-    "text": "State the process that releases energy in a main sequence star.",
-    "marks": 1,
-    "space": "lines",
-    "lines": 1
-   },
-   {
-    "label": "c",
-    "text": "Explain what happens to a star at the end of its main sequence stage.",
-    "marks": 2,
-    "space": "lines",
-    "lines": 3
-   }
-  ],
-  "markscheme": {
-   "style": "points",
-   "rows": [
-    {
-     "part": "(a)",
-     "answer": "red giant;",
-     "marks": "1"
-    },
-    {
-     "part": "(b)",
-     "answer": "nuclear fusion (of hydrogen to helium);",
-     "marks": "1"
-    },
-    {
-     "part": "(c)",
-     "answer": "hydrogen in the core runs out;",
-     "marks": "1"
-    },
-    {
-     "part": "(c)",
-     "answer": "the star expands and cools to become a red giant;",
-     "marks": "1"
-    }
-   ]
-  },
-  "ao": [
-   "AO1"
-  ],
-  "template": "str-cycle",
-  "intro": "This question is about the life cycle of a star.",
-  "calculator": true,
-  "answer": {
-   "method": "none",
-   "values": {
-    "missing": "red giant"
-   },
-   "checked": true
-  }
- },
- {
-  "id": "physics.str-cycle.0006",
   "subject": "physics",
   "paper": [
    "1P",
@@ -13894,7 +13642,6 @@
    "AO1"
   ],
   "template": "str-cycle",
-  "intro": "This question is about the life cycle of a star.",
   "calculator": true,
   "answer": {
    "method": "none",
@@ -13905,7 +13652,7 @@
   }
  },
  {
-  "id": "physics.str-cycle.0007",
+  "id": "physics.str-cycle.0006",
   "subject": "physics",
   "paper": [
    "1P",
@@ -13974,12 +13721,90 @@
    "AO1"
   ],
   "template": "str-cycle",
-  "intro": "This question is about the life cycle of stars.",
   "calculator": true,
   "answer": {
    "method": "none",
    "values": {
     "missing": "white dwarf"
+   },
+   "checked": true
+  }
+ },
+ {
+  "id": "physics.str-cycle.0007",
+  "subject": "physics",
+  "paper": [
+   "1P",
+   "2P"
+  ],
+  "spec_refs": [
+   "8.10",
+   "7.25"
+  ],
+  "topic": "physics.astrophysics",
+  "subtopic": "physics.astrophysics.stars",
+  "qtype": "diagram",
+  "command_word": "Complete",
+  "marks": 4,
+  "difficulty": "4-6",
+  "minutes": 4.4,
+  "parts": [
+   {
+    "label": "a",
+    "text": "Complete the flow chart for the life cycle of a star much more massive than the Sun.\n\nnebula → main sequence → red supergiant → supernova → ........",
+    "marks": 1,
+    "space": "lines",
+    "lines": 1
+   },
+   {
+    "label": "b",
+    "text": "State the process that releases energy in a main sequence star.",
+    "marks": 1,
+    "space": "lines",
+    "lines": 1
+   },
+   {
+    "label": "c",
+    "text": "Explain what happens to a star at the end of its main sequence stage.",
+    "marks": 2,
+    "space": "lines",
+    "lines": 3
+   }
+  ],
+  "markscheme": {
+   "style": "points",
+   "rows": [
+    {
+     "part": "(a)",
+     "answer": "neutron star;",
+     "marks": "1"
+    },
+    {
+     "part": "(b)",
+     "answer": "nuclear fusion (of hydrogen to helium);",
+     "marks": "1"
+    },
+    {
+     "part": "(c)",
+     "answer": "hydrogen in the core runs out;",
+     "marks": "1"
+    },
+    {
+     "part": "(c)",
+     "answer": "the star expands and cools to become a red supergiant;",
+     "marks": "1"
+    }
+   ]
+  },
+  "ao": [
+   "AO1"
+  ],
+  "template": "str-cycle",
+  "calculator": true,
+  "answer": {
+   "method": "none",
+   "values": {
+    "missing": "neutron star"
    },
    "checked": true
   }

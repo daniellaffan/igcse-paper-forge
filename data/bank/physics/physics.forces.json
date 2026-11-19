@@ -47,7 +47,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -103,7 +102,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -159,7 +157,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -215,7 +212,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -272,7 +268,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -328,7 +323,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -384,7 +378,6 @@
    "AO2"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -440,7 +433,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -497,7 +489,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -574,7 +565,6 @@
    "AO2"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -650,7 +640,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -747,7 +736,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -826,7 +814,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -924,7 +911,6 @@
    "AO1"
   ],
   "template": "forces-motion-mcq-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -985,7 +971,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1045,7 +1030,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1105,7 +1089,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1165,7 +1148,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1225,7 +1207,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1285,7 +1266,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1352,7 +1332,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1413,7 +1392,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1488,7 +1466,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1563,7 +1540,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1623,7 +1599,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1684,7 +1659,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1759,7 +1733,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1841,7 +1814,6 @@
    "AO1"
   ],
   "template": "forces-motion-recall-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1892,7 +1864,6 @@
    "AO1"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1943,7 +1914,6 @@
    "AO1"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -1994,7 +1964,6 @@
    "AO1"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2039,7 +2008,6 @@
    "AO3"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2096,7 +2064,6 @@
    "AO1"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2147,7 +2114,6 @@
    "AO1"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2235,7 +2201,6 @@
    "AO3"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2302,7 +2267,6 @@
    "AO3"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2394,7 +2358,6 @@
    "AO1"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2482,7 +2445,6 @@
    "AO3"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2580,7 +2542,6 @@
    "AO1"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2658,7 +2619,6 @@
    "AO1"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2746,7 +2706,6 @@
    "AO3"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2818,7 +2777,6 @@
    "AO1"
   ],
   "template": "forces-motion-describe-kb",
-  "intro": "This question is about movement and position.",
   "calculator": true
  },
  {
@@ -2867,7 +2825,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -2924,7 +2881,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -2980,7 +2936,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3036,7 +2991,6 @@
    "AO2"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3092,7 +3046,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3148,7 +3101,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3204,7 +3156,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3260,7 +3211,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3316,7 +3266,6 @@
    "AO2"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3392,7 +3341,6 @@
    "AO2"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3469,7 +3417,6 @@
    "AO2"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3564,7 +3511,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3660,7 +3606,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3737,7 +3682,6 @@
    "AO1"
   ],
   "template": "forces-forces-mcq-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3790,7 +3734,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -3836,7 +3779,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -3881,7 +3823,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -3926,7 +3867,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -3986,7 +3926,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4047,7 +3986,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4107,7 +4045,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4167,7 +4104,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4227,7 +4163,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4303,7 +4238,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4364,7 +4298,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4439,7 +4372,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4513,7 +4445,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4588,7 +4519,6 @@
    "AO1"
   ],
   "template": "forces-forces-recall-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4645,7 +4575,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4695,7 +4624,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4745,7 +4673,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4796,7 +4723,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4874,7 +4800,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -4972,7 +4897,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5042,7 +4966,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5119,7 +5042,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5190,7 +5112,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5288,7 +5209,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5365,7 +5285,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5436,7 +5355,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5533,7 +5451,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5624,7 +5541,6 @@
    "AO1"
   ],
   "template": "forces-forces-describe-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5681,7 +5597,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5737,7 +5652,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5787,7 +5701,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5837,7 +5750,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5887,7 +5799,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -5938,7 +5849,6 @@
    "AO2"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -6034,7 +5944,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -6138,7 +6047,6 @@
    "AO2"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -6235,7 +6143,6 @@
    "AO2"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -6333,7 +6240,6 @@
    "AO2"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -6435,7 +6341,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -6517,7 +6422,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -6594,7 +6498,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -6690,7 +6593,6 @@
    "AO1"
   ],
   "template": "forces-forces-explain-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true
  },
  {
@@ -6736,7 +6638,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6789,7 +6690,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6842,7 +6742,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6915,7 +6814,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6988,7 +6886,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7056,7 +6953,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7135,7 +7031,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7203,7 +7098,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7271,7 +7165,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7344,7 +7237,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7412,7 +7304,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7480,7 +7371,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7554,7 +7444,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7622,7 +7511,6 @@
    "AO2"
   ],
   "template": "forces-forces-extended-kb",
-  "intro": "This question is about forces, weight and stopping.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7678,7 +7566,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7734,7 +7621,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7790,7 +7676,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7846,7 +7731,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7902,7 +7786,6 @@
    "AO2"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7958,7 +7841,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8052,7 +7934,6 @@
    "AO2"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8148,7 +8029,6 @@
    "AO2"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8224,7 +8104,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8319,7 +8198,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8414,7 +8292,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8509,7 +8386,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8605,7 +8481,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8683,7 +8558,6 @@
    "AO2"
   ],
   "template": "forces-elasticity-mcq-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8750,7 +8624,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -8810,7 +8683,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -8869,7 +8741,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -8928,7 +8799,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -8987,7 +8857,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9060,7 +8929,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9119,7 +8987,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9191,7 +9058,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9265,7 +9131,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9338,7 +9203,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9411,7 +9275,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9485,7 +9348,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9544,7 +9406,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9602,7 +9463,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-recall-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9652,7 +9512,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9703,7 +9562,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9754,7 +9612,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9804,7 +9661,6 @@
    "AO3"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9854,7 +9710,6 @@
    "AO3"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -9944,7 +9799,6 @@
    "AO3"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -10015,7 +9869,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -10086,7 +9939,6 @@
    "AO3"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -10155,7 +10007,6 @@
    "AO3"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -10246,7 +10097,6 @@
    "AO1"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -10338,7 +10188,6 @@
    "AO3"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -10410,7 +10259,6 @@
    "AO3"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -10481,7 +10329,6 @@
    "AO3"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -10571,7 +10418,6 @@
    "AO3"
   ],
   "template": "forces-elasticity-explain-kb",
-  "intro": "This question is about stretching springs and materials.",
   "calculator": true
  },
  {
@@ -10620,7 +10466,6 @@
    "AO1"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10676,7 +10521,6 @@
    "AO2"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10732,7 +10576,6 @@
    "AO1"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10788,7 +10631,6 @@
    "AO1"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10844,7 +10686,6 @@
    "AO1"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10900,7 +10741,6 @@
    "AO2"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10956,7 +10796,6 @@
    "AO1"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11032,7 +10871,6 @@
    "AO1"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11108,7 +10946,6 @@
    "AO1"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11203,7 +11040,6 @@
    "AO2"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11300,7 +11136,6 @@
    "AO2"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11378,7 +11213,6 @@
    "AO1"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11454,7 +11288,6 @@
    "AO1"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11551,7 +11384,6 @@
    "AO2"
   ],
   "template": "forces-momentum-mcq-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11611,7 +11443,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -11662,7 +11493,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -11707,7 +11537,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -11773,7 +11602,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -11839,7 +11667,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -11920,7 +11747,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12001,7 +11827,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12088,7 +11913,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12169,7 +11993,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12235,7 +12058,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12295,7 +12117,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12355,7 +12176,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12436,7 +12256,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12502,7 +12321,6 @@
    "AO1"
   ],
   "template": "forces-momentum-recall-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12559,7 +12377,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12615,7 +12432,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12672,7 +12488,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12722,7 +12537,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12773,7 +12587,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12825,7 +12638,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12908,7 +12720,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13010,7 +12821,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13086,7 +12896,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13189,7 +12998,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13293,7 +13101,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13394,7 +13201,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13490,7 +13296,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13563,7 +13368,6 @@
    "AO1"
   ],
   "template": "forces-momentum-explain-kb",
-  "intro": "This question is about momentum and Newton's third law.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13613,7 +13417,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13669,7 +13472,6 @@
    "AO2"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13725,7 +13527,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13781,7 +13582,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13837,7 +13637,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13893,7 +13692,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -13988,7 +13786,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -14084,7 +13881,6 @@
    "AO2"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -14162,7 +13958,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -14238,7 +14033,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -14334,7 +14128,6 @@
    "AO2"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -14411,7 +14204,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -14506,7 +14298,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -14602,7 +14393,6 @@
    "AO1"
   ],
   "template": "forces-moments-mcq-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -14661,7 +14451,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14705,7 +14494,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14770,7 +14558,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14829,7 +14616,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14889,7 +14675,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14968,7 +14753,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15048,7 +14832,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15106,7 +14889,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15178,7 +14960,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15237,7 +15018,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15295,7 +15075,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15374,7 +15153,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15447,7 +15225,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15526,7 +15303,6 @@
    "AO1"
   ],
   "template": "forces-moments-recall-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15576,7 +15352,6 @@
    "AO1"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15632,7 +15407,6 @@
    "AO1"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15689,7 +15463,6 @@
    "AO2"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15739,7 +15512,6 @@
    "AO3"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15796,7 +15568,6 @@
    "AO1"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15872,7 +15643,6 @@
    "AO1"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -15969,7 +15739,6 @@
    "AO3"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -16053,7 +15822,6 @@
    "AO2"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -16130,7 +15898,6 @@
    "AO3"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -16208,7 +15975,6 @@
    "AO2"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -16310,7 +16076,6 @@
    "AO1"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -16415,7 +16180,6 @@
    "AO3"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -16493,7 +16257,6 @@
    "AO3"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },
@@ -16598,7 +16361,6 @@
    "AO3"
   ],
   "template": "forces-moments-explain-kb",
-  "intro": "This question is about moments and centre of gravity.",
   "calculator": true,
   "paper2_only": true
  },

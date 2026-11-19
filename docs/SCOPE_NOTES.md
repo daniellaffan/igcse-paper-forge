@@ -91,3 +91,15 @@ Dan may want to revisit. Per-subject working notes (corpus findings, counts, tem
    Grouping by topic under "This question is about …" is possible in the test builder if wanted.
 6. Verification was done without a browser at Dan's request (see `docs/verification/README.md`). Pressing ▶ on one
    Spanish listening question on the live site would confirm speech playback on his device.
+
+## Layout and marking changes (Nov 2026)
+- **Economics 9-mark assess:** levels need arguments for and against. A conclusion is not required and is not rewarded on its own.
+  9- and 12-mark questions sit on an extract of about three paragraphs full of figures, usually with a data table over time.
+- **Further Pure:** each question starts a new page with every part and its marks at the top, then dotted lines to the foot of the page.
+  Longer questions get "Question N continued" pages, as in real 4PM1 papers.
+- **Graph paper:** science plotting questions print a blank 100 × 140 mm grid like the real 4PH1/4CH1/4BI1 grids.
+  It has 2 mm grey squares, heavier 1 cm lines, and dark left and bottom edges. Maths keeps its own labelled grids.
+- **EITHER/OR (English Literature, History):** both questions print first. Then comes "mark a cross to show which question you are answering",
+  then one shared block of answer lines.
+- **Physics:** questions no longer open with "This question is about …".
+- **Biology diagrams:** redrawn in `scripts/gen/biology_art.py`. Airways, vessels, gut and tubules are drawn as hollow tubes.

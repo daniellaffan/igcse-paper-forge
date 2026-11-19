@@ -22,6 +22,7 @@ from economics_diag import DIAG  # noqa: E402
 import economics_kb1, economics_kb2, economics_kb3, economics_kb4  # noqa: E402,E401
 import economics_kbfix  # noqa: E402
 import economics_kbint  # noqa: E402
+from economics_extracts import extend  # noqa: E402
 
 KB = {}
 for m in (economics_kb1, economics_kb2, economics_kb3, economics_kb4):
@@ -38,16 +39,16 @@ GRID6 = [L0,
          ("Level 2", "3–4", "Accurate knowledge and understanding, applied to the context for most of the answer. Chains of reasoning are developed, although some steps may be missing or generic."),
          ("Level 3", "5–6", "Accurate knowledge and understanding, applied consistently to the context and to the data where relevant. Analysis is coherent, with well-developed and logical chains of reasoning.")]
 GRID9 = [L0,
-         ("Level 1", "1–3", "Some relevant knowledge with limited application to the context. Reasoning is simple or asserted. Any evaluation is a generic comment that is not supported."),
-         ("Level 2", "4–6", "Accurate knowledge applied to the context, with developed but sometimes incomplete chains of reasoning. Evaluation considers more than one view but is partly developed or not fully supported."),
-         ("Level 3", "7–9", "Accurate knowledge applied throughout, using the context and data well. Chains of reasoning are logical and developed. Evaluation weighs up the competing arguments and is supported by relevant evidence.")]
+         ("Level 1", "1–3", "Isolated knowledge with limited application of economic terms and concepts to the context (AO2). Little use of the information; chains of reasoning are attempted but not developed (AO3). Only one side of the argument is considered, so the answer is unbalanced (AO4)."),
+         ("Level 2", "4–6", "Some accurate knowledge applied to the context (AO2). Some use of the information, with chains of reasoning that are developed in places (AO3). Arguments for and against are given, but one side is much weaker or less developed than the other (AO4)."),
+         ("Level 3", "7–9", "Accurate knowledge applied throughout, with appropriate use of economic terms and concepts (AO2). The information is used selectively and well, with logical, developed chains of reasoning (AO3). Developed arguments for and against are given; the answer is well balanced and coherent (AO4). A conclusion is not required.")]
 GRID12 = [L0,
           ("Level 1", "1–4", "Some relevant knowledge with limited or no application to the context. Reasoning is simple, often a list of points. Any judgement is asserted and unsupported."),
           ("Level 2", "5–8", "Accurate knowledge applied to the context, with developed chains of reasoning, though the answer may lack balance. Evaluation considers alternative views and may reach a judgement, but the support for it is partial."),
           ("Level 3", "9–12", "Accurate knowledge applied consistently, making effective use of the context and data. Chains of reasoning are well developed and balanced. Evaluation is sustained and reaches a clear, supported judgement, for example by weighing short-run against long-run effects or considering what the outcome depends on.")]
 CREDIT = "This indicative content is not exhaustive: credit any other valid economic points that are relevant to the question."
 GENERAL6 = "Marks are awarded on a best-fit basis using the level descriptors. Answers do not need to be balanced for this question: one-sided, well-developed analysis can reach Level 3. Copying data without using it limits the answer to Level 1."
-GENERAL9 = "Marks are awarded on a best-fit basis. To move beyond Level 2, the answer must weigh up the arguments (AO4) rather than only list them. Use of the context and data is expected."
+GENERAL9 = "Marks are awarded on a best-fit basis. An assess question needs arguments for and against: a one-sided answer cannot go beyond Level 1. A final conclusion or judgement is NOT required for 9 marks; Level 3 is reached by a well-balanced answer that develops both sides and uses the information in the extract. Do not reward an overall conclusion on its own."
 GENERAL12 = "Marks are awarded on a best-fit basis. Level 3 requires balanced, developed analysis and a supported judgement that follows from the arguments made. Unsupported conclusions such as 'overall it is good' do not lift an answer out of Level 2."
 
 # ---------------------------------------------------------------- bookkeeping
@@ -273,6 +274,10 @@ def directed(iss, c, pro, con):
     return ap, jp, jc
 
 
+def ext_key(sid):
+    return subkey(sid) + ("-pol" if SUFFIX == "-pol" else "")
+
+
 def b_levels(sid, kb, qtype):
     k = tk(sid)
     issues = kb.get("issues", [])
@@ -284,18 +289,25 @@ def b_levels(sid, kb, qtype):
             ctx, a, j, pro, con = issue_texts(iss, c)
             ap, jp, jc = directed(iss, c, pro, con)
             pro, con = (ap, con) if qtype == "analyse" else (jp, jc)
+            figs = None
+            if qtype in ("assess", "evaluate"):
+                more, tbl = extend(ext_key(sid), n, ctx, c, qtype)
+                ctx = "\n\n".join([ctx] + more)
+                figs = [tbl] if tbl else None
             if qtype == "analyse":
                 text, grid, aos, cw, diff, split, gen = f"With reference to the information above, analyse {a}.", GRID6, ["AO2", "AO3"], "Analyse", R.choice(["4-6", "7-9"]), "AO2 3 marks, AO3 3 marks", GENERAL6
                 ind = ["AO2/AO3: " + p for p in pro]
             elif qtype == "assess":
-                text, grid, aos, cw, diff, split, gen = f"With reference to the information above, assess {j}.", GRID9, ["AO2", "AO3", "AO4"], "Assess", "7-9", "AO2 3 marks, AO3 3 marks, AO4 3 marks", GENERAL9
-                ind = ["AO2/AO3: " + p for p in pro] + ["AO4: " + p for p in con]
+                data = "the data above"
+                text, grid, aos, cw, diff, split, gen = f"With reference to {data} and your knowledge of economics, assess {j}.", GRID9, ["AO2", "AO3", "AO4"], "Assess", "7-9", "AO2 3 marks, AO3 3 marks, AO4 3 marks", GENERAL9
+                ind = ["AO2/AO3 (arguments for): " + p for p in pro] + ["AO4 (arguments against / counter-arguments): " + p for p in con]
             else:
-                text, grid, aos, cw, diff, split, gen = f"Evaluate {j}. Use the information above and your own knowledge of economics to support your answer.", GRID12, ["AO2", "AO3", "AO4"], "Evaluate", "7-9", "AO2 4 marks, AO3 4 marks, AO4 4 marks", GENERAL12
+                data = "the data above"
+                text, grid, aos, cw, diff, split, gen = f"With reference to {data} and your knowledge of economics, evaluate {j}.", GRID12, ["AO2", "AO3", "AO4"], "Evaluate", "7-9", "AO2 4 marks, AO3 4 marks, AO4 4 marks", GENERAL12
                 ind = ["AO2/AO3: " + p for p in pro] + ["AO4: " + p for p in con] + ["AO4: A supported judgement, for example stating what the outcome depends on or which argument is stronger and why."]
             marks = {"analyse": 6, "assess": 9, "evaluate": 12}[qtype]
-            return add(sid, qtype, cw, diff, [{"label": "", "text": text, "marks": marks, "lines": marks * 2}], [], f"{k}-{qtype}-{n + 1}", aos,
-                       levels_=[levels("", grid, ind, ao_split=split, credit_note=CREDIT)], intro=ctx, general=gen)
+            return add(sid, qtype, cw, diff, [{"label": "", "text": text, "marks": marks, "lines": {"analyse": 14, "assess": 22, "evaluate": 30}[qtype]}], [], f"{k}-{qtype}-{n + 1}", aos,
+                       levels_=[levels("", grid, ind, ao_split=split, credit_note=CREDIT)], intro=ctx, general=gen, figures=figs)
         fills(per, one)
 
 
@@ -342,21 +354,30 @@ def b_data(sid, kb):
             ca = dict(c)
             ctxA, a, j, proA, conA = issue_texts(iss, ca)
             apA, proA, conA = directed(iss, ca, proA, conA)
-            figs = [{"type": "source", "label": "Extract A", "text": ctxA, "provenance": "Original fictional extract written for this question bank."}]
+            moreA, tblA = extend(ext_key(sid), ia, ctxA, ca, "data-A")
+            ctxA_long = "\n\n".join([ctxA] + moreA)
+            figs = [{"type": "source", "label": "Extract A", "text": ctxA_long, "inline": True, "provenance": "Original fictional extract written for this question bank."}]
             proB, conB, ref = proA, conA, "Extract A"
             if ib != ia:
                 cb = dict(c)
                 ctxB, _, j, proB, conB = issue_texts(issues[ib], cb)
                 _, proB, conB = directed(issues[ib], cb, proB, conB)
-                figs.append({"type": "source", "label": "Extract B", "text": ctxB, "provenance": "Original fictional extract written for this question bank."})
+                moreB, _tB = extend(ext_key(sid), ib, ctxB, cb, "data-B")
+                ctxB = "\n\n".join([ctxB] + moreB)
+                figs.append({"type": "source", "label": "Extract B", "text": ctxB, "inline": True, "provenance": "Original fictional extract written for this question bank."})
                 ref = "Extract B"
             res = DGEN[k][ia](R, dict(ca)) if k in DGEN else GEN[k](R, dict(ca))   # part (a) built from Extract A's own figures
             if res.get("table"):
                 figs.append(res["table"])
-            other = " and Figure 1" if res.get("table") else ""
+            if tblA:
+                fno = "Figure 2" if res.get("table") else "Figure 1"
+                tblA = dict(tblA, caption=tblA["caption"].replace("Figure 1", fno, 1))
+                figs.append(tblA)
+            nfig = sum(1 for f in figs if f.get("type") == "table")
+            other = " and Figure 1" if nfig == 1 else " and Figures 1 and 2" if nfig == 2 else ""
             parts = [{"label": "a", "text": res["text"], "marks": 2, "space": "working", "lines": 4},
-                     {"label": "b", "text": f"With reference to Extract A, analyse {a}.", "marks": 6, "lines": 12},
-                     {"label": "c", "text": f"Evaluate {j}. Use {ref}{other} and your own knowledge of economics to support your answer.", "marks": 12, "lines": 24}]
+                     {"label": "b", "text": f"With reference to Extract A, analyse {a}.", "marks": 6, "lines": 14},
+                     {"label": "c", "text": f"With reference to {ref}{other} and your knowledge of economics, evaluate {j}.", "marks": 12, "lines": 30}]
             lv = [levels("b", GRID6, ["AO2/AO3: " + p for p in apA], ao_split="AO2 3 marks, AO3 3 marks", credit_note=CREDIT),
                   levels("c", GRID12, ["AO2/AO3: " + p for p in proB] + ["AO4: " + p for p in conB]
                          + ["AO4: A supported judgement, for example stating what the outcome depends on or which argument is stronger and why."],

@@ -54,7 +54,7 @@ kb(STR, ["the life cycle of stars", "the Sun", "star colours", "supernovae", "th
        K("State what determines the colour of a star.", 1, ["its surface temperature"], "8.8", cmd="State"),
        K("State what is meant by *absolute magnitude*.", 1, ["the brightness of a star at a standard distance (10 parsecs)"], "8.11P", cmd="State"),
        K("Name the explosion that happens at the end of the life of a very massive star.", 1, ["supernova"], "8.10", cmd="Name"),
-       K("Name the **two** quantities plotted on the axes of a Hertzsprung-Russell diagram.", 2, ["absolute magnitude (or luminosity)", "surface temperature (or colour)"], "8.12P", cmd="Name"),
+       K("Name the **two** quantities plotted on the axes of a Hertzsprung-Russell diagram.", 2, ["absolute magnitude", "surface temperature (or colour)"], "8.12P", cmd="Name"),
        K("State the order of star colours from coolest to hottest.", 2, ["red, orange, yellow", "white, blue"], "8.7 8.8", cmd="State"),
    ],
    describe=[
@@ -74,7 +74,7 @@ kb(CO, ["the Big Bang", "red-shift", "the expanding universe", "cosmic microwave
    mcq=[
        M("Light from a distant galaxy is red-shifted. This means the galaxy is", ["moving away from us", "moving towards us", "stationary", "getting hotter"], "8.14P 8.15P"),
        M("Which observation is evidence for the Big Bang?", ["cosmic microwave background radiation", "the Sun's yellow colour", "the Moon's orbit", "comets"], "8.14P"),
-       M("More distant galaxies show", ["a greater red-shift", "a smaller red-shift", "a blue-shift", "no shift"], "8.17P"),
+       M("More distant galaxies show", ["a greater red-shift", "a smaller red-shift", "the same red-shift as nearer galaxies", "no shift"], "8.17P"),
        M("The equation linking red-shift and speed of a galaxy is", ["Δλ/λ0 = v/c", "v = fλ", "v = 2πr/T", "λ = c/f²"], "8.16P"),
        M("Red-shift causes the observed wavelength of light to", ["increase", "decrease", "stay the same", "become zero"], "8.15P"),
        M("The cosmic microwave background radiation is thought to be", ["radiation left over from the early universe", "radiation from the Sun", "microwaves from mobile phones", "light from nearby stars"], "8.14P", d="4-6"),
@@ -85,7 +85,7 @@ kb(CO, ["the Big Bang", "red-shift", "the expanding universe", "cosmic microwave
        K("State the equation linking change in wavelength, reference wavelength, speed of a galaxy and speed of light.", 1, ["Δλ ÷ λ0 = v ÷ c"], "8.16P", cmd="State"),
        K("State what the Big Bang theory says about the origin of the universe.", 2, ["the universe began from a very small, hot, dense point", "and has been expanding ever since"], "8.13P", cmd="State"),
        K("State how the red-shift of a galaxy is related to its distance.", 1, ["the more distant the galaxy, the greater the red-shift"], "8.17P", cmd="State"),
-       K("State what would happen to the wavelength of light from a galaxy moving towards us.", 1, ["it would decrease (blue-shift)"], "8.15P", cmd="State", d="4-6"),
+       K("State what would happen to the wavelength of light from a galaxy moving towards us.", 1, ["it would decrease"], "8.15P", cmd="State", d="4-6"),
    ],
    explain=[
        K("Explain how red-shift shows that the universe is expanding.", 3, ["light from almost all galaxies is red-shifted, so they are moving away", "more distant galaxies have greater red-shift", "so they move away faster, as expected if space is expanding"], "8.17P 8.18P", cmd="Explain", d="7-9"),
@@ -99,7 +99,7 @@ kb(CO, ["the Big Bang", "red-shift", "the expanding universe", "cosmic microwave
           "red-shift means galaxies are moving away", "greater distance gives greater red-shift", "so galaxies further away move faster: universe expanding", "running the expansion backwards gives a single starting point",
           "CMB radiation detected from all directions", "CMB is the cooled radiation from the early universe", "steady state theory cannot explain the CMB"], "8.13P 8.14P 8.17P 8.18P"),
        X("Explain how the Doppler effect applies to light from galaxies and what this tells us about the universe.",
-         ["a moving source changes the observed wavelength and frequency", "source moving away: wavelength increases (red-shift)", "moving towards: blue-shift", "absorption lines shift towards red end of spectrum",
+         ["a moving source changes the observed wavelength and frequency", "source moving away: wavelength increases (red-shift)", "source moving towards the observer: wavelength decreases", "absorption lines shift towards red end of spectrum",
           "Δλ/λ0 = v/c lets us calculate the speed", "almost all galaxies are red-shifted", "more distant galaxies have a larger red-shift", "universe is expanding", "evidence for the Big Bang"], "8.15P 8.16P 8.17P 8.18P"),
    ])
 
@@ -107,7 +107,7 @@ kb(CO, ["the Big Bang", "red-shift", "the expanding universe", "cosmic microwave
 # ====================================================================== universe: orbital speed / weight calcs
 
 ORB = [("the Earth", "Sun", 1.5e11, 365.25 * 24 * 3600, "1 year"), ("the Moon", "Earth", 3.84e8, 27.3 * 24 * 3600, "27.3 days"),
-       ("Mars", "Sun", 2.28e11, 687 * 24 * 3600, "687 days"), ("a geostationary satellite", "Earth", 4.2e7, 24 * 3600, "24 hours"),
+       ("Mars", "Sun", 2.28e11, 687 * 24 * 3600, "687 days"), ("a communications satellite", "Earth", 4.2e7, 24 * 3600, "24 hours"),
        ("the International Space Station", "Earth", 6.8e6, 92 * 60, "92 minutes"), ("Jupiter", "Sun", 7.8e11, 11.9 * 365.25 * 24 * 3600, "11.9 years"),
        ("a GPS satellite", "Earth", 2.66e7, 12 * 3600, "12 hours"), ("Io", "Jupiter", 4.22e8, 1.77 * 24 * 3600, "1.77 days")]
 

@@ -45,7 +45,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -101,7 +100,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -157,7 +155,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -213,7 +210,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -269,7 +265,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -325,7 +320,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -381,7 +375,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -437,7 +430,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -493,7 +485,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -585,7 +576,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -680,7 +670,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -775,7 +764,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -852,7 +840,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -946,7 +933,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-mcq-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -1005,7 +991,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1055,7 +1040,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1118,7 +1102,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1181,7 +1164,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1251,7 +1233,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1316,7 +1297,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1380,7 +1360,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1444,7 +1423,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1529,7 +1507,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1602,7 +1579,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1660,7 +1636,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1737,7 +1712,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1816,7 +1790,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1900,7 +1873,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-recall-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -1956,7 +1928,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2006,7 +1977,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2056,7 +2026,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2107,7 +2076,6 @@
    "AO3"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2163,7 +2131,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2245,7 +2212,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2323,7 +2289,6 @@
    "AO3"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2395,7 +2360,6 @@
    "AO3"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2497,7 +2461,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2575,7 +2538,6 @@
    "AO3"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2651,7 +2613,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2749,7 +2710,6 @@
    "AO3"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2825,7 +2785,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2920,7 +2879,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-describe-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -2970,7 +2928,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3020,7 +2977,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3070,7 +3026,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3120,7 +3075,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3170,7 +3124,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3240,7 +3193,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3310,7 +3262,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3400,7 +3351,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3470,7 +3420,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3559,7 +3508,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3649,7 +3597,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3738,7 +3685,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3808,7 +3754,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3898,7 +3843,6 @@
    "AO1"
   ],
   "template": "radioactivity-atoms-explain-kb",
-  "intro": "This question is about atoms and nuclear radiation.",
   "calculator": true
  },
  {
@@ -3948,7 +3892,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4004,7 +3947,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4060,7 +4002,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4116,7 +4057,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4172,7 +4112,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4228,7 +4167,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4284,7 +4222,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4340,7 +4277,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4415,7 +4351,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4490,7 +4425,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4585,7 +4519,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4662,7 +4595,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4759,7 +4691,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4855,7 +4786,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-mcq-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -4908,7 +4838,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -4958,7 +4887,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5002,7 +4930,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5046,7 +4973,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5105,7 +5031,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5164,7 +5089,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5229,7 +5153,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5307,7 +5230,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5365,7 +5287,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5443,7 +5364,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5515,7 +5435,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5588,7 +5507,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5646,7 +5564,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5724,7 +5641,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-recall-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5774,7 +5690,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5824,7 +5739,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5874,7 +5788,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5924,7 +5837,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -5974,7 +5886,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6024,7 +5935,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6093,7 +6003,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6163,7 +6072,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6233,7 +6141,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6323,7 +6230,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6413,7 +6319,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6483,7 +6388,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6573,7 +6477,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6663,7 +6566,6 @@
    "AO1"
   ],
   "template": "radioactivity-halflife-explain-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true
  },
  {
@@ -6709,7 +6611,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6763,7 +6664,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6831,7 +6731,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6899,7 +6798,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6965,7 +6863,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7031,7 +6928,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7099,7 +6995,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7172,7 +7067,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7246,7 +7140,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7313,7 +7206,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7379,7 +7271,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7447,7 +7338,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7514,7 +7404,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7582,7 +7471,6 @@
    "AO2"
   ],
   "template": "radioactivity-halflife-extended-kb",
-  "intro": "This question is about activity, half-life, uses and dangers.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7638,7 +7526,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7694,7 +7581,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7750,7 +7636,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7806,7 +7691,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7862,7 +7746,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7918,7 +7801,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7974,7 +7856,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8030,7 +7911,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8105,7 +7985,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8181,7 +8060,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8276,7 +8154,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8372,7 +8249,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8449,7 +8325,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8525,7 +8400,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-mcq-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8583,7 +8457,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -8641,7 +8514,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -8706,7 +8578,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -8765,7 +8636,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -8824,7 +8694,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -8883,7 +8752,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -8942,7 +8810,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9000,7 +8867,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9072,7 +8938,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9144,7 +9009,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9208,7 +9072,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9266,7 +9129,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9344,7 +9206,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9422,7 +9283,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-recall-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9478,7 +9338,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9528,7 +9387,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9584,7 +9442,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9636,7 +9493,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9707,7 +9563,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9804,7 +9659,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -9881,7 +9735,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "paper2_only": true
  },
@@ -9979,7 +9832,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10083,7 +9935,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10160,7 +10011,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -10242,7 +10092,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10319,7 +10168,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10397,7 +10245,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -10499,7 +10346,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-describe-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "paper2_only": true
  },
@@ -10550,7 +10396,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -10600,7 +10445,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -10651,7 +10495,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -10702,7 +10545,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -10752,7 +10594,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -10844,7 +10685,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -10935,7 +10775,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -11006,7 +10845,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -11096,7 +10934,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -11165,7 +11002,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -11236,7 +11072,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -11308,7 +11143,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -11397,7 +11231,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -11468,7 +11301,6 @@
    "AO1"
   ],
   "template": "radioactivity-nuclear-explain-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true
  },
  {
@@ -11517,7 +11349,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11572,7 +11403,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11641,7 +11471,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11711,7 +11540,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11792,7 +11620,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11860,7 +11687,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11930,7 +11756,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -11999,7 +11824,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -12069,7 +11893,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -12150,7 +11973,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -12220,7 +12042,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -12289,7 +12110,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -12364,7 +12184,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -12439,7 +12258,6 @@
    "AO2"
   ],
   "template": "radioactivity-nuclear-extended-kb",
-  "intro": "This question is about fission and fusion.",
   "calculator": true,
   "answer": {
    "method": "point list",

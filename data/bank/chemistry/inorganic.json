@@ -9295,54 +9295,6 @@
   "topic": "chemistry.inorganic",
   "subtopic": "chemistry.inorganic.group7",
   "qtype": "practical",
-  "command_word": "Suggest",
-  "marks": 2,
-  "difficulty": "7-9",
-  "minutes": 2.2,
-  "parts": [
-   {
-    "label": "",
-    "text": "Suggest why an organic solvent such as cyclohexane is sometimes shaken with the mixture after a halogen displacement reaction.",
-    "marks": 2,
-    "lines": 4
-   }
-  ],
-  "markscheme": {
-   "style": "points",
-   "rows": [
-    {
-     "part": "",
-     "answer": "M1 the halogen dissolves in the organic layer",
-     "marks": "1",
-     "ao": "AO3"
-    },
-    {
-     "part": "",
-     "answer": "M2 colours are clearer (bromine orange, iodine purple) so easier to identify",
-     "marks": "1",
-     "ao": "AO3"
-    }
-   ]
-  },
-  "ao": [
-   "AO3"
-  ],
-  "template": "group7-practical-items",
-  "calculator": true
- },
- {
-  "id": "chemistry.group7-practical-items.0004",
-  "subject": "chemistry",
-  "paper": [
-   "1C",
-   "2C"
-  ],
-  "spec_refs": [
-   "2.7"
-  ],
-  "topic": "chemistry.inorganic",
-  "subtopic": "chemistry.inorganic.group7",
-  "qtype": "practical",
   "command_word": "State",
   "marks": 2,
   "difficulty": "4-6",
@@ -9373,7 +9325,7 @@
   "calculator": true
  },
  {
-  "id": "chemistry.group7-practical-items.0005",
+  "id": "chemistry.group7-practical-items.0004",
   "subject": "chemistry",
   "paper": [
    "1C",
@@ -9421,7 +9373,7 @@
   "calculator": true
  },
  {
-  "id": "chemistry.group7-practical-items.0006",
+  "id": "chemistry.group7-practical-items.0005",
   "subject": "chemistry",
   "paper": [
    "1C",
@@ -9469,7 +9421,7 @@
   "calculator": true
  },
  {
-  "id": "chemistry.group7-practical-items.0007",
+  "id": "chemistry.group7-practical-items.0006",
   "subject": "chemistry",
   "paper": [
    "1C",
@@ -9517,7 +9469,7 @@
   "calculator": true
  },
  {
-  "id": "chemistry.group7-practical-items.0008",
+  "id": "chemistry.group7-practical-items.0007",
   "subject": "chemistry",
   "paper": [
    "1C",
@@ -9565,7 +9517,7 @@
   "calculator": true
  },
  {
-  "id": "chemistry.group7-practical-items.0009",
+  "id": "chemistry.group7-practical-items.0008",
   "subject": "chemistry",
   "paper": [
    "1C",
@@ -9613,7 +9565,7 @@
   "calculator": true
  },
  {
-  "id": "chemistry.group7-practical-items.0010",
+  "id": "chemistry.group7-practical-items.0009",
   "subject": "chemistry",
   "paper": [
    "1C",
@@ -9661,7 +9613,7 @@
   "calculator": true
  },
  {
-  "id": "chemistry.group7-practical-items.0011",
+  "id": "chemistry.group7-practical-items.0010",
   "subject": "chemistry",
   "paper": [
    "1C",
@@ -9709,7 +9661,7 @@
   "calculator": true
  },
  {
-  "id": "chemistry.group7-practical-items.0012",
+  "id": "chemistry.group7-practical-items.0011",
   "subject": "chemistry",
   "paper": [
    "1C",
@@ -9739,6 +9691,66 @@
     {
      "part": "",
      "answer": "M1 chlorine reacts with water (in light) / escapes as a gas",
+     "marks": "1",
+     "ao": "AO3"
+    }
+   ]
+  },
+  "ao": [
+   "AO3"
+  ],
+  "template": "group7-practical-items",
+  "calculator": true
+ },
+ {
+  "id": "chemistry.group7-practical-items.0012",
+  "subject": "chemistry",
+  "paper": [
+   "1C",
+   "2C"
+  ],
+  "spec_refs": [
+   "2.7"
+  ],
+  "topic": "chemistry.inorganic",
+  "subtopic": "chemistry.inorganic.group7",
+  "qtype": "practical",
+  "command_word": "Suggest",
+  "marks": 3,
+  "difficulty": "7-9",
+  "minutes": 3.3,
+  "parts": [
+   {
+    "label": "a",
+    "text": "Suggest why chlorine water stored in a clear bottle gradually loses its colour.",
+    "marks": 1,
+    "lines": 2
+   },
+   {
+    "label": "b",
+    "text": "Suggest why it can be hard to tell whether bromine water has reacted with potassium iodide solution, and how to make it clearer.",
+    "marks": 2,
+    "lines": 4
+   }
+  ],
+  "markscheme": {
+   "style": "points",
+   "rows": [
+    {
+     "part": "a",
+     "answer": "M1 chlorine reacts with water (in light) / escapes as a gas",
+     "marks": "1",
+     "ao": "AO3"
+    },
+    {
+     "part": "b",
+     "answer": "M1 orange bromine and brown iodine look similar",
+     "marks": "1",
+     "ao": "AO3"
+    },
+    {
+     "part": "b",
+     "answer": "M2 add starch (blue-black with iodine) / shake with organic solvent",
      "marks": "1",
      "ao": "AO3"
     }
@@ -23806,11 +23818,11 @@
   "parts": [
    {
     "label": "",
-    "text": "Which element is used to reduce iron(III) oxide in the blast furnace?",
+    "text": "Which element is used to extract iron from iron(III) oxide?",
     "marks": 1,
     "space": "mcq",
     "choices": [
-     "carbon (as carbon monoxide)",
+     "carbon",
      "aluminium",
      "hydrogen",
      "sodium"
@@ -23822,7 +23834,7 @@
    "rows": [
     {
      "part": "",
-     "answer": "A (carbon (as carbon monoxide))",
+     "answer": "A (carbon)",
      "marks": "1",
      "notes": "B, C, D incorrect",
      "ao": "AO1"
@@ -24559,7 +24571,7 @@
   "parts": [
    {
     "label": "",
-    "text": "Name the gas that reduces iron(III) oxide in the blast furnace.",
+    "text": "Name the element used to reduce iron(III) oxide when iron is extracted from its ore.",
     "marks": 1,
     "lines": 2
    }
@@ -24569,7 +24581,7 @@
    "rows": [
     {
      "part": "",
-     "answer": "carbon monoxide",
+     "answer": "carbon",
      "marks": "1",
      "ao": "AO1"
     }

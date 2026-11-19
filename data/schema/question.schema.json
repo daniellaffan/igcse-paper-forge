@@ -58,7 +58,8 @@
         "numbered": {"type": "boolean"},
         "lang": {"type": "string"},
         "transcript": {"type": "string"},
-        "voices": {"type": "array", "items": {"type": "string"}}
+        "voices": {"type": "array", "items": {"type": "string"}},
+        "inline": {"type": "boolean", "description": "print in the question paper even if long (not moved to the Insert)"}
       }
     },
     "part": {

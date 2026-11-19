@@ -97,7 +97,7 @@ kb(CI, ["series and parallel circuits", "electrical components", "sensors in cir
           "calculate R = V/I at several points"], "2.9 2.13", title="I-V investigation"),
        X("Explain how a light-dependent resistor and a thermistor could be used in a greenhouse control circuit to switch on lamps when it is dark and a heater when it is cold.",
          ["LDR resistance increases as light level falls", "thermistor resistance increases as temperature falls", "each sensor in series with a fixed resistor (potential divider idea)",
-          "the change in resistance changes the current or voltage", "this change can operate a switch / relay", "lamps switched on in the dark",
+          "the change in resistance changes the current or voltage", "this change can operate a switch", "lamps switched on in the dark",
           "heater switched on when cold", "lamp or LED could indicate the heater is on", "separate circuits/parallel so each works independently"], "2.11 2.10 2.12"),
        X("Compare series and parallel circuits, using lamps connected to a battery as an example.",
          ["series: one path for the current", "series: same current through every lamp", "series: voltage shared between lamps", "series: lamps dimmer as more are added (resistance increases)",

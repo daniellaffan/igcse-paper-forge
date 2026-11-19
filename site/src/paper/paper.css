@@ -193,3 +193,18 @@ table.data.wide th, table.data.wide td { padding: 0.6mm 0.3mm; overflow-wrap: an
 
 .either-or { font-family: Arial, sans-serif; font-weight: 700; font-size: 11pt; margin: 3mm 0 1mm; }
 .final-ans .suffix { margin-left: 2mm; white-space: nowrap; }
+
+/* Further Pure (4PM1): whole question at the top, then lines to the foot of the page */
+.fm-part .part-row { grid-template-columns: 8mm 1fr; }
+.fm-sub { margin-left: 8mm; }
+.fm-parts.single .part-row { grid-template-columns: 0 1fr; }
+.fm-marks { padding-top: 0; margin-top: -1mm; }
+.fm-cont { font-family: Arial, sans-serif; font-weight: 700; font-size: 10.5pt; }
+.fm-total { border-bottom: 0; }
+
+.graph-paper { display: block; margin: 4mm auto 2mm; background: #fff; }
+
+.choose-q { font-family: Arial, sans-serif; font-size: 10.5pt; margin: 6mm 0 2mm; padding-top: 3mm; border-top: 1px solid #000; }
+.choose-row { display: flex; gap: 12mm; margin: 3mm 0 1mm; font-weight: 700; }
+.choose-opt { display: inline-flex; align-items: center; gap: 2mm; }
+.x-box { vertical-align: middle; text-align: center; line-height: 5mm; font-size: 9pt; }

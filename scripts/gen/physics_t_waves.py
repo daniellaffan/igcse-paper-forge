@@ -21,7 +21,7 @@ kb(PR, ["waves on water", "waves on a rope", "describing waves", "the Doppler ef
        K("State the equation linking wave speed, frequency and wavelength.", 1, ["wave speed = frequency × wavelength | allow v = f × λ"], "3.5", cmd="State"),
        K("State what is meant by the *frequency* of a wave.", 1, ["number of waves passing a point per second | allow number of vibrations per second"], "3.3", cmd="State"),
        K("State what is meant by the *wavelength* of a wave.", 1, ["distance between two adjacent crests / compressions | allow distance between matching points on neighbouring waves"], "3.3", cmd="State"),
-       K("Give **one** example of a longitudinal wave and **one** example of a transverse wave.", 2, ["longitudinal: sound / ultrasound / P-wave", "transverse: light / any EM wave / water wave / wave on a string"], "3.2", cmd="Give"),
+       K("Give **one** example of a longitudinal wave and **one** example of a transverse wave.", 2, ["longitudinal: sound / ultrasound", "transverse: light / any EM wave / water wave / wave on a string"], "3.2", cmd="Give"),
        K("State the unit of frequency.", 1, ["hertz / Hz"], "3.1", cmd="State"),
        K("Name the effect that causes the pitch of a passing car's horn to change.", 1, ["Doppler effect"], "3.8", cmd="Name"),
        K("State **two** things that can happen to a wave when it meets a boundary between two materials.", 2, ["reflection", "refraction", "absorption | allow transmission"], "3.9", cmd="State"),
@@ -76,7 +76,7 @@ kb(EM, ["the electromagnetic spectrum", "uses of electromagnetic waves", "danger
           "reduce UV risk with sunscreen and sunglasses", "X-ray workers use lead aprons/screens and minimise exposure time", "gamma sources handled with tongs, stored in lead containers",
           "monitor dose with film badges"], "3.12 3.13"),
        X("Explain how different parts of the electromagnetic spectrum are used in communications and cooking, and why they are suitable.",
-         ["radio waves used for broadcasting TV/radio", "long wavelength radio waves can diffract around hills / reflect off ionosphere", "microwaves used for satellite and mobile phone communication",
+         ["radio waves used for broadcasting TV/radio", "radio waves can travel long distances through the atmosphere", "microwaves used for satellite and mobile phone communication",
           "microwaves pass through the atmosphere", "microwaves used in ovens", "absorbed by water molecules in food, heating it", "infrared used in grills and toasters",
           "infrared absorbed by food surface", "visible light/infrared in optical fibres carry data", "all travel at the speed of light so signals are fast"], "3.12 3.10"),
    ])
@@ -88,7 +88,7 @@ kb(LI, ["reflection of light", "refraction of light", "optical fibres", "total i
        M("The critical angle of a glass is 42°. A ray inside the glass hits the surface at 50°. What happens?", ["total internal reflection", "it refracts out along the surface", "it refracts out away from the normal", "it is absorbed"], "3.21", d="7-9"),
        M("A material has a refractive index of 1.5. What is its critical angle?", ["42°", "34°", "48°", "56°"], "3.22", ao="AO2", d="4-6"),
        M("Angles of incidence and refraction are always measured from", ["the normal", "the surface", "the incident ray", "the horizontal"], "3.15 3.16"),
-       M("Optical fibres carry signals using", ["total internal reflection", "diffraction", "refraction out of the fibre", "absorption"], "3.20"),
+       M("Optical fibres carry signals using", ["total internal reflection", "scattering", "refraction out of the fibre", "absorption"], "3.20"),
        M("Light is", ["a transverse wave", "a longitudinal wave", "a mechanical wave", "a stream of electrons"], "3.14"),
    ],
    recall=[
@@ -257,7 +257,7 @@ def em_c(r):
 
 @T(EM, "calc", 6, "em-time")
 def em_time(r):
-    ctx = pick(r, [("a geostationary satellite", 3.6e7), ("the Moon", 3.84e8), ("a GPS satellite", 2.0e7), ("a radar target aircraft", None), ("Mars at closest approach", 5.6e10)])
+    ctx = pick(r, [("a communications satellite", 3.6e7), ("the Moon", 3.84e8), ("a GPS satellite", 2.0e7), ("a radar target aircraft", None), ("Mars at closest approach", 5.6e10)])
     name, d = ctx
     if d is None:
         d = nice(r, 20, 150, 5) * 1000

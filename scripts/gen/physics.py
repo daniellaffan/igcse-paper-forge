@@ -88,6 +88,8 @@ def main():
 
     def add(q, sub, qtype, tname):
         check(q, tname)
+        if re.match(r"This question is about", q.get("intro") or ""):
+            q = {k: v for k, v in q.items() if k != "intro"}   # real 4PH1 papers don't open every question this way
         suffixes(q["parts"])
         sig = (sub, U.sigtext(q), json.dumps(q.get("answer", {}).get("values"), sort_keys=True))
         if sig in seen:

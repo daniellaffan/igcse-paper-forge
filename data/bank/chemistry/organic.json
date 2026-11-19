@@ -13054,7 +13054,7 @@
   "parts": [
    {
     "label": "",
-    "text": "Describe the result of adding bromine water to a sample of cyclohexane and of hex-1-ene. Explain the difference.",
+    "text": "Describe the result of adding bromine water to a sample of hexane and of hex-1-ene. Explain the difference.",
     "marks": 3,
     "lines": 6
    }
@@ -13064,7 +13064,7 @@
    "rows": [
     {
      "part": "",
-     "answer": "Description covering (one mark each)\nM1 cyclohexane: no change, stays orange",
+     "answer": "Description covering (one mark each)\nM1 hexane: no change, stays orange",
      "marks": "1",
      "ao": "AO1"
     },
@@ -13076,7 +13076,7 @@
     },
     {
      "part": "",
-     "answer": "M3 hex-1-ene is unsaturated (C=C); cyclohexane saturated",
+     "answer": "M3 hex-1-ene is unsaturated (C=C); hexane is saturated",
      "marks": "1",
      "ao": "AO1"
     }

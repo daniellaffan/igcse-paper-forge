@@ -46,7 +46,6 @@
    "AO1"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -102,7 +101,6 @@
    "AO2"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -158,7 +156,6 @@
    "AO1"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -214,7 +211,6 @@
    "AO1"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -270,7 +266,6 @@
    "AO1"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -326,7 +321,6 @@
    "AO1"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -382,7 +376,6 @@
    "AO1"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -438,7 +431,6 @@
    "AO2"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -532,7 +524,6 @@
    "AO1"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -610,7 +601,6 @@
    "AO2"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -685,7 +675,6 @@
    "AO2"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -781,7 +770,6 @@
    "AO2"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -878,7 +866,6 @@
    "AO2"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -975,7 +962,6 @@
    "AO2"
   ],
   "template": "energy-transfers-mcq-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -1029,7 +1015,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1073,7 +1058,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1132,7 +1116,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1191,7 +1174,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1249,7 +1231,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1307,7 +1288,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1381,7 +1361,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1454,7 +1433,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1526,7 +1504,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1598,7 +1575,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1657,7 +1633,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1730,7 +1705,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1789,7 +1763,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1848,7 +1821,6 @@
    "AO1"
   ],
   "template": "energy-transfers-recall-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1905,7 +1877,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -1956,7 +1927,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2006,7 +1976,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2056,7 +2025,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2106,7 +2074,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2163,7 +2130,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2259,7 +2225,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2354,7 +2319,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2425,7 +2389,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2494,7 +2457,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2564,7 +2526,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2659,7 +2620,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2735,7 +2695,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2831,7 +2790,6 @@
    "AO1"
   ],
   "template": "energy-transfers-describe-kb",
-  "intro": "This question is about energy stores, transfers and efficiency.",
   "calculator": true
  },
  {
@@ -2880,7 +2838,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -2936,7 +2893,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -2993,7 +2949,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3049,7 +3004,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3105,7 +3059,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3161,7 +3114,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3217,7 +3169,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3291,7 +3242,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3366,7 +3316,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3460,7 +3409,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3537,7 +3485,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3613,7 +3560,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3708,7 +3654,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3785,7 +3730,6 @@
    "AO1"
   ],
   "template": "energy-thermal-mcq-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -3844,7 +3788,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -3888,7 +3831,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -3953,7 +3895,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4018,7 +3959,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4072,7 +4012,7 @@
     },
     {
      "part": "(b)",
-     "answer": "free/delocalised electrons transfer energy quickly;",
+     "answer": "free electrons transfer energy quickly;",
      "marks": "1",
      "notes": "allow particles close together",
      "ao": "AO1"
@@ -4083,7 +4023,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4148,7 +4087,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4212,7 +4150,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4273,7 +4210,7 @@
     },
     {
      "part": "(b)",
-     "answer": "free/delocalised electrons transfer energy quickly;",
+     "answer": "free electrons transfer energy quickly;",
      "marks": "1",
      "notes": "allow particles close together",
      "ao": "AO1"
@@ -4290,7 +4227,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4345,7 +4281,7 @@
     },
     {
      "part": "(b)",
-     "answer": "free/delocalised electrons transfer energy quickly;",
+     "answer": "free electrons transfer energy quickly;",
      "marks": "1",
      "notes": "allow particles close together",
      "ao": "AO1"
@@ -4362,7 +4298,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4417,7 +4352,7 @@
     },
     {
      "part": "(b)",
-     "answer": "free/delocalised electrons transfer energy quickly;",
+     "answer": "free electrons transfer energy quickly;",
      "marks": "1",
      "notes": "allow particles close together",
      "ao": "AO1"
@@ -4435,7 +4370,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4476,7 +4410,7 @@
    "rows": [
     {
      "part": "(a)",
-     "answer": "free/delocalised electrons transfer energy quickly;",
+     "answer": "free electrons transfer energy quickly;",
      "marks": "1",
      "notes": "allow particles close together",
      "ao": "AO1"
@@ -4493,7 +4427,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4552,7 +4485,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4600,7 +4532,7 @@
    "rows": [
     {
      "part": "(a)",
-     "answer": "free/delocalised electrons transfer energy quickly;",
+     "answer": "free electrons transfer energy quickly;",
      "marks": "1",
      "notes": "allow particles close together",
      "ao": "AO1"
@@ -4624,7 +4556,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4665,7 +4596,7 @@
    "rows": [
     {
      "part": "(a)",
-     "answer": "free/delocalised electrons transfer energy quickly;",
+     "answer": "free electrons transfer energy quickly;",
      "marks": "1",
      "notes": "allow particles close together",
      "ao": "AO1"
@@ -4683,7 +4614,6 @@
    "AO1"
   ],
   "template": "energy-thermal-recall-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4739,7 +4669,6 @@
    "AO1"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4795,7 +4724,6 @@
    "AO1"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4851,7 +4779,6 @@
    "AO1"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4908,7 +4835,6 @@
    "AO3"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -4990,7 +4916,6 @@
    "AO1"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5100,7 +5025,6 @@
    "AO3"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5207,7 +5131,6 @@
    "AO1"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5288,7 +5211,6 @@
    "AO1"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5398,7 +5320,6 @@
    "AO3"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5507,7 +5428,6 @@
    "AO3"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5591,7 +5511,6 @@
    "AO3"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5675,7 +5594,6 @@
    "AO3"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5757,7 +5675,6 @@
    "AO1"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5841,7 +5758,6 @@
    "AO3"
   ],
   "template": "energy-thermal-describe-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5892,7 +5808,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5942,7 +5857,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -5992,7 +5906,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6043,7 +5956,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6093,7 +6005,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6143,7 +6054,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6233,7 +6143,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6304,7 +6213,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6395,7 +6303,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6466,7 +6373,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6556,7 +6462,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6627,7 +6532,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6716,7 +6620,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6786,7 +6689,6 @@
    "AO1"
   ],
   "template": "energy-thermal-explain-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true
  },
  {
@@ -6833,7 +6735,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6886,7 +6787,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -6966,7 +6866,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7039,7 +6938,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7105,7 +7003,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7185,7 +7082,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7263,7 +7159,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7330,7 +7225,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7397,7 +7291,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7476,7 +7369,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7543,7 +7435,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7623,7 +7514,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7689,7 +7579,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7768,7 +7657,6 @@
    "AO2"
   ],
   "template": "energy-thermal-extended-kb",
-  "intro": "This question is about thermal energy transfer.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -7825,7 +7713,6 @@
    "AO1"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7881,7 +7768,6 @@
    "AO2"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7937,7 +7823,6 @@
    "AO2"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -7993,7 +7878,6 @@
    "AO2"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8049,7 +7933,6 @@
    "AO1"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8105,7 +7988,6 @@
    "AO1"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8161,7 +8043,6 @@
    "AO1"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8236,7 +8117,6 @@
    "AO2"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8332,7 +8212,6 @@
    "AO2"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8429,7 +8308,6 @@
    "AO2"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8507,7 +8385,6 @@
    "AO2"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8603,7 +8480,6 @@
    "AO2"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8699,7 +8575,6 @@
    "AO2"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8795,7 +8670,6 @@
    "AO1"
   ],
   "template": "energy-work-mcq-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -8863,7 +8737,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -8922,7 +8795,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -8981,7 +8853,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9040,7 +8911,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9101,7 +8971,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9159,7 +9028,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9217,7 +9085,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9275,7 +9142,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9348,7 +9214,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9421,7 +9286,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9495,7 +9359,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9567,7 +9430,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9641,7 +9503,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9714,7 +9575,6 @@
    "AO1"
   ],
   "template": "energy-work-recall-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9765,7 +9625,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9815,7 +9674,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9866,7 +9724,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9923,7 +9780,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -9973,7 +9829,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10071,7 +9926,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10162,7 +10016,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10240,7 +10093,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10336,7 +10188,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10407,7 +10258,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10499,7 +10349,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10570,7 +10419,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10669,7 +10517,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10747,7 +10594,6 @@
    "AO1"
   ],
   "template": "energy-work-explain-kb",
-  "intro": "This question is about work, energy and power.",
   "calculator": true
  },
  {
@@ -10795,7 +10641,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10851,7 +10696,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10907,7 +10751,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -10963,7 +10806,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11019,7 +10861,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11075,7 +10916,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11131,7 +10971,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11224,7 +11063,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11318,7 +11156,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11412,7 +11249,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11507,7 +11343,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11602,7 +11437,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11697,7 +11531,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11774,7 +11607,6 @@
    "AO1"
   ],
   "template": "energy-resources-mcq-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "fixed key",
@@ -11826,7 +11658,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -11870,7 +11701,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -11927,7 +11757,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -11984,7 +11813,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12042,7 +11870,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12100,7 +11927,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12172,7 +11998,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12230,7 +12055,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12302,7 +12126,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12373,7 +12196,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12444,7 +12266,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12516,7 +12337,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12589,7 +12409,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12660,7 +12479,6 @@
    "AO1"
   ],
   "template": "energy-resources-recall-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12716,7 +12534,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12766,7 +12583,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12822,7 +12638,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12872,7 +12687,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -12966,7 +12780,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13060,7 +12873,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13135,7 +12947,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13210,7 +13021,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13279,7 +13089,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13379,7 +13188,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13460,7 +13268,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13535,7 +13342,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13635,7 +13441,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13710,7 +13515,6 @@
    "AO1"
   ],
   "template": "energy-resources-describe-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13760,7 +13564,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13810,7 +13613,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13860,7 +13662,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13910,7 +13711,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -13960,7 +13760,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14029,7 +13828,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14117,7 +13915,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14205,7 +14002,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14293,7 +14089,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14362,7 +14157,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14450,7 +14244,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14538,7 +14331,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14607,7 +14399,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14676,7 +14467,6 @@
    "AO1"
   ],
   "template": "energy-resources-explain-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "paper2_only": true
  },
@@ -14722,7 +14512,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -14775,7 +14564,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -14842,7 +14630,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -14908,7 +14695,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -14986,7 +14772,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15052,7 +14837,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15119,7 +14903,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15185,7 +14968,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15257,7 +15039,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15324,7 +15105,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15402,7 +15182,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15474,7 +15253,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15540,7 +15318,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",
@@ -15618,7 +15395,6 @@
    "AO2"
   ],
   "template": "energy-resources-extended-kb",
-  "intro": "This question is about energy resources and electricity generation.",
   "calculator": true,
   "answer": {
    "method": "point list",

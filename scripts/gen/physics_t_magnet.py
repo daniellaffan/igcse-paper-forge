@@ -20,7 +20,7 @@ kb(MG, ["bar magnets", "magnetic materials", "compasses", "magnetic fields", "un
        K("State the difference between a hard and a soft magnetic material.", 2, ["hard: keeps its magnetism (hard to magnetise/demagnetise)", "soft: loses its magnetism easily"], "6.3", cmd="State"),
        K("State what is shown by the direction of a magnetic field line.", 1, ["direction of the force on a north pole"], "6.4", cmd="State", d="4-6"),
        K("State how a uniform field is shown by field lines.", 1, ["parallel, equally spaced lines"], "6.7", cmd="State"),
-       K("Give **one** use of a soft magnetic material.", 1, ["electromagnet core / transformer core / relay"], "6.3", cmd="Give"),
+       K("Give **one** use of a soft magnetic material.", 1, ["electromagnet core / transformer core"], "6.3", cmd="Give"),
    ],
    describe=[
        K("Describe how to test whether a metal bar is a permanent magnet.", 2, ["bring each end towards a pole of a known magnet", "only a magnet can repel"], "6.2", cmd="Describe", d="4-6", ao="AO3"),
@@ -124,7 +124,7 @@ kb(TF, ["transformers", "the National Grid", "phone chargers", "power transmissi
        K("State the equation linking the voltages and numbers of turns of a transformer.", 1, ["Vp ÷ Vs = Np ÷ Ns"], "6.19P", cmd="State"),
        K("State the equation for the input and output power of a 100% efficient transformer.", 1, ["Vp × Ip = Vs × Is"], "6.20P", cmd="State"),
        K("State where step-down transformers are used in the transmission of electricity.", 1, ["near homes / factories / at substations"], "6.18P", cmd="State"),
-       K("Describe the structure of a transformer.", 2, ["two coils of insulated wire", "wound on a (laminated soft) iron core"], "6.17P", cmd="Describe"),
+       K("Describe the structure of a transformer.", 2, ["two coils of insulated wire", "wound on a (soft) iron core"], "6.17P", cmd="Describe"),
        K("State why the core of a transformer is made from soft iron.", 1, ["easily magnetised and demagnetised as the current alternates"], "6.17P 6.3", cmd="State", d="4-6"),
    ],
    explain=[
